@@ -1,0 +1,1311 @@
+Driver,Team,LapNumber,LapTime,Compound,TyreLife,Stint,Position,LapTimeSeconds,Season,GrandPrix
+VER,Red Bull Racing,1.0,0 days 00:01:31.585000,SOFT,1.0,1.0,1.0,91.585,2023,Netherlands
+VER,Red Bull Racing,2.0,0 days 00:01:49.972000,SOFT,2.0,1.0,2.0,109.972,2023,Netherlands
+VER,Red Bull Racing,3.0,0 days 00:01:48.658000,INTERMEDIATE,1.0,2.0,5.0,108.658,2023,Netherlands
+VER,Red Bull Racing,4.0,0 days 00:01:25.251000,INTERMEDIATE,2.0,2.0,4.0,85.251,2023,Netherlands
+VER,Red Bull Racing,5.0,0 days 00:01:23.461000,INTERMEDIATE,3.0,2.0,4.0,83.461,2023,Netherlands
+VER,Red Bull Racing,6.0,0 days 00:01:22.503000,INTERMEDIATE,4.0,2.0,3.0,82.503,2023,Netherlands
+VER,Red Bull Racing,7.0,0 days 00:01:22.116000,INTERMEDIATE,5.0,2.0,2.0,82.116,2023,Netherlands
+VER,Red Bull Racing,8.0,0 days 00:01:23.232000,INTERMEDIATE,6.0,2.0,2.0,83.232,2023,Netherlands
+VER,Red Bull Racing,9.0,0 days 00:01:23.313000,INTERMEDIATE,7.0,2.0,2.0,83.313,2023,Netherlands
+VER,Red Bull Racing,10.0,0 days 00:01:23.698000,INTERMEDIATE,8.0,2.0,2.0,83.698,2023,Netherlands
+VER,Red Bull Racing,11.0,0 days 00:01:27.017000,INTERMEDIATE,9.0,2.0,2.0,87.017,2023,Netherlands
+VER,Red Bull Racing,12.0,0 days 00:01:38.034000,SOFT,1.0,3.0,2.0,98.034,2023,Netherlands
+VER,Red Bull Racing,13.0,0 days 00:01:18.775000,SOFT,2.0,3.0,1.0,78.775,2023,Netherlands
+VER,Red Bull Racing,14.0,0 days 00:01:17.550000,SOFT,3.0,3.0,1.0,77.55,2023,Netherlands
+VER,Red Bull Racing,15.0,0 days 00:01:16.930000,SOFT,4.0,3.0,1.0,76.93,2023,Netherlands
+VER,Red Bull Racing,16.0,0 days 00:01:26.915000,SOFT,5.0,3.0,1.0,86.915,2023,Netherlands
+VER,Red Bull Racing,17.0,0 days 00:02:02.217000,SOFT,6.0,3.0,1.0,122.217,2023,Netherlands
+VER,Red Bull Racing,18.0,0 days 00:02:08.315000,SOFT,7.0,3.0,1.0,128.315,2023,Netherlands
+VER,Red Bull Racing,19.0,0 days 00:01:59.845000,SOFT,8.0,3.0,1.0,119.845,2023,Netherlands
+VER,Red Bull Racing,20.0,0 days 00:01:55.257000,SOFT,9.0,3.0,1.0,115.257,2023,Netherlands
+VER,Red Bull Racing,21.0,0 days 00:02:07.622000,SOFT,10.0,3.0,1.0,127.622,2023,Netherlands
+VER,Red Bull Racing,22.0,0 days 00:01:16.305000,SOFT,11.0,3.0,1.0,76.305,2023,Netherlands
+VER,Red Bull Racing,23.0,0 days 00:01:16.085000,SOFT,12.0,3.0,1.0,76.085,2023,Netherlands
+VER,Red Bull Racing,24.0,0 days 00:01:15.783000,SOFT,13.0,3.0,1.0,75.783,2023,Netherlands
+VER,Red Bull Racing,25.0,0 days 00:01:15.664000,SOFT,14.0,3.0,1.0,75.664,2023,Netherlands
+VER,Red Bull Racing,26.0,0 days 00:01:15.659000,SOFT,15.0,3.0,1.0,75.659,2023,Netherlands
+VER,Red Bull Racing,27.0,0 days 00:01:15.681000,SOFT,16.0,3.0,1.0,75.681,2023,Netherlands
+VER,Red Bull Racing,28.0,0 days 00:01:15.499000,SOFT,17.0,3.0,1.0,75.499,2023,Netherlands
+VER,Red Bull Racing,29.0,0 days 00:01:15.374000,SOFT,18.0,3.0,1.0,75.374,2023,Netherlands
+VER,Red Bull Racing,30.0,0 days 00:01:15.510000,SOFT,19.0,3.0,1.0,75.51,2023,Netherlands
+VER,Red Bull Racing,31.0,0 days 00:01:15.561000,SOFT,20.0,3.0,1.0,75.561,2023,Netherlands
+VER,Red Bull Racing,32.0,0 days 00:01:15.414000,SOFT,21.0,3.0,1.0,75.414,2023,Netherlands
+VER,Red Bull Racing,33.0,0 days 00:01:15.342000,SOFT,22.0,3.0,1.0,75.342,2023,Netherlands
+VER,Red Bull Racing,34.0,0 days 00:01:15.272000,SOFT,23.0,3.0,1.0,75.272,2023,Netherlands
+VER,Red Bull Racing,35.0,0 days 00:01:15.275000,SOFT,24.0,3.0,1.0,75.275,2023,Netherlands
+VER,Red Bull Racing,36.0,0 days 00:01:15.221000,SOFT,25.0,3.0,1.0,75.221,2023,Netherlands
+VER,Red Bull Racing,37.0,0 days 00:01:15.167000,SOFT,26.0,3.0,1.0,75.167,2023,Netherlands
+VER,Red Bull Racing,38.0,0 days 00:01:15.071000,SOFT,27.0,3.0,1.0,75.071,2023,Netherlands
+VER,Red Bull Racing,39.0,0 days 00:01:15.193000,SOFT,28.0,3.0,1.0,75.193,2023,Netherlands
+VER,Red Bull Racing,40.0,0 days 00:01:15.132000,SOFT,29.0,3.0,1.0,75.132,2023,Netherlands
+VER,Red Bull Racing,41.0,0 days 00:01:15.306000,SOFT,30.0,3.0,1.0,75.306,2023,Netherlands
+VER,Red Bull Racing,42.0,0 days 00:01:15.333000,SOFT,31.0,3.0,1.0,75.333,2023,Netherlands
+VER,Red Bull Racing,43.0,0 days 00:01:15.366000,SOFT,32.0,3.0,1.0,75.366,2023,Netherlands
+VER,Red Bull Racing,44.0,0 days 00:01:15.593000,SOFT,33.0,3.0,1.0,75.593,2023,Netherlands
+VER,Red Bull Racing,45.0,0 days 00:01:15.559000,SOFT,34.0,3.0,1.0,75.559,2023,Netherlands
+VER,Red Bull Racing,46.0,0 days 00:01:15.510000,SOFT,35.0,3.0,1.0,75.51,2023,Netherlands
+VER,Red Bull Racing,47.0,0 days 00:01:15.575000,SOFT,36.0,3.0,1.0,75.575,2023,Netherlands
+VER,Red Bull Racing,48.0,0 days 00:01:15.408000,SOFT,37.0,3.0,1.0,75.408,2023,Netherlands
+VER,Red Bull Racing,49.0,0 days 00:01:18.531000,SOFT,38.0,3.0,1.0,78.531,2023,Netherlands
+VER,Red Bull Racing,50.0,0 days 00:01:32.004000,SOFT,2.0,4.0,1.0,92.004,2023,Netherlands
+VER,Red Bull Racing,51.0,0 days 00:01:13.941000,SOFT,3.0,4.0,1.0,73.941,2023,Netherlands
+VER,Red Bull Racing,52.0,0 days 00:01:14.282000,SOFT,4.0,4.0,1.0,74.282,2023,Netherlands
+VER,Red Bull Racing,53.0,0 days 00:01:14.272000,SOFT,5.0,4.0,1.0,74.272,2023,Netherlands
+VER,Red Bull Racing,54.0,0 days 00:01:14.256000,SOFT,6.0,4.0,1.0,74.256,2023,Netherlands
+VER,Red Bull Racing,55.0,0 days 00:01:14.415000,SOFT,7.0,4.0,1.0,74.415,2023,Netherlands
+VER,Red Bull Racing,56.0,0 days 00:01:14.410000,SOFT,8.0,4.0,1.0,74.41,2023,Netherlands
+VER,Red Bull Racing,57.0,0 days 00:01:14.096000,SOFT,9.0,4.0,1.0,74.096,2023,Netherlands
+VER,Red Bull Racing,58.0,0 days 00:01:13.889000,SOFT,10.0,4.0,1.0,73.889,2023,Netherlands
+VER,Red Bull Racing,59.0,0 days 00:01:13.943000,SOFT,11.0,4.0,1.0,73.943,2023,Netherlands
+VER,Red Bull Racing,60.0,0 days 00:01:14.502000,SOFT,12.0,4.0,1.0,74.502,2023,Netherlands
+VER,Red Bull Racing,61.0,0 days 00:01:24.682000,SOFT,13.0,4.0,1.0,84.682,2023,Netherlands
+VER,Red Bull Racing,62.0,0 days 00:01:42.950000,INTERMEDIATE,13.0,5.0,1.0,102.95,2023,Netherlands
+VER,Red Bull Racing,63.0,0 days 00:01:32.568000,INTERMEDIATE,14.0,5.0,1.0,92.568,2023,Netherlands
+VER,Red Bull Racing,64.0,0 days 00:02:25.016000,WET,1.0,6.0,1.0,145.016,2023,Netherlands
+VER,Red Bull Racing,66.0,0 days 00:02:18.023000,INTERMEDIATE,6.0,7.0,1.0,138.023,2023,Netherlands
+VER,Red Bull Racing,67.0,0 days 00:01:25.536000,INTERMEDIATE,7.0,7.0,1.0,85.536,2023,Netherlands
+VER,Red Bull Racing,68.0,0 days 00:01:22.867000,INTERMEDIATE,8.0,7.0,1.0,82.867,2023,Netherlands
+VER,Red Bull Racing,69.0,0 days 00:01:21.759000,INTERMEDIATE,9.0,7.0,1.0,81.759,2023,Netherlands
+VER,Red Bull Racing,70.0,0 days 00:01:20.865000,INTERMEDIATE,10.0,7.0,1.0,80.865,2023,Netherlands
+VER,Red Bull Racing,71.0,0 days 00:01:21.024000,INTERMEDIATE,11.0,7.0,1.0,81.024,2023,Netherlands
+VER,Red Bull Racing,72.0,0 days 00:01:20.915000,INTERMEDIATE,12.0,7.0,1.0,80.915,2023,Netherlands
+GAS,Alpine,1.0,0 days 00:01:43.893000,SOFT,1.0,1.0,16.0,103.893,2023,Netherlands
+GAS,Alpine,2.0,0 days 00:01:54.457000,INTERMEDIATE,7.0,2.0,16.0,114.457,2023,Netherlands
+GAS,Alpine,3.0,0 days 00:01:31.466000,INTERMEDIATE,8.0,2.0,4.0,91.466,2023,Netherlands
+GAS,Alpine,4.0,0 days 00:01:25.008000,INTERMEDIATE,9.0,2.0,3.0,85.008,2023,Netherlands
+GAS,Alpine,5.0,0 days 00:01:23.834000,INTERMEDIATE,10.0,2.0,3.0,83.834,2023,Netherlands
+GAS,Alpine,6.0,0 days 00:01:24.920000,INTERMEDIATE,11.0,2.0,4.0,84.92,2023,Netherlands
+GAS,Alpine,7.0,0 days 00:01:23.890000,INTERMEDIATE,12.0,2.0,4.0,83.89,2023,Netherlands
+GAS,Alpine,8.0,0 days 00:01:24.345000,INTERMEDIATE,13.0,2.0,4.0,84.345,2023,Netherlands
+GAS,Alpine,9.0,0 days 00:01:25.018000,INTERMEDIATE,14.0,2.0,4.0,85.018,2023,Netherlands
+GAS,Alpine,10.0,0 days 00:01:25.224000,INTERMEDIATE,15.0,2.0,3.0,85.224,2023,Netherlands
+GAS,Alpine,11.0,0 days 00:01:28.328000,INTERMEDIATE,16.0,2.0,3.0,88.328,2023,Netherlands
+GAS,Alpine,12.0,0 days 00:01:38.136000,SOFT,1.0,3.0,4.0,98.136,2023,Netherlands
+GAS,Alpine,13.0,0 days 00:01:17.151000,SOFT,2.0,3.0,4.0,77.151,2023,Netherlands
+GAS,Alpine,14.0,0 days 00:01:17.201000,SOFT,3.0,3.0,4.0,77.201,2023,Netherlands
+GAS,Alpine,15.0,0 days 00:01:16.987000,SOFT,4.0,3.0,4.0,76.987,2023,Netherlands
+GAS,Alpine,16.0,0 days 00:01:26.577000,SOFT,5.0,3.0,4.0,86.577,2023,Netherlands
+GAS,Alpine,17.0,0 days 00:01:59.394000,SOFT,6.0,3.0,4.0,119.394,2023,Netherlands
+GAS,Alpine,18.0,0 days 00:02:07.780000,SOFT,7.0,3.0,4.0,127.78,2023,Netherlands
+GAS,Alpine,19.0,0 days 00:01:59.677000,SOFT,8.0,3.0,4.0,119.677,2023,Netherlands
+GAS,Alpine,20.0,0 days 00:01:55.729000,SOFT,9.0,3.0,4.0,115.729,2023,Netherlands
+GAS,Alpine,21.0,0 days 00:02:04.461000,SOFT,10.0,3.0,4.0,124.461,2023,Netherlands
+GAS,Alpine,22.0,0 days 00:01:17.477000,SOFT,11.0,3.0,4.0,77.477,2023,Netherlands
+GAS,Alpine,23.0,0 days 00:01:16.854000,SOFT,12.0,3.0,4.0,76.854,2023,Netherlands
+GAS,Alpine,24.0,0 days 00:01:16.266000,SOFT,13.0,3.0,4.0,76.266,2023,Netherlands
+GAS,Alpine,25.0,0 days 00:01:16.377000,SOFT,14.0,3.0,4.0,76.377,2023,Netherlands
+GAS,Alpine,26.0,0 days 00:01:16.380000,SOFT,15.0,3.0,4.0,76.38,2023,Netherlands
+GAS,Alpine,27.0,0 days 00:01:16.388000,SOFT,16.0,3.0,4.0,76.388,2023,Netherlands
+GAS,Alpine,28.0,0 days 00:01:15.901000,SOFT,17.0,3.0,4.0,75.901,2023,Netherlands
+GAS,Alpine,29.0,0 days 00:01:16.087000,SOFT,18.0,3.0,4.0,76.087,2023,Netherlands
+GAS,Alpine,30.0,0 days 00:01:16.095000,SOFT,19.0,3.0,4.0,76.095,2023,Netherlands
+GAS,Alpine,31.0,0 days 00:01:16.068000,SOFT,20.0,3.0,4.0,76.068,2023,Netherlands
+GAS,Alpine,32.0,0 days 00:01:16.366000,SOFT,21.0,3.0,4.0,76.366,2023,Netherlands
+GAS,Alpine,33.0,0 days 00:01:15.972000,SOFT,22.0,3.0,4.0,75.972,2023,Netherlands
+GAS,Alpine,34.0,0 days 00:01:16.059000,SOFT,23.0,3.0,4.0,76.059,2023,Netherlands
+GAS,Alpine,35.0,0 days 00:01:15.830000,SOFT,24.0,3.0,4.0,75.83,2023,Netherlands
+GAS,Alpine,36.0,0 days 00:01:15.835000,SOFT,25.0,3.0,4.0,75.835,2023,Netherlands
+GAS,Alpine,37.0,0 days 00:01:15.862000,SOFT,26.0,3.0,4.0,75.862,2023,Netherlands
+GAS,Alpine,38.0,0 days 00:01:15.626000,SOFT,27.0,3.0,4.0,75.626,2023,Netherlands
+GAS,Alpine,39.0,0 days 00:01:15.640000,SOFT,28.0,3.0,4.0,75.64,2023,Netherlands
+GAS,Alpine,40.0,0 days 00:01:15.654000,SOFT,29.0,3.0,4.0,75.654,2023,Netherlands
+GAS,Alpine,41.0,0 days 00:01:15.762000,SOFT,30.0,3.0,4.0,75.762,2023,Netherlands
+GAS,Alpine,42.0,0 days 00:01:15.804000,SOFT,31.0,3.0,4.0,75.804,2023,Netherlands
+GAS,Alpine,43.0,0 days 00:01:15.632000,SOFT,32.0,3.0,4.0,75.632,2023,Netherlands
+GAS,Alpine,44.0,0 days 00:01:15.749000,SOFT,33.0,3.0,4.0,75.749,2023,Netherlands
+GAS,Alpine,45.0,0 days 00:01:15.758000,SOFT,34.0,3.0,4.0,75.758,2023,Netherlands
+GAS,Alpine,46.0,0 days 00:01:19.173000,SOFT,35.0,3.0,3.0,79.173,2023,Netherlands
+GAS,Alpine,47.0,0 days 00:01:39.375000,SOFT,1.0,4.0,6.0,99.375,2023,Netherlands
+GAS,Alpine,48.0,0 days 00:01:15.248000,SOFT,2.0,4.0,6.0,75.248,2023,Netherlands
+GAS,Alpine,49.0,0 days 00:01:14.509000,SOFT,3.0,4.0,6.0,74.509,2023,Netherlands
+GAS,Alpine,50.0,0 days 00:01:15.878000,SOFT,4.0,4.0,5.0,75.878,2023,Netherlands
+GAS,Alpine,51.0,0 days 00:01:15.014000,SOFT,5.0,4.0,5.0,75.014,2023,Netherlands
+GAS,Alpine,52.0,0 days 00:01:15.059000,SOFT,6.0,4.0,5.0,75.059,2023,Netherlands
+GAS,Alpine,53.0,0 days 00:01:14.836000,SOFT,7.0,4.0,5.0,74.836,2023,Netherlands
+GAS,Alpine,54.0,0 days 00:01:14.675000,SOFT,8.0,4.0,5.0,74.675,2023,Netherlands
+GAS,Alpine,55.0,0 days 00:01:14.441000,SOFT,9.0,4.0,5.0,74.441,2023,Netherlands
+GAS,Alpine,56.0,0 days 00:01:14.925000,SOFT,10.0,4.0,5.0,74.925,2023,Netherlands
+GAS,Alpine,57.0,0 days 00:01:15.081000,SOFT,11.0,4.0,5.0,75.081,2023,Netherlands
+GAS,Alpine,58.0,0 days 00:01:15.486000,SOFT,12.0,4.0,5.0,75.486,2023,Netherlands
+GAS,Alpine,59.0,0 days 00:01:14.991000,SOFT,13.0,4.0,5.0,74.991,2023,Netherlands
+GAS,Alpine,60.0,0 days 00:01:20.355000,SOFT,14.0,4.0,4.0,80.355,2023,Netherlands
+GAS,Alpine,61.0,0 days 00:01:40.395000,INTERMEDIATE,1.0,5.0,5.0,100.395,2023,Netherlands
+GAS,Alpine,62.0,0 days 00:01:22.681000,INTERMEDIATE,2.0,5.0,4.0,82.681,2023,Netherlands
+GAS,Alpine,63.0,0 days 00:01:38.918000,INTERMEDIATE,3.0,5.0,3.0,98.918,2023,Netherlands
+GAS,Alpine,66.0,0 days 00:02:16.096000,INTERMEDIATE,6.0,6.0,4.0,136.096,2023,Netherlands
+GAS,Alpine,67.0,0 days 00:01:27.581000,INTERMEDIATE,7.0,6.0,4.0,87.581,2023,Netherlands
+GAS,Alpine,68.0,0 days 00:01:23.577000,INTERMEDIATE,8.0,6.0,4.0,83.577,2023,Netherlands
+GAS,Alpine,69.0,0 days 00:01:21.892000,INTERMEDIATE,9.0,6.0,4.0,81.892,2023,Netherlands
+GAS,Alpine,70.0,0 days 00:01:22.024000,INTERMEDIATE,10.0,6.0,4.0,82.024,2023,Netherlands
+GAS,Alpine,71.0,0 days 00:01:21.517000,INTERMEDIATE,11.0,6.0,4.0,81.517,2023,Netherlands
+GAS,Alpine,72.0,0 days 00:01:21.606000,INTERMEDIATE,12.0,6.0,4.0,81.606,2023,Netherlands
+PER,Red Bull Racing,1.0,0 days 00:01:39.743000,SOFT,1.0,1.0,13.0,99.743,2023,Netherlands
+PER,Red Bull Racing,2.0,0 days 00:01:49.613000,INTERMEDIATE,1.0,2.0,11.0,109.613,2023,Netherlands
+PER,Red Bull Racing,3.0,0 days 00:01:27.522000,INTERMEDIATE,2.0,2.0,1.0,87.522,2023,Netherlands
+PER,Red Bull Racing,4.0,0 days 00:01:24.342000,INTERMEDIATE,3.0,2.0,1.0,84.342,2023,Netherlands
+PER,Red Bull Racing,5.0,0 days 00:01:24.100000,INTERMEDIATE,4.0,2.0,1.0,84.1,2023,Netherlands
+PER,Red Bull Racing,6.0,0 days 00:01:24.392000,INTERMEDIATE,5.0,2.0,1.0,84.392,2023,Netherlands
+PER,Red Bull Racing,7.0,0 days 00:01:26.345000,INTERMEDIATE,6.0,2.0,1.0,86.345,2023,Netherlands
+PER,Red Bull Racing,8.0,0 days 00:01:24.599000,INTERMEDIATE,7.0,2.0,1.0,84.599,2023,Netherlands
+PER,Red Bull Racing,9.0,0 days 00:01:24.495000,INTERMEDIATE,8.0,2.0,1.0,84.495,2023,Netherlands
+PER,Red Bull Racing,10.0,0 days 00:01:24.583000,INTERMEDIATE,9.0,2.0,1.0,84.583,2023,Netherlands
+PER,Red Bull Racing,11.0,0 days 00:01:25.107000,INTERMEDIATE,10.0,2.0,1.0,85.107,2023,Netherlands
+PER,Red Bull Racing,12.0,0 days 00:01:28.439000,INTERMEDIATE,11.0,2.0,1.0,88.439,2023,Netherlands
+PER,Red Bull Racing,13.0,0 days 00:01:38.175000,SOFT,1.0,3.0,2.0,98.175,2023,Netherlands
+PER,Red Bull Racing,14.0,0 days 00:01:16.876000,SOFT,2.0,3.0,2.0,76.876,2023,Netherlands
+PER,Red Bull Racing,15.0,0 days 00:01:17.081000,SOFT,3.0,3.0,2.0,77.081,2023,Netherlands
+PER,Red Bull Racing,16.0,0 days 00:01:25.780000,SOFT,4.0,3.0,2.0,85.78,2023,Netherlands
+PER,Red Bull Racing,17.0,0 days 00:02:01.049000,SOFT,5.0,3.0,2.0,121.049,2023,Netherlands
+PER,Red Bull Racing,18.0,0 days 00:02:08.368000,SOFT,6.0,3.0,2.0,128.368,2023,Netherlands
+PER,Red Bull Racing,19.0,0 days 00:01:59.275000,SOFT,7.0,3.0,2.0,119.275,2023,Netherlands
+PER,Red Bull Racing,20.0,0 days 00:01:56.001000,SOFT,8.0,3.0,2.0,116.001,2023,Netherlands
+PER,Red Bull Racing,21.0,0 days 00:02:06.927000,SOFT,9.0,3.0,2.0,126.927,2023,Netherlands
+PER,Red Bull Racing,22.0,0 days 00:01:16.989000,SOFT,10.0,3.0,2.0,76.989,2023,Netherlands
+PER,Red Bull Racing,23.0,0 days 00:01:16.451000,SOFT,11.0,3.0,2.0,76.451,2023,Netherlands
+PER,Red Bull Racing,24.0,0 days 00:01:15.800000,SOFT,12.0,3.0,2.0,75.8,2023,Netherlands
+PER,Red Bull Racing,25.0,0 days 00:01:16.175000,SOFT,13.0,3.0,2.0,76.175,2023,Netherlands
+PER,Red Bull Racing,26.0,0 days 00:01:16.380000,SOFT,14.0,3.0,2.0,76.38,2023,Netherlands
+PER,Red Bull Racing,27.0,0 days 00:01:15.959000,SOFT,15.0,3.0,2.0,75.959,2023,Netherlands
+PER,Red Bull Racing,28.0,0 days 00:01:15.777000,SOFT,16.0,3.0,2.0,75.777,2023,Netherlands
+PER,Red Bull Racing,29.0,0 days 00:01:15.629000,SOFT,17.0,3.0,2.0,75.629,2023,Netherlands
+PER,Red Bull Racing,30.0,0 days 00:01:15.576000,SOFT,18.0,3.0,2.0,75.576,2023,Netherlands
+PER,Red Bull Racing,31.0,0 days 00:01:15.697000,SOFT,19.0,3.0,2.0,75.697,2023,Netherlands
+PER,Red Bull Racing,32.0,0 days 00:01:15.764000,SOFT,20.0,3.0,2.0,75.764,2023,Netherlands
+PER,Red Bull Racing,33.0,0 days 00:01:15.615000,SOFT,21.0,3.0,2.0,75.615,2023,Netherlands
+PER,Red Bull Racing,34.0,0 days 00:01:15.377000,SOFT,22.0,3.0,2.0,75.377,2023,Netherlands
+PER,Red Bull Racing,35.0,0 days 00:01:15.517000,SOFT,23.0,3.0,2.0,75.517,2023,Netherlands
+PER,Red Bull Racing,36.0,0 days 00:01:15.782000,SOFT,24.0,3.0,2.0,75.782,2023,Netherlands
+PER,Red Bull Racing,37.0,0 days 00:01:15.609000,SOFT,25.0,3.0,2.0,75.609,2023,Netherlands
+PER,Red Bull Racing,38.0,0 days 00:01:15.440000,SOFT,26.0,3.0,2.0,75.44,2023,Netherlands
+PER,Red Bull Racing,39.0,0 days 00:01:15.461000,SOFT,27.0,3.0,2.0,75.461,2023,Netherlands
+PER,Red Bull Racing,40.0,0 days 00:01:15.676000,SOFT,28.0,3.0,2.0,75.676,2023,Netherlands
+PER,Red Bull Racing,41.0,0 days 00:01:15.546000,SOFT,29.0,3.0,2.0,75.546,2023,Netherlands
+PER,Red Bull Racing,42.0,0 days 00:01:15.822000,SOFT,30.0,3.0,2.0,75.822,2023,Netherlands
+PER,Red Bull Racing,43.0,0 days 00:01:15.776000,SOFT,31.0,3.0,2.0,75.776,2023,Netherlands
+PER,Red Bull Racing,44.0,0 days 00:01:15.722000,SOFT,32.0,3.0,2.0,75.722,2023,Netherlands
+PER,Red Bull Racing,45.0,0 days 00:01:18.655000,SOFT,33.0,3.0,2.0,78.655,2023,Netherlands
+PER,Red Bull Racing,46.0,0 days 00:01:33.107000,SOFT,2.0,4.0,4.0,93.107,2023,Netherlands
+PER,Red Bull Racing,47.0,0 days 00:01:14.318000,SOFT,3.0,4.0,3.0,74.318,2023,Netherlands
+PER,Red Bull Racing,48.0,0 days 00:01:14.867000,SOFT,4.0,4.0,3.0,74.867,2023,Netherlands
+PER,Red Bull Racing,49.0,0 days 00:01:14.847000,SOFT,5.0,4.0,2.0,74.847,2023,Netherlands
+PER,Red Bull Racing,50.0,0 days 00:01:14.714000,SOFT,6.0,4.0,2.0,74.714,2023,Netherlands
+PER,Red Bull Racing,51.0,0 days 00:01:14.702000,SOFT,7.0,4.0,2.0,74.702,2023,Netherlands
+PER,Red Bull Racing,52.0,0 days 00:01:14.658000,SOFT,8.0,4.0,2.0,74.658,2023,Netherlands
+PER,Red Bull Racing,53.0,0 days 00:01:14.715000,SOFT,9.0,4.0,2.0,74.715,2023,Netherlands
+PER,Red Bull Racing,54.0,0 days 00:01:15.006000,SOFT,10.0,4.0,2.0,75.006,2023,Netherlands
+PER,Red Bull Racing,55.0,0 days 00:01:15.161000,SOFT,11.0,4.0,2.0,75.161,2023,Netherlands
+PER,Red Bull Racing,56.0,0 days 00:01:14.656000,SOFT,12.0,4.0,2.0,74.656,2023,Netherlands
+PER,Red Bull Racing,57.0,0 days 00:01:14.315000,SOFT,13.0,4.0,2.0,74.315,2023,Netherlands
+PER,Red Bull Racing,58.0,0 days 00:01:14.313000,SOFT,14.0,4.0,2.0,74.313,2023,Netherlands
+PER,Red Bull Racing,59.0,0 days 00:01:14.231000,SOFT,15.0,4.0,2.0,74.231,2023,Netherlands
+PER,Red Bull Racing,60.0,0 days 00:01:18.349000,SOFT,16.0,4.0,2.0,78.349,2023,Netherlands
+PER,Red Bull Racing,61.0,0 days 00:01:49.850000,INTERMEDIATE,7.0,5.0,3.0,109.85,2023,Netherlands
+PER,Red Bull Racing,62.0,0 days 00:01:23.125000,INTERMEDIATE,8.0,5.0,2.0,83.125,2023,Netherlands
+PER,Red Bull Racing,63.0,0 days 00:01:50.512000,INTERMEDIATE,9.0,5.0,4.0,110.512,2023,Netherlands
+PER,Red Bull Racing,66.0,0 days 00:02:17.436000,INTERMEDIATE,9.0,7.0,3.0,137.436,2023,Netherlands
+PER,Red Bull Racing,67.0,0 days 00:01:26.386000,INTERMEDIATE,10.0,7.0,3.0,86.386,2023,Netherlands
+PER,Red Bull Racing,68.0,0 days 00:01:23.139000,INTERMEDIATE,11.0,7.0,3.0,83.139,2023,Netherlands
+PER,Red Bull Racing,69.0,0 days 00:01:22.210000,INTERMEDIATE,12.0,7.0,3.0,82.21,2023,Netherlands
+PER,Red Bull Racing,70.0,0 days 00:01:21.828000,INTERMEDIATE,13.0,7.0,3.0,81.828,2023,Netherlands
+PER,Red Bull Racing,71.0,0 days 00:01:21.666000,INTERMEDIATE,14.0,7.0,3.0,81.666,2023,Netherlands
+PER,Red Bull Racing,72.0,0 days 00:01:21.699000,INTERMEDIATE,15.0,7.0,3.0,81.699,2023,Netherlands
+ALO,Aston Martin,1.0,0 days 00:01:32.766000,SOFT,1.0,1.0,3.0,92.766,2023,Netherlands
+ALO,Aston Martin,2.0,0 days 00:01:50.145000,SOFT,2.0,1.0,5.0,110.145,2023,Netherlands
+ALO,Aston Martin,3.0,0 days 00:01:49.357000,INTERMEDIATE,1.0,2.0,7.0,109.357,2023,Netherlands
+ALO,Aston Martin,4.0,0 days 00:01:26.225000,INTERMEDIATE,2.0,2.0,6.0,86.225,2023,Netherlands
+ALO,Aston Martin,5.0,0 days 00:01:24.932000,INTERMEDIATE,3.0,2.0,6.0,84.932,2023,Netherlands
+ALO,Aston Martin,6.0,0 days 00:01:23.975000,INTERMEDIATE,4.0,2.0,5.0,83.975,2023,Netherlands
+ALO,Aston Martin,7.0,0 days 00:01:23.182000,INTERMEDIATE,5.0,2.0,5.0,83.182,2023,Netherlands
+ALO,Aston Martin,8.0,0 days 00:01:23.756000,INTERMEDIATE,6.0,2.0,5.0,83.756,2023,Netherlands
+ALO,Aston Martin,9.0,0 days 00:01:24.325000,INTERMEDIATE,7.0,2.0,5.0,84.325,2023,Netherlands
+ALO,Aston Martin,10.0,0 days 00:01:28.333000,INTERMEDIATE,8.0,2.0,5.0,88.333,2023,Netherlands
+ALO,Aston Martin,11.0,0 days 00:01:40.065000,SOFT,1.0,3.0,5.0,100.065,2023,Netherlands
+ALO,Aston Martin,12.0,0 days 00:01:17.979000,SOFT,2.0,3.0,3.0,77.979,2023,Netherlands
+ALO,Aston Martin,13.0,0 days 00:01:17.643000,SOFT,3.0,3.0,3.0,77.643,2023,Netherlands
+ALO,Aston Martin,14.0,0 days 00:01:17.413000,SOFT,4.0,3.0,3.0,77.413,2023,Netherlands
+ALO,Aston Martin,15.0,0 days 00:01:17.415000,SOFT,5.0,3.0,3.0,77.415,2023,Netherlands
+ALO,Aston Martin,16.0,0 days 00:01:27.815000,SOFT,6.0,3.0,3.0,87.815,2023,Netherlands
+ALO,Aston Martin,17.0,0 days 00:01:58.298000,SOFT,7.0,3.0,3.0,118.298,2023,Netherlands
+ALO,Aston Martin,18.0,0 days 00:02:08.354000,SOFT,8.0,3.0,3.0,128.354,2023,Netherlands
+ALO,Aston Martin,19.0,0 days 00:01:59.078000,SOFT,9.0,3.0,3.0,119.078,2023,Netherlands
+ALO,Aston Martin,20.0,0 days 00:01:56.043000,SOFT,10.0,3.0,3.0,116.043,2023,Netherlands
+ALO,Aston Martin,21.0,0 days 00:02:05.885000,SOFT,11.0,3.0,3.0,125.885,2023,Netherlands
+ALO,Aston Martin,22.0,0 days 00:01:17.482000,SOFT,12.0,3.0,3.0,77.482,2023,Netherlands
+ALO,Aston Martin,23.0,0 days 00:01:16.681000,SOFT,13.0,3.0,3.0,76.681,2023,Netherlands
+ALO,Aston Martin,24.0,0 days 00:01:16.183000,SOFT,14.0,3.0,3.0,76.183,2023,Netherlands
+ALO,Aston Martin,25.0,0 days 00:01:16.054000,SOFT,15.0,3.0,3.0,76.054,2023,Netherlands
+ALO,Aston Martin,26.0,0 days 00:01:15.885000,SOFT,16.0,3.0,3.0,75.885,2023,Netherlands
+ALO,Aston Martin,27.0,0 days 00:01:15.944000,SOFT,17.0,3.0,3.0,75.944,2023,Netherlands
+ALO,Aston Martin,28.0,0 days 00:01:16.373000,SOFT,18.0,3.0,3.0,76.373,2023,Netherlands
+ALO,Aston Martin,29.0,0 days 00:01:16.333000,SOFT,19.0,3.0,3.0,76.333,2023,Netherlands
+ALO,Aston Martin,30.0,0 days 00:01:15.921000,SOFT,20.0,3.0,3.0,75.921,2023,Netherlands
+ALO,Aston Martin,31.0,0 days 00:01:16.097000,SOFT,21.0,3.0,3.0,76.097,2023,Netherlands
+ALO,Aston Martin,32.0,0 days 00:01:16.282000,SOFT,22.0,3.0,3.0,76.282,2023,Netherlands
+ALO,Aston Martin,33.0,0 days 00:01:15.842000,SOFT,23.0,3.0,3.0,75.842,2023,Netherlands
+ALO,Aston Martin,34.0,0 days 00:01:15.813000,SOFT,24.0,3.0,3.0,75.813,2023,Netherlands
+ALO,Aston Martin,35.0,0 days 00:01:15.690000,SOFT,25.0,3.0,3.0,75.69,2023,Netherlands
+ALO,Aston Martin,36.0,0 days 00:01:15.575000,SOFT,26.0,3.0,3.0,75.575,2023,Netherlands
+ALO,Aston Martin,37.0,0 days 00:01:15.674000,SOFT,27.0,3.0,3.0,75.674,2023,Netherlands
+ALO,Aston Martin,38.0,0 days 00:01:15.836000,SOFT,28.0,3.0,3.0,75.836,2023,Netherlands
+ALO,Aston Martin,39.0,0 days 00:01:15.612000,SOFT,29.0,3.0,3.0,75.612,2023,Netherlands
+ALO,Aston Martin,40.0,0 days 00:01:15.577000,SOFT,30.0,3.0,3.0,75.577,2023,Netherlands
+ALO,Aston Martin,41.0,0 days 00:01:15.743000,SOFT,31.0,3.0,3.0,75.743,2023,Netherlands
+ALO,Aston Martin,42.0,0 days 00:01:15.686000,SOFT,32.0,3.0,3.0,75.686,2023,Netherlands
+ALO,Aston Martin,43.0,0 days 00:01:15.829000,SOFT,33.0,3.0,3.0,75.829,2023,Netherlands
+ALO,Aston Martin,44.0,0 days 00:01:15.615000,SOFT,34.0,3.0,3.0,75.615,2023,Netherlands
+ALO,Aston Martin,45.0,0 days 00:01:15.737000,SOFT,35.0,3.0,3.0,75.737,2023,Netherlands
+ALO,Aston Martin,46.0,0 days 00:01:15.967000,SOFT,36.0,3.0,2.0,75.967,2023,Netherlands
+ALO,Aston Martin,47.0,0 days 00:01:15.841000,SOFT,37.0,3.0,2.0,75.841,2023,Netherlands
+ALO,Aston Martin,48.0,0 days 00:01:19.319000,SOFT,38.0,3.0,2.0,79.319,2023,Netherlands
+ALO,Aston Martin,49.0,0 days 00:01:38.405000,SOFT,3.0,4.0,4.0,98.405,2023,Netherlands
+ALO,Aston Martin,50.0,0 days 00:01:14.153000,SOFT,4.0,4.0,4.0,74.153,2023,Netherlands
+ALO,Aston Martin,51.0,0 days 00:01:14.106000,SOFT,5.0,4.0,4.0,74.106,2023,Netherlands
+ALO,Aston Martin,52.0,0 days 00:01:15.514000,SOFT,6.0,4.0,3.0,75.514,2023,Netherlands
+ALO,Aston Martin,53.0,0 days 00:01:14.348000,SOFT,7.0,4.0,3.0,74.348,2023,Netherlands
+ALO,Aston Martin,54.0,0 days 00:01:13.965000,SOFT,8.0,4.0,3.0,73.965,2023,Netherlands
+ALO,Aston Martin,55.0,0 days 00:01:13.862000,SOFT,9.0,4.0,3.0,73.862,2023,Netherlands
+ALO,Aston Martin,56.0,0 days 00:01:13.837000,SOFT,10.0,4.0,3.0,73.837,2023,Netherlands
+ALO,Aston Martin,57.0,0 days 00:01:14.319000,SOFT,11.0,4.0,3.0,74.319,2023,Netherlands
+ALO,Aston Martin,58.0,0 days 00:01:14.005000,SOFT,12.0,4.0,3.0,74.005,2023,Netherlands
+ALO,Aston Martin,59.0,0 days 00:01:14.158000,SOFT,13.0,4.0,3.0,74.158,2023,Netherlands
+ALO,Aston Martin,60.0,0 days 00:01:14.409000,SOFT,14.0,4.0,3.0,74.409,2023,Netherlands
+ALO,Aston Martin,61.0,0 days 00:01:29.136000,SOFT,15.0,4.0,2.0,89.136,2023,Netherlands
+ALO,Aston Martin,62.0,0 days 00:01:44.305000,INTERMEDIATE,4.0,5.0,3.0,104.305,2023,Netherlands
+ALO,Aston Martin,63.0,0 days 00:01:40.079000,INTERMEDIATE,5.0,5.0,2.0,100.079,2023,Netherlands
+ALO,Aston Martin,64.0,0 days 00:02:22.422000,INTERMEDIATE,6.0,5.0,2.0,142.422,2023,Netherlands
+ALO,Aston Martin,66.0,0 days 00:02:17.533000,INTERMEDIATE,8.0,6.0,2.0,137.533,2023,Netherlands
+ALO,Aston Martin,67.0,0 days 00:01:26,INTERMEDIATE,9.0,6.0,2.0,86.0,2023,Netherlands
+ALO,Aston Martin,68.0,0 days 00:01:23.132000,INTERMEDIATE,10.0,6.0,2.0,83.132,2023,Netherlands
+ALO,Aston Martin,69.0,0 days 00:01:22.300000,INTERMEDIATE,11.0,6.0,2.0,82.3,2023,Netherlands
+ALO,Aston Martin,70.0,0 days 00:01:22.213000,INTERMEDIATE,12.0,6.0,2.0,82.213,2023,Netherlands
+ALO,Aston Martin,71.0,0 days 00:01:21.622000,INTERMEDIATE,13.0,6.0,2.0,81.622,2023,Netherlands
+ALO,Aston Martin,72.0,0 days 00:01:21.123000,INTERMEDIATE,14.0,6.0,2.0,81.123,2023,Netherlands
+LEC,Ferrari,1.0,0 days 00:01:42.801000,SOFT,1.0,1.0,15.0,102.801,2023,Netherlands
+LEC,Ferrari,2.0,0 days 00:01:58.969000,INTERMEDIATE,1.0,2.0,17.0,118.969,2023,Netherlands
+LEC,Ferrari,3.0,0 days 00:01:30.281000,INTERMEDIATE,2.0,2.0,6.0,90.281,2023,Netherlands
+LEC,Ferrari,4.0,0 days 00:01:25.852000,INTERMEDIATE,3.0,2.0,5.0,85.852,2023,Netherlands
+LEC,Ferrari,5.0,0 days 00:01:24.975000,INTERMEDIATE,4.0,2.0,5.0,84.975,2023,Netherlands
+LEC,Ferrari,6.0,0 days 00:01:25.657000,INTERMEDIATE,5.0,2.0,6.0,85.657,2023,Netherlands
+LEC,Ferrari,7.0,0 days 00:01:24.818000,INTERMEDIATE,6.0,2.0,6.0,84.818,2023,Netherlands
+LEC,Ferrari,8.0,0 days 00:01:25.064000,INTERMEDIATE,7.0,2.0,6.0,85.064,2023,Netherlands
+LEC,Ferrari,9.0,0 days 00:01:27.458000,INTERMEDIATE,8.0,2.0,7.0,87.458,2023,Netherlands
+LEC,Ferrari,10.0,0 days 00:01:26.256000,INTERMEDIATE,9.0,2.0,6.0,86.256,2023,Netherlands
+LEC,Ferrari,11.0,0 days 00:01:30.892000,INTERMEDIATE,10.0,2.0,4.0,90.892,2023,Netherlands
+LEC,Ferrari,12.0,0 days 00:01:47.200000,SOFT,1.0,3.0,13.0,107.2,2023,Netherlands
+LEC,Ferrari,13.0,0 days 00:01:18.149000,SOFT,2.0,3.0,13.0,78.149,2023,Netherlands
+LEC,Ferrari,14.0,0 days 00:01:17.837000,SOFT,3.0,3.0,13.0,77.837,2023,Netherlands
+LEC,Ferrari,15.0,0 days 00:01:17.621000,SOFT,4.0,3.0,13.0,77.621,2023,Netherlands
+LEC,Ferrari,16.0,0 days 00:01:37.308000,SOFT,5.0,3.0,12.0,97.308,2023,Netherlands
+LEC,Ferrari,17.0,0 days 00:01:53.845000,SOFT,6.0,3.0,12.0,113.845,2023,Netherlands
+LEC,Ferrari,18.0,0 days 00:01:46.782000,SOFT,7.0,3.0,12.0,106.782,2023,Netherlands
+LEC,Ferrari,19.0,0 days 00:02:03.019000,SOFT,8.0,3.0,12.0,123.019,2023,Netherlands
+LEC,Ferrari,20.0,0 days 00:01:54.136000,SOFT,9.0,3.0,12.0,114.136,2023,Netherlands
+LEC,Ferrari,21.0,0 days 00:01:57.665000,SOFT,10.0,3.0,12.0,117.665,2023,Netherlands
+LEC,Ferrari,22.0,0 days 00:01:19.372000,SOFT,11.0,3.0,12.0,79.372,2023,Netherlands
+LEC,Ferrari,23.0,0 days 00:01:18.267000,SOFT,12.0,3.0,12.0,78.267,2023,Netherlands
+LEC,Ferrari,24.0,0 days 00:01:17.769000,SOFT,13.0,3.0,12.0,77.769,2023,Netherlands
+LEC,Ferrari,25.0,0 days 00:01:17.863000,SOFT,14.0,3.0,12.0,77.863,2023,Netherlands
+LEC,Ferrari,26.0,0 days 00:01:19.046000,SOFT,15.0,3.0,14.0,79.046,2023,Netherlands
+LEC,Ferrari,27.0,0 days 00:01:17.558000,SOFT,16.0,3.0,14.0,77.558,2023,Netherlands
+LEC,Ferrari,28.0,0 days 00:01:17.431000,SOFT,17.0,3.0,14.0,77.431,2023,Netherlands
+LEC,Ferrari,29.0,0 days 00:01:17.418000,SOFT,18.0,3.0,14.0,77.418,2023,Netherlands
+LEC,Ferrari,30.0,0 days 00:01:18.574000,SOFT,19.0,3.0,15.0,78.574,2023,Netherlands
+LEC,Ferrari,31.0,0 days 00:01:17.561000,SOFT,20.0,3.0,15.0,77.561,2023,Netherlands
+LEC,Ferrari,32.0,0 days 00:01:17.432000,SOFT,21.0,3.0,15.0,77.432,2023,Netherlands
+LEC,Ferrari,33.0,0 days 00:01:17.277000,SOFT,22.0,3.0,15.0,77.277,2023,Netherlands
+LEC,Ferrari,34.0,0 days 00:01:17.662000,SOFT,23.0,3.0,15.0,77.662,2023,Netherlands
+LEC,Ferrari,35.0,0 days 00:01:18.035000,SOFT,24.0,3.0,15.0,78.035,2023,Netherlands
+LEC,Ferrari,36.0,0 days 00:01:17.936000,SOFT,25.0,3.0,15.0,77.936,2023,Netherlands
+LEC,Ferrari,37.0,0 days 00:01:17.454000,SOFT,26.0,3.0,15.0,77.454,2023,Netherlands
+LEC,Ferrari,38.0,0 days 00:01:18.473000,SOFT,27.0,3.0,15.0,78.473,2023,Netherlands
+LEC,Ferrari,39.0,0 days 00:01:17.874000,SOFT,28.0,3.0,15.0,77.874,2023,Netherlands
+LEC,Ferrari,40.0,0 days 00:01:18.096000,SOFT,29.0,3.0,16.0,78.096,2023,Netherlands
+LEC,Ferrari,41.0,0 days 00:01:23.662000,SOFT,30.0,3.0,17.0,83.662,2023,Netherlands
+STR,Aston Martin,1.0,0 days 00:01:37.074000,SOFT,1.0,1.0,8.0,97.074,2023,Netherlands
+STR,Aston Martin,2.0,0 days 00:01:50.241000,SOFT,2.0,1.0,7.0,110.241,2023,Netherlands
+STR,Aston Martin,3.0,0 days 00:01:52.030000,SOFT,3.0,1.0,14.0,112.03,2023,Netherlands
+STR,Aston Martin,4.0,0 days 00:01:54.041000,SOFT,4.0,1.0,18.0,114.041,2023,Netherlands
+STR,Aston Martin,5.0,0 days 00:01:43.905000,INTERMEDIATE,1.0,2.0,19.0,103.905,2023,Netherlands
+STR,Aston Martin,6.0,0 days 00:01:24.554000,INTERMEDIATE,2.0,2.0,18.0,84.554,2023,Netherlands
+STR,Aston Martin,7.0,0 days 00:01:26.604000,INTERMEDIATE,3.0,2.0,18.0,86.604,2023,Netherlands
+STR,Aston Martin,8.0,0 days 00:01:23.782000,INTERMEDIATE,4.0,2.0,18.0,83.782,2023,Netherlands
+STR,Aston Martin,9.0,0 days 00:01:29.107000,INTERMEDIATE,5.0,2.0,19.0,89.107,2023,Netherlands
+STR,Aston Martin,10.0,0 days 00:01:42.634000,SOFT,1.0,3.0,19.0,102.634,2023,Netherlands
+STR,Aston Martin,11.0,0 days 00:01:19.740000,SOFT,2.0,3.0,19.0,79.74,2023,Netherlands
+STR,Aston Martin,12.0,0 days 00:01:17.585000,SOFT,3.0,3.0,19.0,77.585,2023,Netherlands
+STR,Aston Martin,13.0,0 days 00:01:18.291000,SOFT,4.0,3.0,19.0,78.291,2023,Netherlands
+STR,Aston Martin,14.0,0 days 00:01:18.114000,SOFT,5.0,3.0,19.0,78.114,2023,Netherlands
+STR,Aston Martin,15.0,0 days 00:01:18.520000,SOFT,6.0,3.0,19.0,78.52,2023,Netherlands
+STR,Aston Martin,16.0,0 days 00:01:53.704000,SOFT,7.0,3.0,19.0,113.704,2023,Netherlands
+STR,Aston Martin,17.0,0 days 00:02:07.606000,MEDIUM,1.0,4.0,19.0,127.606,2023,Netherlands
+STR,Aston Martin,18.0,0 days 00:01:24.336000,MEDIUM,2.0,4.0,19.0,84.336,2023,Netherlands
+STR,Aston Martin,19.0,0 days 00:01:36.486000,MEDIUM,3.0,4.0,19.0,96.486,2023,Netherlands
+STR,Aston Martin,20.0,0 days 00:01:49.885000,MEDIUM,4.0,4.0,19.0,109.885,2023,Netherlands
+STR,Aston Martin,21.0,0 days 00:01:53.444000,MEDIUM,5.0,4.0,18.0,113.444,2023,Netherlands
+STR,Aston Martin,22.0,0 days 00:01:18.993000,MEDIUM,6.0,4.0,18.0,78.993,2023,Netherlands
+STR,Aston Martin,23.0,0 days 00:01:17.939000,MEDIUM,7.0,4.0,18.0,77.939,2023,Netherlands
+STR,Aston Martin,24.0,0 days 00:01:17.367000,MEDIUM,8.0,4.0,18.0,77.367,2023,Netherlands
+STR,Aston Martin,25.0,0 days 00:01:17.011000,MEDIUM,9.0,4.0,17.0,77.011,2023,Netherlands
+STR,Aston Martin,26.0,0 days 00:01:17.567000,MEDIUM,10.0,4.0,17.0,77.567,2023,Netherlands
+STR,Aston Martin,27.0,0 days 00:01:17.957000,MEDIUM,11.0,4.0,17.0,77.957,2023,Netherlands
+STR,Aston Martin,28.0,0 days 00:01:17.549000,MEDIUM,12.0,4.0,17.0,77.549,2023,Netherlands
+STR,Aston Martin,29.0,0 days 00:01:17.567000,MEDIUM,13.0,4.0,17.0,77.567,2023,Netherlands
+STR,Aston Martin,30.0,0 days 00:01:17.584000,MEDIUM,14.0,4.0,17.0,77.584,2023,Netherlands
+STR,Aston Martin,31.0,0 days 00:01:17.689000,MEDIUM,15.0,4.0,17.0,77.689,2023,Netherlands
+STR,Aston Martin,32.0,0 days 00:01:17.435000,MEDIUM,16.0,4.0,17.0,77.435,2023,Netherlands
+STR,Aston Martin,33.0,0 days 00:01:17.786000,MEDIUM,17.0,4.0,17.0,77.786,2023,Netherlands
+STR,Aston Martin,34.0,0 days 00:01:20.718000,MEDIUM,18.0,4.0,19.0,80.718,2023,Netherlands
+STR,Aston Martin,35.0,0 days 00:01:34.591000,SOFT,1.0,5.0,19.0,94.591,2023,Netherlands
+STR,Aston Martin,36.0,0 days 00:01:15.515000,SOFT,2.0,5.0,19.0,75.515,2023,Netherlands
+STR,Aston Martin,37.0,0 days 00:01:15.171000,SOFT,3.0,5.0,19.0,75.171,2023,Netherlands
+STR,Aston Martin,38.0,0 days 00:01:15.605000,SOFT,4.0,5.0,19.0,75.605,2023,Netherlands
+STR,Aston Martin,39.0,0 days 00:01:15.409000,SOFT,5.0,5.0,19.0,75.409,2023,Netherlands
+STR,Aston Martin,40.0,0 days 00:01:15.376000,SOFT,6.0,5.0,19.0,75.376,2023,Netherlands
+STR,Aston Martin,41.0,0 days 00:01:15.842000,SOFT,7.0,5.0,19.0,75.842,2023,Netherlands
+STR,Aston Martin,42.0,0 days 00:01:15.803000,SOFT,8.0,5.0,17.0,75.803,2023,Netherlands
+STR,Aston Martin,43.0,0 days 00:01:15.813000,SOFT,9.0,5.0,17.0,75.813,2023,Netherlands
+STR,Aston Martin,44.0,0 days 00:01:15.904000,SOFT,10.0,5.0,17.0,75.904,2023,Netherlands
+STR,Aston Martin,45.0,0 days 00:01:16.116000,SOFT,11.0,5.0,17.0,76.116,2023,Netherlands
+STR,Aston Martin,46.0,0 days 00:01:16.905000,SOFT,12.0,5.0,16.0,76.905,2023,Netherlands
+STR,Aston Martin,47.0,0 days 00:01:15.717000,SOFT,13.0,5.0,16.0,75.717,2023,Netherlands
+STR,Aston Martin,48.0,0 days 00:01:15.723000,SOFT,14.0,5.0,15.0,75.723,2023,Netherlands
+STR,Aston Martin,49.0,0 days 00:01:15.625000,SOFT,15.0,5.0,14.0,75.625,2023,Netherlands
+STR,Aston Martin,50.0,0 days 00:01:15.698000,SOFT,16.0,5.0,14.0,75.698,2023,Netherlands
+STR,Aston Martin,51.0,0 days 00:01:15.617000,SOFT,17.0,5.0,14.0,75.617,2023,Netherlands
+STR,Aston Martin,52.0,0 days 00:01:15.767000,SOFT,18.0,5.0,14.0,75.767,2023,Netherlands
+STR,Aston Martin,53.0,0 days 00:01:15.782000,SOFT,19.0,5.0,14.0,75.782,2023,Netherlands
+STR,Aston Martin,54.0,0 days 00:01:15.618000,SOFT,20.0,5.0,14.0,75.618,2023,Netherlands
+STR,Aston Martin,55.0,0 days 00:01:15.811000,SOFT,21.0,5.0,14.0,75.811,2023,Netherlands
+STR,Aston Martin,56.0,0 days 00:01:15.741000,SOFT,22.0,5.0,14.0,75.741,2023,Netherlands
+STR,Aston Martin,57.0,0 days 00:01:15.898000,SOFT,23.0,5.0,14.0,75.898,2023,Netherlands
+STR,Aston Martin,58.0,0 days 00:01:16.106000,SOFT,24.0,5.0,14.0,76.106,2023,Netherlands
+STR,Aston Martin,59.0,0 days 00:01:15.978000,SOFT,25.0,5.0,14.0,75.978,2023,Netherlands
+STR,Aston Martin,60.0,0 days 00:01:26.596000,SOFT,26.0,5.0,14.0,86.596,2023,Netherlands
+STR,Aston Martin,61.0,0 days 00:01:45.281000,INTERMEDIATE,6.0,6.0,14.0,105.281,2023,Netherlands
+STR,Aston Martin,62.0,0 days 00:01:25.479000,INTERMEDIATE,7.0,6.0,14.0,85.479,2023,Netherlands
+STR,Aston Martin,63.0,0 days 00:02:12.240000,INTERMEDIATE,8.0,6.0,13.0,132.24,2023,Netherlands
+STR,Aston Martin,66.0,0 days 00:02:07.412000,INTERMEDIATE,8.0,8.0,13.0,127.412,2023,Netherlands
+STR,Aston Martin,67.0,0 days 00:01:29.525000,INTERMEDIATE,9.0,8.0,11.0,89.525,2023,Netherlands
+STR,Aston Martin,68.0,0 days 00:01:24.778000,INTERMEDIATE,10.0,8.0,11.0,84.778,2023,Netherlands
+STR,Aston Martin,69.0,0 days 00:01:23.318000,INTERMEDIATE,11.0,8.0,11.0,83.318,2023,Netherlands
+STR,Aston Martin,70.0,0 days 00:01:23.029000,INTERMEDIATE,12.0,8.0,11.0,83.029,2023,Netherlands
+STR,Aston Martin,71.0,0 days 00:01:22.543000,INTERMEDIATE,13.0,8.0,11.0,82.543,2023,Netherlands
+STR,Aston Martin,72.0,0 days 00:01:23.194000,INTERMEDIATE,14.0,8.0,11.0,83.194,2023,Netherlands
+SAR,Williams,1.0,0 days 00:01:39.822000,SOFT,1.0,1.0,14.0,99.822,2023,Netherlands
+SAR,Williams,2.0,0 days 00:01:53.444000,SOFT,2.0,1.0,13.0,113.444,2023,Netherlands
+SAR,Williams,3.0,0 days 00:01:56.188000,SOFT,3.0,1.0,19.0,116.188,2023,Netherlands
+SAR,Williams,4.0,0 days 00:01:48.687000,SOFT,4.0,1.0,20.0,108.687,2023,Netherlands
+SAR,Williams,5.0,0 days 00:01:43.016000,SOFT,5.0,1.0,20.0,103.016,2023,Netherlands
+SAR,Williams,6.0,0 days 00:01:38.379000,SOFT,6.0,1.0,20.0,98.379,2023,Netherlands
+SAR,Williams,7.0,0 days 00:01:33.965000,SOFT,7.0,1.0,20.0,93.965,2023,Netherlands
+SAR,Williams,8.0,0 days 00:01:29.878000,SOFT,8.0,1.0,20.0,89.878,2023,Netherlands
+SAR,Williams,9.0,0 days 00:01:24.260000,SOFT,9.0,1.0,20.0,84.26,2023,Netherlands
+SAR,Williams,10.0,0 days 00:01:21.081000,SOFT,10.0,1.0,20.0,81.081,2023,Netherlands
+SAR,Williams,11.0,0 days 00:01:19.797000,SOFT,11.0,1.0,20.0,79.797,2023,Netherlands
+SAR,Williams,12.0,0 days 00:01:18.688000,SOFT,12.0,1.0,20.0,78.688,2023,Netherlands
+SAR,Williams,13.0,0 days 00:01:17.399000,SOFT,13.0,1.0,20.0,77.399,2023,Netherlands
+SAR,Williams,14.0,0 days 00:01:17.824000,SOFT,14.0,1.0,20.0,77.824,2023,Netherlands
+MAG,Haas F1 Team,1.0,0 days 00:01:51.944000,SOFT,1.0,1.0,20.0,111.944,2023,Netherlands
+MAG,Haas F1 Team,2.0,0 days 00:01:58.312000,INTERMEDIATE,1.0,2.0,19.0,118.312,2023,Netherlands
+MAG,Haas F1 Team,3.0,0 days 00:01:28.198000,INTERMEDIATE,2.0,2.0,13.0,88.198,2023,Netherlands
+MAG,Haas F1 Team,4.0,0 days 00:01:27.297000,INTERMEDIATE,3.0,2.0,9.0,87.297,2023,Netherlands
+MAG,Haas F1 Team,5.0,0 days 00:01:24.267000,INTERMEDIATE,4.0,2.0,9.0,84.267,2023,Netherlands
+MAG,Haas F1 Team,6.0,0 days 00:01:25.666000,INTERMEDIATE,5.0,2.0,9.0,85.666,2023,Netherlands
+MAG,Haas F1 Team,7.0,0 days 00:01:26.119000,INTERMEDIATE,6.0,2.0,9.0,86.119,2023,Netherlands
+MAG,Haas F1 Team,8.0,0 days 00:01:24.956000,INTERMEDIATE,7.0,2.0,9.0,84.956,2023,Netherlands
+MAG,Haas F1 Team,9.0,0 days 00:01:29.039000,INTERMEDIATE,8.0,2.0,10.0,89.039,2023,Netherlands
+MAG,Haas F1 Team,10.0,0 days 00:01:42.023000,SOFT,1.0,3.0,12.0,102.023,2023,Netherlands
+MAG,Haas F1 Team,11.0,0 days 00:01:20.178000,SOFT,2.0,3.0,8.0,80.178,2023,Netherlands
+MAG,Haas F1 Team,12.0,0 days 00:01:18.419000,SOFT,3.0,3.0,7.0,78.419,2023,Netherlands
+MAG,Haas F1 Team,13.0,0 days 00:01:17.963000,SOFT,4.0,3.0,7.0,77.963,2023,Netherlands
+MAG,Haas F1 Team,14.0,0 days 00:01:17.757000,SOFT,5.0,3.0,7.0,77.757,2023,Netherlands
+MAG,Haas F1 Team,15.0,0 days 00:01:18.345000,SOFT,6.0,3.0,7.0,78.345,2023,Netherlands
+MAG,Haas F1 Team,16.0,0 days 00:01:34.259000,SOFT,7.0,3.0,7.0,94.259,2023,Netherlands
+MAG,Haas F1 Team,17.0,0 days 00:01:52.136000,SOFT,8.0,3.0,7.0,112.136,2023,Netherlands
+MAG,Haas F1 Team,18.0,0 days 00:01:59.556000,SOFT,9.0,3.0,7.0,119.556,2023,Netherlands
+MAG,Haas F1 Team,19.0,0 days 00:02:00.273000,SOFT,10.0,3.0,7.0,120.273,2023,Netherlands
+MAG,Haas F1 Team,20.0,0 days 00:01:56.410000,SOFT,11.0,3.0,7.0,116.41,2023,Netherlands
+MAG,Haas F1 Team,21.0,0 days 00:02:02.079000,SOFT,12.0,3.0,7.0,122.079,2023,Netherlands
+MAG,Haas F1 Team,22.0,0 days 00:01:18.662000,SOFT,13.0,3.0,7.0,78.662,2023,Netherlands
+MAG,Haas F1 Team,23.0,0 days 00:01:18.352000,SOFT,14.0,3.0,8.0,78.352,2023,Netherlands
+MAG,Haas F1 Team,24.0,0 days 00:01:17.864000,SOFT,15.0,3.0,9.0,77.864,2023,Netherlands
+MAG,Haas F1 Team,25.0,0 days 00:01:17.349000,SOFT,16.0,3.0,9.0,77.349,2023,Netherlands
+MAG,Haas F1 Team,26.0,0 days 00:01:17,SOFT,17.0,3.0,9.0,77.0,2023,Netherlands
+MAG,Haas F1 Team,27.0,0 days 00:01:17.733000,SOFT,18.0,3.0,10.0,77.733,2023,Netherlands
+MAG,Haas F1 Team,28.0,0 days 00:01:18.175000,SOFT,19.0,3.0,11.0,78.175,2023,Netherlands
+MAG,Haas F1 Team,29.0,0 days 00:01:18.122000,SOFT,20.0,3.0,12.0,78.122,2023,Netherlands
+MAG,Haas F1 Team,30.0,0 days 00:01:17.292000,SOFT,21.0,3.0,13.0,77.292,2023,Netherlands
+MAG,Haas F1 Team,31.0,0 days 00:01:17.457000,SOFT,22.0,3.0,13.0,77.457,2023,Netherlands
+MAG,Haas F1 Team,32.0,0 days 00:01:16.962000,SOFT,23.0,3.0,13.0,76.962,2023,Netherlands
+MAG,Haas F1 Team,33.0,0 days 00:01:17.035000,SOFT,24.0,3.0,13.0,77.035,2023,Netherlands
+MAG,Haas F1 Team,34.0,0 days 00:01:17.040000,SOFT,25.0,3.0,13.0,77.04,2023,Netherlands
+MAG,Haas F1 Team,35.0,0 days 00:01:20.308000,SOFT,26.0,3.0,14.0,80.308,2023,Netherlands
+MAG,Haas F1 Team,36.0,0 days 00:01:36.569000,MEDIUM,1.0,4.0,18.0,96.569,2023,Netherlands
+MAG,Haas F1 Team,37.0,0 days 00:01:15.489000,MEDIUM,2.0,4.0,18.0,75.489,2023,Netherlands
+MAG,Haas F1 Team,38.0,0 days 00:01:16.534000,MEDIUM,3.0,4.0,18.0,76.534,2023,Netherlands
+MAG,Haas F1 Team,39.0,0 days 00:01:16.341000,MEDIUM,4.0,4.0,18.0,76.341,2023,Netherlands
+MAG,Haas F1 Team,40.0,0 days 00:01:16.458000,MEDIUM,5.0,4.0,18.0,76.458,2023,Netherlands
+MAG,Haas F1 Team,41.0,0 days 00:01:16.244000,MEDIUM,6.0,4.0,18.0,76.244,2023,Netherlands
+MAG,Haas F1 Team,42.0,0 days 00:01:17.406000,MEDIUM,7.0,4.0,18.0,77.406,2023,Netherlands
+MAG,Haas F1 Team,43.0,0 days 00:01:16.392000,MEDIUM,8.0,4.0,18.0,76.392,2023,Netherlands
+MAG,Haas F1 Team,44.0,0 days 00:01:16.259000,MEDIUM,9.0,4.0,18.0,76.259,2023,Netherlands
+MAG,Haas F1 Team,45.0,0 days 00:01:16.589000,MEDIUM,10.0,4.0,18.0,76.589,2023,Netherlands
+MAG,Haas F1 Team,46.0,0 days 00:01:16.362000,MEDIUM,11.0,4.0,17.0,76.362,2023,Netherlands
+MAG,Haas F1 Team,47.0,0 days 00:01:16.333000,MEDIUM,12.0,4.0,17.0,76.333,2023,Netherlands
+MAG,Haas F1 Team,48.0,0 days 00:01:16.238000,MEDIUM,13.0,4.0,16.0,76.238,2023,Netherlands
+MAG,Haas F1 Team,49.0,0 days 00:01:16.169000,MEDIUM,14.0,4.0,15.0,76.169,2023,Netherlands
+MAG,Haas F1 Team,50.0,0 days 00:01:16.041000,MEDIUM,15.0,4.0,15.0,76.041,2023,Netherlands
+MAG,Haas F1 Team,51.0,0 days 00:01:15.986000,MEDIUM,16.0,4.0,15.0,75.986,2023,Netherlands
+MAG,Haas F1 Team,52.0,0 days 00:01:15.941000,MEDIUM,17.0,4.0,15.0,75.941,2023,Netherlands
+MAG,Haas F1 Team,53.0,0 days 00:01:15.839000,MEDIUM,18.0,4.0,15.0,75.839,2023,Netherlands
+MAG,Haas F1 Team,54.0,0 days 00:01:15.930000,MEDIUM,19.0,4.0,15.0,75.93,2023,Netherlands
+MAG,Haas F1 Team,55.0,0 days 00:01:16.295000,MEDIUM,20.0,4.0,15.0,76.295,2023,Netherlands
+MAG,Haas F1 Team,56.0,0 days 00:01:16.861000,MEDIUM,21.0,4.0,16.0,76.861,2023,Netherlands
+MAG,Haas F1 Team,57.0,0 days 00:01:16.453000,MEDIUM,22.0,4.0,16.0,76.453,2023,Netherlands
+MAG,Haas F1 Team,58.0,0 days 00:01:16.560000,MEDIUM,23.0,4.0,16.0,76.56,2023,Netherlands
+MAG,Haas F1 Team,59.0,0 days 00:01:16.521000,MEDIUM,24.0,4.0,16.0,76.521,2023,Netherlands
+MAG,Haas F1 Team,60.0,0 days 00:01:29.294000,MEDIUM,25.0,4.0,16.0,89.294,2023,Netherlands
+MAG,Haas F1 Team,61.0,0 days 00:01:48.463000,INTERMEDIATE,1.0,5.0,18.0,108.463,2023,Netherlands
+MAG,Haas F1 Team,62.0,0 days 00:01:26.200000,INTERMEDIATE,2.0,5.0,18.0,86.2,2023,Netherlands
+MAG,Haas F1 Team,63.0,0 days 00:02:25.291000,INTERMEDIATE,3.0,5.0,17.0,145.291,2023,Netherlands
+MAG,Haas F1 Team,65.0,0 days 00:02:29.068000,INTERMEDIATE,5.0,7.0,17.0,149.068,2023,Netherlands
+MAG,Haas F1 Team,66.0,0 days 00:02:01.205000,INTERMEDIATE,6.0,7.0,17.0,121.205,2023,Netherlands
+MAG,Haas F1 Team,67.0,0 days 00:01:30.623000,INTERMEDIATE,7.0,7.0,16.0,90.623,2023,Netherlands
+MAG,Haas F1 Team,68.0,0 days 00:01:25.674000,INTERMEDIATE,8.0,7.0,15.0,85.674,2023,Netherlands
+MAG,Haas F1 Team,69.0,0 days 00:01:24.092000,INTERMEDIATE,9.0,7.0,15.0,84.092,2023,Netherlands
+MAG,Haas F1 Team,70.0,0 days 00:01:23.027000,INTERMEDIATE,10.0,7.0,15.0,83.027,2023,Netherlands
+MAG,Haas F1 Team,71.0,0 days 00:01:23.912000,INTERMEDIATE,11.0,7.0,15.0,83.912,2023,Netherlands
+MAG,Haas F1 Team,72.0,0 days 00:01:23.550000,INTERMEDIATE,12.0,7.0,15.0,83.55,2023,Netherlands
+TSU,AlphaTauri,1.0,0 days 00:01:46.869000,SOFT,1.0,1.0,18.0,106.869,2023,Netherlands
+TSU,AlphaTauri,2.0,0 days 00:01:58.845000,INTERMEDIATE,6.0,2.0,18.0,118.845,2023,Netherlands
+TSU,AlphaTauri,3.0,0 days 00:01:29.747000,INTERMEDIATE,7.0,2.0,11.0,89.747,2023,Netherlands
+TSU,AlphaTauri,4.0,0 days 00:01:29.073000,INTERMEDIATE,8.0,2.0,8.0,89.073,2023,Netherlands
+TSU,AlphaTauri,5.0,0 days 00:01:24.820000,INTERMEDIATE,9.0,2.0,8.0,84.82,2023,Netherlands
+TSU,AlphaTauri,6.0,0 days 00:01:24.838000,INTERMEDIATE,10.0,2.0,8.0,84.838,2023,Netherlands
+TSU,AlphaTauri,7.0,0 days 00:01:25.039000,INTERMEDIATE,11.0,2.0,8.0,85.039,2023,Netherlands
+TSU,AlphaTauri,8.0,0 days 00:01:25.894000,INTERMEDIATE,12.0,2.0,8.0,85.894,2023,Netherlands
+TSU,AlphaTauri,9.0,0 days 00:01:25.581000,INTERMEDIATE,13.0,2.0,8.0,85.581,2023,Netherlands
+TSU,AlphaTauri,10.0,0 days 00:01:30.464000,INTERMEDIATE,14.0,2.0,8.0,90.464,2023,Netherlands
+TSU,AlphaTauri,11.0,0 days 00:01:40.282000,SOFT,1.0,3.0,9.0,100.282,2023,Netherlands
+TSU,AlphaTauri,12.0,0 days 00:01:18.212000,SOFT,2.0,3.0,9.0,78.212,2023,Netherlands
+TSU,AlphaTauri,13.0,0 days 00:01:17.809000,SOFT,3.0,3.0,9.0,77.809,2023,Netherlands
+TSU,AlphaTauri,14.0,0 days 00:01:17.219000,SOFT,4.0,3.0,9.0,77.219,2023,Netherlands
+TSU,AlphaTauri,15.0,0 days 00:01:19.161000,SOFT,5.0,3.0,10.0,79.161,2023,Netherlands
+TSU,AlphaTauri,16.0,0 days 00:01:37.007000,SOFT,6.0,3.0,10.0,97.007,2023,Netherlands
+TSU,AlphaTauri,17.0,0 days 00:01:52.436000,SOFT,7.0,3.0,10.0,112.436,2023,Netherlands
+TSU,AlphaTauri,18.0,0 days 00:01:56.297000,SOFT,8.0,3.0,10.0,116.297,2023,Netherlands
+TSU,AlphaTauri,19.0,0 days 00:02:00.983000,SOFT,9.0,3.0,10.0,120.983,2023,Netherlands
+TSU,AlphaTauri,20.0,0 days 00:01:55.751000,SOFT,10.0,3.0,10.0,115.751,2023,Netherlands
+TSU,AlphaTauri,21.0,0 days 00:01:59.790000,SOFT,11.0,3.0,10.0,119.79,2023,Netherlands
+TSU,AlphaTauri,22.0,0 days 00:01:19.082000,SOFT,12.0,3.0,10.0,79.082,2023,Netherlands
+TSU,AlphaTauri,23.0,0 days 00:01:17.816000,SOFT,13.0,3.0,10.0,77.816,2023,Netherlands
+TSU,AlphaTauri,24.0,0 days 00:01:17.466000,SOFT,14.0,3.0,10.0,77.466,2023,Netherlands
+TSU,AlphaTauri,25.0,0 days 00:01:17.214000,SOFT,15.0,3.0,10.0,77.214,2023,Netherlands
+TSU,AlphaTauri,26.0,0 days 00:01:16.931000,SOFT,16.0,3.0,10.0,76.931,2023,Netherlands
+TSU,AlphaTauri,27.0,0 days 00:01:16.943000,SOFT,17.0,3.0,9.0,76.943,2023,Netherlands
+TSU,AlphaTauri,28.0,0 days 00:01:16.652000,SOFT,18.0,3.0,9.0,76.652,2023,Netherlands
+TSU,AlphaTauri,29.0,0 days 00:01:16.458000,SOFT,19.0,3.0,9.0,76.458,2023,Netherlands
+TSU,AlphaTauri,30.0,0 days 00:01:16.861000,SOFT,20.0,3.0,9.0,76.861,2023,Netherlands
+TSU,AlphaTauri,31.0,0 days 00:01:17.137000,SOFT,21.0,3.0,8.0,77.137,2023,Netherlands
+TSU,AlphaTauri,32.0,0 days 00:01:16.678000,SOFT,22.0,3.0,8.0,76.678,2023,Netherlands
+TSU,AlphaTauri,33.0,0 days 00:01:16.414000,SOFT,23.0,3.0,8.0,76.414,2023,Netherlands
+TSU,AlphaTauri,34.0,0 days 00:01:16.396000,SOFT,24.0,3.0,8.0,76.396,2023,Netherlands
+TSU,AlphaTauri,35.0,0 days 00:01:16.253000,SOFT,25.0,3.0,8.0,76.253,2023,Netherlands
+TSU,AlphaTauri,36.0,0 days 00:01:16.644000,SOFT,26.0,3.0,8.0,76.644,2023,Netherlands
+TSU,AlphaTauri,37.0,0 days 00:01:16.358000,SOFT,27.0,3.0,8.0,76.358,2023,Netherlands
+TSU,AlphaTauri,38.0,0 days 00:01:16.419000,SOFT,28.0,3.0,8.0,76.419,2023,Netherlands
+TSU,AlphaTauri,39.0,0 days 00:01:16.529000,SOFT,29.0,3.0,8.0,76.529,2023,Netherlands
+TSU,AlphaTauri,40.0,0 days 00:01:16.470000,SOFT,30.0,3.0,8.0,76.47,2023,Netherlands
+TSU,AlphaTauri,41.0,0 days 00:01:16.440000,SOFT,31.0,3.0,8.0,76.44,2023,Netherlands
+TSU,AlphaTauri,42.0,0 days 00:01:16.521000,SOFT,32.0,3.0,7.0,76.521,2023,Netherlands
+TSU,AlphaTauri,43.0,0 days 00:01:16.506000,SOFT,33.0,3.0,6.0,76.506,2023,Netherlands
+TSU,AlphaTauri,44.0,0 days 00:01:16.580000,SOFT,34.0,3.0,6.0,76.58,2023,Netherlands
+TSU,AlphaTauri,45.0,0 days 00:01:16.611000,SOFT,35.0,3.0,5.0,76.611,2023,Netherlands
+TSU,AlphaTauri,46.0,0 days 00:01:16.711000,SOFT,36.0,3.0,5.0,76.711,2023,Netherlands
+TSU,AlphaTauri,47.0,0 days 00:01:16.690000,SOFT,37.0,3.0,4.0,76.69,2023,Netherlands
+TSU,AlphaTauri,48.0,0 days 00:01:17.184000,SOFT,38.0,3.0,5.0,77.184,2023,Netherlands
+TSU,AlphaTauri,49.0,0 days 00:01:16.854000,SOFT,39.0,3.0,5.0,76.854,2023,Netherlands
+TSU,AlphaTauri,50.0,0 days 00:01:17.095000,SOFT,40.0,3.0,6.0,77.095,2023,Netherlands
+TSU,AlphaTauri,51.0,0 days 00:01:16.678000,SOFT,41.0,3.0,6.0,76.678,2023,Netherlands
+TSU,AlphaTauri,52.0,0 days 00:01:18.472000,SOFT,42.0,3.0,7.0,78.472,2023,Netherlands
+TSU,AlphaTauri,53.0,0 days 00:01:17.706000,SOFT,43.0,3.0,9.0,77.706,2023,Netherlands
+TSU,AlphaTauri,54.0,0 days 00:01:17.283000,SOFT,44.0,3.0,9.0,77.283,2023,Netherlands
+TSU,AlphaTauri,55.0,0 days 00:01:18.227000,SOFT,45.0,3.0,12.0,78.227,2023,Netherlands
+TSU,AlphaTauri,56.0,0 days 00:01:17.545000,SOFT,46.0,3.0,12.0,77.545,2023,Netherlands
+TSU,AlphaTauri,57.0,0 days 00:01:17.191000,SOFT,47.0,3.0,12.0,77.191,2023,Netherlands
+TSU,AlphaTauri,58.0,0 days 00:01:17.197000,SOFT,48.0,3.0,12.0,77.197,2023,Netherlands
+TSU,AlphaTauri,59.0,0 days 00:01:16.960000,SOFT,49.0,3.0,12.0,76.96,2023,Netherlands
+TSU,AlphaTauri,60.0,0 days 00:01:25.858000,SOFT,50.0,3.0,12.0,85.858,2023,Netherlands
+TSU,AlphaTauri,61.0,0 days 00:01:45.045000,INTERMEDIATE,6.0,4.0,12.0,105.045,2023,Netherlands
+TSU,AlphaTauri,62.0,0 days 00:01:25.530000,INTERMEDIATE,7.0,4.0,12.0,85.53,2023,Netherlands
+TSU,AlphaTauri,63.0,0 days 00:02:12.676000,INTERMEDIATE,8.0,4.0,12.0,132.676,2023,Netherlands
+TSU,AlphaTauri,66.0,0 days 00:02:08.381000,INTERMEDIATE,8.0,6.0,12.0,128.381,2023,Netherlands
+TSU,AlphaTauri,67.0,0 days 00:01:31.286000,INTERMEDIATE,9.0,6.0,13.0,91.286,2023,Netherlands
+TSU,AlphaTauri,68.0,0 days 00:01:26.038000,INTERMEDIATE,10.0,6.0,13.0,86.038,2023,Netherlands
+TSU,AlphaTauri,69.0,0 days 00:01:23.772000,INTERMEDIATE,11.0,6.0,13.0,83.772,2023,Netherlands
+TSU,AlphaTauri,70.0,0 days 00:01:23.423000,INTERMEDIATE,12.0,6.0,13.0,83.423,2023,Netherlands
+TSU,AlphaTauri,71.0,0 days 00:01:23.101000,INTERMEDIATE,13.0,6.0,13.0,83.101,2023,Netherlands
+TSU,AlphaTauri,72.0,0 days 00:01:23.883000,INTERMEDIATE,14.0,6.0,13.0,83.883,2023,Netherlands
+ALB,Williams,1.0,0 days 00:01:34.276000,SOFT,1.0,1.0,4.0,94.276,2023,Netherlands
+ALB,Williams,2.0,0 days 00:01:48.180000,SOFT,2.0,1.0,3.0,108.18,2023,Netherlands
+ALB,Williams,3.0,0 days 00:01:50.236000,SOFT,3.0,1.0,8.0,110.236,2023,Netherlands
+ALB,Williams,4.0,0 days 00:01:48.341000,SOFT,4.0,1.0,13.0,108.341,2023,Netherlands
+ALB,Williams,5.0,0 days 00:01:41.277000,SOFT,5.0,1.0,14.0,101.277,2023,Netherlands
+ALB,Williams,6.0,0 days 00:01:34.451000,SOFT,6.0,1.0,15.0,94.451,2023,Netherlands
+ALB,Williams,7.0,0 days 00:01:26.740000,SOFT,7.0,1.0,15.0,86.74,2023,Netherlands
+ALB,Williams,8.0,0 days 00:01:22.359000,SOFT,8.0,1.0,15.0,82.359,2023,Netherlands
+ALB,Williams,9.0,0 days 00:01:19.783000,SOFT,9.0,1.0,15.0,79.783,2023,Netherlands
+ALB,Williams,10.0,0 days 00:01:20.383000,SOFT,10.0,1.0,14.0,80.383,2023,Netherlands
+ALB,Williams,11.0,0 days 00:01:17.859000,SOFT,11.0,1.0,12.0,77.859,2023,Netherlands
+ALB,Williams,12.0,0 days 00:01:17.102000,SOFT,12.0,1.0,11.0,77.102,2023,Netherlands
+ALB,Williams,13.0,0 days 00:01:17.082000,SOFT,13.0,1.0,11.0,77.082,2023,Netherlands
+ALB,Williams,14.0,0 days 00:01:17.315000,SOFT,14.0,1.0,11.0,77.315,2023,Netherlands
+ALB,Williams,15.0,0 days 00:01:17.544000,SOFT,15.0,1.0,9.0,77.544,2023,Netherlands
+ALB,Williams,16.0,0 days 00:01:34.524000,SOFT,16.0,1.0,8.0,94.524,2023,Netherlands
+ALB,Williams,17.0,0 days 00:01:52.736000,SOFT,17.0,1.0,8.0,112.736,2023,Netherlands
+ALB,Williams,18.0,0 days 00:01:57.209000,SOFT,18.0,1.0,8.0,117.209,2023,Netherlands
+ALB,Williams,19.0,0 days 00:02:00.042000,SOFT,19.0,1.0,8.0,120.042,2023,Netherlands
+ALB,Williams,20.0,0 days 00:01:56.634000,SOFT,20.0,1.0,8.0,116.634,2023,Netherlands
+ALB,Williams,21.0,0 days 00:02:01.176000,SOFT,21.0,1.0,8.0,121.176,2023,Netherlands
+ALB,Williams,22.0,0 days 00:01:18.652000,SOFT,22.0,1.0,8.0,78.652,2023,Netherlands
+ALB,Williams,23.0,0 days 00:01:17.043000,SOFT,23.0,1.0,7.0,77.043,2023,Netherlands
+ALB,Williams,24.0,0 days 00:01:17.040000,SOFT,24.0,1.0,7.0,77.04,2023,Netherlands
+ALB,Williams,25.0,0 days 00:01:16.228000,SOFT,25.0,1.0,6.0,76.228,2023,Netherlands
+ALB,Williams,26.0,0 days 00:01:16.391000,SOFT,26.0,1.0,6.0,76.391,2023,Netherlands
+ALB,Williams,27.0,0 days 00:01:16.754000,SOFT,27.0,1.0,6.0,76.754,2023,Netherlands
+ALB,Williams,28.0,0 days 00:01:16.452000,SOFT,28.0,1.0,6.0,76.452,2023,Netherlands
+ALB,Williams,29.0,0 days 00:01:16.300000,SOFT,29.0,1.0,6.0,76.3,2023,Netherlands
+ALB,Williams,30.0,0 days 00:01:16.402000,SOFT,30.0,1.0,6.0,76.402,2023,Netherlands
+ALB,Williams,31.0,0 days 00:01:16.175000,SOFT,31.0,1.0,6.0,76.175,2023,Netherlands
+ALB,Williams,32.0,0 days 00:01:16.148000,SOFT,32.0,1.0,6.0,76.148,2023,Netherlands
+ALB,Williams,33.0,0 days 00:01:16.336000,SOFT,33.0,1.0,6.0,76.336,2023,Netherlands
+ALB,Williams,34.0,0 days 00:01:16.377000,SOFT,34.0,1.0,6.0,76.377,2023,Netherlands
+ALB,Williams,35.0,0 days 00:01:16.211000,SOFT,35.0,1.0,6.0,76.211,2023,Netherlands
+ALB,Williams,36.0,0 days 00:01:16.252000,SOFT,36.0,1.0,6.0,76.252,2023,Netherlands
+ALB,Williams,37.0,0 days 00:01:16.167000,SOFT,37.0,1.0,6.0,76.167,2023,Netherlands
+ALB,Williams,38.0,0 days 00:01:16.196000,SOFT,38.0,1.0,6.0,76.196,2023,Netherlands
+ALB,Williams,39.0,0 days 00:01:16.219000,SOFT,39.0,1.0,6.0,76.219,2023,Netherlands
+ALB,Williams,40.0,0 days 00:01:16.207000,SOFT,40.0,1.0,6.0,76.207,2023,Netherlands
+ALB,Williams,41.0,0 days 00:01:16.484000,SOFT,41.0,1.0,6.0,76.484,2023,Netherlands
+ALB,Williams,42.0,0 days 00:01:16.270000,SOFT,42.0,1.0,5.0,76.27,2023,Netherlands
+ALB,Williams,43.0,0 days 00:01:16.364000,SOFT,43.0,1.0,5.0,76.364,2023,Netherlands
+ALB,Williams,44.0,0 days 00:01:19.870000,SOFT,44.0,1.0,5.0,79.87,2023,Netherlands
+ALB,Williams,45.0,0 days 00:01:34.284000,MEDIUM,1.0,2.0,11.0,94.284,2023,Netherlands
+ALB,Williams,46.0,0 days 00:01:15.363000,MEDIUM,2.0,2.0,9.0,75.363,2023,Netherlands
+ALB,Williams,47.0,0 days 00:01:15.019000,MEDIUM,3.0,2.0,8.0,75.019,2023,Netherlands
+ALB,Williams,48.0,0 days 00:01:15.265000,MEDIUM,4.0,2.0,8.0,75.265,2023,Netherlands
+ALB,Williams,49.0,0 days 00:01:15.132000,MEDIUM,5.0,2.0,8.0,75.132,2023,Netherlands
+ALB,Williams,50.0,0 days 00:01:15.024000,MEDIUM,6.0,2.0,8.0,75.024,2023,Netherlands
+ALB,Williams,51.0,0 days 00:01:14.917000,MEDIUM,7.0,2.0,7.0,74.917,2023,Netherlands
+ALB,Williams,52.0,0 days 00:01:16.367000,MEDIUM,8.0,2.0,6.0,76.367,2023,Netherlands
+ALB,Williams,53.0,0 days 00:01:15.396000,MEDIUM,9.0,2.0,6.0,75.396,2023,Netherlands
+ALB,Williams,54.0,0 days 00:01:15.082000,MEDIUM,10.0,2.0,6.0,75.082,2023,Netherlands
+ALB,Williams,55.0,0 days 00:01:14.468000,MEDIUM,11.0,2.0,6.0,74.468,2023,Netherlands
+ALB,Williams,56.0,0 days 00:01:14.816000,MEDIUM,12.0,2.0,6.0,74.816,2023,Netherlands
+ALB,Williams,57.0,0 days 00:01:14.710000,MEDIUM,13.0,2.0,6.0,74.71,2023,Netherlands
+ALB,Williams,58.0,0 days 00:01:14.613000,MEDIUM,14.0,2.0,6.0,74.613,2023,Netherlands
+ALB,Williams,59.0,0 days 00:01:14.483000,MEDIUM,15.0,2.0,6.0,74.483,2023,Netherlands
+ALB,Williams,60.0,0 days 00:01:16.861000,MEDIUM,16.0,2.0,6.0,76.861,2023,Netherlands
+ALB,Williams,61.0,0 days 00:01:33.951000,MEDIUM,17.0,2.0,4.0,93.951,2023,Netherlands
+ALB,Williams,62.0,0 days 00:01:45.255000,INTERMEDIATE,6.0,3.0,8.0,105.255,2023,Netherlands
+ALB,Williams,63.0,0 days 00:01:56.100000,INTERMEDIATE,7.0,3.0,9.0,116.1,2023,Netherlands
+ALB,Williams,66.0,0 days 00:02:10.646000,INTERMEDIATE,8.0,5.0,8.0,130.646,2023,Netherlands
+ALB,Williams,67.0,0 days 00:01:28.510000,INTERMEDIATE,9.0,5.0,8.0,88.51,2023,Netherlands
+ALB,Williams,68.0,0 days 00:01:25.116000,INTERMEDIATE,10.0,5.0,8.0,85.116,2023,Netherlands
+ALB,Williams,69.0,0 days 00:01:22.887000,INTERMEDIATE,11.0,5.0,8.0,82.887,2023,Netherlands
+ALB,Williams,70.0,0 days 00:01:22.401000,INTERMEDIATE,12.0,5.0,8.0,82.401,2023,Netherlands
+ALB,Williams,71.0,0 days 00:01:22.247000,INTERMEDIATE,13.0,5.0,8.0,82.247,2023,Netherlands
+ALB,Williams,72.0,0 days 00:01:22.496000,INTERMEDIATE,14.0,5.0,8.0,82.496,2023,Netherlands
+ZHO,Alfa Romeo,1.0,0 days 00:01:45.469000,SOFT,1.0,1.0,17.0,105.469,2023,Netherlands
+ZHO,Alfa Romeo,2.0,0 days 00:01:52.606000,INTERMEDIATE,1.0,2.0,15.0,112.606,2023,Netherlands
+ZHO,Alfa Romeo,3.0,0 days 00:01:29.926000,INTERMEDIATE,2.0,2.0,2.0,89.926,2023,Netherlands
+ZHO,Alfa Romeo,4.0,0 days 00:01:25.286000,INTERMEDIATE,3.0,2.0,2.0,85.286,2023,Netherlands
+ZHO,Alfa Romeo,5.0,0 days 00:01:23.977000,INTERMEDIATE,4.0,2.0,2.0,83.977,2023,Netherlands
+ZHO,Alfa Romeo,6.0,0 days 00:01:23.522000,INTERMEDIATE,5.0,2.0,2.0,83.522,2023,Netherlands
+ZHO,Alfa Romeo,7.0,0 days 00:01:25.449000,INTERMEDIATE,6.0,2.0,3.0,85.449,2023,Netherlands
+ZHO,Alfa Romeo,8.0,0 days 00:01:24.884000,INTERMEDIATE,7.0,2.0,3.0,84.884,2023,Netherlands
+ZHO,Alfa Romeo,9.0,0 days 00:01:25.204000,INTERMEDIATE,8.0,2.0,3.0,85.204,2023,Netherlands
+ZHO,Alfa Romeo,10.0,0 days 00:01:29.135000,INTERMEDIATE,9.0,2.0,4.0,89.135,2023,Netherlands
+ZHO,Alfa Romeo,11.0,0 days 00:01:44.703000,MEDIUM,1.0,3.0,6.0,104.703,2023,Netherlands
+ZHO,Alfa Romeo,12.0,0 days 00:01:19.633000,MEDIUM,2.0,3.0,6.0,79.633,2023,Netherlands
+ZHO,Alfa Romeo,13.0,0 days 00:01:18.607000,MEDIUM,3.0,3.0,6.0,78.607,2023,Netherlands
+ZHO,Alfa Romeo,14.0,0 days 00:01:18.019000,MEDIUM,4.0,3.0,6.0,78.019,2023,Netherlands
+ZHO,Alfa Romeo,15.0,0 days 00:01:17.840000,MEDIUM,5.0,3.0,6.0,77.84,2023,Netherlands
+ZHO,Alfa Romeo,16.0,0 days 00:01:28.860000,MEDIUM,6.0,3.0,6.0,88.86,2023,Netherlands
+ZHO,Alfa Romeo,17.0,0 days 00:01:55.640000,MEDIUM,7.0,3.0,6.0,115.64,2023,Netherlands
+ZHO,Alfa Romeo,18.0,0 days 00:02:06.532000,MEDIUM,8.0,3.0,6.0,126.532,2023,Netherlands
+ZHO,Alfa Romeo,19.0,0 days 00:02:00.349000,MEDIUM,9.0,3.0,6.0,120.349,2023,Netherlands
+ZHO,Alfa Romeo,20.0,0 days 00:01:56.096000,MEDIUM,10.0,3.0,6.0,116.096,2023,Netherlands
+ZHO,Alfa Romeo,21.0,0 days 00:02:03.109000,MEDIUM,11.0,3.0,6.0,123.109,2023,Netherlands
+ZHO,Alfa Romeo,22.0,0 days 00:01:18.284000,MEDIUM,12.0,3.0,6.0,78.284,2023,Netherlands
+ZHO,Alfa Romeo,23.0,0 days 00:01:17.350000,MEDIUM,13.0,3.0,6.0,77.35,2023,Netherlands
+ZHO,Alfa Romeo,24.0,0 days 00:01:17.312000,MEDIUM,14.0,3.0,6.0,77.312,2023,Netherlands
+ZHO,Alfa Romeo,25.0,0 days 00:01:17.751000,MEDIUM,15.0,3.0,7.0,77.751,2023,Netherlands
+ZHO,Alfa Romeo,26.0,0 days 00:01:17.181000,MEDIUM,16.0,3.0,7.0,77.181,2023,Netherlands
+ZHO,Alfa Romeo,27.0,0 days 00:01:17.700000,MEDIUM,17.0,3.0,8.0,77.7,2023,Netherlands
+ZHO,Alfa Romeo,28.0,0 days 00:01:17.136000,MEDIUM,18.0,3.0,8.0,77.136,2023,Netherlands
+ZHO,Alfa Romeo,29.0,0 days 00:01:16.713000,MEDIUM,19.0,3.0,8.0,76.713,2023,Netherlands
+ZHO,Alfa Romeo,30.0,0 days 00:01:16.986000,MEDIUM,20.0,3.0,8.0,76.986,2023,Netherlands
+ZHO,Alfa Romeo,31.0,0 days 00:01:17.926000,MEDIUM,21.0,3.0,9.0,77.926,2023,Netherlands
+ZHO,Alfa Romeo,32.0,0 days 00:01:18.022000,MEDIUM,22.0,3.0,10.0,78.022,2023,Netherlands
+ZHO,Alfa Romeo,33.0,0 days 00:01:17.830000,MEDIUM,23.0,3.0,11.0,77.83,2023,Netherlands
+ZHO,Alfa Romeo,34.0,0 days 00:01:17.583000,MEDIUM,24.0,3.0,12.0,77.583,2023,Netherlands
+ZHO,Alfa Romeo,35.0,0 days 00:01:16.959000,MEDIUM,25.0,3.0,12.0,76.959,2023,Netherlands
+ZHO,Alfa Romeo,36.0,0 days 00:01:16.802000,MEDIUM,26.0,3.0,12.0,76.802,2023,Netherlands
+ZHO,Alfa Romeo,37.0,0 days 00:01:19.808000,MEDIUM,27.0,3.0,12.0,79.808,2023,Netherlands
+ZHO,Alfa Romeo,38.0,0 days 00:01:35.648000,SOFT,1.0,4.0,17.0,95.648,2023,Netherlands
+ZHO,Alfa Romeo,39.0,0 days 00:01:15.417000,SOFT,2.0,4.0,17.0,75.417,2023,Netherlands
+ZHO,Alfa Romeo,40.0,0 days 00:01:16.127000,SOFT,3.0,4.0,17.0,76.127,2023,Netherlands
+ZHO,Alfa Romeo,41.0,0 days 00:01:16.244000,SOFT,4.0,4.0,16.0,76.244,2023,Netherlands
+ZHO,Alfa Romeo,42.0,0 days 00:01:16.117000,SOFT,5.0,4.0,16.0,76.117,2023,Netherlands
+ZHO,Alfa Romeo,43.0,0 days 00:01:16.123000,SOFT,6.0,4.0,16.0,76.123,2023,Netherlands
+ZHO,Alfa Romeo,44.0,0 days 00:01:15.880000,SOFT,7.0,4.0,16.0,75.88,2023,Netherlands
+ZHO,Alfa Romeo,45.0,0 days 00:01:16.139000,SOFT,8.0,4.0,15.0,76.139,2023,Netherlands
+ZHO,Alfa Romeo,46.0,0 days 00:01:16.224000,SOFT,9.0,4.0,15.0,76.224,2023,Netherlands
+ZHO,Alfa Romeo,47.0,0 days 00:01:15.866000,SOFT,10.0,4.0,14.0,75.866,2023,Netherlands
+ZHO,Alfa Romeo,48.0,0 days 00:01:16.359000,SOFT,11.0,4.0,14.0,76.359,2023,Netherlands
+ZHO,Alfa Romeo,49.0,0 days 00:01:15.844000,SOFT,12.0,4.0,13.0,75.844,2023,Netherlands
+ZHO,Alfa Romeo,50.0,0 days 00:01:15.752000,SOFT,13.0,4.0,13.0,75.752,2023,Netherlands
+ZHO,Alfa Romeo,51.0,0 days 00:01:15.579000,SOFT,14.0,4.0,13.0,75.579,2023,Netherlands
+ZHO,Alfa Romeo,52.0,0 days 00:01:15.679000,SOFT,15.0,4.0,13.0,75.679,2023,Netherlands
+ZHO,Alfa Romeo,53.0,0 days 00:01:15.879000,SOFT,16.0,4.0,13.0,75.879,2023,Netherlands
+ZHO,Alfa Romeo,54.0,0 days 00:01:15.759000,SOFT,17.0,4.0,13.0,75.759,2023,Netherlands
+ZHO,Alfa Romeo,55.0,0 days 00:01:15.914000,SOFT,18.0,4.0,13.0,75.914,2023,Netherlands
+ZHO,Alfa Romeo,56.0,0 days 00:01:15.723000,SOFT,19.0,4.0,13.0,75.723,2023,Netherlands
+ZHO,Alfa Romeo,57.0,0 days 00:01:16.032000,SOFT,20.0,4.0,13.0,76.032,2023,Netherlands
+ZHO,Alfa Romeo,58.0,0 days 00:01:15.895000,SOFT,21.0,4.0,13.0,75.895,2023,Netherlands
+ZHO,Alfa Romeo,59.0,0 days 00:01:15.968000,SOFT,22.0,4.0,13.0,75.968,2023,Netherlands
+ZHO,Alfa Romeo,60.0,0 days 00:01:24.048000,SOFT,23.0,4.0,13.0,84.048,2023,Netherlands
+ZHO,Alfa Romeo,61.0,0 days 00:01:45.850000,INTERMEDIATE,1.0,5.0,13.0,105.85,2023,Netherlands
+ZHO,Alfa Romeo,62.0,0 days 00:01:25.085000,INTERMEDIATE,2.0,5.0,13.0,85.085,2023,Netherlands
+HUL,Haas F1 Team,1.0,0 days 00:01:38.096000,SOFT,1.0,1.0,10.0,98.096,2023,Netherlands
+HUL,Haas F1 Team,2.0,0 days 00:01:51.204000,SOFT,2.0,1.0,10.0,111.204,2023,Netherlands
+HUL,Haas F1 Team,3.0,0 days 00:01:52.192000,SOFT,3.0,1.0,16.0,112.192,2023,Netherlands
+HUL,Haas F1 Team,4.0,0 days 00:01:48.453000,SOFT,4.0,1.0,17.0,108.453,2023,Netherlands
+HUL,Haas F1 Team,5.0,0 days 00:01:39.606000,SOFT,5.0,1.0,18.0,99.606,2023,Netherlands
+HUL,Haas F1 Team,6.0,0 days 00:01:32.448000,SOFT,6.0,1.0,19.0,92.448,2023,Netherlands
+HUL,Haas F1 Team,7.0,0 days 00:01:27.761000,SOFT,7.0,1.0,19.0,87.761,2023,Netherlands
+HUL,Haas F1 Team,8.0,0 days 00:01:25.269000,SOFT,8.0,1.0,19.0,85.269,2023,Netherlands
+HUL,Haas F1 Team,9.0,0 days 00:01:22.661000,SOFT,9.0,1.0,18.0,82.661,2023,Netherlands
+HUL,Haas F1 Team,10.0,0 days 00:01:19.062000,SOFT,10.0,1.0,17.0,79.062,2023,Netherlands
+HUL,Haas F1 Team,11.0,0 days 00:01:18.396000,SOFT,11.0,1.0,15.0,78.396,2023,Netherlands
+HUL,Haas F1 Team,12.0,0 days 00:01:17.606000,SOFT,12.0,1.0,15.0,77.606,2023,Netherlands
+HUL,Haas F1 Team,13.0,0 days 00:01:17.641000,SOFT,13.0,1.0,15.0,77.641,2023,Netherlands
+HUL,Haas F1 Team,14.0,0 days 00:01:17.838000,SOFT,14.0,1.0,15.0,77.838,2023,Netherlands
+HUL,Haas F1 Team,15.0,0 days 00:01:17.290000,SOFT,15.0,1.0,15.0,77.29,2023,Netherlands
+HUL,Haas F1 Team,16.0,0 days 00:01:41.193000,SOFT,16.0,1.0,14.0,101.193,2023,Netherlands
+HUL,Haas F1 Team,17.0,0 days 00:02:07.901000,MEDIUM,1.0,2.0,16.0,127.901,2023,Netherlands
+HUL,Haas F1 Team,18.0,0 days 00:01:32.939000,MEDIUM,2.0,2.0,16.0,92.939,2023,Netherlands
+HUL,Haas F1 Team,19.0,0 days 00:02:03.879000,MEDIUM,3.0,2.0,16.0,123.879,2023,Netherlands
+HUL,Haas F1 Team,20.0,0 days 00:01:51.423000,MEDIUM,4.0,2.0,16.0,111.423,2023,Netherlands
+HUL,Haas F1 Team,21.0,0 days 00:01:57.015000,MEDIUM,5.0,2.0,16.0,117.015,2023,Netherlands
+HUL,Haas F1 Team,22.0,0 days 00:01:18.576000,MEDIUM,6.0,2.0,16.0,78.576,2023,Netherlands
+HUL,Haas F1 Team,23.0,0 days 00:01:18.062000,MEDIUM,7.0,2.0,16.0,78.062,2023,Netherlands
+HUL,Haas F1 Team,24.0,0 days 00:01:17.381000,MEDIUM,8.0,2.0,16.0,77.381,2023,Netherlands
+HUL,Haas F1 Team,25.0,0 days 00:01:17.593000,MEDIUM,9.0,2.0,16.0,77.593,2023,Netherlands
+HUL,Haas F1 Team,26.0,0 days 00:01:18.076000,MEDIUM,10.0,2.0,16.0,78.076,2023,Netherlands
+HUL,Haas F1 Team,27.0,0 days 00:01:17.188000,MEDIUM,11.0,2.0,15.0,77.188,2023,Netherlands
+HUL,Haas F1 Team,28.0,0 days 00:01:17.549000,MEDIUM,12.0,2.0,15.0,77.549,2023,Netherlands
+HUL,Haas F1 Team,29.0,0 days 00:01:17.297000,MEDIUM,13.0,2.0,15.0,77.297,2023,Netherlands
+HUL,Haas F1 Team,30.0,0 days 00:01:17.007000,MEDIUM,14.0,2.0,14.0,77.007,2023,Netherlands
+HUL,Haas F1 Team,31.0,0 days 00:01:17.514000,MEDIUM,15.0,2.0,14.0,77.514,2023,Netherlands
+HUL,Haas F1 Team,32.0,0 days 00:01:16.941000,MEDIUM,16.0,2.0,14.0,76.941,2023,Netherlands
+HUL,Haas F1 Team,33.0,0 days 00:01:16.848000,MEDIUM,17.0,2.0,14.0,76.848,2023,Netherlands
+HUL,Haas F1 Team,34.0,0 days 00:01:16.943000,MEDIUM,18.0,2.0,14.0,76.943,2023,Netherlands
+HUL,Haas F1 Team,35.0,0 days 00:01:16.992000,MEDIUM,19.0,2.0,13.0,76.992,2023,Netherlands
+HUL,Haas F1 Team,36.0,0 days 00:01:16.624000,MEDIUM,20.0,2.0,13.0,76.624,2023,Netherlands
+HUL,Haas F1 Team,37.0,0 days 00:01:16.549000,MEDIUM,21.0,2.0,13.0,76.549,2023,Netherlands
+HUL,Haas F1 Team,38.0,0 days 00:01:16.555000,MEDIUM,22.0,2.0,12.0,76.555,2023,Netherlands
+HUL,Haas F1 Team,39.0,0 days 00:01:16.840000,MEDIUM,23.0,2.0,12.0,76.84,2023,Netherlands
+HUL,Haas F1 Team,40.0,0 days 00:01:16.629000,MEDIUM,24.0,2.0,12.0,76.629,2023,Netherlands
+HUL,Haas F1 Team,41.0,0 days 00:01:17.130000,MEDIUM,25.0,2.0,12.0,77.13,2023,Netherlands
+HUL,Haas F1 Team,42.0,0 days 00:01:17.609000,MEDIUM,26.0,2.0,12.0,77.609,2023,Netherlands
+HUL,Haas F1 Team,43.0,0 days 00:01:16.840000,MEDIUM,27.0,2.0,12.0,76.84,2023,Netherlands
+HUL,Haas F1 Team,44.0,0 days 00:01:16.587000,MEDIUM,28.0,2.0,11.0,76.587,2023,Netherlands
+HUL,Haas F1 Team,45.0,0 days 00:01:16.728000,MEDIUM,29.0,2.0,10.0,76.728,2023,Netherlands
+HUL,Haas F1 Team,46.0,0 days 00:01:17.852000,MEDIUM,30.0,2.0,10.0,77.852,2023,Netherlands
+HUL,Haas F1 Team,47.0,0 days 00:01:17.034000,MEDIUM,31.0,2.0,10.0,77.034,2023,Netherlands
+HUL,Haas F1 Team,48.0,0 days 00:01:20.979000,MEDIUM,32.0,2.0,12.0,80.979,2023,Netherlands
+HUL,Haas F1 Team,49.0,0 days 00:01:33.698000,SOFT,1.0,3.0,16.0,93.698,2023,Netherlands
+HUL,Haas F1 Team,50.0,0 days 00:01:14.930000,SOFT,2.0,3.0,16.0,74.93,2023,Netherlands
+HUL,Haas F1 Team,51.0,0 days 00:01:14.986000,SOFT,3.0,3.0,16.0,74.986,2023,Netherlands
+HUL,Haas F1 Team,52.0,0 days 00:01:14.671000,SOFT,4.0,3.0,16.0,74.671,2023,Netherlands
+HUL,Haas F1 Team,53.0,0 days 00:01:14.472000,SOFT,5.0,3.0,16.0,74.472,2023,Netherlands
+HUL,Haas F1 Team,54.0,0 days 00:01:14.986000,SOFT,6.0,3.0,16.0,74.986,2023,Netherlands
+HUL,Haas F1 Team,55.0,0 days 00:01:14.486000,SOFT,7.0,3.0,16.0,74.486,2023,Netherlands
+HUL,Haas F1 Team,56.0,0 days 00:01:14.616000,SOFT,8.0,3.0,15.0,74.616,2023,Netherlands
+HUL,Haas F1 Team,57.0,0 days 00:01:15.014000,SOFT,9.0,3.0,15.0,75.014,2023,Netherlands
+HUL,Haas F1 Team,58.0,0 days 00:01:14.880000,SOFT,10.0,3.0,15.0,74.88,2023,Netherlands
+HUL,Haas F1 Team,59.0,0 days 00:01:15.267000,SOFT,11.0,3.0,15.0,75.267,2023,Netherlands
+HUL,Haas F1 Team,60.0,0 days 00:01:25.354000,SOFT,12.0,3.0,15.0,85.354,2023,Netherlands
+HUL,Haas F1 Team,61.0,0 days 00:01:47.710000,INTERMEDIATE,4.0,4.0,15.0,107.71,2023,Netherlands
+HUL,Haas F1 Team,62.0,0 days 00:01:24.932000,INTERMEDIATE,5.0,4.0,15.0,84.932,2023,Netherlands
+HUL,Haas F1 Team,63.0,0 days 00:02:11.990000,INTERMEDIATE,6.0,4.0,14.0,131.99,2023,Netherlands
+HUL,Haas F1 Team,66.0,0 days 00:02:07.078000,INTERMEDIATE,7.0,6.0,14.0,127.078,2023,Netherlands
+HUL,Haas F1 Team,67.0,0 days 00:01:30.090000,INTERMEDIATE,8.0,6.0,12.0,90.09,2023,Netherlands
+HUL,Haas F1 Team,68.0,0 days 00:01:25.084000,INTERMEDIATE,9.0,6.0,12.0,85.084,2023,Netherlands
+HUL,Haas F1 Team,69.0,0 days 00:01:23.077000,INTERMEDIATE,10.0,6.0,12.0,83.077,2023,Netherlands
+HUL,Haas F1 Team,70.0,0 days 00:01:22.593000,INTERMEDIATE,11.0,6.0,12.0,82.593,2023,Netherlands
+HUL,Haas F1 Team,71.0,0 days 00:01:22.423000,INTERMEDIATE,12.0,6.0,12.0,82.423,2023,Netherlands
+HUL,Haas F1 Team,72.0,0 days 00:01:23.154000,INTERMEDIATE,13.0,6.0,12.0,83.154,2023,Netherlands
+OCO,Alpine,1.0,0 days 00:01:39.075000,SOFT,1.0,1.0,12.0,99.075,2023,Netherlands
+OCO,Alpine,2.0,0 days 00:01:56.975000,SOFT,2.0,1.0,14.0,116.975,2023,Netherlands
+OCO,Alpine,3.0,0 days 00:01:50.095000,INTERMEDIATE,1.0,2.0,17.0,110.095,2023,Netherlands
+OCO,Alpine,4.0,0 days 00:01:26.929000,INTERMEDIATE,2.0,2.0,10.0,86.929,2023,Netherlands
+OCO,Alpine,5.0,0 days 00:01:23.380000,INTERMEDIATE,3.0,2.0,10.0,83.38,2023,Netherlands
+OCO,Alpine,6.0,0 days 00:01:24.049000,INTERMEDIATE,4.0,2.0,10.0,84.049,2023,Netherlands
+OCO,Alpine,7.0,0 days 00:01:23.837000,INTERMEDIATE,5.0,2.0,10.0,83.837,2023,Netherlands
+OCO,Alpine,8.0,0 days 00:01:24.391000,INTERMEDIATE,6.0,2.0,10.0,84.391,2023,Netherlands
+OCO,Alpine,9.0,0 days 00:01:25.007000,INTERMEDIATE,7.0,2.0,9.0,85.007,2023,Netherlands
+OCO,Alpine,10.0,0 days 00:01:29.440000,INTERMEDIATE,8.0,2.0,9.0,89.44,2023,Netherlands
+OCO,Alpine,11.0,0 days 00:01:39.291000,SOFT,1.0,3.0,10.0,99.291,2023,Netherlands
+OCO,Alpine,12.0,0 days 00:01:18.046000,SOFT,2.0,3.0,10.0,78.046,2023,Netherlands
+OCO,Alpine,13.0,0 days 00:01:17.096000,SOFT,3.0,3.0,10.0,77.096,2023,Netherlands
+OCO,Alpine,14.0,0 days 00:01:17.221000,SOFT,4.0,3.0,10.0,77.221,2023,Netherlands
+OCO,Alpine,15.0,0 days 00:01:17.973000,SOFT,5.0,3.0,8.0,77.973,2023,Netherlands
+OCO,Alpine,16.0,0 days 00:01:36.304000,SOFT,6.0,3.0,9.0,96.304,2023,Netherlands
+OCO,Alpine,17.0,0 days 00:01:52.712000,SOFT,7.0,3.0,9.0,112.712,2023,Netherlands
+OCO,Alpine,18.0,0 days 00:01:56.550000,SOFT,8.0,3.0,9.0,116.55,2023,Netherlands
+OCO,Alpine,19.0,0 days 00:02:00.361000,SOFT,9.0,3.0,9.0,120.361,2023,Netherlands
+OCO,Alpine,20.0,0 days 00:01:56.510000,SOFT,10.0,3.0,9.0,116.51,2023,Netherlands
+OCO,Alpine,21.0,0 days 00:02:00.315000,SOFT,11.0,3.0,9.0,120.315,2023,Netherlands
+OCO,Alpine,22.0,0 days 00:01:19.020000,SOFT,12.0,3.0,9.0,79.02,2023,Netherlands
+OCO,Alpine,23.0,0 days 00:01:17.859000,SOFT,13.0,3.0,9.0,77.859,2023,Netherlands
+OCO,Alpine,24.0,0 days 00:01:16.743000,SOFT,14.0,3.0,8.0,76.743,2023,Netherlands
+OCO,Alpine,25.0,0 days 00:01:16.735000,SOFT,15.0,3.0,8.0,76.735,2023,Netherlands
+OCO,Alpine,26.0,0 days 00:01:17.040000,SOFT,16.0,3.0,8.0,77.04,2023,Netherlands
+OCO,Alpine,27.0,0 days 00:01:16.343000,SOFT,17.0,3.0,7.0,76.343,2023,Netherlands
+OCO,Alpine,28.0,0 days 00:01:16.641000,SOFT,18.0,3.0,7.0,76.641,2023,Netherlands
+OCO,Alpine,29.0,0 days 00:01:16.572000,SOFT,19.0,3.0,7.0,76.572,2023,Netherlands
+OCO,Alpine,30.0,0 days 00:01:16.344000,SOFT,20.0,3.0,7.0,76.344,2023,Netherlands
+OCO,Alpine,31.0,0 days 00:01:16.468000,SOFT,21.0,3.0,7.0,76.468,2023,Netherlands
+OCO,Alpine,32.0,0 days 00:01:16.401000,SOFT,22.0,3.0,7.0,76.401,2023,Netherlands
+OCO,Alpine,33.0,0 days 00:01:16.223000,SOFT,23.0,3.0,7.0,76.223,2023,Netherlands
+OCO,Alpine,34.0,0 days 00:01:16.305000,SOFT,24.0,3.0,7.0,76.305,2023,Netherlands
+OCO,Alpine,35.0,0 days 00:01:16.254000,SOFT,25.0,3.0,7.0,76.254,2023,Netherlands
+OCO,Alpine,36.0,0 days 00:01:16.336000,SOFT,26.0,3.0,7.0,76.336,2023,Netherlands
+OCO,Alpine,37.0,0 days 00:01:16.116000,SOFT,27.0,3.0,7.0,76.116,2023,Netherlands
+OCO,Alpine,38.0,0 days 00:01:16.217000,SOFT,28.0,3.0,7.0,76.217,2023,Netherlands
+OCO,Alpine,39.0,0 days 00:01:16.868000,SOFT,29.0,3.0,7.0,76.868,2023,Netherlands
+OCO,Alpine,40.0,0 days 00:01:16.526000,SOFT,30.0,3.0,7.0,76.526,2023,Netherlands
+OCO,Alpine,41.0,0 days 00:01:16.671000,SOFT,31.0,3.0,7.0,76.671,2023,Netherlands
+OCO,Alpine,42.0,0 days 00:01:16.810000,SOFT,32.0,3.0,6.0,76.81,2023,Netherlands
+OCO,Alpine,43.0,0 days 00:01:20.543000,SOFT,33.0,3.0,7.0,80.543,2023,Netherlands
+OCO,Alpine,44.0,0 days 00:01:33,SOFT,1.0,4.0,12.0,93.0,2023,Netherlands
+OCO,Alpine,45.0,0 days 00:01:15.657000,SOFT,2.0,4.0,12.0,75.657,2023,Netherlands
+OCO,Alpine,46.0,0 days 00:01:15.362000,SOFT,3.0,4.0,11.0,75.362,2023,Netherlands
+OCO,Alpine,47.0,0 days 00:01:15.534000,SOFT,4.0,4.0,9.0,75.534,2023,Netherlands
+OCO,Alpine,48.0,0 days 00:01:14.854000,SOFT,5.0,4.0,9.0,74.854,2023,Netherlands
+OCO,Alpine,49.0,0 days 00:01:14.916000,SOFT,6.0,4.0,9.0,74.916,2023,Netherlands
+OCO,Alpine,50.0,0 days 00:01:14.842000,SOFT,7.0,4.0,9.0,74.842,2023,Netherlands
+OCO,Alpine,51.0,0 days 00:01:14.570000,SOFT,8.0,4.0,9.0,74.57,2023,Netherlands
+OCO,Alpine,52.0,0 days 00:01:14.836000,SOFT,9.0,4.0,8.0,74.836,2023,Netherlands
+OCO,Alpine,53.0,0 days 00:01:16.707000,SOFT,10.0,4.0,8.0,76.707,2023,Netherlands
+OCO,Alpine,54.0,0 days 00:01:15.386000,SOFT,11.0,4.0,8.0,75.386,2023,Netherlands
+OCO,Alpine,55.0,0 days 00:01:15.169000,SOFT,12.0,4.0,8.0,75.169,2023,Netherlands
+OCO,Alpine,56.0,0 days 00:01:14.953000,SOFT,13.0,4.0,8.0,74.953,2023,Netherlands
+OCO,Alpine,57.0,0 days 00:01:15.023000,SOFT,14.0,4.0,7.0,75.023,2023,Netherlands
+OCO,Alpine,58.0,0 days 00:01:15.975000,SOFT,15.0,4.0,9.0,75.975,2023,Netherlands
+OCO,Alpine,59.0,0 days 00:01:15.294000,SOFT,16.0,4.0,8.0,75.294,2023,Netherlands
+OCO,Alpine,60.0,0 days 00:01:16.993000,SOFT,17.0,4.0,7.0,76.993,2023,Netherlands
+OCO,Alpine,61.0,0 days 00:01:33.888000,SOFT,18.0,4.0,6.0,93.888,2023,Netherlands
+OCO,Alpine,62.0,0 days 00:01:48.996000,WET,1.0,5.0,11.0,108.996,2023,Netherlands
+OCO,Alpine,63.0,0 days 00:02:01.555000,WET,2.0,5.0,11.0,121.555,2023,Netherlands
+OCO,Alpine,66.0,0 days 00:02:08.716000,INTERMEDIATE,3.0,7.0,10.0,128.716,2023,Netherlands
+OCO,Alpine,67.0,0 days 00:01:29.320000,INTERMEDIATE,4.0,7.0,10.0,89.32,2023,Netherlands
+OCO,Alpine,68.0,0 days 00:01:25.058000,INTERMEDIATE,5.0,7.0,10.0,85.058,2023,Netherlands
+OCO,Alpine,69.0,0 days 00:01:23.178000,INTERMEDIATE,6.0,7.0,10.0,83.178,2023,Netherlands
+OCO,Alpine,70.0,0 days 00:01:22.476000,INTERMEDIATE,7.0,7.0,10.0,82.476,2023,Netherlands
+OCO,Alpine,71.0,0 days 00:01:22.487000,INTERMEDIATE,8.0,7.0,10.0,82.487,2023,Netherlands
+OCO,Alpine,72.0,0 days 00:01:23.205000,INTERMEDIATE,9.0,7.0,10.0,83.205,2023,Netherlands
+NOR,McLaren,1.0,0 days 00:01:32.227000,SOFT,1.0,1.0,2.0,92.227,2023,Netherlands
+NOR,McLaren,2.0,0 days 00:01:47.848000,SOFT,2.0,1.0,1.0,107.848,2023,Netherlands
+NOR,McLaren,3.0,0 days 00:01:55.144000,SOFT,3.0,1.0,10.0,115.144,2023,Netherlands
+NOR,McLaren,4.0,0 days 00:01:47.537000,INTERMEDIATE,1.0,2.0,15.0,107.537,2023,Netherlands
+NOR,McLaren,5.0,0 days 00:01:23.686000,INTERMEDIATE,2.0,2.0,12.0,83.686,2023,Netherlands
+NOR,McLaren,6.0,0 days 00:01:22.403000,INTERMEDIATE,3.0,2.0,12.0,82.403,2023,Netherlands
+NOR,McLaren,7.0,0 days 00:01:23.048000,INTERMEDIATE,4.0,2.0,12.0,83.048,2023,Netherlands
+NOR,McLaren,8.0,0 days 00:01:25.236000,INTERMEDIATE,5.0,2.0,12.0,85.236,2023,Netherlands
+NOR,McLaren,9.0,0 days 00:01:24.392000,INTERMEDIATE,6.0,2.0,11.0,84.392,2023,Netherlands
+NOR,McLaren,10.0,0 days 00:01:28.506000,INTERMEDIATE,7.0,2.0,10.0,88.506,2023,Netherlands
+NOR,McLaren,11.0,0 days 00:01:38.110000,SOFT,2.0,3.0,13.0,98.11,2023,Netherlands
+NOR,McLaren,12.0,0 days 00:01:16.654000,SOFT,3.0,3.0,12.0,76.654,2023,Netherlands
+NOR,McLaren,13.0,0 days 00:01:16.200000,SOFT,4.0,3.0,12.0,76.2,2023,Netherlands
+NOR,McLaren,14.0,0 days 00:01:16.230000,SOFT,5.0,3.0,12.0,76.23,2023,Netherlands
+NOR,McLaren,15.0,0 days 00:01:16.929000,SOFT,6.0,3.0,11.0,76.929,2023,Netherlands
+NOR,McLaren,16.0,0 days 00:01:39.443000,SOFT,7.0,3.0,11.0,99.443,2023,Netherlands
+NOR,McLaren,17.0,0 days 00:01:52.778000,SOFT,8.0,3.0,11.0,112.778,2023,Netherlands
+NOR,McLaren,18.0,0 days 00:01:54.245000,SOFT,9.0,3.0,11.0,114.245,2023,Netherlands
+NOR,McLaren,19.0,0 days 00:02:01.374000,SOFT,10.0,3.0,11.0,121.374,2023,Netherlands
+NOR,McLaren,20.0,0 days 00:01:55.853000,SOFT,11.0,3.0,11.0,115.853,2023,Netherlands
+NOR,McLaren,21.0,0 days 00:01:58.462000,SOFT,12.0,3.0,11.0,118.462,2023,Netherlands
+NOR,McLaren,22.0,0 days 00:01:19.060000,SOFT,13.0,3.0,11.0,79.06,2023,Netherlands
+NOR,McLaren,23.0,0 days 00:01:18.442000,SOFT,14.0,3.0,11.0,78.442,2023,Netherlands
+NOR,McLaren,24.0,0 days 00:01:17.416000,SOFT,15.0,3.0,11.0,77.416,2023,Netherlands
+NOR,McLaren,25.0,0 days 00:01:17.363000,SOFT,16.0,3.0,11.0,77.363,2023,Netherlands
+NOR,McLaren,26.0,0 days 00:01:16.896000,SOFT,17.0,3.0,11.0,76.896,2023,Netherlands
+NOR,McLaren,27.0,0 days 00:01:16.797000,SOFT,18.0,3.0,11.0,76.797,2023,Netherlands
+NOR,McLaren,28.0,0 days 00:01:16.582000,SOFT,19.0,3.0,10.0,76.582,2023,Netherlands
+NOR,McLaren,29.0,0 days 00:01:17.107000,SOFT,20.0,3.0,10.0,77.107,2023,Netherlands
+NOR,McLaren,30.0,0 days 00:01:16.372000,SOFT,21.0,3.0,10.0,76.372,2023,Netherlands
+NOR,McLaren,31.0,0 days 00:01:17.013000,SOFT,22.0,3.0,10.0,77.013,2023,Netherlands
+NOR,McLaren,32.0,0 days 00:01:16.416000,SOFT,23.0,3.0,9.0,76.416,2023,Netherlands
+NOR,McLaren,33.0,0 days 00:01:16.373000,SOFT,24.0,3.0,9.0,76.373,2023,Netherlands
+NOR,McLaren,34.0,0 days 00:01:16.541000,SOFT,25.0,3.0,9.0,76.541,2023,Netherlands
+NOR,McLaren,35.0,0 days 00:01:16.032000,SOFT,26.0,3.0,9.0,76.032,2023,Netherlands
+NOR,McLaren,36.0,0 days 00:01:16.606000,SOFT,27.0,3.0,9.0,76.606,2023,Netherlands
+NOR,McLaren,37.0,0 days 00:01:16.473000,SOFT,28.0,3.0,9.0,76.473,2023,Netherlands
+NOR,McLaren,38.0,0 days 00:01:16.443000,SOFT,29.0,3.0,9.0,76.443,2023,Netherlands
+NOR,McLaren,39.0,0 days 00:01:16.633000,SOFT,30.0,3.0,9.0,76.633,2023,Netherlands
+NOR,McLaren,40.0,0 days 00:01:16.347000,SOFT,31.0,3.0,9.0,76.347,2023,Netherlands
+NOR,McLaren,41.0,0 days 00:01:16.562000,SOFT,32.0,3.0,9.0,76.562,2023,Netherlands
+NOR,McLaren,42.0,0 days 00:01:20.165000,SOFT,33.0,3.0,10.0,80.165,2023,Netherlands
+NOR,McLaren,43.0,0 days 00:01:32.039000,SOFT,4.0,4.0,14.0,92.039,2023,Netherlands
+NOR,McLaren,44.0,0 days 00:01:14.905000,SOFT,5.0,4.0,14.0,74.905,2023,Netherlands
+NOR,McLaren,45.0,0 days 00:01:15.779000,SOFT,6.0,4.0,13.0,75.779,2023,Netherlands
+NOR,McLaren,46.0,0 days 00:01:15.141000,SOFT,7.0,4.0,12.0,75.141,2023,Netherlands
+NOR,McLaren,47.0,0 days 00:01:15.088000,SOFT,8.0,4.0,11.0,75.088,2023,Netherlands
+NOR,McLaren,48.0,0 days 00:01:15.015000,SOFT,9.0,4.0,10.0,75.015,2023,Netherlands
+NOR,McLaren,49.0,0 days 00:01:14.804000,SOFT,10.0,4.0,10.0,74.804,2023,Netherlands
+NOR,McLaren,50.0,0 days 00:01:14.390000,SOFT,11.0,4.0,10.0,74.39,2023,Netherlands
+NOR,McLaren,51.0,0 days 00:01:14.625000,SOFT,12.0,4.0,10.0,74.625,2023,Netherlands
+NOR,McLaren,52.0,0 days 00:01:14.882000,SOFT,13.0,4.0,10.0,74.882,2023,Netherlands
+NOR,McLaren,53.0,0 days 00:01:16.790000,SOFT,14.0,4.0,10.0,76.79,2023,Netherlands
+NOR,McLaren,54.0,0 days 00:01:16.853000,SOFT,15.0,4.0,10.0,76.853,2023,Netherlands
+NOR,McLaren,55.0,0 days 00:01:14.997000,SOFT,16.0,4.0,9.0,74.997,2023,Netherlands
+NOR,McLaren,56.0,0 days 00:01:16.156000,SOFT,17.0,4.0,10.0,76.156,2023,Netherlands
+NOR,McLaren,57.0,0 days 00:01:15.052000,SOFT,18.0,4.0,10.0,75.052,2023,Netherlands
+NOR,McLaren,58.0,0 days 00:01:15.076000,SOFT,19.0,4.0,10.0,75.076,2023,Netherlands
+NOR,McLaren,59.0,0 days 00:01:15.085000,SOFT,20.0,4.0,10.0,75.085,2023,Netherlands
+NOR,McLaren,60.0,0 days 00:01:21.174000,SOFT,21.0,4.0,9.0,81.174,2023,Netherlands
+NOR,McLaren,61.0,0 days 00:01:40.285000,INTERMEDIATE,5.0,5.0,9.0,100.285,2023,Netherlands
+NOR,McLaren,62.0,0 days 00:01:22.488000,INTERMEDIATE,6.0,5.0,7.0,82.488,2023,Netherlands
+NOR,McLaren,63.0,0 days 00:01:51.321000,INTERMEDIATE,7.0,5.0,7.0,111.321,2023,Netherlands
+NOR,McLaren,66.0,0 days 00:02:13.838000,INTERMEDIATE,14.0,7.0,7.0,133.838,2023,Netherlands
+NOR,McLaren,67.0,0 days 00:01:28.463000,INTERMEDIATE,15.0,7.0,7.0,88.463,2023,Netherlands
+NOR,McLaren,68.0,0 days 00:01:24.530000,INTERMEDIATE,16.0,7.0,7.0,84.53,2023,Netherlands
+NOR,McLaren,69.0,0 days 00:01:22.506000,INTERMEDIATE,17.0,7.0,7.0,82.506,2023,Netherlands
+NOR,McLaren,70.0,0 days 00:01:22.490000,INTERMEDIATE,18.0,7.0,7.0,82.49,2023,Netherlands
+NOR,McLaren,71.0,0 days 00:01:22.130000,INTERMEDIATE,19.0,7.0,7.0,82.13,2023,Netherlands
+NOR,McLaren,72.0,0 days 00:01:22.241000,INTERMEDIATE,20.0,7.0,7.0,82.241,2023,Netherlands
+LAW,AlphaTauri,1.0,0 days 00:01:50.452000,SOFT,1.0,1.0,19.0,110.452,2023,Netherlands
+LAW,AlphaTauri,2.0,0 days 00:02:09.963000,INTERMEDIATE,6.0,2.0,20.0,129.963,2023,Netherlands
+LAW,AlphaTauri,3.0,0 days 00:01:26.818000,INTERMEDIATE,7.0,2.0,18.0,86.818,2023,Netherlands
+LAW,AlphaTauri,4.0,0 days 00:01:28.443000,INTERMEDIATE,8.0,2.0,11.0,88.443,2023,Netherlands
+LAW,AlphaTauri,5.0,0 days 00:01:25.079000,INTERMEDIATE,9.0,2.0,11.0,85.079,2023,Netherlands
+LAW,AlphaTauri,6.0,0 days 00:01:24.796000,INTERMEDIATE,10.0,2.0,11.0,84.796,2023,Netherlands
+LAW,AlphaTauri,7.0,0 days 00:01:25.370000,INTERMEDIATE,11.0,2.0,11.0,85.37,2023,Netherlands
+LAW,AlphaTauri,8.0,0 days 00:01:25.898000,INTERMEDIATE,12.0,2.0,11.0,85.898,2023,Netherlands
+LAW,AlphaTauri,9.0,0 days 00:01:27.417000,INTERMEDIATE,13.0,2.0,12.0,87.417,2023,Netherlands
+LAW,AlphaTauri,10.0,0 days 00:01:30.194000,INTERMEDIATE,14.0,2.0,11.0,90.194,2023,Netherlands
+LAW,AlphaTauri,11.0,0 days 00:01:50.916000,SOFT,1.0,3.0,17.0,110.916,2023,Netherlands
+LAW,AlphaTauri,12.0,0 days 00:01:18.834000,SOFT,2.0,3.0,17.0,78.834,2023,Netherlands
+LAW,AlphaTauri,13.0,0 days 00:01:18.430000,SOFT,3.0,3.0,17.0,78.43,2023,Netherlands
+LAW,AlphaTauri,14.0,0 days 00:01:18.261000,SOFT,4.0,3.0,17.0,78.261,2023,Netherlands
+LAW,AlphaTauri,15.0,0 days 00:01:17.473000,SOFT,5.0,3.0,17.0,77.473,2023,Netherlands
+LAW,AlphaTauri,16.0,0 days 00:01:46.185000,SOFT,6.0,3.0,17.0,106.185,2023,Netherlands
+LAW,AlphaTauri,17.0,0 days 00:01:54.595000,SOFT,7.0,3.0,17.0,114.595,2023,Netherlands
+LAW,AlphaTauri,18.0,0 days 00:01:49.796000,MEDIUM,1.0,4.0,18.0,109.796,2023,Netherlands
+LAW,AlphaTauri,19.0,0 days 00:01:48.409000,MEDIUM,2.0,4.0,18.0,108.409,2023,Netherlands
+LAW,AlphaTauri,20.0,0 days 00:01:50.092000,MEDIUM,3.0,4.0,18.0,110.092,2023,Netherlands
+LAW,AlphaTauri,21.0,0 days 00:01:54.003000,MEDIUM,4.0,4.0,17.0,114.003,2023,Netherlands
+LAW,AlphaTauri,22.0,0 days 00:01:18.517000,MEDIUM,5.0,4.0,17.0,78.517,2023,Netherlands
+LAW,AlphaTauri,23.0,0 days 00:01:18.354000,MEDIUM,6.0,4.0,17.0,78.354,2023,Netherlands
+LAW,AlphaTauri,24.0,0 days 00:01:17.626000,MEDIUM,7.0,4.0,17.0,77.626,2023,Netherlands
+LAW,AlphaTauri,25.0,0 days 00:01:18.141000,MEDIUM,8.0,4.0,18.0,78.141,2023,Netherlands
+LAW,AlphaTauri,26.0,0 days 00:01:17.743000,MEDIUM,9.0,4.0,18.0,77.743,2023,Netherlands
+LAW,AlphaTauri,27.0,0 days 00:01:17.554000,MEDIUM,10.0,4.0,18.0,77.554,2023,Netherlands
+LAW,AlphaTauri,28.0,0 days 00:01:17.525000,MEDIUM,11.0,4.0,18.0,77.525,2023,Netherlands
+LAW,AlphaTauri,29.0,0 days 00:01:17.593000,MEDIUM,12.0,4.0,18.0,77.593,2023,Netherlands
+LAW,AlphaTauri,30.0,0 days 00:01:17.733000,MEDIUM,13.0,4.0,18.0,77.733,2023,Netherlands
+LAW,AlphaTauri,31.0,0 days 00:01:17.583000,MEDIUM,14.0,4.0,18.0,77.583,2023,Netherlands
+LAW,AlphaTauri,32.0,0 days 00:01:17.266000,MEDIUM,15.0,4.0,18.0,77.266,2023,Netherlands
+LAW,AlphaTauri,33.0,0 days 00:01:17.547000,MEDIUM,16.0,4.0,18.0,77.547,2023,Netherlands
+LAW,AlphaTauri,34.0,0 days 00:01:17.778000,MEDIUM,17.0,4.0,18.0,77.778,2023,Netherlands
+LAW,AlphaTauri,35.0,0 days 00:01:17.577000,MEDIUM,18.0,4.0,18.0,77.577,2023,Netherlands
+LAW,AlphaTauri,36.0,0 days 00:01:17.228000,MEDIUM,19.0,4.0,17.0,77.228,2023,Netherlands
+LAW,AlphaTauri,37.0,0 days 00:01:17.373000,MEDIUM,20.0,4.0,17.0,77.373,2023,Netherlands
+LAW,AlphaTauri,38.0,0 days 00:01:17.529000,MEDIUM,21.0,4.0,16.0,77.529,2023,Netherlands
+LAW,AlphaTauri,39.0,0 days 00:01:17.876000,MEDIUM,22.0,4.0,16.0,77.876,2023,Netherlands
+LAW,AlphaTauri,40.0,0 days 00:01:17.692000,MEDIUM,23.0,4.0,15.0,77.692,2023,Netherlands
+LAW,AlphaTauri,41.0,0 days 00:01:18.887000,MEDIUM,24.0,4.0,15.0,78.887,2023,Netherlands
+LAW,AlphaTauri,42.0,0 days 00:01:17.130000,MEDIUM,25.0,4.0,15.0,77.13,2023,Netherlands
+LAW,AlphaTauri,43.0,0 days 00:01:16.925000,MEDIUM,26.0,4.0,15.0,76.925,2023,Netherlands
+LAW,AlphaTauri,44.0,0 days 00:01:16.975000,MEDIUM,27.0,4.0,15.0,76.975,2023,Netherlands
+LAW,AlphaTauri,45.0,0 days 00:01:18.021000,MEDIUM,28.0,4.0,16.0,78.021,2023,Netherlands
+LAW,AlphaTauri,46.0,0 days 00:01:20.281000,MEDIUM,29.0,4.0,18.0,80.281,2023,Netherlands
+LAW,AlphaTauri,47.0,0 days 00:01:33.458000,SOFT,1.0,5.0,18.0,93.458,2023,Netherlands
+LAW,AlphaTauri,48.0,0 days 00:01:15.008000,SOFT,2.0,5.0,18.0,75.008,2023,Netherlands
+LAW,AlphaTauri,49.0,0 days 00:01:14.820000,SOFT,3.0,5.0,18.0,74.82,2023,Netherlands
+LAW,AlphaTauri,50.0,0 days 00:01:15.040000,SOFT,4.0,5.0,18.0,75.04,2023,Netherlands
+LAW,AlphaTauri,51.0,0 days 00:01:15.065000,SOFT,5.0,5.0,18.0,75.065,2023,Netherlands
+LAW,AlphaTauri,52.0,0 days 00:01:15.253000,SOFT,6.0,5.0,18.0,75.253,2023,Netherlands
+LAW,AlphaTauri,53.0,0 days 00:01:15.120000,SOFT,7.0,5.0,18.0,75.12,2023,Netherlands
+LAW,AlphaTauri,54.0,0 days 00:01:15.308000,SOFT,8.0,5.0,18.0,75.308,2023,Netherlands
+LAW,AlphaTauri,55.0,0 days 00:01:15.364000,SOFT,9.0,5.0,18.0,75.364,2023,Netherlands
+LAW,AlphaTauri,56.0,0 days 00:01:15.425000,SOFT,10.0,5.0,18.0,75.425,2023,Netherlands
+LAW,AlphaTauri,57.0,0 days 00:01:15.432000,SOFT,11.0,5.0,18.0,75.432,2023,Netherlands
+LAW,AlphaTauri,58.0,0 days 00:01:15.081000,SOFT,12.0,5.0,18.0,75.081,2023,Netherlands
+LAW,AlphaTauri,59.0,0 days 00:01:19.266000,SOFT,13.0,5.0,18.0,79.266,2023,Netherlands
+LAW,AlphaTauri,60.0,0 days 00:01:40.943000,INTERMEDIATE,1.0,6.0,18.0,100.943,2023,Netherlands
+LAW,AlphaTauri,61.0,0 days 00:01:24.989000,INTERMEDIATE,2.0,6.0,17.0,84.989,2023,Netherlands
+LAW,AlphaTauri,62.0,0 days 00:01:27.438000,INTERMEDIATE,3.0,6.0,17.0,87.438,2023,Netherlands
+LAW,AlphaTauri,63.0,0 days 00:02:21.288000,INTERMEDIATE,4.0,6.0,16.0,141.288,2023,Netherlands
+LAW,AlphaTauri,66.0,0 days 00:02:03.419000,INTERMEDIATE,10.0,8.0,16.0,123.419,2023,Netherlands
+LAW,AlphaTauri,67.0,0 days 00:01:29.528000,INTERMEDIATE,11.0,8.0,14.0,89.528,2023,Netherlands
+LAW,AlphaTauri,68.0,0 days 00:01:26.291000,INTERMEDIATE,12.0,8.0,14.0,86.291,2023,Netherlands
+LAW,AlphaTauri,69.0,0 days 00:01:24.068000,INTERMEDIATE,13.0,8.0,14.0,84.068,2023,Netherlands
+LAW,AlphaTauri,70.0,0 days 00:01:23.296000,INTERMEDIATE,14.0,8.0,14.0,83.296,2023,Netherlands
+LAW,AlphaTauri,71.0,0 days 00:01:24.122000,INTERMEDIATE,15.0,8.0,14.0,84.122,2023,Netherlands
+LAW,AlphaTauri,72.0,0 days 00:01:23.592000,INTERMEDIATE,16.0,8.0,14.0,83.592,2023,Netherlands
+HAM,Mercedes,1.0,0 days 00:01:38.801000,MEDIUM,1.0,1.0,11.0,98.801,2023,Netherlands
+HAM,Mercedes,2.0,0 days 00:01:54.350000,MEDIUM,2.0,1.0,12.0,114.35,2023,Netherlands
+HAM,Mercedes,3.0,0 days 00:01:59.015000,MEDIUM,3.0,1.0,20.0,119.015,2023,Netherlands
+HAM,Mercedes,4.0,0 days 00:01:43.298000,INTERMEDIATE,1.0,2.0,19.0,103.298,2023,Netherlands
+HAM,Mercedes,5.0,0 days 00:01:26.048000,INTERMEDIATE,2.0,2.0,13.0,86.048,2023,Netherlands
+HAM,Mercedes,6.0,0 days 00:01:24.326000,INTERMEDIATE,3.0,2.0,13.0,84.326,2023,Netherlands
+HAM,Mercedes,7.0,0 days 00:01:24.843000,INTERMEDIATE,4.0,2.0,13.0,84.843,2023,Netherlands
+HAM,Mercedes,8.0,0 days 00:01:24.291000,INTERMEDIATE,5.0,2.0,13.0,84.291,2023,Netherlands
+HAM,Mercedes,9.0,0 days 00:01:28.443000,INTERMEDIATE,6.0,2.0,13.0,88.443,2023,Netherlands
+HAM,Mercedes,10.0,0 days 00:01:39.738000,SOFT,1.0,3.0,18.0,99.738,2023,Netherlands
+HAM,Mercedes,11.0,0 days 00:01:18.902000,SOFT,2.0,3.0,16.0,78.902,2023,Netherlands
+HAM,Mercedes,12.0,0 days 00:01:18.597000,SOFT,3.0,3.0,16.0,78.597,2023,Netherlands
+HAM,Mercedes,13.0,0 days 00:01:16.887000,SOFT,4.0,3.0,16.0,76.887,2023,Netherlands
+HAM,Mercedes,14.0,0 days 00:01:16.420000,SOFT,5.0,3.0,16.0,76.42,2023,Netherlands
+HAM,Mercedes,15.0,0 days 00:01:15.905000,SOFT,6.0,3.0,16.0,75.905,2023,Netherlands
+HAM,Mercedes,16.0,0 days 00:01:39.014000,SOFT,7.0,3.0,15.0,99.014,2023,Netherlands
+HAM,Mercedes,17.0,0 days 00:01:52.338000,SOFT,8.0,3.0,13.0,112.338,2023,Netherlands
+HAM,Mercedes,18.0,0 days 00:01:41.926000,SOFT,9.0,3.0,13.0,101.926,2023,Netherlands
+HAM,Mercedes,19.0,0 days 00:02:02.642000,SOFT,10.0,3.0,13.0,122.642,2023,Netherlands
+HAM,Mercedes,20.0,0 days 00:01:54.749000,SOFT,11.0,3.0,13.0,114.749,2023,Netherlands
+HAM,Mercedes,21.0,0 days 00:01:56.892000,SOFT,12.0,3.0,13.0,116.892,2023,Netherlands
+HAM,Mercedes,22.0,0 days 00:01:19.143000,SOFT,13.0,3.0,13.0,79.143,2023,Netherlands
+HAM,Mercedes,23.0,0 days 00:01:18.286000,SOFT,14.0,3.0,13.0,78.286,2023,Netherlands
+HAM,Mercedes,24.0,0 days 00:01:17.611000,SOFT,15.0,3.0,13.0,77.611,2023,Netherlands
+HAM,Mercedes,25.0,0 days 00:01:17.602000,SOFT,16.0,3.0,13.0,77.602,2023,Netherlands
+HAM,Mercedes,26.0,0 days 00:01:16.243000,SOFT,17.0,3.0,12.0,76.243,2023,Netherlands
+HAM,Mercedes,27.0,0 days 00:01:16.674000,SOFT,18.0,3.0,12.0,76.674,2023,Netherlands
+HAM,Mercedes,28.0,0 days 00:01:17.343000,SOFT,19.0,3.0,12.0,77.343,2023,Netherlands
+HAM,Mercedes,29.0,0 days 00:01:16.294000,SOFT,20.0,3.0,11.0,76.294,2023,Netherlands
+HAM,Mercedes,30.0,0 days 00:01:16.400000,SOFT,21.0,3.0,11.0,76.4,2023,Netherlands
+HAM,Mercedes,31.0,0 days 00:01:16.993000,SOFT,22.0,3.0,11.0,76.993,2023,Netherlands
+HAM,Mercedes,32.0,0 days 00:01:17.218000,SOFT,23.0,3.0,11.0,77.218,2023,Netherlands
+HAM,Mercedes,33.0,0 days 00:01:16.473000,SOFT,24.0,3.0,10.0,76.473,2023,Netherlands
+HAM,Mercedes,34.0,0 days 00:01:15.862000,SOFT,25.0,3.0,10.0,75.862,2023,Netherlands
+HAM,Mercedes,35.0,0 days 00:01:15.996000,SOFT,26.0,3.0,10.0,75.996,2023,Netherlands
+HAM,Mercedes,36.0,0 days 00:01:16.497000,SOFT,27.0,3.0,10.0,76.497,2023,Netherlands
+HAM,Mercedes,37.0,0 days 00:01:16.528000,SOFT,28.0,3.0,10.0,76.528,2023,Netherlands
+HAM,Mercedes,38.0,0 days 00:01:16.392000,SOFT,29.0,3.0,10.0,76.392,2023,Netherlands
+HAM,Mercedes,39.0,0 days 00:01:16.519000,SOFT,30.0,3.0,10.0,76.519,2023,Netherlands
+HAM,Mercedes,40.0,0 days 00:01:16.533000,SOFT,31.0,3.0,10.0,76.533,2023,Netherlands
+HAM,Mercedes,41.0,0 days 00:01:16.439000,SOFT,32.0,3.0,10.0,76.439,2023,Netherlands
+HAM,Mercedes,42.0,0 days 00:01:16.583000,SOFT,33.0,3.0,8.0,76.583,2023,Netherlands
+HAM,Mercedes,43.0,0 days 00:01:15.729000,SOFT,34.0,3.0,8.0,75.729,2023,Netherlands
+HAM,Mercedes,44.0,0 days 00:01:16.500000,SOFT,35.0,3.0,7.0,76.5,2023,Netherlands
+HAM,Mercedes,45.0,0 days 00:01:19.832000,SOFT,36.0,3.0,8.0,79.832,2023,Netherlands
+HAM,Mercedes,46.0,0 days 00:01:32.479000,SOFT,1.0,4.0,14.0,92.479,2023,Netherlands
+HAM,Mercedes,47.0,0 days 00:01:15.182000,SOFT,2.0,4.0,12.0,75.182,2023,Netherlands
+HAM,Mercedes,48.0,0 days 00:01:14.729000,SOFT,3.0,4.0,11.0,74.729,2023,Netherlands
+HAM,Mercedes,49.0,0 days 00:01:14.708000,SOFT,4.0,4.0,11.0,74.708,2023,Netherlands
+HAM,Mercedes,50.0,0 days 00:01:14.874000,SOFT,5.0,4.0,11.0,74.874,2023,Netherlands
+HAM,Mercedes,51.0,0 days 00:01:14.327000,SOFT,6.0,4.0,11.0,74.327,2023,Netherlands
+HAM,Mercedes,52.0,0 days 00:01:14.614000,SOFT,7.0,4.0,11.0,74.614,2023,Netherlands
+HAM,Mercedes,53.0,0 days 00:01:14.621000,SOFT,8.0,4.0,11.0,74.621,2023,Netherlands
+HAM,Mercedes,54.0,0 days 00:01:15.922000,SOFT,9.0,4.0,11.0,75.922,2023,Netherlands
+HAM,Mercedes,55.0,0 days 00:01:14.838000,SOFT,10.0,4.0,10.0,74.838,2023,Netherlands
+HAM,Mercedes,56.0,0 days 00:01:14.163000,SOFT,11.0,4.0,9.0,74.163,2023,Netherlands
+HAM,Mercedes,57.0,0 days 00:01:13.963000,SOFT,12.0,4.0,8.0,73.963,2023,Netherlands
+HAM,Mercedes,58.0,0 days 00:01:13.904000,SOFT,13.0,4.0,7.0,73.904,2023,Netherlands
+HAM,Mercedes,59.0,0 days 00:01:15.670000,SOFT,14.0,4.0,7.0,75.67,2023,Netherlands
+HAM,Mercedes,60.0,0 days 00:01:19.871000,SOFT,15.0,4.0,8.0,79.871,2023,Netherlands
+HAM,Mercedes,61.0,0 days 00:01:40.266000,INTERMEDIATE,7.0,5.0,8.0,100.266,2023,Netherlands
+HAM,Mercedes,62.0,0 days 00:01:22.067000,INTERMEDIATE,8.0,5.0,6.0,82.067,2023,Netherlands
+HAM,Mercedes,63.0,0 days 00:01:38.708000,INTERMEDIATE,9.0,5.0,6.0,98.708,2023,Netherlands
+HAM,Mercedes,66.0,0 days 00:02:14.532000,INTERMEDIATE,8.0,6.0,6.0,134.532,2023,Netherlands
+HAM,Mercedes,67.0,0 days 00:01:28.708000,INTERMEDIATE,9.0,6.0,6.0,88.708,2023,Netherlands
+HAM,Mercedes,68.0,0 days 00:01:24.340000,INTERMEDIATE,10.0,6.0,6.0,84.34,2023,Netherlands
+HAM,Mercedes,69.0,0 days 00:01:22.802000,INTERMEDIATE,11.0,6.0,6.0,82.802,2023,Netherlands
+HAM,Mercedes,70.0,0 days 00:01:22.446000,INTERMEDIATE,12.0,6.0,6.0,82.446,2023,Netherlands
+HAM,Mercedes,71.0,0 days 00:01:22.001000,INTERMEDIATE,13.0,6.0,6.0,82.001,2023,Netherlands
+HAM,Mercedes,72.0,0 days 00:01:22.879000,INTERMEDIATE,14.0,6.0,6.0,82.879,2023,Netherlands
+SAI,Ferrari,1.0,0 days 00:01:34.694000,SOFT,1.0,1.0,5.0,94.694,2023,Netherlands
+SAI,Ferrari,2.0,0 days 00:01:53.117000,SOFT,2.0,1.0,8.0,113.117,2023,Netherlands
+SAI,Ferrari,3.0,0 days 00:01:48.225000,INTERMEDIATE,1.0,2.0,12.0,108.225,2023,Netherlands
+SAI,Ferrari,4.0,0 days 00:01:25.734000,INTERMEDIATE,2.0,2.0,7.0,85.734,2023,Netherlands
+SAI,Ferrari,5.0,0 days 00:01:23.956000,INTERMEDIATE,3.0,2.0,7.0,83.956,2023,Netherlands
+SAI,Ferrari,6.0,0 days 00:01:24.297000,INTERMEDIATE,4.0,2.0,7.0,84.297,2023,Netherlands
+SAI,Ferrari,7.0,0 days 00:01:24.141000,INTERMEDIATE,5.0,2.0,7.0,84.141,2023,Netherlands
+SAI,Ferrari,8.0,0 days 00:01:25.061000,INTERMEDIATE,6.0,2.0,7.0,85.061,2023,Netherlands
+SAI,Ferrari,9.0,0 days 00:01:25.156000,INTERMEDIATE,7.0,2.0,6.0,85.156,2023,Netherlands
+SAI,Ferrari,10.0,0 days 00:01:28.581000,INTERMEDIATE,8.0,2.0,7.0,88.581,2023,Netherlands
+SAI,Ferrari,11.0,0 days 00:01:38.827000,SOFT,1.0,3.0,7.0,98.827,2023,Netherlands
+SAI,Ferrari,12.0,0 days 00:01:17.997000,SOFT,2.0,3.0,5.0,77.997,2023,Netherlands
+SAI,Ferrari,13.0,0 days 00:01:16.472000,SOFT,3.0,3.0,5.0,76.472,2023,Netherlands
+SAI,Ferrari,14.0,0 days 00:01:16.782000,SOFT,4.0,3.0,5.0,76.782,2023,Netherlands
+SAI,Ferrari,15.0,0 days 00:01:17.126000,SOFT,5.0,3.0,5.0,77.126,2023,Netherlands
+SAI,Ferrari,16.0,0 days 00:01:28.299000,SOFT,6.0,3.0,5.0,88.299,2023,Netherlands
+SAI,Ferrari,17.0,0 days 00:01:58.497000,SOFT,7.0,3.0,5.0,118.497,2023,Netherlands
+SAI,Ferrari,18.0,0 days 00:02:07.367000,SOFT,8.0,3.0,5.0,127.367,2023,Netherlands
+SAI,Ferrari,19.0,0 days 00:02:00.434000,SOFT,9.0,3.0,5.0,120.434,2023,Netherlands
+SAI,Ferrari,20.0,0 days 00:01:55.913000,SOFT,10.0,3.0,5.0,115.913,2023,Netherlands
+SAI,Ferrari,21.0,0 days 00:02:02.828000,SOFT,11.0,3.0,5.0,122.828,2023,Netherlands
+SAI,Ferrari,22.0,0 days 00:01:17.720000,SOFT,12.0,3.0,5.0,77.72,2023,Netherlands
+SAI,Ferrari,23.0,0 days 00:01:17.214000,SOFT,13.0,3.0,5.0,77.214,2023,Netherlands
+SAI,Ferrari,24.0,0 days 00:01:16.338000,SOFT,14.0,3.0,5.0,76.338,2023,Netherlands
+SAI,Ferrari,25.0,0 days 00:01:16.317000,SOFT,15.0,3.0,5.0,76.317,2023,Netherlands
+SAI,Ferrari,26.0,0 days 00:01:16.875000,SOFT,16.0,3.0,5.0,76.875,2023,Netherlands
+SAI,Ferrari,27.0,0 days 00:01:16.619000,SOFT,17.0,3.0,5.0,76.619,2023,Netherlands
+SAI,Ferrari,28.0,0 days 00:01:16.144000,SOFT,18.0,3.0,5.0,76.144,2023,Netherlands
+SAI,Ferrari,29.0,0 days 00:01:16.217000,SOFT,19.0,3.0,5.0,76.217,2023,Netherlands
+SAI,Ferrari,30.0,0 days 00:01:16.042000,SOFT,20.0,3.0,5.0,76.042,2023,Netherlands
+SAI,Ferrari,31.0,0 days 00:01:16.054000,SOFT,21.0,3.0,5.0,76.054,2023,Netherlands
+SAI,Ferrari,32.0,0 days 00:01:16.106000,SOFT,22.0,3.0,5.0,76.106,2023,Netherlands
+SAI,Ferrari,33.0,0 days 00:01:16.231000,SOFT,23.0,3.0,5.0,76.231,2023,Netherlands
+SAI,Ferrari,34.0,0 days 00:01:16.146000,SOFT,24.0,3.0,5.0,76.146,2023,Netherlands
+SAI,Ferrari,35.0,0 days 00:01:16.041000,SOFT,25.0,3.0,5.0,76.041,2023,Netherlands
+SAI,Ferrari,36.0,0 days 00:01:16.117000,SOFT,26.0,3.0,5.0,76.117,2023,Netherlands
+SAI,Ferrari,37.0,0 days 00:01:15.973000,SOFT,27.0,3.0,5.0,75.973,2023,Netherlands
+SAI,Ferrari,38.0,0 days 00:01:15.961000,SOFT,28.0,3.0,5.0,75.961,2023,Netherlands
+SAI,Ferrari,39.0,0 days 00:01:16.076000,SOFT,29.0,3.0,5.0,76.076,2023,Netherlands
+SAI,Ferrari,40.0,0 days 00:01:16.307000,SOFT,30.0,3.0,5.0,76.307,2023,Netherlands
+SAI,Ferrari,41.0,0 days 00:01:19.511000,SOFT,31.0,3.0,5.0,79.511,2023,Netherlands
+SAI,Ferrari,42.0,0 days 00:01:33.523000,SOFT,3.0,4.0,11.0,93.523,2023,Netherlands
+SAI,Ferrari,43.0,0 days 00:01:14.975000,SOFT,4.0,4.0,10.0,74.975,2023,Netherlands
+SAI,Ferrari,44.0,0 days 00:01:14.962000,SOFT,5.0,4.0,9.0,74.962,2023,Netherlands
+SAI,Ferrari,45.0,0 days 00:01:15.093000,SOFT,6.0,4.0,7.0,75.093,2023,Netherlands
+SAI,Ferrari,46.0,0 days 00:01:15.250000,SOFT,7.0,4.0,6.0,75.25,2023,Netherlands
+SAI,Ferrari,47.0,0 days 00:01:15.597000,SOFT,8.0,4.0,5.0,75.597,2023,Netherlands
+SAI,Ferrari,48.0,0 days 00:01:15.275000,SOFT,9.0,4.0,4.0,75.275,2023,Netherlands
+SAI,Ferrari,49.0,0 days 00:01:15.288000,SOFT,10.0,4.0,3.0,75.288,2023,Netherlands
+SAI,Ferrari,50.0,0 days 00:01:15.393000,SOFT,11.0,4.0,3.0,75.393,2023,Netherlands
+SAI,Ferrari,51.0,0 days 00:01:15.204000,SOFT,12.0,4.0,3.0,75.204,2023,Netherlands
+SAI,Ferrari,52.0,0 days 00:01:16.792000,SOFT,13.0,4.0,4.0,76.792,2023,Netherlands
+SAI,Ferrari,53.0,0 days 00:01:15.611000,SOFT,14.0,4.0,4.0,75.611,2023,Netherlands
+SAI,Ferrari,54.0,0 days 00:01:14.934000,SOFT,15.0,4.0,4.0,74.934,2023,Netherlands
+SAI,Ferrari,55.0,0 days 00:01:15.219000,SOFT,16.0,4.0,4.0,75.219,2023,Netherlands
+SAI,Ferrari,56.0,0 days 00:01:14.993000,SOFT,17.0,4.0,4.0,74.993,2023,Netherlands
+SAI,Ferrari,57.0,0 days 00:01:15.169000,SOFT,18.0,4.0,4.0,75.169,2023,Netherlands
+SAI,Ferrari,58.0,0 days 00:01:15.299000,SOFT,19.0,4.0,4.0,75.299,2023,Netherlands
+SAI,Ferrari,59.0,0 days 00:01:15.288000,SOFT,20.0,4.0,4.0,75.288,2023,Netherlands
+SAI,Ferrari,60.0,0 days 00:01:21.844000,SOFT,21.0,4.0,5.0,81.844,2023,Netherlands
+SAI,Ferrari,61.0,0 days 00:01:40.849000,INTERMEDIATE,16.0,5.0,7.0,100.849,2023,Netherlands
+SAI,Ferrari,62.0,0 days 00:01:23.317000,INTERMEDIATE,17.0,5.0,5.0,83.317,2023,Netherlands
+SAI,Ferrari,63.0,0 days 00:01:40.280000,INTERMEDIATE,18.0,5.0,5.0,100.28,2023,Netherlands
+SAI,Ferrari,66.0,0 days 00:02:14.990000,INTERMEDIATE,6.0,6.0,5.0,134.99,2023,Netherlands
+SAI,Ferrari,67.0,0 days 00:01:28.361000,INTERMEDIATE,7.0,6.0,5.0,88.361,2023,Netherlands
+SAI,Ferrari,68.0,0 days 00:01:24.482000,INTERMEDIATE,8.0,6.0,5.0,84.482,2023,Netherlands
+SAI,Ferrari,69.0,0 days 00:01:22.740000,INTERMEDIATE,9.0,6.0,5.0,82.74,2023,Netherlands
+SAI,Ferrari,70.0,0 days 00:01:22.613000,INTERMEDIATE,10.0,6.0,5.0,82.613,2023,Netherlands
+SAI,Ferrari,71.0,0 days 00:01:21.902000,INTERMEDIATE,11.0,6.0,5.0,81.902,2023,Netherlands
+SAI,Ferrari,72.0,0 days 00:01:22.652000,INTERMEDIATE,12.0,6.0,5.0,82.652,2023,Netherlands
+RUS,Mercedes,1.0,0 days 00:01:33.241000,SOFT,1.0,1.0,6.0,93.241,2023,Netherlands
+RUS,Mercedes,2.0,0 days 00:01:47.161000,SOFT,2.0,1.0,4.0,107.161,2023,Netherlands
+RUS,Mercedes,3.0,0 days 00:01:46.910000,SOFT,3.0,1.0,3.0,106.91,2023,Netherlands
+RUS,Mercedes,4.0,0 days 00:01:49.781000,SOFT,4.0,1.0,12.0,109.781,2023,Netherlands
+RUS,Mercedes,5.0,0 days 00:01:47.148000,INTERMEDIATE,1.0,2.0,16.0,107.148,2023,Netherlands
+RUS,Mercedes,6.0,0 days 00:01:24.370000,INTERMEDIATE,2.0,2.0,14.0,84.37,2023,Netherlands
+RUS,Mercedes,7.0,0 days 00:01:24.846000,INTERMEDIATE,3.0,2.0,14.0,84.846,2023,Netherlands
+RUS,Mercedes,8.0,0 days 00:01:24.962000,INTERMEDIATE,4.0,2.0,14.0,84.962,2023,Netherlands
+RUS,Mercedes,9.0,0 days 00:01:24.610000,INTERMEDIATE,5.0,2.0,14.0,84.61,2023,Netherlands
+RUS,Mercedes,10.0,0 days 00:01:29.137000,INTERMEDIATE,6.0,2.0,16.0,89.137,2023,Netherlands
+RUS,Mercedes,11.0,0 days 00:01:38.867000,SOFT,1.0,3.0,18.0,98.867,2023,Netherlands
+RUS,Mercedes,12.0,0 days 00:01:17.904000,SOFT,2.0,3.0,18.0,77.904,2023,Netherlands
+RUS,Mercedes,13.0,0 days 00:01:17.050000,SOFT,3.0,3.0,18.0,77.05,2023,Netherlands
+RUS,Mercedes,14.0,0 days 00:01:17.104000,SOFT,4.0,3.0,18.0,77.104,2023,Netherlands
+RUS,Mercedes,15.0,0 days 00:01:16.406000,SOFT,5.0,3.0,18.0,76.406,2023,Netherlands
+RUS,Mercedes,16.0,0 days 00:01:47.894000,SOFT,6.0,3.0,18.0,107.894,2023,Netherlands
+RUS,Mercedes,17.0,0 days 00:02:06.262000,HARD,1.0,4.0,18.0,126.262,2023,Netherlands
+RUS,Mercedes,18.0,0 days 00:01:24.632000,HARD,2.0,4.0,17.0,84.632,2023,Netherlands
+RUS,Mercedes,19.0,0 days 00:01:55.526000,HARD,3.0,4.0,17.0,115.526,2023,Netherlands
+RUS,Mercedes,20.0,0 days 00:01:51.276000,HARD,4.0,4.0,17.0,111.276,2023,Netherlands
+RUS,Mercedes,21.0,0 days 00:01:55.605000,HARD,5.0,4.0,19.0,115.605,2023,Netherlands
+RUS,Mercedes,22.0,0 days 00:01:18.507000,HARD,6.0,4.0,19.0,78.507,2023,Netherlands
+RUS,Mercedes,23.0,0 days 00:01:17.874000,HARD,7.0,4.0,19.0,77.874,2023,Netherlands
+RUS,Mercedes,24.0,0 days 00:01:17.336000,HARD,8.0,4.0,19.0,77.336,2023,Netherlands
+RUS,Mercedes,25.0,0 days 00:01:17.883000,HARD,9.0,4.0,19.0,77.883,2023,Netherlands
+RUS,Mercedes,26.0,0 days 00:01:17.874000,HARD,10.0,4.0,19.0,77.874,2023,Netherlands
+RUS,Mercedes,27.0,0 days 00:01:17.671000,HARD,11.0,4.0,19.0,77.671,2023,Netherlands
+RUS,Mercedes,28.0,0 days 00:01:17.450000,HARD,12.0,4.0,19.0,77.45,2023,Netherlands
+RUS,Mercedes,29.0,0 days 00:01:17.593000,HARD,13.0,4.0,19.0,77.593,2023,Netherlands
+RUS,Mercedes,30.0,0 days 00:01:17.774000,HARD,14.0,4.0,19.0,77.774,2023,Netherlands
+RUS,Mercedes,31.0,0 days 00:01:17.552000,HARD,15.0,4.0,19.0,77.552,2023,Netherlands
+RUS,Mercedes,32.0,0 days 00:01:17.525000,HARD,16.0,4.0,19.0,77.525,2023,Netherlands
+RUS,Mercedes,33.0,0 days 00:01:17.031000,HARD,17.0,4.0,19.0,77.031,2023,Netherlands
+RUS,Mercedes,34.0,0 days 00:01:17.303000,HARD,18.0,4.0,17.0,77.303,2023,Netherlands
+RUS,Mercedes,35.0,0 days 00:01:17.443000,HARD,19.0,4.0,17.0,77.443,2023,Netherlands
+RUS,Mercedes,36.0,0 days 00:01:16.084000,HARD,20.0,4.0,14.0,76.084,2023,Netherlands
+RUS,Mercedes,37.0,0 days 00:01:16.053000,HARD,21.0,4.0,14.0,76.053,2023,Netherlands
+RUS,Mercedes,38.0,0 days 00:01:15.915000,HARD,22.0,4.0,13.0,75.915,2023,Netherlands
+RUS,Mercedes,39.0,0 days 00:01:16.355000,HARD,23.0,4.0,13.0,76.355,2023,Netherlands
+RUS,Mercedes,40.0,0 days 00:01:15.562000,HARD,24.0,4.0,13.0,75.562,2023,Netherlands
+RUS,Mercedes,41.0,0 days 00:01:16.307000,HARD,25.0,4.0,13.0,76.307,2023,Netherlands
+RUS,Mercedes,42.0,0 days 00:01:16.189000,HARD,26.0,4.0,13.0,76.189,2023,Netherlands
+RUS,Mercedes,43.0,0 days 00:01:15.857000,HARD,27.0,4.0,11.0,75.857,2023,Netherlands
+RUS,Mercedes,44.0,0 days 00:01:15.659000,HARD,28.0,4.0,10.0,75.659,2023,Netherlands
+RUS,Mercedes,45.0,0 days 00:01:15.466000,HARD,29.0,4.0,9.0,75.466,2023,Netherlands
+RUS,Mercedes,46.0,0 days 00:01:15.356000,HARD,30.0,4.0,8.0,75.356,2023,Netherlands
+RUS,Mercedes,47.0,0 days 00:01:16.492000,HARD,31.0,4.0,7.0,76.492,2023,Netherlands
+RUS,Mercedes,48.0,0 days 00:01:15.523000,HARD,32.0,4.0,7.0,75.523,2023,Netherlands
+RUS,Mercedes,49.0,0 days 00:01:15.648000,HARD,33.0,4.0,7.0,75.648,2023,Netherlands
+RUS,Mercedes,50.0,0 days 00:01:15.617000,HARD,34.0,4.0,7.0,75.617,2023,Netherlands
+RUS,Mercedes,51.0,0 days 00:01:15.300000,HARD,35.0,4.0,8.0,75.3,2023,Netherlands
+RUS,Mercedes,52.0,0 days 00:01:17.207000,HARD,36.0,4.0,9.0,77.207,2023,Netherlands
+RUS,Mercedes,53.0,0 days 00:01:15.404000,HARD,37.0,4.0,7.0,75.404,2023,Netherlands
+RUS,Mercedes,54.0,0 days 00:01:15.124000,HARD,38.0,4.0,7.0,75.124,2023,Netherlands
+RUS,Mercedes,55.0,0 days 00:01:15.208000,HARD,39.0,4.0,7.0,75.208,2023,Netherlands
+RUS,Mercedes,56.0,0 days 00:01:16.303000,HARD,40.0,4.0,7.0,76.303,2023,Netherlands
+RUS,Mercedes,57.0,0 days 00:01:15.604000,HARD,41.0,4.0,9.0,75.604,2023,Netherlands
+RUS,Mercedes,58.0,0 days 00:01:15.270000,HARD,42.0,4.0,8.0,75.27,2023,Netherlands
+RUS,Mercedes,59.0,0 days 00:01:16.832000,HARD,43.0,4.0,9.0,76.832,2023,Netherlands
+RUS,Mercedes,60.0,0 days 00:01:22.707000,HARD,44.0,4.0,10.0,82.707,2023,Netherlands
+RUS,Mercedes,61.0,0 days 00:01:43.611000,INTERMEDIATE,13.0,5.0,10.0,103.611,2023,Netherlands
+RUS,Mercedes,62.0,0 days 00:01:22.553000,INTERMEDIATE,14.0,5.0,9.0,82.553,2023,Netherlands
+RUS,Mercedes,63.0,0 days 00:01:52.410000,INTERMEDIATE,15.0,5.0,8.0,112.41,2023,Netherlands
+RUS,Mercedes,66.0,0 days 00:02:11.489000,INTERMEDIATE,8.0,7.0,11.0,131.489,2023,Netherlands
+RUS,Mercedes,67.0,0 days 00:01:52.753000,INTERMEDIATE,9.0,7.0,17.0,112.753,2023,Netherlands
+RUS,Mercedes,68.0,0 days 00:01:47.369000,INTERMEDIATE,7.0,8.0,17.0,107.369,2023,Netherlands
+RUS,Mercedes,69.0,0 days 00:01:21.963000,INTERMEDIATE,8.0,8.0,17.0,81.963,2023,Netherlands
+RUS,Mercedes,70.0,0 days 00:01:21.206000,INTERMEDIATE,9.0,8.0,17.0,81.206,2023,Netherlands
+RUS,Mercedes,71.0,0 days 00:01:20.548000,INTERMEDIATE,10.0,8.0,17.0,80.548,2023,Netherlands
+RUS,Mercedes,72.0,0 days 00:01:20.769000,INTERMEDIATE,11.0,8.0,17.0,80.769,2023,Netherlands
+BOT,Alfa Romeo,1.0,0 days 00:01:37.804000,SOFT,1.0,1.0,9.0,97.804,2023,Netherlands
+BOT,Alfa Romeo,2.0,0 days 00:01:50.912000,SOFT,2.0,1.0,9.0,110.912,2023,Netherlands
+BOT,Alfa Romeo,3.0,0 days 00:01:52.324000,SOFT,3.0,1.0,15.0,112.324,2023,Netherlands
+BOT,Alfa Romeo,4.0,0 days 00:01:48.246000,SOFT,4.0,1.0,16.0,108.246,2023,Netherlands
+BOT,Alfa Romeo,5.0,0 days 00:01:38.860000,SOFT,5.0,1.0,17.0,98.86,2023,Netherlands
+BOT,Alfa Romeo,6.0,0 days 00:01:32.468000,SOFT,6.0,1.0,17.0,92.468,2023,Netherlands
+BOT,Alfa Romeo,7.0,0 days 00:01:27.519000,SOFT,7.0,1.0,17.0,87.519,2023,Netherlands
+BOT,Alfa Romeo,8.0,0 days 00:01:23.722000,SOFT,8.0,1.0,17.0,83.722,2023,Netherlands
+BOT,Alfa Romeo,9.0,0 days 00:01:21.456000,SOFT,9.0,1.0,17.0,81.456,2023,Netherlands
+BOT,Alfa Romeo,10.0,0 days 00:01:19.887000,SOFT,10.0,1.0,15.0,79.887,2023,Netherlands
+BOT,Alfa Romeo,11.0,0 days 00:01:18.942000,SOFT,11.0,1.0,14.0,78.942,2023,Netherlands
+BOT,Alfa Romeo,12.0,0 days 00:01:18.907000,SOFT,12.0,1.0,14.0,78.907,2023,Netherlands
+BOT,Alfa Romeo,13.0,0 days 00:01:18.098000,SOFT,13.0,1.0,14.0,78.098,2023,Netherlands
+BOT,Alfa Romeo,14.0,0 days 00:01:17.867000,SOFT,14.0,1.0,14.0,77.867,2023,Netherlands
+BOT,Alfa Romeo,15.0,0 days 00:01:17.107000,SOFT,15.0,1.0,14.0,77.107,2023,Netherlands
+BOT,Alfa Romeo,16.0,0 days 00:01:41.521000,SOFT,16.0,1.0,13.0,101.521,2023,Netherlands
+BOT,Alfa Romeo,17.0,0 days 00:02:07.765000,MEDIUM,1.0,2.0,15.0,127.765,2023,Netherlands
+BOT,Alfa Romeo,18.0,0 days 00:01:32.291000,MEDIUM,2.0,2.0,15.0,92.291,2023,Netherlands
+BOT,Alfa Romeo,19.0,0 days 00:02:04.283000,MEDIUM,3.0,2.0,15.0,124.283,2023,Netherlands
+BOT,Alfa Romeo,20.0,0 days 00:01:52.289000,MEDIUM,4.0,2.0,15.0,112.289,2023,Netherlands
+BOT,Alfa Romeo,21.0,0 days 00:01:56.133000,MEDIUM,5.0,2.0,15.0,116.133,2023,Netherlands
+BOT,Alfa Romeo,22.0,0 days 00:01:18.796000,MEDIUM,6.0,2.0,14.0,78.796,2023,Netherlands
+BOT,Alfa Romeo,23.0,0 days 00:01:18.023000,MEDIUM,7.0,2.0,14.0,78.023,2023,Netherlands
+BOT,Alfa Romeo,24.0,0 days 00:01:17.903000,MEDIUM,8.0,2.0,14.0,77.903,2023,Netherlands
+BOT,Alfa Romeo,25.0,0 days 00:01:17.837000,MEDIUM,9.0,2.0,15.0,77.837,2023,Netherlands
+BOT,Alfa Romeo,26.0,0 days 00:01:18.472000,MEDIUM,10.0,2.0,15.0,78.472,2023,Netherlands
+BOT,Alfa Romeo,27.0,0 days 00:01:17.806000,MEDIUM,11.0,2.0,16.0,77.806,2023,Netherlands
+BOT,Alfa Romeo,28.0,0 days 00:01:17.469000,MEDIUM,12.0,2.0,16.0,77.469,2023,Netherlands
+BOT,Alfa Romeo,29.0,0 days 00:01:17.664000,MEDIUM,13.0,2.0,16.0,77.664,2023,Netherlands
+BOT,Alfa Romeo,30.0,0 days 00:01:17.715000,MEDIUM,14.0,2.0,16.0,77.715,2023,Netherlands
+BOT,Alfa Romeo,31.0,0 days 00:01:17.751000,MEDIUM,15.0,2.0,16.0,77.751,2023,Netherlands
+BOT,Alfa Romeo,32.0,0 days 00:01:17.429000,MEDIUM,16.0,2.0,16.0,77.429,2023,Netherlands
+BOT,Alfa Romeo,33.0,0 days 00:01:17.119000,MEDIUM,17.0,2.0,16.0,77.119,2023,Netherlands
+BOT,Alfa Romeo,34.0,0 days 00:01:18.321000,MEDIUM,18.0,2.0,16.0,78.321,2023,Netherlands
+BOT,Alfa Romeo,35.0,0 days 00:01:18.093000,MEDIUM,19.0,2.0,16.0,78.093,2023,Netherlands
+BOT,Alfa Romeo,36.0,0 days 00:01:17.746000,MEDIUM,20.0,2.0,16.0,77.746,2023,Netherlands
+BOT,Alfa Romeo,37.0,0 days 00:01:16.888000,MEDIUM,21.0,2.0,16.0,76.888,2023,Netherlands
+BOT,Alfa Romeo,38.0,0 days 00:01:16.577000,MEDIUM,22.0,2.0,14.0,76.577,2023,Netherlands
+BOT,Alfa Romeo,39.0,0 days 00:01:16.456000,MEDIUM,23.0,2.0,14.0,76.456,2023,Netherlands
+BOT,Alfa Romeo,40.0,0 days 00:01:16.512000,MEDIUM,24.0,2.0,14.0,76.512,2023,Netherlands
+BOT,Alfa Romeo,41.0,0 days 00:01:16.705000,MEDIUM,25.0,2.0,14.0,76.705,2023,Netherlands
+BOT,Alfa Romeo,42.0,0 days 00:01:16.494000,MEDIUM,26.0,2.0,14.0,76.494,2023,Netherlands
+BOT,Alfa Romeo,43.0,0 days 00:01:16.774000,MEDIUM,27.0,2.0,13.0,76.774,2023,Netherlands
+BOT,Alfa Romeo,44.0,0 days 00:01:16.633000,MEDIUM,28.0,2.0,13.0,76.633,2023,Netherlands
+BOT,Alfa Romeo,45.0,0 days 00:01:18,MEDIUM,29.0,2.0,14.0,78.0,2023,Netherlands
+BOT,Alfa Romeo,46.0,0 days 00:01:16.901000,MEDIUM,30.0,2.0,13.0,76.901,2023,Netherlands
+BOT,Alfa Romeo,47.0,0 days 00:01:19.539000,MEDIUM,31.0,2.0,13.0,79.539,2023,Netherlands
+BOT,Alfa Romeo,48.0,0 days 00:01:34.072000,SOFT,1.0,3.0,17.0,94.072,2023,Netherlands
+BOT,Alfa Romeo,49.0,0 days 00:01:14.698000,SOFT,2.0,3.0,17.0,74.698,2023,Netherlands
+BOT,Alfa Romeo,50.0,0 days 00:01:14.793000,SOFT,3.0,3.0,17.0,74.793,2023,Netherlands
+BOT,Alfa Romeo,51.0,0 days 00:01:15.223000,SOFT,4.0,3.0,17.0,75.223,2023,Netherlands
+BOT,Alfa Romeo,52.0,0 days 00:01:15.607000,SOFT,5.0,3.0,17.0,75.607,2023,Netherlands
+BOT,Alfa Romeo,53.0,0 days 00:01:15.075000,SOFT,6.0,3.0,17.0,75.075,2023,Netherlands
+BOT,Alfa Romeo,54.0,0 days 00:01:15.297000,SOFT,7.0,3.0,17.0,75.297,2023,Netherlands
+BOT,Alfa Romeo,55.0,0 days 00:01:15.134000,SOFT,8.0,3.0,17.0,75.134,2023,Netherlands
+BOT,Alfa Romeo,56.0,0 days 00:01:15.653000,SOFT,9.0,3.0,17.0,75.653,2023,Netherlands
+BOT,Alfa Romeo,57.0,0 days 00:01:15.309000,SOFT,10.0,3.0,17.0,75.309,2023,Netherlands
+BOT,Alfa Romeo,58.0,0 days 00:01:15.995000,SOFT,11.0,3.0,17.0,75.995,2023,Netherlands
+BOT,Alfa Romeo,59.0,0 days 00:01:20.755000,SOFT,12.0,3.0,17.0,80.755,2023,Netherlands
+BOT,Alfa Romeo,60.0,0 days 00:01:39.356000,INTERMEDIATE,1.0,4.0,17.0,99.356,2023,Netherlands
+BOT,Alfa Romeo,61.0,0 days 00:01:23.161000,INTERMEDIATE,2.0,4.0,16.0,83.161,2023,Netherlands
+BOT,Alfa Romeo,62.0,0 days 00:01:25.098000,INTERMEDIATE,3.0,4.0,16.0,85.098,2023,Netherlands
+BOT,Alfa Romeo,63.0,0 days 00:02:16.932000,INTERMEDIATE,4.0,4.0,15.0,136.932,2023,Netherlands
+BOT,Alfa Romeo,66.0,0 days 00:02:05.850000,INTERMEDIATE,3.0,6.0,15.0,125.85,2023,Netherlands
+BOT,Alfa Romeo,67.0,0 days 00:01:30.643000,INTERMEDIATE,4.0,6.0,15.0,90.643,2023,Netherlands
+BOT,Alfa Romeo,68.0,0 days 00:01:27.723000,INTERMEDIATE,5.0,6.0,16.0,87.723,2023,Netherlands
+BOT,Alfa Romeo,69.0,0 days 00:01:24.601000,INTERMEDIATE,6.0,6.0,16.0,84.601,2023,Netherlands
+BOT,Alfa Romeo,70.0,0 days 00:01:23.331000,INTERMEDIATE,7.0,6.0,16.0,83.331,2023,Netherlands
+BOT,Alfa Romeo,71.0,0 days 00:01:22.873000,INTERMEDIATE,8.0,6.0,16.0,82.873,2023,Netherlands
+BOT,Alfa Romeo,72.0,0 days 00:01:23.030000,INTERMEDIATE,9.0,6.0,16.0,83.03,2023,Netherlands
+PIA,McLaren,1.0,0 days 00:01:35.554000,SOFT,1.0,1.0,7.0,95.554,2023,Netherlands
+PIA,McLaren,2.0,0 days 00:01:49.109000,SOFT,2.0,1.0,6.0,109.109,2023,Netherlands
+PIA,McLaren,3.0,0 days 00:01:49.476000,SOFT,3.0,1.0,9.0,109.476,2023,Netherlands
+PIA,McLaren,4.0,0 days 00:01:47.669000,SOFT,4.0,1.0,14.0,107.669,2023,Netherlands
+PIA,McLaren,5.0,0 days 00:01:40.899000,SOFT,5.0,1.0,15.0,100.899,2023,Netherlands
+PIA,McLaren,6.0,0 days 00:01:35.164000,SOFT,6.0,1.0,16.0,95.164,2023,Netherlands
+PIA,McLaren,7.0,0 days 00:01:27.654000,SOFT,7.0,1.0,16.0,87.654,2023,Netherlands
+PIA,McLaren,8.0,0 days 00:01:22.473000,SOFT,8.0,1.0,16.0,82.473,2023,Netherlands
+PIA,McLaren,9.0,0 days 00:01:19.061000,SOFT,9.0,1.0,16.0,79.061,2023,Netherlands
+PIA,McLaren,10.0,0 days 00:01:18.587000,SOFT,10.0,1.0,13.0,78.587,2023,Netherlands
+PIA,McLaren,11.0,0 days 00:01:16.870000,SOFT,11.0,1.0,11.0,76.87,2023,Netherlands
+PIA,McLaren,12.0,0 days 00:01:17.100000,SOFT,12.0,1.0,8.0,77.1,2023,Netherlands
+PIA,McLaren,13.0,0 days 00:01:16.534000,SOFT,13.0,1.0,8.0,76.534,2023,Netherlands
+PIA,McLaren,14.0,0 days 00:01:16.041000,SOFT,14.0,1.0,8.0,76.041,2023,Netherlands
+PIA,McLaren,15.0,0 days 00:01:22.705000,SOFT,15.0,1.0,12.0,82.705,2023,Netherlands
+PIA,McLaren,16.0,0 days 00:01:59.213000,SOFT,1.0,2.0,16.0,119.213,2023,Netherlands
+PIA,McLaren,17.0,0 days 00:01:52.814000,SOFT,2.0,2.0,14.0,112.814,2023,Netherlands
+PIA,McLaren,18.0,0 days 00:01:37.579000,SOFT,3.0,2.0,14.0,97.579,2023,Netherlands
+PIA,McLaren,19.0,0 days 00:02:03.585000,SOFT,4.0,2.0,14.0,123.585,2023,Netherlands
+PIA,McLaren,20.0,0 days 00:01:53.013000,SOFT,5.0,2.0,14.0,113.013,2023,Netherlands
+PIA,McLaren,21.0,0 days 00:01:56.784000,SOFT,6.0,2.0,14.0,116.784,2023,Netherlands
+PIA,McLaren,22.0,0 days 00:01:20.282000,SOFT,7.0,2.0,15.0,80.282,2023,Netherlands
+PIA,McLaren,23.0,0 days 00:01:17.760000,SOFT,8.0,2.0,15.0,77.76,2023,Netherlands
+PIA,McLaren,24.0,0 days 00:01:17.403000,SOFT,9.0,2.0,15.0,77.403,2023,Netherlands
+PIA,McLaren,25.0,0 days 00:01:17.400000,SOFT,10.0,2.0,14.0,77.4,2023,Netherlands
+PIA,McLaren,26.0,0 days 00:01:17.555000,SOFT,11.0,2.0,13.0,77.555,2023,Netherlands
+PIA,McLaren,27.0,0 days 00:01:16.653000,SOFT,12.0,2.0,13.0,76.653,2023,Netherlands
+PIA,McLaren,28.0,0 days 00:01:16.933000,SOFT,13.0,2.0,13.0,76.933,2023,Netherlands
+PIA,McLaren,29.0,0 days 00:01:16.801000,SOFT,14.0,2.0,13.0,76.801,2023,Netherlands
+PIA,McLaren,30.0,0 days 00:01:16.640000,SOFT,15.0,2.0,12.0,76.64,2023,Netherlands
+PIA,McLaren,31.0,0 days 00:01:16.632000,SOFT,16.0,2.0,12.0,76.632,2023,Netherlands
+PIA,McLaren,32.0,0 days 00:01:16.381000,SOFT,17.0,2.0,12.0,76.381,2023,Netherlands
+PIA,McLaren,33.0,0 days 00:01:16.833000,SOFT,18.0,2.0,12.0,76.833,2023,Netherlands
+PIA,McLaren,34.0,0 days 00:01:16.914000,SOFT,19.0,2.0,11.0,76.914,2023,Netherlands
+PIA,McLaren,35.0,0 days 00:01:16.131000,SOFT,20.0,2.0,11.0,76.131,2023,Netherlands
+PIA,McLaren,36.0,0 days 00:01:16.433000,SOFT,21.0,2.0,11.0,76.433,2023,Netherlands
+PIA,McLaren,37.0,0 days 00:01:16.036000,SOFT,22.0,2.0,11.0,76.036,2023,Netherlands
+PIA,McLaren,38.0,0 days 00:01:16.223000,SOFT,23.0,2.0,11.0,76.223,2023,Netherlands
+PIA,McLaren,39.0,0 days 00:01:16.494000,SOFT,24.0,2.0,11.0,76.494,2023,Netherlands
+PIA,McLaren,40.0,0 days 00:01:16.185000,SOFT,25.0,2.0,11.0,76.185,2023,Netherlands
+PIA,McLaren,41.0,0 days 00:01:16.775000,SOFT,26.0,2.0,11.0,76.775,2023,Netherlands
+PIA,McLaren,42.0,0 days 00:01:16.203000,SOFT,27.0,2.0,9.0,76.203,2023,Netherlands
+PIA,McLaren,43.0,0 days 00:01:16.299000,SOFT,28.0,2.0,9.0,76.299,2023,Netherlands
+PIA,McLaren,44.0,0 days 00:01:16.211000,SOFT,29.0,2.0,8.0,76.211,2023,Netherlands
+PIA,McLaren,45.0,0 days 00:01:16.662000,SOFT,30.0,2.0,6.0,76.662,2023,Netherlands
+PIA,McLaren,46.0,0 days 00:01:20.841000,SOFT,31.0,2.0,7.0,80.841,2023,Netherlands
+PIA,McLaren,47.0,0 days 00:01:33.490000,MEDIUM,1.0,3.0,15.0,93.49,2023,Netherlands
+PIA,McLaren,48.0,0 days 00:01:14.685000,MEDIUM,2.0,3.0,13.0,74.685,2023,Netherlands
+PIA,McLaren,49.0,0 days 00:01:14.845000,MEDIUM,3.0,3.0,12.0,74.845,2023,Netherlands
+PIA,McLaren,50.0,0 days 00:01:14.412000,MEDIUM,4.0,3.0,12.0,74.412,2023,Netherlands
+PIA,McLaren,51.0,0 days 00:01:14.421000,MEDIUM,5.0,3.0,12.0,74.421,2023,Netherlands
+PIA,McLaren,52.0,0 days 00:01:14.408000,MEDIUM,6.0,3.0,12.0,74.408,2023,Netherlands
+PIA,McLaren,53.0,0 days 00:01:14.441000,MEDIUM,7.0,3.0,12.0,74.441,2023,Netherlands
+PIA,McLaren,54.0,0 days 00:01:14.299000,MEDIUM,8.0,3.0,12.0,74.299,2023,Netherlands
+PIA,McLaren,55.0,0 days 00:01:14.733000,MEDIUM,9.0,3.0,11.0,74.733,2023,Netherlands
+PIA,McLaren,56.0,0 days 00:01:14.967000,MEDIUM,10.0,3.0,11.0,74.967,2023,Netherlands
+PIA,McLaren,57.0,0 days 00:01:14.955000,MEDIUM,11.0,3.0,11.0,74.955,2023,Netherlands
+PIA,McLaren,58.0,0 days 00:01:14.782000,MEDIUM,12.0,3.0,11.0,74.782,2023,Netherlands
+PIA,McLaren,59.0,0 days 00:01:14.773000,MEDIUM,13.0,3.0,11.0,74.773,2023,Netherlands
+PIA,McLaren,60.0,0 days 00:01:25.702000,MEDIUM,14.0,3.0,11.0,85.702,2023,Netherlands
+PIA,McLaren,61.0,0 days 00:01:42.667000,INTERMEDIATE,6.0,4.0,11.0,102.667,2023,Netherlands
+PIA,McLaren,62.0,0 days 00:01:22.135000,INTERMEDIATE,7.0,4.0,10.0,82.135,2023,Netherlands
+PIA,McLaren,63.0,0 days 00:02:03.268000,INTERMEDIATE,8.0,4.0,10.0,123.268,2023,Netherlands
+PIA,McLaren,66.0,0 days 00:02:09.864000,INTERMEDIATE,7.0,6.0,9.0,129.864,2023,Netherlands
+PIA,McLaren,67.0,0 days 00:01:28.541000,INTERMEDIATE,8.0,6.0,9.0,88.541,2023,Netherlands
+PIA,McLaren,68.0,0 days 00:01:25.004000,INTERMEDIATE,9.0,6.0,9.0,85.004,2023,Netherlands
+PIA,McLaren,69.0,0 days 00:01:22.911000,INTERMEDIATE,10.0,6.0,9.0,82.911,2023,Netherlands
+PIA,McLaren,70.0,0 days 00:01:22.659000,INTERMEDIATE,11.0,6.0,9.0,82.659,2023,Netherlands
+PIA,McLaren,71.0,0 days 00:01:22.296000,INTERMEDIATE,12.0,6.0,9.0,82.296,2023,Netherlands
+PIA,McLaren,72.0,0 days 00:01:23.034000,INTERMEDIATE,13.0,6.0,9.0,83.034,2023,Netherlands
