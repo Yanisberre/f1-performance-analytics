@@ -2,10 +2,32 @@
 # CONFIGURATION
 # =====================================
 
-YEAR = 2024
-GRAND_PRIX = "Monaco"
+SEASONS = [2023, 2024]
 
-QUALI_SESSION = "Q"
-RACE_SESSION = "R"
+GRANDS_PRIX = [
+    "Bahrain",
+    "Saudi Arabia",
+    "Australia",
+    "Japan",
+    "China",
+    "Miami",
+    "Emilia Romagna",
+    "Monaco",
+    "Canada",
+    "Spain",
+    "Austria",
+    "Great Britain",
+    "Hungary",
+    "Belgium",
+    "Netherlands",
+    "Italy",
+    "Singapore",
+    "United States",
+    "Mexico",
+    "Brazil",
+    "Las Vegas",
+    "Qatar",
+    "Abu Dhabi"
+]
 
-EXPORT_FOLDER = f"data/{YEAR}_{GRAND_PRIX}"
+SESSION_TYPE = "R"

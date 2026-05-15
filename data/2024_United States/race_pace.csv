@@ -1,0 +1,1032 @@
+Driver,Team,LapNumber,LapTime,Compound,TyreLife,Stint,Position,LapTimeSeconds,Season,GrandPrix
+VER,Red Bull Racing,1.0,0 days 00:01:41.657000,MEDIUM,1.0,1.0,2.0,101.657,2024,United States
+VER,Red Bull Racing,2.0,0 days 00:01:39.991000,MEDIUM,2.0,1.0,2.0,99.991,2024,United States
+VER,Red Bull Racing,3.0,0 days 00:02:02.849000,MEDIUM,3.0,1.0,2.0,122.849,2024,United States
+VER,Red Bull Racing,6.0,0 days 00:01:39.779000,MEDIUM,6.0,1.0,2.0,99.779,2024,United States
+VER,Red Bull Racing,7.0,0 days 00:01:39.731000,MEDIUM,7.0,1.0,2.0,99.731,2024,United States
+VER,Red Bull Racing,8.0,0 days 00:01:40.082000,MEDIUM,8.0,1.0,2.0,100.082,2024,United States
+VER,Red Bull Racing,9.0,0 days 00:01:40.032000,MEDIUM,9.0,1.0,2.0,100.032,2024,United States
+VER,Red Bull Racing,10.0,0 days 00:01:39.970000,MEDIUM,10.0,1.0,2.0,99.97,2024,United States
+VER,Red Bull Racing,11.0,0 days 00:01:40.246000,MEDIUM,11.0,1.0,2.0,100.246,2024,United States
+VER,Red Bull Racing,12.0,0 days 00:01:40.182000,MEDIUM,12.0,1.0,2.0,100.182,2024,United States
+VER,Red Bull Racing,13.0,0 days 00:01:39.936000,MEDIUM,13.0,1.0,2.0,99.936,2024,United States
+VER,Red Bull Racing,14.0,0 days 00:01:39.846000,MEDIUM,14.0,1.0,2.0,99.846,2024,United States
+VER,Red Bull Racing,15.0,0 days 00:01:40.192000,MEDIUM,15.0,1.0,2.0,100.192,2024,United States
+VER,Red Bull Racing,16.0,0 days 00:01:40.033000,MEDIUM,16.0,1.0,2.0,100.033,2024,United States
+VER,Red Bull Racing,17.0,0 days 00:01:40.160000,MEDIUM,17.0,1.0,2.0,100.16,2024,United States
+VER,Red Bull Racing,18.0,0 days 00:01:39.921000,MEDIUM,18.0,1.0,2.0,99.921,2024,United States
+VER,Red Bull Racing,19.0,0 days 00:01:39.981000,MEDIUM,19.0,1.0,2.0,99.981,2024,United States
+VER,Red Bull Racing,20.0,0 days 00:01:39.986000,MEDIUM,20.0,1.0,2.0,99.986,2024,United States
+VER,Red Bull Racing,21.0,0 days 00:01:39.803000,MEDIUM,21.0,1.0,2.0,99.803,2024,United States
+VER,Red Bull Racing,22.0,0 days 00:01:40.099000,MEDIUM,22.0,1.0,2.0,100.099,2024,United States
+VER,Red Bull Racing,23.0,0 days 00:01:40.420000,MEDIUM,23.0,1.0,2.0,100.42,2024,United States
+VER,Red Bull Racing,24.0,0 days 00:01:40.318000,MEDIUM,24.0,1.0,2.0,100.318,2024,United States
+VER,Red Bull Racing,25.0,0 days 00:01:40.718000,MEDIUM,25.0,1.0,2.0,100.718,2024,United States
+VER,Red Bull Racing,26.0,0 days 00:01:59.619000,HARD,1.0,2.0,5.0,119.619,2024,United States
+VER,Red Bull Racing,27.0,0 days 00:01:39.046000,HARD,2.0,2.0,5.0,99.046,2024,United States
+VER,Red Bull Racing,28.0,0 days 00:01:38.784000,HARD,3.0,2.0,5.0,98.784,2024,United States
+VER,Red Bull Racing,29.0,0 days 00:01:39.067000,HARD,4.0,2.0,5.0,99.067,2024,United States
+VER,Red Bull Racing,30.0,0 days 00:01:38.750000,HARD,5.0,2.0,5.0,98.75,2024,United States
+VER,Red Bull Racing,31.0,0 days 00:01:39.058000,HARD,6.0,2.0,5.0,99.058,2024,United States
+VER,Red Bull Racing,32.0,0 days 00:01:39.106000,HARD,7.0,2.0,4.0,99.106,2024,United States
+VER,Red Bull Racing,33.0,0 days 00:01:38.827000,HARD,8.0,2.0,3.0,98.827,2024,United States
+VER,Red Bull Racing,34.0,0 days 00:01:39.063000,HARD,9.0,2.0,3.0,99.063,2024,United States
+VER,Red Bull Racing,35.0,0 days 00:01:39.004000,HARD,10.0,2.0,3.0,99.004,2024,United States
+VER,Red Bull Racing,36.0,0 days 00:01:38.715000,HARD,11.0,2.0,3.0,98.715,2024,United States
+VER,Red Bull Racing,37.0,0 days 00:01:38.963000,HARD,12.0,2.0,3.0,98.963,2024,United States
+VER,Red Bull Racing,38.0,0 days 00:01:38.641000,HARD,13.0,2.0,3.0,98.641,2024,United States
+VER,Red Bull Racing,39.0,0 days 00:01:38.358000,HARD,14.0,2.0,3.0,98.358,2024,United States
+VER,Red Bull Racing,40.0,0 days 00:01:38.624000,HARD,15.0,2.0,3.0,98.624,2024,United States
+VER,Red Bull Racing,41.0,0 days 00:01:38.463000,HARD,16.0,2.0,3.0,98.463,2024,United States
+VER,Red Bull Racing,42.0,0 days 00:01:38.117000,HARD,17.0,2.0,3.0,98.117,2024,United States
+VER,Red Bull Racing,43.0,0 days 00:01:38.526000,HARD,18.0,2.0,3.0,98.526,2024,United States
+VER,Red Bull Racing,44.0,0 days 00:01:38.453000,HARD,19.0,2.0,3.0,98.453,2024,United States
+VER,Red Bull Racing,45.0,0 days 00:01:38.269000,HARD,20.0,2.0,3.0,98.269,2024,United States
+VER,Red Bull Racing,46.0,0 days 00:01:38.255000,HARD,21.0,2.0,3.0,98.255,2024,United States
+VER,Red Bull Racing,47.0,0 days 00:01:39.191000,HARD,22.0,2.0,3.0,99.191,2024,United States
+VER,Red Bull Racing,48.0,0 days 00:01:38.572000,HARD,23.0,2.0,3.0,98.572,2024,United States
+VER,Red Bull Racing,49.0,0 days 00:01:38.598000,HARD,24.0,2.0,3.0,98.598,2024,United States
+VER,Red Bull Racing,50.0,0 days 00:01:38.692000,HARD,25.0,2.0,3.0,98.692,2024,United States
+VER,Red Bull Racing,51.0,0 days 00:01:39.105000,HARD,26.0,2.0,3.0,99.105,2024,United States
+VER,Red Bull Racing,52.0,0 days 00:01:40.819000,HARD,27.0,2.0,4.0,100.819,2024,United States
+VER,Red Bull Racing,53.0,0 days 00:01:39.384000,HARD,28.0,2.0,4.0,99.384,2024,United States
+VER,Red Bull Racing,54.0,0 days 00:01:38.661000,HARD,29.0,2.0,4.0,98.661,2024,United States
+VER,Red Bull Racing,55.0,0 days 00:01:38.252000,HARD,30.0,2.0,4.0,98.252,2024,United States
+VER,Red Bull Racing,56.0,0 days 00:01:39.018000,HARD,31.0,2.0,4.0,99.018,2024,United States
+GAS,Alpine,1.0,0 days 00:01:44.426000,MEDIUM,1.0,1.0,6.0,104.426,2024,United States
+GAS,Alpine,2.0,0 days 00:01:42.067000,MEDIUM,2.0,1.0,6.0,102.067,2024,United States
+GAS,Alpine,3.0,0 days 00:02:08.872000,MEDIUM,3.0,1.0,6.0,128.872,2024,United States
+GAS,Alpine,4.0,0 days 00:02:29.840000,MEDIUM,4.0,1.0,6.0,149.84,2024,United States
+GAS,Alpine,6.0,0 days 00:01:42.096000,MEDIUM,6.0,1.0,6.0,102.096,2024,United States
+GAS,Alpine,7.0,0 days 00:01:41.487000,MEDIUM,7.0,1.0,6.0,101.487,2024,United States
+GAS,Alpine,8.0,0 days 00:01:41.037000,MEDIUM,8.0,1.0,6.0,101.037,2024,United States
+GAS,Alpine,9.0,0 days 00:01:40.712000,MEDIUM,9.0,1.0,6.0,100.712,2024,United States
+GAS,Alpine,10.0,0 days 00:01:40.571000,MEDIUM,10.0,1.0,6.0,100.571,2024,United States
+GAS,Alpine,11.0,0 days 00:01:41.291000,MEDIUM,11.0,1.0,6.0,101.291,2024,United States
+GAS,Alpine,12.0,0 days 00:01:41.086000,MEDIUM,12.0,1.0,6.0,101.086,2024,United States
+GAS,Alpine,13.0,0 days 00:01:41.046000,MEDIUM,13.0,1.0,6.0,101.046,2024,United States
+GAS,Alpine,14.0,0 days 00:01:41.551000,MEDIUM,14.0,1.0,6.0,101.551,2024,United States
+GAS,Alpine,15.0,0 days 00:01:41.499000,MEDIUM,15.0,1.0,6.0,101.499,2024,United States
+GAS,Alpine,16.0,0 days 00:01:41.306000,MEDIUM,16.0,1.0,6.0,101.306,2024,United States
+GAS,Alpine,17.0,0 days 00:01:42.142000,MEDIUM,17.0,1.0,6.0,102.142,2024,United States
+GAS,Alpine,18.0,0 days 00:01:41.038000,MEDIUM,18.0,1.0,6.0,101.038,2024,United States
+GAS,Alpine,19.0,0 days 00:02:05.822000,HARD,1.0,2.0,16.0,125.822,2024,United States
+GAS,Alpine,20.0,0 days 00:01:41.596000,HARD,2.0,2.0,16.0,101.596,2024,United States
+GAS,Alpine,21.0,0 days 00:01:41.132000,HARD,3.0,2.0,16.0,101.132,2024,United States
+GAS,Alpine,22.0,0 days 00:01:41.033000,HARD,4.0,2.0,16.0,101.033,2024,United States
+GAS,Alpine,23.0,0 days 00:01:41.083000,HARD,5.0,2.0,16.0,101.083,2024,United States
+GAS,Alpine,24.0,0 days 00:01:40.915000,HARD,6.0,2.0,16.0,100.915,2024,United States
+GAS,Alpine,25.0,0 days 00:01:40.986000,HARD,7.0,2.0,16.0,100.986,2024,United States
+GAS,Alpine,26.0,0 days 00:01:41.954000,HARD,8.0,2.0,16.0,101.954,2024,United States
+GAS,Alpine,27.0,0 days 00:01:42.407000,HARD,9.0,2.0,14.0,102.407,2024,United States
+GAS,Alpine,28.0,0 days 00:01:40.730000,HARD,10.0,2.0,13.0,100.73,2024,United States
+GAS,Alpine,29.0,0 days 00:01:40.435000,HARD,11.0,2.0,13.0,100.435,2024,United States
+GAS,Alpine,30.0,0 days 00:01:40.672000,HARD,12.0,2.0,13.0,100.672,2024,United States
+GAS,Alpine,31.0,0 days 00:01:40.791000,HARD,13.0,2.0,13.0,100.791,2024,United States
+GAS,Alpine,32.0,0 days 00:01:40.493000,HARD,14.0,2.0,12.0,100.493,2024,United States
+GAS,Alpine,33.0,0 days 00:01:40.244000,HARD,15.0,2.0,12.0,100.244,2024,United States
+GAS,Alpine,34.0,0 days 00:01:39.905000,HARD,16.0,2.0,12.0,99.905,2024,United States
+GAS,Alpine,35.0,0 days 00:01:39.866000,HARD,17.0,2.0,12.0,99.866,2024,United States
+GAS,Alpine,36.0,0 days 00:01:40.630000,HARD,18.0,2.0,12.0,100.63,2024,United States
+GAS,Alpine,37.0,0 days 00:01:40.698000,HARD,19.0,2.0,11.0,100.698,2024,United States
+GAS,Alpine,38.0,0 days 00:01:40.845000,HARD,20.0,2.0,12.0,100.845,2024,United States
+GAS,Alpine,39.0,0 days 00:01:39.981000,HARD,21.0,2.0,11.0,99.981,2024,United States
+GAS,Alpine,40.0,0 days 00:01:39.899000,HARD,22.0,2.0,10.0,99.899,2024,United States
+GAS,Alpine,41.0,0 days 00:01:40.583000,HARD,23.0,2.0,10.0,100.583,2024,United States
+GAS,Alpine,42.0,0 days 00:01:39.141000,HARD,24.0,2.0,10.0,99.141,2024,United States
+GAS,Alpine,43.0,0 days 00:01:39.276000,HARD,25.0,2.0,10.0,99.276,2024,United States
+GAS,Alpine,44.0,0 days 00:01:39.550000,HARD,26.0,2.0,10.0,99.55,2024,United States
+GAS,Alpine,45.0,0 days 00:01:40.665000,HARD,27.0,2.0,11.0,100.665,2024,United States
+GAS,Alpine,46.0,0 days 00:01:39.364000,HARD,28.0,2.0,11.0,99.364,2024,United States
+GAS,Alpine,47.0,0 days 00:01:40.973000,HARD,29.0,2.0,12.0,100.973,2024,United States
+GAS,Alpine,48.0,0 days 00:01:39.561000,HARD,30.0,2.0,12.0,99.561,2024,United States
+GAS,Alpine,49.0,0 days 00:01:39.300000,HARD,31.0,2.0,12.0,99.3,2024,United States
+GAS,Alpine,50.0,0 days 00:01:39.174000,HARD,32.0,2.0,12.0,99.174,2024,United States
+GAS,Alpine,51.0,0 days 00:01:39.384000,HARD,33.0,2.0,12.0,99.384,2024,United States
+GAS,Alpine,52.0,0 days 00:01:38.900000,HARD,34.0,2.0,12.0,98.9,2024,United States
+GAS,Alpine,53.0,0 days 00:01:39.127000,HARD,35.0,2.0,12.0,99.127,2024,United States
+GAS,Alpine,54.0,0 days 00:01:38.728000,HARD,36.0,2.0,12.0,98.728,2024,United States
+GAS,Alpine,55.0,0 days 00:01:38.311000,HARD,37.0,2.0,12.0,98.311,2024,United States
+GAS,Alpine,56.0,0 days 00:01:38.769000,HARD,38.0,2.0,12.0,98.769,2024,United States
+PER,Red Bull Racing,1.0,0 days 00:01:46.074000,MEDIUM,1.0,1.0,9.0,106.074,2024,United States
+PER,Red Bull Racing,2.0,0 days 00:01:42.416000,MEDIUM,2.0,1.0,9.0,102.416,2024,United States
+PER,Red Bull Racing,3.0,0 days 00:02:12.043000,MEDIUM,3.0,1.0,9.0,132.043,2024,United States
+PER,Red Bull Racing,6.0,0 days 00:01:42.576000,MEDIUM,6.0,1.0,9.0,102.576,2024,United States
+PER,Red Bull Racing,7.0,0 days 00:01:41.703000,MEDIUM,7.0,1.0,9.0,101.703,2024,United States
+PER,Red Bull Racing,8.0,0 days 00:01:41.129000,MEDIUM,8.0,1.0,9.0,101.129,2024,United States
+PER,Red Bull Racing,9.0,0 days 00:01:41.402000,MEDIUM,9.0,1.0,9.0,101.402,2024,United States
+PER,Red Bull Racing,10.0,0 days 00:01:41.136000,MEDIUM,10.0,1.0,9.0,101.136,2024,United States
+PER,Red Bull Racing,11.0,0 days 00:01:41.525000,MEDIUM,11.0,1.0,9.0,101.525,2024,United States
+PER,Red Bull Racing,12.0,0 days 00:01:41.491000,MEDIUM,12.0,1.0,9.0,101.491,2024,United States
+PER,Red Bull Racing,13.0,0 days 00:01:41.219000,MEDIUM,13.0,1.0,9.0,101.219,2024,United States
+PER,Red Bull Racing,14.0,0 days 00:01:41.431000,MEDIUM,14.0,1.0,9.0,101.431,2024,United States
+PER,Red Bull Racing,15.0,0 days 00:01:41.611000,MEDIUM,15.0,1.0,9.0,101.611,2024,United States
+PER,Red Bull Racing,16.0,0 days 00:01:41.468000,MEDIUM,16.0,1.0,9.0,101.468,2024,United States
+PER,Red Bull Racing,17.0,0 days 00:01:41.480000,MEDIUM,17.0,1.0,8.0,101.48,2024,United States
+PER,Red Bull Racing,18.0,0 days 00:01:40.538000,MEDIUM,18.0,1.0,7.0,100.538,2024,United States
+PER,Red Bull Racing,19.0,0 days 00:01:40.258000,MEDIUM,19.0,1.0,6.0,100.258,2024,United States
+PER,Red Bull Racing,20.0,0 days 00:01:40.252000,MEDIUM,20.0,1.0,6.0,100.252,2024,United States
+PER,Red Bull Racing,21.0,0 days 00:01:40.570000,MEDIUM,21.0,1.0,6.0,100.57,2024,United States
+PER,Red Bull Racing,22.0,0 days 00:01:41.456000,MEDIUM,22.0,1.0,6.0,101.456,2024,United States
+PER,Red Bull Racing,23.0,0 days 00:01:40.681000,MEDIUM,23.0,1.0,6.0,100.681,2024,United States
+PER,Red Bull Racing,24.0,0 days 00:01:40.564000,MEDIUM,24.0,1.0,6.0,100.564,2024,United States
+PER,Red Bull Racing,25.0,0 days 00:01:40.115000,MEDIUM,25.0,1.0,6.0,100.115,2024,United States
+PER,Red Bull Racing,26.0,0 days 00:01:40.789000,MEDIUM,26.0,1.0,6.0,100.789,2024,United States
+PER,Red Bull Racing,27.0,0 days 00:01:59.807000,HARD,1.0,2.0,11.0,119.807,2024,United States
+PER,Red Bull Racing,28.0,0 days 00:01:39.642000,HARD,2.0,2.0,9.0,99.642,2024,United States
+PER,Red Bull Racing,29.0,0 days 00:01:39.451000,HARD,3.0,2.0,9.0,99.451,2024,United States
+PER,Red Bull Racing,30.0,0 days 00:01:39.633000,HARD,4.0,2.0,9.0,99.633,2024,United States
+PER,Red Bull Racing,31.0,0 days 00:01:39.682000,HARD,5.0,2.0,9.0,99.682,2024,United States
+PER,Red Bull Racing,32.0,0 days 00:01:39.378000,HARD,6.0,2.0,9.0,99.378,2024,United States
+PER,Red Bull Racing,33.0,0 days 00:01:39.719000,HARD,7.0,2.0,9.0,99.719,2024,United States
+PER,Red Bull Racing,34.0,0 days 00:01:40.200000,HARD,8.0,2.0,9.0,100.2,2024,United States
+PER,Red Bull Racing,35.0,0 days 00:01:40.105000,HARD,9.0,2.0,9.0,100.105,2024,United States
+PER,Red Bull Racing,36.0,0 days 00:01:40.162000,HARD,10.0,2.0,9.0,100.162,2024,United States
+PER,Red Bull Racing,37.0,0 days 00:01:39.499000,HARD,11.0,2.0,7.0,99.499,2024,United States
+PER,Red Bull Racing,38.0,0 days 00:01:38.939000,HARD,12.0,2.0,7.0,98.939,2024,United States
+PER,Red Bull Racing,39.0,0 days 00:01:38.986000,HARD,13.0,2.0,7.0,98.986,2024,United States
+PER,Red Bull Racing,40.0,0 days 00:01:39.066000,HARD,14.0,2.0,7.0,99.066,2024,United States
+PER,Red Bull Racing,41.0,0 days 00:01:39.701000,HARD,15.0,2.0,6.0,99.701,2024,United States
+PER,Red Bull Racing,42.0,0 days 00:01:38.866000,HARD,16.0,2.0,6.0,98.866,2024,United States
+PER,Red Bull Racing,43.0,0 days 00:01:38.787000,HARD,17.0,2.0,6.0,98.787,2024,United States
+PER,Red Bull Racing,44.0,0 days 00:01:38.781000,HARD,18.0,2.0,6.0,98.781,2024,United States
+PER,Red Bull Racing,45.0,0 days 00:01:38.514000,HARD,19.0,2.0,6.0,98.514,2024,United States
+PER,Red Bull Racing,46.0,0 days 00:01:38.579000,HARD,20.0,2.0,6.0,98.579,2024,United States
+PER,Red Bull Racing,47.0,0 days 00:01:38.914000,HARD,21.0,2.0,6.0,98.914,2024,United States
+PER,Red Bull Racing,48.0,0 days 00:01:38.842000,HARD,22.0,2.0,6.0,98.842,2024,United States
+PER,Red Bull Racing,49.0,0 days 00:01:38.682000,HARD,23.0,2.0,6.0,98.682,2024,United States
+PER,Red Bull Racing,50.0,0 days 00:01:38.729000,HARD,24.0,2.0,6.0,98.729,2024,United States
+PER,Red Bull Racing,51.0,0 days 00:01:38.670000,HARD,25.0,2.0,6.0,98.67,2024,United States
+PER,Red Bull Racing,52.0,0 days 00:01:39.176000,HARD,26.0,2.0,6.0,99.176,2024,United States
+PER,Red Bull Racing,53.0,0 days 00:01:39.739000,HARD,27.0,2.0,6.0,99.739,2024,United States
+PER,Red Bull Racing,54.0,0 days 00:01:38.803000,HARD,28.0,2.0,6.0,98.803,2024,United States
+PER,Red Bull Racing,55.0,0 days 00:01:39.987000,HARD,29.0,2.0,7.0,99.987,2024,United States
+PER,Red Bull Racing,56.0,0 days 00:01:39.570000,HARD,30.0,2.0,7.0,99.57,2024,United States
+ALO,Aston Martin,1.0,0 days 00:01:46.421000,MEDIUM,1.0,1.0,10.0,106.421,2024,United States
+ALO,Aston Martin,2.0,0 days 00:01:42.720000,MEDIUM,2.0,1.0,10.0,102.72,2024,United States
+ALO,Aston Martin,3.0,0 days 00:02:13.660000,MEDIUM,3.0,1.0,10.0,133.66,2024,United States
+ALO,Aston Martin,4.0,0 days 00:02:29.599000,MEDIUM,4.0,1.0,10.0,149.599,2024,United States
+ALO,Aston Martin,6.0,0 days 00:01:43.042000,MEDIUM,6.0,1.0,10.0,103.042,2024,United States
+ALO,Aston Martin,7.0,0 days 00:01:42.409000,MEDIUM,7.0,1.0,11.0,102.409,2024,United States
+ALO,Aston Martin,8.0,0 days 00:01:41.508000,MEDIUM,8.0,1.0,11.0,101.508,2024,United States
+ALO,Aston Martin,9.0,0 days 00:01:41.975000,MEDIUM,9.0,1.0,11.0,101.975,2024,United States
+ALO,Aston Martin,10.0,0 days 00:01:41.928000,MEDIUM,10.0,1.0,11.0,101.928,2024,United States
+ALO,Aston Martin,11.0,0 days 00:01:43.326000,MEDIUM,11.0,1.0,12.0,103.326,2024,United States
+ALO,Aston Martin,12.0,0 days 00:01:41.701000,MEDIUM,12.0,1.0,12.0,101.701,2024,United States
+ALO,Aston Martin,13.0,0 days 00:01:41.687000,MEDIUM,13.0,1.0,12.0,101.687,2024,United States
+ALO,Aston Martin,14.0,0 days 00:01:41.706000,MEDIUM,14.0,1.0,12.0,101.706,2024,United States
+ALO,Aston Martin,15.0,0 days 00:01:41.530000,MEDIUM,15.0,1.0,12.0,101.53,2024,United States
+ALO,Aston Martin,16.0,0 days 00:01:41.681000,MEDIUM,16.0,1.0,12.0,101.681,2024,United States
+ALO,Aston Martin,17.0,0 days 00:01:42.424000,MEDIUM,17.0,1.0,13.0,102.424,2024,United States
+ALO,Aston Martin,18.0,0 days 00:01:41.238000,MEDIUM,18.0,1.0,12.0,101.238,2024,United States
+ALO,Aston Martin,19.0,0 days 00:01:41.677000,MEDIUM,19.0,1.0,10.0,101.677,2024,United States
+ALO,Aston Martin,20.0,0 days 00:01:41.585000,MEDIUM,20.0,1.0,10.0,101.585,2024,United States
+ALO,Aston Martin,21.0,0 days 00:01:41.297000,MEDIUM,21.0,1.0,10.0,101.297,2024,United States
+ALO,Aston Martin,22.0,0 days 00:01:42.707000,MEDIUM,22.0,1.0,11.0,102.707,2024,United States
+ALO,Aston Martin,23.0,0 days 00:01:41.766000,MEDIUM,23.0,1.0,11.0,101.766,2024,United States
+ALO,Aston Martin,24.0,0 days 00:01:41.879000,MEDIUM,24.0,1.0,11.0,101.879,2024,United States
+ALO,Aston Martin,25.0,0 days 00:01:41.614000,MEDIUM,25.0,1.0,11.0,101.614,2024,United States
+ALO,Aston Martin,26.0,0 days 00:01:42.193000,MEDIUM,26.0,1.0,11.0,102.193,2024,United States
+ALO,Aston Martin,27.0,0 days 00:02:00.837000,HARD,2.0,2.0,18.0,120.837,2024,United States
+ALO,Aston Martin,28.0,0 days 00:01:40.478000,HARD,3.0,2.0,17.0,100.478,2024,United States
+ALO,Aston Martin,29.0,0 days 00:01:40.480000,HARD,4.0,2.0,17.0,100.48,2024,United States
+ALO,Aston Martin,30.0,0 days 00:01:40.210000,HARD,5.0,2.0,17.0,100.21,2024,United States
+ALO,Aston Martin,31.0,0 days 00:01:40.133000,HARD,6.0,2.0,17.0,100.133,2024,United States
+ALO,Aston Martin,32.0,0 days 00:01:40.600000,HARD,7.0,2.0,16.0,100.6,2024,United States
+ALO,Aston Martin,33.0,0 days 00:01:40.556000,HARD,8.0,2.0,16.0,100.556,2024,United States
+ALO,Aston Martin,34.0,0 days 00:01:40.285000,HARD,9.0,2.0,14.0,100.285,2024,United States
+ALO,Aston Martin,35.0,0 days 00:01:41.231000,HARD,10.0,2.0,14.0,101.231,2024,United States
+ALO,Aston Martin,36.0,0 days 00:01:40.213000,HARD,11.0,2.0,14.0,100.213,2024,United States
+ALO,Aston Martin,37.0,0 days 00:01:40.610000,HARD,12.0,2.0,14.0,100.61,2024,United States
+ALO,Aston Martin,38.0,0 days 00:01:40.140000,HARD,13.0,2.0,14.0,100.14,2024,United States
+ALO,Aston Martin,39.0,0 days 00:01:40.079000,HARD,14.0,2.0,14.0,100.079,2024,United States
+ALO,Aston Martin,40.0,0 days 00:01:39.927000,HARD,15.0,2.0,14.0,99.927,2024,United States
+ALO,Aston Martin,41.0,0 days 00:01:41.035000,HARD,16.0,2.0,13.0,101.035,2024,United States
+ALO,Aston Martin,42.0,0 days 00:01:39.445000,HARD,17.0,2.0,13.0,99.445,2024,United States
+ALO,Aston Martin,43.0,0 days 00:01:39.554000,HARD,18.0,2.0,13.0,99.554,2024,United States
+ALO,Aston Martin,44.0,0 days 00:01:39.452000,HARD,19.0,2.0,13.0,99.452,2024,United States
+ALO,Aston Martin,45.0,0 days 00:01:39.999000,HARD,20.0,2.0,13.0,99.999,2024,United States
+ALO,Aston Martin,46.0,0 days 00:01:39.540000,HARD,21.0,2.0,13.0,99.54,2024,United States
+ALO,Aston Martin,47.0,0 days 00:01:39.533000,HARD,22.0,2.0,13.0,99.533,2024,United States
+ALO,Aston Martin,48.0,0 days 00:01:39.638000,HARD,23.0,2.0,13.0,99.638,2024,United States
+ALO,Aston Martin,49.0,0 days 00:01:39.949000,HARD,24.0,2.0,13.0,99.949,2024,United States
+ALO,Aston Martin,50.0,0 days 00:01:39.584000,HARD,25.0,2.0,13.0,99.584,2024,United States
+ALO,Aston Martin,51.0,0 days 00:01:39.290000,HARD,26.0,2.0,13.0,99.29,2024,United States
+ALO,Aston Martin,52.0,0 days 00:01:39.261000,HARD,27.0,2.0,13.0,99.261,2024,United States
+ALO,Aston Martin,53.0,0 days 00:01:39.729000,HARD,28.0,2.0,13.0,99.729,2024,United States
+ALO,Aston Martin,54.0,0 days 00:01:41.670000,HARD,29.0,2.0,13.0,101.67,2024,United States
+ALO,Aston Martin,55.0,0 days 00:01:40.096000,HARD,30.0,2.0,13.0,100.096,2024,United States
+LEC,Ferrari,1.0,0 days 00:01:39.987000,MEDIUM,1.0,1.0,1.0,99.987,2024,United States
+LEC,Ferrari,2.0,0 days 00:01:40.341000,MEDIUM,2.0,1.0,1.0,100.341,2024,United States
+LEC,Ferrari,3.0,0 days 00:02:02.873000,MEDIUM,3.0,1.0,1.0,122.873,2024,United States
+LEC,Ferrari,6.0,0 days 00:01:38.951000,MEDIUM,6.0,1.0,1.0,98.951,2024,United States
+LEC,Ferrari,7.0,0 days 00:01:39.570000,MEDIUM,7.0,1.0,1.0,99.57,2024,United States
+LEC,Ferrari,8.0,0 days 00:01:39.307000,MEDIUM,8.0,1.0,1.0,99.307,2024,United States
+LEC,Ferrari,9.0,0 days 00:01:39.257000,MEDIUM,9.0,1.0,1.0,99.257,2024,United States
+LEC,Ferrari,10.0,0 days 00:01:39.421000,MEDIUM,10.0,1.0,1.0,99.421,2024,United States
+LEC,Ferrari,11.0,0 days 00:01:39.597000,MEDIUM,11.0,1.0,1.0,99.597,2024,United States
+LEC,Ferrari,12.0,0 days 00:01:39.448000,MEDIUM,12.0,1.0,1.0,99.448,2024,United States
+LEC,Ferrari,13.0,0 days 00:01:39.399000,MEDIUM,13.0,1.0,1.0,99.399,2024,United States
+LEC,Ferrari,14.0,0 days 00:01:39.200000,MEDIUM,14.0,1.0,1.0,99.2,2024,United States
+LEC,Ferrari,15.0,0 days 00:01:39.672000,MEDIUM,15.0,1.0,1.0,99.672,2024,United States
+LEC,Ferrari,16.0,0 days 00:01:39.782000,MEDIUM,16.0,1.0,1.0,99.782,2024,United States
+LEC,Ferrari,17.0,0 days 00:01:39.621000,MEDIUM,17.0,1.0,1.0,99.621,2024,United States
+LEC,Ferrari,18.0,0 days 00:01:39.435000,MEDIUM,18.0,1.0,1.0,99.435,2024,United States
+LEC,Ferrari,19.0,0 days 00:01:39.553000,MEDIUM,19.0,1.0,1.0,99.553,2024,United States
+LEC,Ferrari,20.0,0 days 00:01:39.756000,MEDIUM,20.0,1.0,1.0,99.756,2024,United States
+LEC,Ferrari,21.0,0 days 00:01:39.506000,MEDIUM,21.0,1.0,1.0,99.506,2024,United States
+LEC,Ferrari,22.0,0 days 00:01:39.411000,MEDIUM,22.0,1.0,1.0,99.411,2024,United States
+LEC,Ferrari,23.0,0 days 00:01:39.878000,MEDIUM,23.0,1.0,1.0,99.878,2024,United States
+LEC,Ferrari,24.0,0 days 00:01:39.699000,MEDIUM,24.0,1.0,1.0,99.699,2024,United States
+LEC,Ferrari,25.0,0 days 00:01:39.583000,MEDIUM,25.0,1.0,1.0,99.583,2024,United States
+LEC,Ferrari,26.0,0 days 00:01:40.211000,MEDIUM,26.0,1.0,1.0,100.211,2024,United States
+LEC,Ferrari,27.0,0 days 00:01:59.522000,HARD,1.0,2.0,3.0,119.522,2024,United States
+LEC,Ferrari,28.0,0 days 00:01:38.662000,HARD,2.0,2.0,3.0,98.662,2024,United States
+LEC,Ferrari,29.0,0 days 00:01:39.067000,HARD,3.0,2.0,3.0,99.067,2024,United States
+LEC,Ferrari,30.0,0 days 00:01:39.034000,HARD,4.0,2.0,3.0,99.034,2024,United States
+LEC,Ferrari,31.0,0 days 00:01:38.667000,HARD,5.0,2.0,2.0,98.667,2024,United States
+LEC,Ferrari,32.0,0 days 00:01:38.825000,HARD,6.0,2.0,1.0,98.825,2024,United States
+LEC,Ferrari,33.0,0 days 00:01:39.032000,HARD,7.0,2.0,1.0,99.032,2024,United States
+LEC,Ferrari,34.0,0 days 00:01:38.633000,HARD,8.0,2.0,1.0,98.633,2024,United States
+LEC,Ferrari,35.0,0 days 00:01:38.897000,HARD,9.0,2.0,1.0,98.897,2024,United States
+LEC,Ferrari,36.0,0 days 00:01:38.643000,HARD,10.0,2.0,1.0,98.643,2024,United States
+LEC,Ferrari,37.0,0 days 00:01:38.477000,HARD,11.0,2.0,1.0,98.477,2024,United States
+LEC,Ferrari,38.0,0 days 00:01:38.570000,HARD,12.0,2.0,1.0,98.57,2024,United States
+LEC,Ferrari,39.0,0 days 00:01:37.834000,HARD,13.0,2.0,1.0,97.834,2024,United States
+LEC,Ferrari,40.0,0 days 00:01:38.287000,HARD,14.0,2.0,1.0,98.287,2024,United States
+LEC,Ferrari,41.0,0 days 00:01:38.395000,HARD,15.0,2.0,1.0,98.395,2024,United States
+LEC,Ferrari,42.0,0 days 00:01:38.179000,HARD,16.0,2.0,1.0,98.179,2024,United States
+LEC,Ferrari,43.0,0 days 00:01:38.257000,HARD,17.0,2.0,1.0,98.257,2024,United States
+LEC,Ferrari,44.0,0 days 00:01:38.697000,HARD,18.0,2.0,1.0,98.697,2024,United States
+LEC,Ferrari,45.0,0 days 00:01:38.349000,HARD,19.0,2.0,1.0,98.349,2024,United States
+LEC,Ferrari,46.0,0 days 00:01:39.177000,HARD,20.0,2.0,1.0,99.177,2024,United States
+LEC,Ferrari,47.0,0 days 00:01:38.471000,HARD,21.0,2.0,1.0,98.471,2024,United States
+LEC,Ferrari,48.0,0 days 00:01:38.313000,HARD,22.0,2.0,1.0,98.313,2024,United States
+LEC,Ferrari,49.0,0 days 00:01:38.326000,HARD,23.0,2.0,1.0,98.326,2024,United States
+LEC,Ferrari,50.0,0 days 00:01:37.951000,HARD,24.0,2.0,1.0,97.951,2024,United States
+LEC,Ferrari,51.0,0 days 00:01:37.875000,HARD,25.0,2.0,1.0,97.875,2024,United States
+LEC,Ferrari,52.0,0 days 00:01:38.092000,HARD,26.0,2.0,1.0,98.092,2024,United States
+LEC,Ferrari,53.0,0 days 00:01:38.365000,HARD,27.0,2.0,1.0,98.365,2024,United States
+LEC,Ferrari,54.0,0 days 00:01:38.175000,HARD,28.0,2.0,1.0,98.175,2024,United States
+LEC,Ferrari,55.0,0 days 00:01:37.902000,HARD,29.0,2.0,1.0,97.902,2024,United States
+LEC,Ferrari,56.0,0 days 00:01:39.518000,HARD,30.0,2.0,1.0,99.518,2024,United States
+STR,Aston Martin,1.0,0 days 00:01:48.520000,HARD,2.0,1.0,13.0,108.52,2024,United States
+STR,Aston Martin,2.0,0 days 00:01:42.792000,HARD,3.0,1.0,12.0,102.792,2024,United States
+STR,Aston Martin,3.0,0 days 00:02:14.001000,HARD,4.0,1.0,12.0,134.001,2024,United States
+STR,Aston Martin,6.0,0 days 00:01:47.096000,HARD,7.0,1.0,18.0,107.096,2024,United States
+STR,Aston Martin,7.0,0 days 00:01:42.147000,HARD,8.0,1.0,18.0,102.147,2024,United States
+STR,Aston Martin,8.0,0 days 00:01:41.873000,HARD,9.0,1.0,18.0,101.873,2024,United States
+STR,Aston Martin,9.0,0 days 00:01:41.972000,HARD,10.0,1.0,18.0,101.972,2024,United States
+STR,Aston Martin,10.0,0 days 00:01:41.813000,HARD,11.0,1.0,17.0,101.813,2024,United States
+STR,Aston Martin,11.0,0 days 00:01:42.777000,HARD,12.0,1.0,17.0,102.777,2024,United States
+STR,Aston Martin,12.0,0 days 00:01:42.174000,HARD,13.0,1.0,17.0,102.174,2024,United States
+STR,Aston Martin,13.0,0 days 00:01:42.102000,HARD,14.0,1.0,17.0,102.102,2024,United States
+STR,Aston Martin,14.0,0 days 00:01:42.062000,HARD,15.0,1.0,17.0,102.062,2024,United States
+STR,Aston Martin,15.0,0 days 00:01:42.348000,HARD,16.0,1.0,17.0,102.348,2024,United States
+STR,Aston Martin,16.0,0 days 00:01:42.311000,HARD,17.0,1.0,16.0,102.311,2024,United States
+STR,Aston Martin,17.0,0 days 00:01:42.054000,HARD,18.0,1.0,16.0,102.054,2024,United States
+STR,Aston Martin,18.0,0 days 00:01:41.869000,HARD,19.0,1.0,15.0,101.869,2024,United States
+STR,Aston Martin,19.0,0 days 00:01:41.570000,HARD,20.0,1.0,13.0,101.57,2024,United States
+STR,Aston Martin,20.0,0 days 00:01:41.601000,HARD,21.0,1.0,13.0,101.601,2024,United States
+STR,Aston Martin,21.0,0 days 00:01:41.416000,HARD,22.0,1.0,13.0,101.416,2024,United States
+STR,Aston Martin,22.0,0 days 00:01:42.657000,HARD,23.0,1.0,14.0,102.657,2024,United States
+STR,Aston Martin,23.0,0 days 00:01:42.237000,HARD,24.0,1.0,14.0,102.237,2024,United States
+STR,Aston Martin,24.0,0 days 00:01:41.678000,HARD,25.0,1.0,14.0,101.678,2024,United States
+STR,Aston Martin,25.0,0 days 00:01:41.634000,HARD,26.0,1.0,14.0,101.634,2024,United States
+STR,Aston Martin,26.0,0 days 00:01:43.213000,HARD,27.0,1.0,15.0,103.213,2024,United States
+STR,Aston Martin,27.0,0 days 00:01:42.199000,HARD,28.0,1.0,13.0,102.199,2024,United States
+STR,Aston Martin,28.0,0 days 00:02:03.231000,MEDIUM,1.0,2.0,19.0,123.231,2024,United States
+STR,Aston Martin,29.0,0 days 00:01:39.575000,MEDIUM,2.0,2.0,18.0,99.575,2024,United States
+STR,Aston Martin,30.0,0 days 00:01:40.384000,MEDIUM,3.0,2.0,18.0,100.384,2024,United States
+STR,Aston Martin,31.0,0 days 00:01:40.088000,MEDIUM,4.0,2.0,18.0,100.088,2024,United States
+STR,Aston Martin,32.0,0 days 00:01:40.689000,MEDIUM,5.0,2.0,18.0,100.689,2024,United States
+STR,Aston Martin,33.0,0 days 00:01:40.414000,MEDIUM,6.0,2.0,18.0,100.414,2024,United States
+STR,Aston Martin,34.0,0 days 00:01:40.404000,MEDIUM,7.0,2.0,17.0,100.404,2024,United States
+STR,Aston Martin,35.0,0 days 00:01:40.399000,MEDIUM,8.0,2.0,17.0,100.399,2024,United States
+STR,Aston Martin,36.0,0 days 00:01:40.435000,MEDIUM,9.0,2.0,17.0,100.435,2024,United States
+STR,Aston Martin,37.0,0 days 00:01:40.210000,MEDIUM,10.0,2.0,17.0,100.21,2024,United States
+STR,Aston Martin,38.0,0 days 00:01:40.025000,MEDIUM,11.0,2.0,17.0,100.025,2024,United States
+STR,Aston Martin,39.0,0 days 00:01:40.038000,MEDIUM,12.0,2.0,17.0,100.038,2024,United States
+STR,Aston Martin,40.0,0 days 00:01:39.831000,MEDIUM,13.0,2.0,17.0,99.831,2024,United States
+STR,Aston Martin,41.0,0 days 00:01:40.475000,MEDIUM,14.0,2.0,17.0,100.475,2024,United States
+STR,Aston Martin,42.0,0 days 00:01:40.085000,MEDIUM,15.0,2.0,17.0,100.085,2024,United States
+STR,Aston Martin,43.0,0 days 00:01:39.922000,MEDIUM,16.0,2.0,17.0,99.922,2024,United States
+STR,Aston Martin,44.0,0 days 00:01:40.001000,MEDIUM,17.0,2.0,17.0,100.001,2024,United States
+STR,Aston Martin,45.0,0 days 00:01:40.481000,MEDIUM,18.0,2.0,16.0,100.481,2024,United States
+STR,Aston Martin,46.0,0 days 00:01:41.173000,MEDIUM,19.0,2.0,16.0,101.173,2024,United States
+STR,Aston Martin,47.0,0 days 00:01:39.524000,MEDIUM,20.0,2.0,16.0,99.524,2024,United States
+STR,Aston Martin,48.0,0 days 00:01:39.666000,MEDIUM,21.0,2.0,16.0,99.666,2024,United States
+STR,Aston Martin,49.0,0 days 00:01:41.690000,MEDIUM,22.0,2.0,16.0,101.69,2024,United States
+STR,Aston Martin,50.0,0 days 00:01:39.759000,MEDIUM,23.0,2.0,16.0,99.759,2024,United States
+STR,Aston Martin,51.0,0 days 00:01:39.896000,MEDIUM,24.0,2.0,16.0,99.896,2024,United States
+STR,Aston Martin,52.0,0 days 00:01:39.448000,MEDIUM,25.0,2.0,15.0,99.448,2024,United States
+STR,Aston Martin,53.0,0 days 00:01:39.435000,MEDIUM,26.0,2.0,15.0,99.435,2024,United States
+STR,Aston Martin,54.0,0 days 00:01:39.214000,MEDIUM,27.0,2.0,15.0,99.214,2024,United States
+STR,Aston Martin,55.0,0 days 00:01:41.498000,MEDIUM,28.0,2.0,15.0,101.498,2024,United States
+MAG,Haas F1 Team,1.0,0 days 00:01:45.073000,MEDIUM,1.0,1.0,7.0,105.073,2024,United States
+MAG,Haas F1 Team,2.0,0 days 00:01:42.038000,MEDIUM,2.0,1.0,7.0,102.038,2024,United States
+MAG,Haas F1 Team,3.0,0 days 00:02:08.559000,MEDIUM,3.0,1.0,7.0,128.559,2024,United States
+MAG,Haas F1 Team,6.0,0 days 00:01:42.311000,MEDIUM,6.0,1.0,7.0,102.311,2024,United States
+MAG,Haas F1 Team,7.0,0 days 00:01:41.740000,MEDIUM,7.0,1.0,7.0,101.74,2024,United States
+MAG,Haas F1 Team,8.0,0 days 00:01:40.836000,MEDIUM,8.0,1.0,7.0,100.836,2024,United States
+MAG,Haas F1 Team,9.0,0 days 00:01:40.634000,MEDIUM,9.0,1.0,7.0,100.634,2024,United States
+MAG,Haas F1 Team,10.0,0 days 00:01:41.287000,MEDIUM,10.0,1.0,7.0,101.287,2024,United States
+MAG,Haas F1 Team,11.0,0 days 00:01:41.697000,MEDIUM,11.0,1.0,7.0,101.697,2024,United States
+MAG,Haas F1 Team,12.0,0 days 00:01:41.161000,MEDIUM,12.0,1.0,7.0,101.161,2024,United States
+MAG,Haas F1 Team,13.0,0 days 00:01:41.150000,MEDIUM,13.0,1.0,7.0,101.15,2024,United States
+MAG,Haas F1 Team,14.0,0 days 00:01:41.279000,MEDIUM,14.0,1.0,7.0,101.279,2024,United States
+MAG,Haas F1 Team,15.0,0 days 00:01:41.736000,MEDIUM,15.0,1.0,7.0,101.736,2024,United States
+MAG,Haas F1 Team,16.0,0 days 00:01:41.901000,MEDIUM,16.0,1.0,7.0,101.901,2024,United States
+MAG,Haas F1 Team,17.0,0 days 00:01:41.895000,MEDIUM,17.0,1.0,7.0,101.895,2024,United States
+MAG,Haas F1 Team,18.0,0 days 00:01:59.791000,HARD,1.0,2.0,17.0,119.791,2024,United States
+MAG,Haas F1 Team,19.0,0 days 00:01:40.868000,HARD,2.0,2.0,15.0,100.868,2024,United States
+MAG,Haas F1 Team,20.0,0 days 00:01:40.996000,HARD,3.0,2.0,15.0,100.996,2024,United States
+MAG,Haas F1 Team,21.0,0 days 00:01:41.259000,HARD,4.0,2.0,14.0,101.259,2024,United States
+MAG,Haas F1 Team,22.0,0 days 00:01:40.479000,HARD,5.0,2.0,13.0,100.479,2024,United States
+MAG,Haas F1 Team,23.0,0 days 00:01:40.732000,HARD,6.0,2.0,13.0,100.732,2024,United States
+MAG,Haas F1 Team,24.0,0 days 00:01:40.626000,HARD,7.0,2.0,13.0,100.626,2024,United States
+MAG,Haas F1 Team,25.0,0 days 00:01:40.292000,HARD,8.0,2.0,12.0,100.292,2024,United States
+MAG,Haas F1 Team,26.0,0 days 00:01:40.479000,HARD,9.0,2.0,12.0,100.479,2024,United States
+MAG,Haas F1 Team,27.0,0 days 00:01:40.126000,HARD,10.0,2.0,10.0,100.126,2024,United States
+MAG,Haas F1 Team,28.0,0 days 00:01:41.523000,HARD,11.0,2.0,10.0,101.523,2024,United States
+MAG,Haas F1 Team,29.0,0 days 00:01:40.250000,HARD,12.0,2.0,10.0,100.25,2024,United States
+MAG,Haas F1 Team,30.0,0 days 00:01:40.769000,HARD,13.0,2.0,10.0,100.769,2024,United States
+MAG,Haas F1 Team,31.0,0 days 00:01:40.455000,HARD,14.0,2.0,10.0,100.455,2024,United States
+MAG,Haas F1 Team,32.0,0 days 00:01:40.166000,HARD,15.0,2.0,10.0,100.166,2024,United States
+MAG,Haas F1 Team,33.0,0 days 00:01:39.826000,HARD,16.0,2.0,10.0,99.826,2024,United States
+MAG,Haas F1 Team,34.0,0 days 00:01:39.641000,HARD,17.0,2.0,10.0,99.641,2024,United States
+MAG,Haas F1 Team,35.0,0 days 00:01:39.585000,HARD,18.0,2.0,10.0,99.585,2024,United States
+MAG,Haas F1 Team,36.0,0 days 00:01:39.786000,HARD,19.0,2.0,10.0,99.786,2024,United States
+MAG,Haas F1 Team,37.0,0 days 00:01:40.481000,HARD,20.0,2.0,9.0,100.481,2024,United States
+MAG,Haas F1 Team,38.0,0 days 00:01:39.843000,HARD,21.0,2.0,9.0,99.843,2024,United States
+MAG,Haas F1 Team,39.0,0 days 00:01:58.617000,MEDIUM,1.0,3.0,13.0,118.617,2024,United States
+MAG,Haas F1 Team,40.0,0 days 00:01:38.975000,MEDIUM,2.0,3.0,13.0,98.975,2024,United States
+MAG,Haas F1 Team,41.0,0 days 00:01:40.010000,MEDIUM,3.0,3.0,12.0,100.01,2024,United States
+MAG,Haas F1 Team,42.0,0 days 00:01:38.653000,MEDIUM,4.0,3.0,12.0,98.653,2024,United States
+MAG,Haas F1 Team,43.0,0 days 00:01:38.988000,MEDIUM,5.0,3.0,12.0,98.988,2024,United States
+MAG,Haas F1 Team,44.0,0 days 00:01:38.671000,MEDIUM,6.0,3.0,12.0,98.671,2024,United States
+MAG,Haas F1 Team,45.0,0 days 00:01:39.045000,MEDIUM,7.0,3.0,12.0,99.045,2024,United States
+MAG,Haas F1 Team,46.0,0 days 00:01:39.085000,MEDIUM,8.0,3.0,12.0,99.085,2024,United States
+MAG,Haas F1 Team,47.0,0 days 00:01:38.779000,MEDIUM,9.0,3.0,11.0,98.779,2024,United States
+MAG,Haas F1 Team,48.0,0 days 00:01:39.025000,MEDIUM,10.0,3.0,11.0,99.025,2024,United States
+MAG,Haas F1 Team,49.0,0 days 00:01:38.746000,MEDIUM,11.0,3.0,11.0,98.746,2024,United States
+MAG,Haas F1 Team,50.0,0 days 00:01:38.676000,MEDIUM,12.0,3.0,11.0,98.676,2024,United States
+MAG,Haas F1 Team,51.0,0 days 00:01:38.877000,MEDIUM,13.0,3.0,11.0,98.877,2024,United States
+MAG,Haas F1 Team,52.0,0 days 00:01:38.623000,MEDIUM,14.0,3.0,11.0,98.623,2024,United States
+MAG,Haas F1 Team,53.0,0 days 00:01:38.508000,MEDIUM,15.0,3.0,11.0,98.508,2024,United States
+MAG,Haas F1 Team,54.0,0 days 00:01:38.325000,MEDIUM,16.0,3.0,11.0,98.325,2024,United States
+MAG,Haas F1 Team,55.0,0 days 00:01:38.239000,MEDIUM,17.0,3.0,11.0,98.239,2024,United States
+MAG,Haas F1 Team,56.0,0 days 00:01:38.210000,MEDIUM,18.0,3.0,11.0,98.21,2024,United States
+TSU,RB,1.0,0 days 00:01:45.613000,MEDIUM,1.0,1.0,8.0,105.613,2024,United States
+TSU,RB,2.0,0 days 00:01:42.114000,MEDIUM,2.0,1.0,8.0,102.114,2024,United States
+TSU,RB,3.0,0 days 00:02:11.600000,MEDIUM,3.0,1.0,8.0,131.6,2024,United States
+TSU,RB,6.0,0 days 00:01:42.559000,MEDIUM,6.0,1.0,8.0,102.559,2024,United States
+TSU,RB,7.0,0 days 00:01:41.731000,MEDIUM,7.0,1.0,8.0,101.731,2024,United States
+TSU,RB,8.0,0 days 00:01:41.101000,MEDIUM,8.0,1.0,8.0,101.101,2024,United States
+TSU,RB,9.0,0 days 00:01:40.953000,MEDIUM,9.0,1.0,8.0,100.953,2024,United States
+TSU,RB,10.0,0 days 00:01:41.192000,MEDIUM,10.0,1.0,8.0,101.192,2024,United States
+TSU,RB,11.0,0 days 00:01:41.613000,MEDIUM,11.0,1.0,8.0,101.613,2024,United States
+TSU,RB,12.0,0 days 00:01:41.513000,MEDIUM,12.0,1.0,8.0,101.513,2024,United States
+TSU,RB,13.0,0 days 00:01:41.223000,MEDIUM,13.0,1.0,8.0,101.223,2024,United States
+TSU,RB,14.0,0 days 00:01:41.351000,MEDIUM,14.0,1.0,8.0,101.351,2024,United States
+TSU,RB,15.0,0 days 00:01:41.536000,MEDIUM,15.0,1.0,8.0,101.536,2024,United States
+TSU,RB,16.0,0 days 00:01:41.684000,MEDIUM,16.0,1.0,8.0,101.684,2024,United States
+TSU,RB,17.0,0 days 00:01:43.026000,MEDIUM,17.0,1.0,9.0,103.026,2024,United States
+TSU,RB,18.0,0 days 00:01:42.676000,MEDIUM,18.0,1.0,9.0,102.676,2024,United States
+TSU,RB,19.0,0 days 00:02:02.848000,HARD,1.0,2.0,17.0,122.848,2024,United States
+TSU,RB,20.0,0 days 00:01:41.198000,HARD,2.0,2.0,17.0,101.198,2024,United States
+TSU,RB,21.0,0 days 00:01:41.337000,HARD,3.0,2.0,17.0,101.337,2024,United States
+TSU,RB,22.0,0 days 00:01:41.005000,HARD,4.0,2.0,17.0,101.005,2024,United States
+TSU,RB,23.0,0 days 00:01:41.365000,HARD,5.0,2.0,17.0,101.365,2024,United States
+TSU,RB,24.0,0 days 00:01:41.205000,HARD,6.0,2.0,17.0,101.205,2024,United States
+TSU,RB,25.0,0 days 00:01:41.073000,HARD,7.0,2.0,17.0,101.073,2024,United States
+TSU,RB,26.0,0 days 00:01:40.927000,HARD,8.0,2.0,17.0,100.927,2024,United States
+TSU,RB,27.0,0 days 00:01:41.246000,HARD,9.0,2.0,16.0,101.246,2024,United States
+TSU,RB,28.0,0 days 00:01:41.467000,HARD,10.0,2.0,14.0,101.467,2024,United States
+TSU,RB,29.0,0 days 00:01:40.793000,HARD,11.0,2.0,14.0,100.793,2024,United States
+TSU,RB,30.0,0 days 00:01:40.706000,HARD,12.0,2.0,14.0,100.706,2024,United States
+TSU,RB,31.0,0 days 00:01:40.793000,HARD,13.0,2.0,14.0,100.793,2024,United States
+TSU,RB,32.0,0 days 00:01:40.466000,HARD,14.0,2.0,13.0,100.466,2024,United States
+TSU,RB,33.0,0 days 00:01:40.302000,HARD,15.0,2.0,13.0,100.302,2024,United States
+TSU,RB,34.0,0 days 00:01:40.139000,HARD,16.0,2.0,13.0,100.139,2024,United States
+TSU,RB,35.0,0 days 00:01:39.787000,HARD,17.0,2.0,13.0,99.787,2024,United States
+TSU,RB,36.0,0 days 00:01:39.923000,HARD,18.0,2.0,13.0,99.923,2024,United States
+TSU,RB,37.0,0 days 00:01:41.002000,HARD,19.0,2.0,13.0,101.002,2024,United States
+TSU,RB,38.0,0 days 00:01:39.855000,HARD,20.0,2.0,13.0,99.855,2024,United States
+TSU,RB,39.0,0 days 00:01:39.614000,HARD,21.0,2.0,12.0,99.614,2024,United States
+TSU,RB,40.0,0 days 00:01:39.845000,HARD,22.0,2.0,11.0,99.845,2024,United States
+TSU,RB,41.0,0 days 00:01:52.718000,HARD,23.0,2.0,14.0,112.718,2024,United States
+TSU,RB,42.0,0 days 00:01:39.212000,HARD,24.0,2.0,14.0,99.212,2024,United States
+TSU,RB,43.0,0 days 00:01:39.361000,HARD,25.0,2.0,14.0,99.361,2024,United States
+TSU,RB,44.0,0 days 00:01:39.379000,HARD,26.0,2.0,14.0,99.379,2024,United States
+TSU,RB,45.0,0 days 00:01:39.711000,HARD,27.0,2.0,14.0,99.711,2024,United States
+TSU,RB,46.0,0 days 00:01:39.778000,HARD,28.0,2.0,14.0,99.778,2024,United States
+TSU,RB,47.0,0 days 00:01:39.631000,HARD,29.0,2.0,14.0,99.631,2024,United States
+TSU,RB,48.0,0 days 00:01:39.697000,HARD,30.0,2.0,14.0,99.697,2024,United States
+TSU,RB,49.0,0 days 00:01:39.476000,HARD,31.0,2.0,14.0,99.476,2024,United States
+TSU,RB,50.0,0 days 00:01:39.863000,HARD,32.0,2.0,14.0,99.863,2024,United States
+TSU,RB,51.0,0 days 00:01:39.521000,HARD,33.0,2.0,14.0,99.521,2024,United States
+TSU,RB,52.0,0 days 00:01:39.657000,HARD,34.0,2.0,14.0,99.657,2024,United States
+TSU,RB,53.0,0 days 00:01:41.114000,HARD,35.0,2.0,14.0,101.114,2024,United States
+TSU,RB,54.0,0 days 00:01:39.193000,HARD,36.0,2.0,14.0,99.193,2024,United States
+TSU,RB,55.0,0 days 00:01:39.379000,HARD,37.0,2.0,14.0,99.379,2024,United States
+ALB,Williams,1.0,0 days 00:01:51.269000,MEDIUM,1.0,1.0,18.0,111.269,2024,United States
+ALB,Williams,2.0,0 days 00:01:44.544000,MEDIUM,2.0,1.0,18.0,104.544,2024,United States
+ALB,Williams,3.0,0 days 00:02:16.698000,MEDIUM,3.0,1.0,17.0,136.698,2024,United States
+ALB,Williams,5.0,0 days 00:02:21.937000,MEDIUM,2.0,2.0,19.0,141.937,2024,United States
+ALB,Williams,6.0,0 days 00:01:44.652000,MEDIUM,3.0,2.0,19.0,104.652,2024,United States
+ALB,Williams,7.0,0 days 00:01:42.627000,MEDIUM,4.0,2.0,19.0,102.627,2024,United States
+ALB,Williams,8.0,0 days 00:01:42.144000,MEDIUM,5.0,2.0,19.0,102.144,2024,United States
+ALB,Williams,9.0,0 days 00:01:42.001000,MEDIUM,6.0,2.0,19.0,102.001,2024,United States
+ALB,Williams,10.0,0 days 00:01:42.736000,MEDIUM,7.0,2.0,18.0,102.736,2024,United States
+ALB,Williams,11.0,0 days 00:01:42.219000,MEDIUM,8.0,2.0,18.0,102.219,2024,United States
+ALB,Williams,12.0,0 days 00:01:41.938000,MEDIUM,9.0,2.0,18.0,101.938,2024,United States
+ALB,Williams,13.0,0 days 00:01:42.458000,MEDIUM,10.0,2.0,18.0,102.458,2024,United States
+ALB,Williams,14.0,0 days 00:01:42.221000,MEDIUM,11.0,2.0,18.0,102.221,2024,United States
+ALB,Williams,15.0,0 days 00:01:42.263000,MEDIUM,12.0,2.0,18.0,102.263,2024,United States
+ALB,Williams,16.0,0 days 00:01:42.331000,MEDIUM,13.0,2.0,17.0,102.331,2024,United States
+ALB,Williams,17.0,0 days 00:01:41.884000,MEDIUM,14.0,2.0,17.0,101.884,2024,United States
+ALB,Williams,18.0,0 days 00:01:41.524000,MEDIUM,15.0,2.0,16.0,101.524,2024,United States
+ALB,Williams,19.0,0 days 00:01:41.601000,MEDIUM,16.0,2.0,14.0,101.601,2024,United States
+ALB,Williams,20.0,0 days 00:01:41.411000,MEDIUM,17.0,2.0,14.0,101.411,2024,United States
+ALB,Williams,21.0,0 days 00:01:42.460000,MEDIUM,18.0,2.0,15.0,102.46,2024,United States
+ALB,Williams,22.0,0 days 00:01:42.169000,MEDIUM,19.0,2.0,15.0,102.169,2024,United States
+ALB,Williams,23.0,0 days 00:01:41.886000,MEDIUM,20.0,2.0,15.0,101.886,2024,United States
+ALB,Williams,24.0,0 days 00:01:41.432000,MEDIUM,21.0,2.0,15.0,101.432,2024,United States
+ALB,Williams,25.0,0 days 00:01:41.418000,MEDIUM,22.0,2.0,15.0,101.418,2024,United States
+ALB,Williams,26.0,0 days 00:01:42.357000,MEDIUM,23.0,2.0,14.0,102.357,2024,United States
+ALB,Williams,27.0,0 days 00:01:43.544000,MEDIUM,24.0,2.0,15.0,103.544,2024,United States
+ALB,Williams,28.0,0 days 00:01:42.932000,MEDIUM,25.0,2.0,15.0,102.932,2024,United States
+ALB,Williams,29.0,0 days 00:01:41.287000,MEDIUM,26.0,2.0,15.0,101.287,2024,United States
+ALB,Williams,30.0,0 days 00:01:41.651000,MEDIUM,27.0,2.0,15.0,101.651,2024,United States
+ALB,Williams,31.0,0 days 00:01:41.635000,MEDIUM,28.0,2.0,15.0,101.635,2024,United States
+ALB,Williams,32.0,0 days 00:01:41.297000,MEDIUM,29.0,2.0,14.0,101.297,2024,United States
+ALB,Williams,33.0,0 days 00:01:41.702000,MEDIUM,30.0,2.0,14.0,101.702,2024,United States
+ALB,Williams,34.0,0 days 00:02:01.549000,HARD,1.0,3.0,19.0,121.549,2024,United States
+ALB,Williams,35.0,0 days 00:01:40.029000,HARD,2.0,3.0,18.0,100.029,2024,United States
+ALB,Williams,36.0,0 days 00:01:39.721000,HARD,3.0,3.0,18.0,99.721,2024,United States
+ALB,Williams,37.0,0 days 00:01:39.632000,HARD,4.0,3.0,18.0,99.632,2024,United States
+ALB,Williams,38.0,0 days 00:01:39.690000,HARD,5.0,3.0,18.0,99.69,2024,United States
+ALB,Williams,39.0,0 days 00:01:39.531000,HARD,6.0,3.0,18.0,99.531,2024,United States
+ALB,Williams,40.0,0 days 00:01:39.666000,HARD,7.0,3.0,18.0,99.666,2024,United States
+ALB,Williams,41.0,0 days 00:01:39.406000,HARD,8.0,3.0,18.0,99.406,2024,United States
+ALB,Williams,42.0,0 days 00:01:39.241000,HARD,9.0,3.0,18.0,99.241,2024,United States
+ALB,Williams,43.0,0 days 00:01:39.353000,HARD,10.0,3.0,18.0,99.353,2024,United States
+ALB,Williams,44.0,0 days 00:01:41.215000,HARD,11.0,3.0,18.0,101.215,2024,United States
+ALB,Williams,45.0,0 days 00:01:39.961000,HARD,12.0,3.0,18.0,99.961,2024,United States
+ALB,Williams,46.0,0 days 00:01:41.733000,HARD,13.0,3.0,17.0,101.733,2024,United States
+ALB,Williams,47.0,0 days 00:01:39.552000,HARD,14.0,3.0,17.0,99.552,2024,United States
+ALB,Williams,48.0,0 days 00:01:39.205000,HARD,15.0,3.0,17.0,99.205,2024,United States
+ALB,Williams,49.0,0 days 00:01:39.509000,HARD,16.0,3.0,17.0,99.509,2024,United States
+ALB,Williams,50.0,0 days 00:01:39.639000,HARD,17.0,3.0,17.0,99.639,2024,United States
+ALB,Williams,51.0,0 days 00:01:39.720000,HARD,18.0,3.0,17.0,99.72,2024,United States
+ALB,Williams,52.0,0 days 00:01:39.279000,HARD,19.0,3.0,16.0,99.279,2024,United States
+ALB,Williams,53.0,0 days 00:01:39.350000,HARD,20.0,3.0,16.0,99.35,2024,United States
+ALB,Williams,54.0,0 days 00:01:39.084000,HARD,21.0,3.0,16.0,99.084,2024,United States
+ALB,Williams,55.0,0 days 00:01:41.299000,HARD,22.0,3.0,16.0,101.299,2024,United States
+ZHO,Kick Sauber,1.0,0 days 00:01:49.473000,MEDIUM,1.0,1.0,15.0,109.473,2024,United States
+ZHO,Kick Sauber,2.0,0 days 00:01:42.960000,MEDIUM,2.0,1.0,14.0,102.96,2024,United States
+ZHO,Kick Sauber,3.0,0 days 00:02:16.979000,MEDIUM,3.0,1.0,14.0,136.979,2024,United States
+ZHO,Kick Sauber,4.0,0 days 00:02:29.649000,MEDIUM,4.0,1.0,14.0,149.649,2024,United States
+ZHO,Kick Sauber,5.0,0 days 00:02:29.529000,MEDIUM,5.0,1.0,14.0,149.529,2024,United States
+ZHO,Kick Sauber,6.0,0 days 00:01:43.259000,MEDIUM,6.0,1.0,13.0,103.259,2024,United States
+ZHO,Kick Sauber,7.0,0 days 00:01:42.100000,MEDIUM,7.0,1.0,13.0,102.1,2024,United States
+ZHO,Kick Sauber,8.0,0 days 00:01:41.474000,MEDIUM,8.0,1.0,13.0,101.474,2024,United States
+ZHO,Kick Sauber,9.0,0 days 00:01:41.910000,MEDIUM,9.0,1.0,13.0,101.91,2024,United States
+ZHO,Kick Sauber,10.0,0 days 00:01:50.686000,MEDIUM,10.0,1.0,19.0,110.686,2024,United States
+ZHO,Kick Sauber,11.0,0 days 00:01:42.743000,MEDIUM,11.0,1.0,19.0,102.743,2024,United States
+ZHO,Kick Sauber,12.0,0 days 00:01:42.262000,MEDIUM,12.0,1.0,19.0,102.262,2024,United States
+ZHO,Kick Sauber,13.0,0 days 00:01:42.427000,MEDIUM,13.0,1.0,19.0,102.427,2024,United States
+ZHO,Kick Sauber,14.0,0 days 00:02:02.835000,MEDIUM,1.0,2.0,19.0,122.835,2024,United States
+ZHO,Kick Sauber,15.0,0 days 00:01:41.376000,MEDIUM,2.0,2.0,19.0,101.376,2024,United States
+ZHO,Kick Sauber,16.0,0 days 00:01:41.633000,MEDIUM,3.0,2.0,19.0,101.633,2024,United States
+ZHO,Kick Sauber,17.0,0 days 00:01:41.886000,MEDIUM,4.0,2.0,19.0,101.886,2024,United States
+ZHO,Kick Sauber,18.0,0 days 00:01:41.325000,MEDIUM,5.0,2.0,19.0,101.325,2024,United States
+ZHO,Kick Sauber,19.0,0 days 00:01:41.352000,MEDIUM,6.0,2.0,19.0,101.352,2024,United States
+ZHO,Kick Sauber,20.0,0 days 00:01:41.858000,MEDIUM,7.0,2.0,19.0,101.858,2024,United States
+ZHO,Kick Sauber,21.0,0 days 00:01:41.435000,MEDIUM,8.0,2.0,19.0,101.435,2024,United States
+ZHO,Kick Sauber,22.0,0 days 00:01:42.176000,MEDIUM,9.0,2.0,19.0,102.176,2024,United States
+ZHO,Kick Sauber,23.0,0 days 00:01:42.259000,MEDIUM,10.0,2.0,19.0,102.259,2024,United States
+ZHO,Kick Sauber,24.0,0 days 00:01:41.649000,MEDIUM,11.0,2.0,19.0,101.649,2024,United States
+ZHO,Kick Sauber,25.0,0 days 00:01:41.696000,MEDIUM,12.0,2.0,19.0,101.696,2024,United States
+ZHO,Kick Sauber,26.0,0 days 00:01:41.364000,MEDIUM,13.0,2.0,19.0,101.364,2024,United States
+ZHO,Kick Sauber,27.0,0 days 00:01:41.186000,MEDIUM,14.0,2.0,19.0,101.186,2024,United States
+ZHO,Kick Sauber,28.0,0 days 00:01:41.420000,MEDIUM,15.0,2.0,18.0,101.42,2024,United States
+ZHO,Kick Sauber,29.0,0 days 00:01:42.231000,MEDIUM,16.0,2.0,19.0,102.231,2024,United States
+ZHO,Kick Sauber,30.0,0 days 00:01:41.532000,MEDIUM,17.0,2.0,19.0,101.532,2024,United States
+ZHO,Kick Sauber,31.0,0 days 00:01:41.502000,MEDIUM,18.0,2.0,19.0,101.502,2024,United States
+ZHO,Kick Sauber,32.0,0 days 00:01:41.643000,MEDIUM,19.0,2.0,19.0,101.643,2024,United States
+ZHO,Kick Sauber,33.0,0 days 00:01:41.130000,MEDIUM,20.0,2.0,19.0,101.13,2024,United States
+ZHO,Kick Sauber,34.0,0 days 00:01:41.387000,MEDIUM,21.0,2.0,18.0,101.387,2024,United States
+ZHO,Kick Sauber,35.0,0 days 00:01:41.783000,MEDIUM,22.0,2.0,19.0,101.783,2024,United States
+ZHO,Kick Sauber,36.0,0 days 00:02:06.093000,HARD,1.0,3.0,19.0,126.093,2024,United States
+ZHO,Kick Sauber,37.0,0 days 00:01:40.161000,HARD,2.0,3.0,19.0,100.161,2024,United States
+ZHO,Kick Sauber,38.0,0 days 00:01:40.148000,HARD,3.0,3.0,19.0,100.148,2024,United States
+ZHO,Kick Sauber,39.0,0 days 00:01:41.880000,HARD,4.0,3.0,19.0,101.88,2024,United States
+ZHO,Kick Sauber,40.0,0 days 00:01:40.131000,HARD,5.0,3.0,19.0,100.131,2024,United States
+ZHO,Kick Sauber,41.0,0 days 00:01:40.342000,HARD,6.0,3.0,19.0,100.342,2024,United States
+ZHO,Kick Sauber,42.0,0 days 00:01:40.168000,HARD,7.0,3.0,19.0,100.168,2024,United States
+ZHO,Kick Sauber,43.0,0 days 00:01:40.241000,HARD,8.0,3.0,19.0,100.241,2024,United States
+ZHO,Kick Sauber,44.0,0 days 00:01:40.033000,HARD,9.0,3.0,19.0,100.033,2024,United States
+ZHO,Kick Sauber,45.0,0 days 00:01:39.658000,HARD,10.0,3.0,19.0,99.658,2024,United States
+ZHO,Kick Sauber,46.0,0 days 00:01:39.858000,HARD,11.0,3.0,19.0,99.858,2024,United States
+ZHO,Kick Sauber,47.0,0 days 00:01:39.625000,HARD,12.0,3.0,19.0,99.625,2024,United States
+ZHO,Kick Sauber,48.0,0 days 00:01:40.219000,HARD,13.0,3.0,19.0,100.219,2024,United States
+ZHO,Kick Sauber,49.0,0 days 00:01:40.240000,HARD,14.0,3.0,19.0,100.24,2024,United States
+ZHO,Kick Sauber,50.0,0 days 00:01:39.963000,HARD,15.0,3.0,19.0,99.963,2024,United States
+ZHO,Kick Sauber,51.0,0 days 00:01:39.398000,HARD,16.0,3.0,19.0,99.398,2024,United States
+ZHO,Kick Sauber,52.0,0 days 00:01:39.683000,HARD,17.0,3.0,19.0,99.683,2024,United States
+ZHO,Kick Sauber,53.0,0 days 00:01:39.272000,HARD,18.0,3.0,19.0,99.272,2024,United States
+ZHO,Kick Sauber,54.0,0 days 00:01:39.596000,HARD,19.0,3.0,19.0,99.596,2024,United States
+ZHO,Kick Sauber,55.0,0 days 00:01:40.061000,HARD,20.0,3.0,19.0,100.061,2024,United States
+HUL,Haas F1 Team,1.0,0 days 00:01:47.084000,MEDIUM,1.0,1.0,11.0,107.084,2024,United States
+HUL,Haas F1 Team,2.0,0 days 00:01:42.841000,MEDIUM,2.0,1.0,11.0,102.841,2024,United States
+HUL,Haas F1 Team,3.0,0 days 00:02:14.259000,MEDIUM,3.0,1.0,11.0,134.259,2024,United States
+HUL,Haas F1 Team,4.0,0 days 00:02:29.504000,MEDIUM,4.0,1.0,11.0,149.504,2024,United States
+HUL,Haas F1 Team,6.0,0 days 00:01:43.090000,MEDIUM,6.0,1.0,11.0,103.09,2024,United States
+HUL,Haas F1 Team,7.0,0 days 00:01:41.428000,MEDIUM,7.0,1.0,10.0,101.428,2024,United States
+HUL,Haas F1 Team,8.0,0 days 00:01:41.285000,MEDIUM,8.0,1.0,10.0,101.285,2024,United States
+HUL,Haas F1 Team,9.0,0 days 00:01:41.651000,MEDIUM,9.0,1.0,10.0,101.651,2024,United States
+HUL,Haas F1 Team,10.0,0 days 00:01:41.300000,MEDIUM,10.0,1.0,10.0,101.3,2024,United States
+HUL,Haas F1 Team,11.0,0 days 00:01:41.689000,MEDIUM,11.0,1.0,10.0,101.689,2024,United States
+HUL,Haas F1 Team,12.0,0 days 00:01:41.432000,MEDIUM,12.0,1.0,10.0,101.432,2024,United States
+HUL,Haas F1 Team,13.0,0 days 00:01:41.334000,MEDIUM,13.0,1.0,10.0,101.334,2024,United States
+HUL,Haas F1 Team,14.0,0 days 00:01:41.048000,MEDIUM,14.0,1.0,10.0,101.048,2024,United States
+HUL,Haas F1 Team,15.0,0 days 00:01:41.824000,MEDIUM,15.0,1.0,10.0,101.824,2024,United States
+HUL,Haas F1 Team,16.0,0 days 00:01:41.512000,MEDIUM,16.0,1.0,10.0,101.512,2024,United States
+HUL,Haas F1 Team,17.0,0 days 00:01:41.190000,MEDIUM,17.0,1.0,10.0,101.19,2024,United States
+HUL,Haas F1 Team,18.0,0 days 00:01:42.130000,MEDIUM,18.0,1.0,8.0,102.13,2024,United States
+HUL,Haas F1 Team,19.0,0 days 00:01:40.430000,MEDIUM,19.0,1.0,7.0,100.43,2024,United States
+HUL,Haas F1 Team,20.0,0 days 00:01:40.447000,MEDIUM,20.0,1.0,7.0,100.447,2024,United States
+HUL,Haas F1 Team,21.0,0 days 00:01:40.523000,MEDIUM,21.0,1.0,7.0,100.523,2024,United States
+HUL,Haas F1 Team,22.0,0 days 00:01:40.757000,MEDIUM,22.0,1.0,7.0,100.757,2024,United States
+HUL,Haas F1 Team,23.0,0 days 00:01:40.770000,MEDIUM,23.0,1.0,7.0,100.77,2024,United States
+HUL,Haas F1 Team,24.0,0 days 00:01:40.329000,MEDIUM,24.0,1.0,7.0,100.329,2024,United States
+HUL,Haas F1 Team,25.0,0 days 00:01:40.269000,MEDIUM,25.0,1.0,7.0,100.269,2024,United States
+HUL,Haas F1 Team,26.0,0 days 00:01:40.664000,MEDIUM,26.0,1.0,7.0,100.664,2024,United States
+HUL,Haas F1 Team,27.0,0 days 00:01:41.173000,MEDIUM,27.0,1.0,6.0,101.173,2024,United States
+HUL,Haas F1 Team,28.0,0 days 00:02:02.271000,HARD,1.0,2.0,12.0,122.271,2024,United States
+HUL,Haas F1 Team,29.0,0 days 00:01:40.912000,HARD,2.0,2.0,12.0,100.912,2024,United States
+HUL,Haas F1 Team,30.0,0 days 00:01:40.338000,HARD,3.0,2.0,12.0,100.338,2024,United States
+HUL,Haas F1 Team,31.0,0 days 00:01:39.401000,HARD,4.0,2.0,11.0,99.401,2024,United States
+HUL,Haas F1 Team,32.0,0 days 00:01:39.687000,HARD,5.0,2.0,11.0,99.687,2024,United States
+HUL,Haas F1 Team,33.0,0 days 00:01:39.355000,HARD,6.0,2.0,11.0,99.355,2024,United States
+HUL,Haas F1 Team,34.0,0 days 00:01:39.348000,HARD,7.0,2.0,11.0,99.348,2024,United States
+HUL,Haas F1 Team,35.0,0 days 00:01:39.250000,HARD,8.0,2.0,11.0,99.25,2024,United States
+HUL,Haas F1 Team,36.0,0 days 00:01:39.196000,HARD,9.0,2.0,11.0,99.196,2024,United States
+HUL,Haas F1 Team,37.0,0 days 00:01:39.390000,HARD,10.0,2.0,10.0,99.39,2024,United States
+HUL,Haas F1 Team,38.0,0 days 00:01:39.179000,HARD,11.0,2.0,10.0,99.179,2024,United States
+HUL,Haas F1 Team,39.0,0 days 00:01:39.294000,HARD,12.0,2.0,9.0,99.294,2024,United States
+HUL,Haas F1 Team,40.0,0 days 00:01:39.391000,HARD,13.0,2.0,8.0,99.391,2024,United States
+HUL,Haas F1 Team,41.0,0 days 00:01:39.178000,HARD,14.0,2.0,7.0,99.178,2024,United States
+HUL,Haas F1 Team,42.0,0 days 00:01:38.941000,HARD,15.0,2.0,7.0,98.941,2024,United States
+HUL,Haas F1 Team,43.0,0 days 00:01:38.906000,HARD,16.0,2.0,7.0,98.906,2024,United States
+HUL,Haas F1 Team,44.0,0 days 00:01:38.902000,HARD,17.0,2.0,7.0,98.902,2024,United States
+HUL,Haas F1 Team,45.0,0 days 00:01:40.572000,HARD,18.0,2.0,8.0,100.572,2024,United States
+HUL,Haas F1 Team,46.0,0 days 00:01:38.645000,HARD,19.0,2.0,8.0,98.645,2024,United States
+HUL,Haas F1 Team,47.0,0 days 00:01:38.997000,HARD,20.0,2.0,8.0,98.997,2024,United States
+HUL,Haas F1 Team,48.0,0 days 00:01:38.594000,HARD,21.0,2.0,8.0,98.594,2024,United States
+HUL,Haas F1 Team,49.0,0 days 00:01:38.510000,HARD,22.0,2.0,8.0,98.51,2024,United States
+HUL,Haas F1 Team,50.0,0 days 00:01:38.651000,HARD,23.0,2.0,8.0,98.651,2024,United States
+HUL,Haas F1 Team,51.0,0 days 00:01:38.404000,HARD,24.0,2.0,8.0,98.404,2024,United States
+HUL,Haas F1 Team,52.0,0 days 00:01:38.703000,HARD,25.0,2.0,8.0,98.703,2024,United States
+HUL,Haas F1 Team,53.0,0 days 00:01:38.512000,HARD,26.0,2.0,8.0,98.512,2024,United States
+HUL,Haas F1 Team,54.0,0 days 00:01:38.775000,HARD,27.0,2.0,8.0,98.775,2024,United States
+HUL,Haas F1 Team,55.0,0 days 00:01:38.714000,HARD,28.0,2.0,8.0,98.714,2024,United States
+HUL,Haas F1 Team,56.0,0 days 00:01:39,HARD,29.0,2.0,8.0,99.0,2024,United States
+LAW,RB,1.0,0 days 00:01:48.974000,HARD,1.0,1.0,14.0,108.974,2024,United States
+LAW,RB,2.0,0 days 00:01:42.809000,HARD,2.0,1.0,13.0,102.809,2024,United States
+LAW,RB,3.0,0 days 00:02:15.152000,HARD,3.0,1.0,13.0,135.152,2024,United States
+LAW,RB,6.0,0 days 00:01:42.925000,HARD,6.0,1.0,12.0,102.925,2024,United States
+LAW,RB,7.0,0 days 00:01:42.010000,HARD,7.0,1.0,12.0,102.01,2024,United States
+LAW,RB,8.0,0 days 00:01:41.557000,HARD,8.0,1.0,12.0,101.557,2024,United States
+LAW,RB,9.0,0 days 00:01:42.100000,HARD,9.0,1.0,12.0,102.1,2024,United States
+LAW,RB,10.0,0 days 00:01:42.012000,HARD,10.0,1.0,12.0,102.012,2024,United States
+LAW,RB,11.0,0 days 00:01:41.535000,HARD,11.0,1.0,11.0,101.535,2024,United States
+LAW,RB,12.0,0 days 00:01:41.260000,HARD,12.0,1.0,11.0,101.26,2024,United States
+LAW,RB,13.0,0 days 00:01:41.320000,HARD,13.0,1.0,11.0,101.32,2024,United States
+LAW,RB,14.0,0 days 00:01:41.383000,HARD,14.0,1.0,11.0,101.383,2024,United States
+LAW,RB,15.0,0 days 00:01:42.041000,HARD,15.0,1.0,11.0,102.041,2024,United States
+LAW,RB,16.0,0 days 00:01:41.646000,HARD,16.0,1.0,11.0,101.646,2024,United States
+LAW,RB,17.0,0 days 00:01:41.371000,HARD,17.0,1.0,11.0,101.371,2024,United States
+LAW,RB,18.0,0 days 00:01:41.335000,HARD,18.0,1.0,10.0,101.335,2024,United States
+LAW,RB,19.0,0 days 00:01:41.101000,HARD,19.0,1.0,8.0,101.101,2024,United States
+LAW,RB,20.0,0 days 00:01:40.988000,HARD,20.0,1.0,8.0,100.988,2024,United States
+LAW,RB,21.0,0 days 00:01:42.238000,HARD,21.0,1.0,9.0,102.238,2024,United States
+LAW,RB,22.0,0 days 00:01:41.448000,HARD,22.0,1.0,9.0,101.448,2024,United States
+LAW,RB,23.0,0 days 00:01:40.853000,HARD,23.0,1.0,9.0,100.853,2024,United States
+LAW,RB,24.0,0 days 00:01:40.869000,HARD,24.0,1.0,9.0,100.869,2024,United States
+LAW,RB,25.0,0 days 00:01:40.653000,HARD,25.0,1.0,9.0,100.653,2024,United States
+LAW,RB,26.0,0 days 00:01:40.922000,HARD,26.0,1.0,9.0,100.922,2024,United States
+LAW,RB,27.0,0 days 00:01:40.304000,HARD,27.0,1.0,8.0,100.304,2024,United States
+LAW,RB,28.0,0 days 00:01:40.235000,HARD,28.0,1.0,7.0,100.235,2024,United States
+LAW,RB,29.0,0 days 00:01:40.523000,HARD,29.0,1.0,7.0,100.523,2024,United States
+LAW,RB,30.0,0 days 00:01:40.622000,HARD,30.0,1.0,7.0,100.622,2024,United States
+LAW,RB,31.0,0 days 00:01:40.613000,HARD,31.0,1.0,7.0,100.613,2024,United States
+LAW,RB,32.0,0 days 00:01:40.451000,HARD,32.0,1.0,7.0,100.451,2024,United States
+LAW,RB,33.0,0 days 00:01:40.286000,HARD,33.0,1.0,7.0,100.286,2024,United States
+LAW,RB,34.0,0 days 00:01:40.449000,HARD,34.0,1.0,7.0,100.449,2024,United States
+LAW,RB,35.0,0 days 00:01:40.484000,HARD,35.0,1.0,7.0,100.484,2024,United States
+LAW,RB,36.0,0 days 00:01:41.342000,HARD,36.0,1.0,7.0,101.342,2024,United States
+LAW,RB,37.0,0 days 00:01:59.598000,MEDIUM,1.0,2.0,12.0,119.598,2024,United States
+LAW,RB,38.0,0 days 00:01:38.905000,MEDIUM,2.0,2.0,11.0,98.905,2024,United States
+LAW,RB,39.0,0 days 00:01:39.396000,MEDIUM,3.0,2.0,10.0,99.396,2024,United States
+LAW,RB,40.0,0 days 00:01:39.035000,MEDIUM,4.0,2.0,9.0,99.035,2024,United States
+LAW,RB,41.0,0 days 00:01:39.149000,MEDIUM,5.0,2.0,9.0,99.149,2024,United States
+LAW,RB,42.0,0 days 00:01:38.409000,MEDIUM,6.0,2.0,9.0,98.409,2024,United States
+LAW,RB,43.0,0 days 00:01:39.104000,MEDIUM,7.0,2.0,9.0,99.104,2024,United States
+LAW,RB,44.0,0 days 00:01:39.057000,MEDIUM,8.0,2.0,9.0,99.057,2024,United States
+LAW,RB,45.0,0 days 00:01:39.084000,MEDIUM,9.0,2.0,9.0,99.084,2024,United States
+LAW,RB,46.0,0 days 00:01:38.619000,MEDIUM,10.0,2.0,9.0,98.619,2024,United States
+LAW,RB,47.0,0 days 00:01:38.631000,MEDIUM,11.0,2.0,9.0,98.631,2024,United States
+LAW,RB,48.0,0 days 00:01:38.493000,MEDIUM,12.0,2.0,9.0,98.493,2024,United States
+LAW,RB,49.0,0 days 00:01:38.558000,MEDIUM,13.0,2.0,9.0,98.558,2024,United States
+LAW,RB,50.0,0 days 00:01:38.513000,MEDIUM,14.0,2.0,9.0,98.513,2024,United States
+LAW,RB,51.0,0 days 00:01:38.453000,MEDIUM,15.0,2.0,9.0,98.453,2024,United States
+LAW,RB,52.0,0 days 00:01:38.281000,MEDIUM,16.0,2.0,9.0,98.281,2024,United States
+LAW,RB,53.0,0 days 00:01:38.113000,MEDIUM,17.0,2.0,9.0,98.113,2024,United States
+LAW,RB,54.0,0 days 00:01:38.091000,MEDIUM,18.0,2.0,9.0,98.091,2024,United States
+LAW,RB,55.0,0 days 00:01:38.433000,MEDIUM,19.0,2.0,9.0,98.433,2024,United States
+LAW,RB,56.0,0 days 00:01:39.273000,MEDIUM,20.0,2.0,9.0,99.273,2024,United States
+OCO,Alpine,1.0,0 days 00:01:56.745000,MEDIUM,1.0,1.0,20.0,116.745,2024,United States
+OCO,Alpine,2.0,0 days 00:01:41.717000,MEDIUM,2.0,1.0,19.0,101.717,2024,United States
+OCO,Alpine,3.0,0 days 00:02:18.048000,MEDIUM,3.0,1.0,19.0,138.048,2024,United States
+OCO,Alpine,5.0,0 days 00:02:23.011000,MEDIUM,5.0,1.0,18.0,143.011,2024,United States
+OCO,Alpine,6.0,0 days 00:01:44.340000,MEDIUM,6.0,1.0,17.0,104.34,2024,United States
+OCO,Alpine,7.0,0 days 00:01:41.923000,MEDIUM,7.0,1.0,17.0,101.923,2024,United States
+OCO,Alpine,8.0,0 days 00:01:41.675000,MEDIUM,8.0,1.0,17.0,101.675,2024,United States
+OCO,Alpine,9.0,0 days 00:01:41.837000,MEDIUM,9.0,1.0,17.0,101.837,2024,United States
+OCO,Alpine,10.0,0 days 00:01:42.093000,MEDIUM,10.0,1.0,16.0,102.093,2024,United States
+OCO,Alpine,11.0,0 days 00:01:42.258000,MEDIUM,11.0,1.0,16.0,102.258,2024,United States
+OCO,Alpine,12.0,0 days 00:01:41.866000,MEDIUM,12.0,1.0,16.0,101.866,2024,United States
+OCO,Alpine,13.0,0 days 00:01:42.257000,MEDIUM,13.0,1.0,16.0,102.257,2024,United States
+OCO,Alpine,14.0,0 days 00:01:42.249000,MEDIUM,14.0,1.0,16.0,102.249,2024,United States
+OCO,Alpine,15.0,0 days 00:01:42.175000,MEDIUM,15.0,1.0,16.0,102.175,2024,United States
+OCO,Alpine,16.0,0 days 00:01:41.906000,MEDIUM,16.0,1.0,15.0,101.906,2024,United States
+OCO,Alpine,17.0,0 days 00:01:41.831000,MEDIUM,17.0,1.0,15.0,101.831,2024,United States
+OCO,Alpine,18.0,0 days 00:01:41.669000,MEDIUM,18.0,1.0,14.0,101.669,2024,United States
+OCO,Alpine,19.0,0 days 00:01:41.517000,MEDIUM,19.0,1.0,12.0,101.517,2024,United States
+OCO,Alpine,20.0,0 days 00:01:41.427000,MEDIUM,20.0,1.0,12.0,101.427,2024,United States
+OCO,Alpine,21.0,0 days 00:01:41.246000,MEDIUM,21.0,1.0,12.0,101.246,2024,United States
+OCO,Alpine,22.0,0 days 00:01:41.630000,MEDIUM,22.0,1.0,12.0,101.63,2024,United States
+OCO,Alpine,23.0,0 days 00:01:41.720000,MEDIUM,23.0,1.0,12.0,101.72,2024,United States
+OCO,Alpine,24.0,0 days 00:01:41.489000,MEDIUM,24.0,1.0,12.0,101.489,2024,United States
+OCO,Alpine,25.0,0 days 00:01:42.393000,MEDIUM,25.0,1.0,13.0,102.393,2024,United States
+OCO,Alpine,26.0,0 days 00:01:41.547000,MEDIUM,26.0,1.0,13.0,101.547,2024,United States
+OCO,Alpine,27.0,0 days 00:01:41.361000,MEDIUM,27.0,1.0,12.0,101.361,2024,United States
+OCO,Alpine,28.0,0 days 00:01:41.369000,MEDIUM,28.0,1.0,11.0,101.369,2024,United States
+OCO,Alpine,29.0,0 days 00:01:41.194000,MEDIUM,29.0,1.0,11.0,101.194,2024,United States
+OCO,Alpine,30.0,0 days 00:01:41.452000,MEDIUM,30.0,1.0,11.0,101.452,2024,United States
+OCO,Alpine,31.0,0 days 00:01:43.409000,MEDIUM,31.0,1.0,12.0,103.409,2024,United States
+OCO,Alpine,32.0,0 days 00:02:00.757000,HARD,1.0,2.0,17.0,120.757,2024,United States
+OCO,Alpine,33.0,0 days 00:01:40.214000,HARD,2.0,2.0,17.0,100.214,2024,United States
+OCO,Alpine,34.0,0 days 00:01:40.077000,HARD,3.0,2.0,16.0,100.077,2024,United States
+OCO,Alpine,35.0,0 days 00:01:40.009000,HARD,4.0,2.0,16.0,100.009,2024,United States
+OCO,Alpine,36.0,0 days 00:01:40.301000,HARD,5.0,2.0,16.0,100.301,2024,United States
+OCO,Alpine,37.0,0 days 00:01:40.090000,HARD,6.0,2.0,16.0,100.09,2024,United States
+OCO,Alpine,38.0,0 days 00:01:39.937000,HARD,7.0,2.0,16.0,99.937,2024,United States
+OCO,Alpine,39.0,0 days 00:01:39.635000,HARD,8.0,2.0,16.0,99.635,2024,United States
+OCO,Alpine,40.0,0 days 00:01:39.722000,HARD,9.0,2.0,16.0,99.722,2024,United States
+OCO,Alpine,41.0,0 days 00:01:41.154000,HARD,10.0,2.0,16.0,101.154,2024,United States
+OCO,Alpine,42.0,0 days 00:01:40.078000,HARD,11.0,2.0,16.0,100.078,2024,United States
+OCO,Alpine,43.0,0 days 00:01:40.247000,HARD,12.0,2.0,16.0,100.247,2024,United States
+OCO,Alpine,44.0,0 days 00:01:41.275000,HARD,13.0,2.0,16.0,101.275,2024,United States
+OCO,Alpine,45.0,0 days 00:01:39.827000,HARD,14.0,2.0,15.0,99.827,2024,United States
+OCO,Alpine,46.0,0 days 00:01:39.753000,HARD,15.0,2.0,15.0,99.753,2024,United States
+OCO,Alpine,47.0,0 days 00:01:39.596000,HARD,16.0,2.0,15.0,99.596,2024,United States
+OCO,Alpine,48.0,0 days 00:01:40.898000,HARD,17.0,2.0,15.0,100.898,2024,United States
+OCO,Alpine,49.0,0 days 00:01:39.655000,HARD,18.0,2.0,15.0,99.655,2024,United States
+OCO,Alpine,50.0,0 days 00:01:39.573000,HARD,19.0,2.0,15.0,99.573,2024,United States
+OCO,Alpine,51.0,0 days 00:01:41.838000,HARD,20.0,2.0,15.0,101.838,2024,United States
+OCO,Alpine,52.0,0 days 00:02:09.770000,SOFT,4.0,3.0,18.0,129.77,2024,United States
+OCO,Alpine,53.0,0 days 00:01:37.330000,SOFT,5.0,3.0,18.0,97.33,2024,United States
+OCO,Alpine,54.0,0 days 00:01:39.993000,SOFT,6.0,3.0,18.0,99.993,2024,United States
+OCO,Alpine,55.0,0 days 00:01:39.999000,SOFT,7.0,3.0,18.0,99.999,2024,United States
+NOR,McLaren,1.0,0 days 00:01:42.902000,MEDIUM,1.0,1.0,4.0,102.902,2024,United States
+NOR,McLaren,2.0,0 days 00:01:40.864000,MEDIUM,2.0,1.0,4.0,100.864,2024,United States
+NOR,McLaren,3.0,0 days 00:02:04.410000,MEDIUM,3.0,1.0,4.0,124.41,2024,United States
+NOR,McLaren,6.0,0 days 00:01:40.663000,MEDIUM,6.0,1.0,4.0,100.663,2024,United States
+NOR,McLaren,7.0,0 days 00:01:40.469000,MEDIUM,7.0,1.0,4.0,100.469,2024,United States
+NOR,McLaren,8.0,0 days 00:01:40.411000,MEDIUM,8.0,1.0,4.0,100.411,2024,United States
+NOR,McLaren,9.0,0 days 00:01:40.196000,MEDIUM,9.0,1.0,4.0,100.196,2024,United States
+NOR,McLaren,10.0,0 days 00:01:40.369000,MEDIUM,10.0,1.0,4.0,100.369,2024,United States
+NOR,McLaren,11.0,0 days 00:01:40.668000,MEDIUM,11.0,1.0,4.0,100.668,2024,United States
+NOR,McLaren,12.0,0 days 00:01:40.652000,MEDIUM,12.0,1.0,4.0,100.652,2024,United States
+NOR,McLaren,13.0,0 days 00:01:40.347000,MEDIUM,13.0,1.0,4.0,100.347,2024,United States
+NOR,McLaren,14.0,0 days 00:01:40.322000,MEDIUM,14.0,1.0,4.0,100.322,2024,United States
+NOR,McLaren,15.0,0 days 00:01:40.360000,MEDIUM,15.0,1.0,4.0,100.36,2024,United States
+NOR,McLaren,16.0,0 days 00:01:40.355000,MEDIUM,16.0,1.0,4.0,100.355,2024,United States
+NOR,McLaren,17.0,0 days 00:01:39.915000,MEDIUM,17.0,1.0,4.0,99.915,2024,United States
+NOR,McLaren,18.0,0 days 00:01:39.944000,MEDIUM,18.0,1.0,4.0,99.944,2024,United States
+NOR,McLaren,19.0,0 days 00:01:39.612000,MEDIUM,19.0,1.0,4.0,99.612,2024,United States
+NOR,McLaren,20.0,0 days 00:01:39.891000,MEDIUM,20.0,1.0,4.0,99.891,2024,United States
+NOR,McLaren,21.0,0 days 00:01:39.474000,MEDIUM,21.0,1.0,4.0,99.474,2024,United States
+NOR,McLaren,22.0,0 days 00:01:39.542000,MEDIUM,22.0,1.0,3.0,99.542,2024,United States
+NOR,McLaren,23.0,0 days 00:01:39.810000,MEDIUM,23.0,1.0,3.0,99.81,2024,United States
+NOR,McLaren,24.0,0 days 00:01:39.789000,MEDIUM,24.0,1.0,3.0,99.789,2024,United States
+NOR,McLaren,25.0,0 days 00:01:39.607000,MEDIUM,25.0,1.0,3.0,99.607,2024,United States
+NOR,McLaren,26.0,0 days 00:01:39.527000,MEDIUM,26.0,1.0,2.0,99.527,2024,United States
+NOR,McLaren,27.0,0 days 00:01:39.093000,MEDIUM,27.0,1.0,1.0,99.093,2024,United States
+NOR,McLaren,28.0,0 days 00:01:39.156000,MEDIUM,28.0,1.0,1.0,99.156,2024,United States
+NOR,McLaren,29.0,0 days 00:01:39.548000,MEDIUM,29.0,1.0,1.0,99.548,2024,United States
+NOR,McLaren,30.0,0 days 00:01:39.705000,MEDIUM,30.0,1.0,1.0,99.705,2024,United States
+NOR,McLaren,31.0,0 days 00:01:41.469000,MEDIUM,31.0,1.0,1.0,101.469,2024,United States
+NOR,McLaren,32.0,0 days 00:01:59.605000,HARD,1.0,2.0,5.0,119.605,2024,United States
+NOR,McLaren,33.0,0 days 00:01:38.641000,HARD,2.0,2.0,4.0,98.641,2024,United States
+NOR,McLaren,34.0,0 days 00:01:38.043000,HARD,3.0,2.0,4.0,98.043,2024,United States
+NOR,McLaren,35.0,0 days 00:01:37.918000,HARD,4.0,2.0,4.0,97.918,2024,United States
+NOR,McLaren,36.0,0 days 00:01:38.317000,HARD,5.0,2.0,4.0,98.317,2024,United States
+NOR,McLaren,37.0,0 days 00:01:38.310000,HARD,6.0,2.0,4.0,98.31,2024,United States
+NOR,McLaren,38.0,0 days 00:01:38.081000,HARD,7.0,2.0,4.0,98.081,2024,United States
+NOR,McLaren,39.0,0 days 00:01:38.062000,HARD,8.0,2.0,4.0,98.062,2024,United States
+NOR,McLaren,40.0,0 days 00:01:38.321000,HARD,9.0,2.0,4.0,98.321,2024,United States
+NOR,McLaren,41.0,0 days 00:01:37.966000,HARD,10.0,2.0,4.0,97.966,2024,United States
+NOR,McLaren,42.0,0 days 00:01:37.925000,HARD,11.0,2.0,4.0,97.925,2024,United States
+NOR,McLaren,43.0,0 days 00:01:38.033000,HARD,12.0,2.0,4.0,98.033,2024,United States
+NOR,McLaren,44.0,0 days 00:01:38.229000,HARD,13.0,2.0,4.0,98.229,2024,United States
+NOR,McLaren,45.0,0 days 00:01:38.340000,HARD,14.0,2.0,4.0,98.34,2024,United States
+NOR,McLaren,46.0,0 days 00:01:38.119000,HARD,15.0,2.0,4.0,98.119,2024,United States
+NOR,McLaren,47.0,0 days 00:01:39.194000,HARD,16.0,2.0,4.0,99.194,2024,United States
+NOR,McLaren,48.0,0 days 00:01:38.436000,HARD,17.0,2.0,4.0,98.436,2024,United States
+NOR,McLaren,49.0,0 days 00:01:38.549000,HARD,18.0,2.0,4.0,98.549,2024,United States
+NOR,McLaren,50.0,0 days 00:01:38.813000,HARD,19.0,2.0,4.0,98.813,2024,United States
+NOR,McLaren,51.0,0 days 00:01:39.066000,HARD,20.0,2.0,4.0,99.066,2024,United States
+NOR,McLaren,52.0,0 days 00:01:39.843000,HARD,21.0,2.0,3.0,99.843,2024,United States
+NOR,McLaren,53.0,0 days 00:01:38.347000,HARD,22.0,2.0,3.0,98.347,2024,United States
+NOR,McLaren,54.0,0 days 00:01:37.889000,HARD,23.0,2.0,3.0,97.889,2024,United States
+NOR,McLaren,55.0,0 days 00:01:37.679000,HARD,24.0,2.0,3.0,97.679,2024,United States
+NOR,McLaren,56.0,0 days 00:01:37.758000,HARD,25.0,2.0,3.0,97.758,2024,United States
+COL,Williams,1.0,0 days 00:01:49.923000,HARD,1.0,1.0,16.0,109.923,2024,United States
+COL,Williams,2.0,0 days 00:01:43.005000,HARD,2.0,1.0,15.0,103.005,2024,United States
+COL,Williams,3.0,0 days 00:02:17.406000,HARD,3.0,1.0,15.0,137.406,2024,United States
+COL,Williams,5.0,0 days 00:02:27.801000,HARD,5.0,1.0,15.0,147.801,2024,United States
+COL,Williams,6.0,0 days 00:01:43.338000,HARD,6.0,1.0,14.0,103.338,2024,United States
+COL,Williams,7.0,0 days 00:01:42.278000,HARD,7.0,1.0,14.0,102.278,2024,United States
+COL,Williams,8.0,0 days 00:01:41.451000,HARD,8.0,1.0,14.0,101.451,2024,United States
+COL,Williams,9.0,0 days 00:01:41.980000,HARD,9.0,1.0,14.0,101.98,2024,United States
+COL,Williams,10.0,0 days 00:01:41.702000,HARD,10.0,1.0,13.0,101.702,2024,United States
+COL,Williams,11.0,0 days 00:01:42.239000,HARD,11.0,1.0,13.0,102.239,2024,United States
+COL,Williams,12.0,0 days 00:01:41.886000,HARD,12.0,1.0,13.0,101.886,2024,United States
+COL,Williams,13.0,0 days 00:01:41.766000,HARD,13.0,1.0,13.0,101.766,2024,United States
+COL,Williams,14.0,0 days 00:01:42.970000,HARD,14.0,1.0,14.0,102.97,2024,United States
+COL,Williams,15.0,0 days 00:01:41.801000,HARD,15.0,1.0,14.0,101.801,2024,United States
+COL,Williams,16.0,0 days 00:01:41.956000,HARD,16.0,1.0,14.0,101.956,2024,United States
+COL,Williams,17.0,0 days 00:01:41.523000,HARD,17.0,1.0,14.0,101.523,2024,United States
+COL,Williams,18.0,0 days 00:01:41.427000,HARD,18.0,1.0,13.0,101.427,2024,United States
+COL,Williams,19.0,0 days 00:01:41.010000,HARD,19.0,1.0,11.0,101.01,2024,United States
+COL,Williams,20.0,0 days 00:01:41.123000,HARD,20.0,1.0,11.0,101.123,2024,United States
+COL,Williams,21.0,0 days 00:01:41.087000,HARD,21.0,1.0,11.0,101.087,2024,United States
+COL,Williams,22.0,0 days 00:01:41.250000,HARD,22.0,1.0,10.0,101.25,2024,United States
+COL,Williams,23.0,0 days 00:01:41.312000,HARD,23.0,1.0,10.0,101.312,2024,United States
+COL,Williams,24.0,0 days 00:01:41.227000,HARD,24.0,1.0,10.0,101.227,2024,United States
+COL,Williams,25.0,0 days 00:01:40.756000,HARD,25.0,1.0,10.0,100.756,2024,United States
+COL,Williams,26.0,0 days 00:01:40.900000,HARD,26.0,1.0,10.0,100.9,2024,United States
+COL,Williams,27.0,0 days 00:01:40.451000,HARD,27.0,1.0,9.0,100.451,2024,United States
+COL,Williams,28.0,0 days 00:01:40.205000,HARD,28.0,1.0,8.0,100.205,2024,United States
+COL,Williams,29.0,0 days 00:01:40.542000,HARD,29.0,1.0,8.0,100.542,2024,United States
+COL,Williams,30.0,0 days 00:01:40.366000,HARD,30.0,1.0,8.0,100.366,2024,United States
+COL,Williams,31.0,0 days 00:01:40.535000,HARD,31.0,1.0,8.0,100.535,2024,United States
+COL,Williams,32.0,0 days 00:01:40.270000,HARD,32.0,1.0,8.0,100.27,2024,United States
+COL,Williams,33.0,0 days 00:01:40.238000,HARD,33.0,1.0,8.0,100.238,2024,United States
+COL,Williams,34.0,0 days 00:01:40.306000,HARD,34.0,1.0,8.0,100.306,2024,United States
+COL,Williams,35.0,0 days 00:01:40.195000,HARD,35.0,1.0,8.0,100.195,2024,United States
+COL,Williams,36.0,0 days 00:01:40.026000,HARD,36.0,1.0,8.0,100.026,2024,United States
+COL,Williams,37.0,0 days 00:01:41.395000,HARD,37.0,1.0,8.0,101.395,2024,United States
+COL,Williams,38.0,0 days 00:01:40.110000,HARD,38.0,1.0,8.0,100.11,2024,United States
+COL,Williams,39.0,0 days 00:01:40.591000,HARD,39.0,1.0,8.0,100.591,2024,United States
+COL,Williams,40.0,0 days 00:01:59.212000,MEDIUM,1.0,2.0,12.0,119.212,2024,United States
+COL,Williams,41.0,0 days 00:01:39.443000,MEDIUM,2.0,2.0,11.0,99.443,2024,United States
+COL,Williams,42.0,0 days 00:01:38.533000,MEDIUM,3.0,2.0,11.0,98.533,2024,United States
+COL,Williams,43.0,0 days 00:01:38.528000,MEDIUM,4.0,2.0,11.0,98.528,2024,United States
+COL,Williams,44.0,0 days 00:01:38.876000,MEDIUM,5.0,2.0,11.0,98.876,2024,United States
+COL,Williams,45.0,0 days 00:01:38.532000,MEDIUM,6.0,2.0,10.0,98.532,2024,United States
+COL,Williams,46.0,0 days 00:01:37.611000,MEDIUM,7.0,2.0,10.0,97.611,2024,United States
+COL,Williams,47.0,0 days 00:01:37.991000,MEDIUM,8.0,2.0,10.0,97.991,2024,United States
+COL,Williams,48.0,0 days 00:01:38.326000,MEDIUM,9.0,2.0,10.0,98.326,2024,United States
+COL,Williams,49.0,0 days 00:01:38.412000,MEDIUM,10.0,2.0,10.0,98.412,2024,United States
+COL,Williams,50.0,0 days 00:01:38.026000,MEDIUM,11.0,2.0,10.0,98.026,2024,United States
+COL,Williams,51.0,0 days 00:01:38.665000,MEDIUM,12.0,2.0,10.0,98.665,2024,United States
+COL,Williams,52.0,0 days 00:01:38.133000,MEDIUM,13.0,2.0,10.0,98.133,2024,United States
+COL,Williams,53.0,0 days 00:01:38.032000,MEDIUM,14.0,2.0,10.0,98.032,2024,United States
+COL,Williams,54.0,0 days 00:01:37.708000,MEDIUM,15.0,2.0,10.0,97.708,2024,United States
+COL,Williams,55.0,0 days 00:01:37.926000,MEDIUM,16.0,2.0,10.0,97.926,2024,United States
+COL,Williams,56.0,0 days 00:01:38.488000,MEDIUM,17.0,2.0,10.0,98.488,2024,United States
+HAM,Mercedes,1.0,0 days 00:01:48.064000,HARD,1.0,1.0,12.0,108.064,2024,United States
+SAI,Ferrari,1.0,0 days 00:01:42.273000,MEDIUM,1.0,1.0,3.0,102.273,2024,United States
+SAI,Ferrari,2.0,0 days 00:01:39.923000,MEDIUM,2.0,1.0,3.0,99.923,2024,United States
+SAI,Ferrari,3.0,0 days 00:02:03.612000,MEDIUM,3.0,1.0,3.0,123.612,2024,United States
+SAI,Ferrari,6.0,0 days 00:01:40.002000,MEDIUM,6.0,1.0,3.0,100.002,2024,United States
+SAI,Ferrari,7.0,0 days 00:01:39.684000,MEDIUM,7.0,1.0,3.0,99.684,2024,United States
+SAI,Ferrari,8.0,0 days 00:01:40.944000,MEDIUM,8.0,1.0,3.0,100.944,2024,United States
+SAI,Ferrari,9.0,0 days 00:01:40.022000,MEDIUM,9.0,1.0,3.0,100.022,2024,United States
+SAI,Ferrari,10.0,0 days 00:01:39.887000,MEDIUM,10.0,1.0,3.0,99.887,2024,United States
+SAI,Ferrari,11.0,0 days 00:01:40.352000,MEDIUM,11.0,1.0,3.0,100.352,2024,United States
+SAI,Ferrari,12.0,0 days 00:01:40.241000,MEDIUM,12.0,1.0,3.0,100.241,2024,United States
+SAI,Ferrari,13.0,0 days 00:01:40.014000,MEDIUM,13.0,1.0,3.0,100.014,2024,United States
+SAI,Ferrari,14.0,0 days 00:01:40.038000,MEDIUM,14.0,1.0,3.0,100.038,2024,United States
+SAI,Ferrari,15.0,0 days 00:01:40.071000,MEDIUM,15.0,1.0,3.0,100.071,2024,United States
+SAI,Ferrari,16.0,0 days 00:01:40.286000,MEDIUM,16.0,1.0,3.0,100.286,2024,United States
+SAI,Ferrari,17.0,0 days 00:01:40.203000,MEDIUM,17.0,1.0,3.0,100.203,2024,United States
+SAI,Ferrari,18.0,0 days 00:01:39.696000,MEDIUM,18.0,1.0,3.0,99.696,2024,United States
+SAI,Ferrari,19.0,0 days 00:01:39.898000,MEDIUM,19.0,1.0,3.0,99.898,2024,United States
+SAI,Ferrari,20.0,0 days 00:01:39.814000,MEDIUM,20.0,1.0,3.0,99.814,2024,United States
+SAI,Ferrari,21.0,0 days 00:01:40.695000,MEDIUM,21.0,1.0,3.0,100.695,2024,United States
+SAI,Ferrari,22.0,0 days 00:01:57.897000,HARD,1.0,2.0,5.0,117.897,2024,United States
+SAI,Ferrari,23.0,0 days 00:01:38.731000,HARD,2.0,2.0,5.0,98.731,2024,United States
+SAI,Ferrari,24.0,0 days 00:01:39.113000,HARD,3.0,2.0,5.0,99.113,2024,United States
+SAI,Ferrari,25.0,0 days 00:01:39.355000,HARD,4.0,2.0,5.0,99.355,2024,United States
+SAI,Ferrari,26.0,0 days 00:01:39.342000,HARD,5.0,2.0,4.0,99.342,2024,United States
+SAI,Ferrari,27.0,0 days 00:01:38.960000,HARD,6.0,2.0,4.0,98.96,2024,United States
+SAI,Ferrari,28.0,0 days 00:01:39.054000,HARD,7.0,2.0,4.0,99.054,2024,United States
+SAI,Ferrari,29.0,0 days 00:01:39.203000,HARD,8.0,2.0,4.0,99.203,2024,United States
+SAI,Ferrari,30.0,0 days 00:01:38.674000,HARD,9.0,2.0,4.0,98.674,2024,United States
+SAI,Ferrari,31.0,0 days 00:01:39.281000,HARD,10.0,2.0,4.0,99.281,2024,United States
+SAI,Ferrari,32.0,0 days 00:01:39.025000,HARD,11.0,2.0,3.0,99.025,2024,United States
+SAI,Ferrari,33.0,0 days 00:01:38.760000,HARD,12.0,2.0,2.0,98.76,2024,United States
+SAI,Ferrari,34.0,0 days 00:01:38.812000,HARD,13.0,2.0,2.0,98.812,2024,United States
+SAI,Ferrari,35.0,0 days 00:01:38.620000,HARD,14.0,2.0,2.0,98.62,2024,United States
+SAI,Ferrari,36.0,0 days 00:01:38.587000,HARD,15.0,2.0,2.0,98.587,2024,United States
+SAI,Ferrari,37.0,0 days 00:01:38.428000,HARD,16.0,2.0,2.0,98.428,2024,United States
+SAI,Ferrari,38.0,0 days 00:01:38.189000,HARD,17.0,2.0,2.0,98.189,2024,United States
+SAI,Ferrari,39.0,0 days 00:01:38.075000,HARD,18.0,2.0,2.0,98.075,2024,United States
+SAI,Ferrari,40.0,0 days 00:01:38.082000,HARD,19.0,2.0,2.0,98.082,2024,United States
+SAI,Ferrari,41.0,0 days 00:01:37.786000,HARD,20.0,2.0,2.0,97.786,2024,United States
+SAI,Ferrari,42.0,0 days 00:01:37.763000,HARD,21.0,2.0,2.0,97.763,2024,United States
+SAI,Ferrari,43.0,0 days 00:01:38.223000,HARD,22.0,2.0,2.0,98.223,2024,United States
+SAI,Ferrari,44.0,0 days 00:01:38.450000,HARD,23.0,2.0,2.0,98.45,2024,United States
+SAI,Ferrari,45.0,0 days 00:01:38.280000,HARD,24.0,2.0,2.0,98.28,2024,United States
+SAI,Ferrari,46.0,0 days 00:01:38.618000,HARD,25.0,2.0,2.0,98.618,2024,United States
+SAI,Ferrari,47.0,0 days 00:01:38.883000,HARD,26.0,2.0,2.0,98.883,2024,United States
+SAI,Ferrari,48.0,0 days 00:01:38.130000,HARD,27.0,2.0,2.0,98.13,2024,United States
+SAI,Ferrari,49.0,0 days 00:01:38.584000,HARD,28.0,2.0,2.0,98.584,2024,United States
+SAI,Ferrari,50.0,0 days 00:01:38.270000,HARD,29.0,2.0,2.0,98.27,2024,United States
+SAI,Ferrari,51.0,0 days 00:01:38.501000,HARD,30.0,2.0,2.0,98.501,2024,United States
+SAI,Ferrari,52.0,0 days 00:01:38.088000,HARD,31.0,2.0,2.0,98.088,2024,United States
+SAI,Ferrari,53.0,0 days 00:01:38.170000,HARD,32.0,2.0,2.0,98.17,2024,United States
+SAI,Ferrari,54.0,0 days 00:01:38.200000,HARD,33.0,2.0,2.0,98.2,2024,United States
+SAI,Ferrari,55.0,0 days 00:01:39.009000,HARD,34.0,2.0,2.0,99.009,2024,United States
+SAI,Ferrari,56.0,0 days 00:01:41.083000,HARD,35.0,2.0,2.0,101.083,2024,United States
+RUS,Mercedes,1.0,0 days 00:01:51.647000,HARD,1.0,1.0,19.0,111.647,2024,United States
+RUS,Mercedes,2.0,0 days 00:01:43.503000,HARD,2.0,1.0,17.0,103.503,2024,United States
+RUS,Mercedes,3.0,0 days 00:02:20.454000,HARD,3.0,1.0,18.0,140.454,2024,United States
+RUS,Mercedes,5.0,0 days 00:02:23.987000,HARD,5.0,1.0,17.0,143.987,2024,United States
+RUS,Mercedes,6.0,0 days 00:01:44.179000,HARD,6.0,1.0,16.0,104.179,2024,United States
+RUS,Mercedes,7.0,0 days 00:01:41.898000,HARD,7.0,1.0,16.0,101.898,2024,United States
+RUS,Mercedes,8.0,0 days 00:01:41.524000,HARD,8.0,1.0,16.0,101.524,2024,United States
+RUS,Mercedes,9.0,0 days 00:01:41.913000,HARD,9.0,1.0,16.0,101.913,2024,United States
+RUS,Mercedes,10.0,0 days 00:01:41.994000,HARD,10.0,1.0,15.0,101.994,2024,United States
+RUS,Mercedes,11.0,0 days 00:01:42.165000,HARD,11.0,1.0,15.0,102.165,2024,United States
+RUS,Mercedes,12.0,0 days 00:01:41.837000,HARD,12.0,1.0,15.0,101.837,2024,United States
+RUS,Mercedes,13.0,0 days 00:01:41.300000,HARD,13.0,1.0,14.0,101.3,2024,United States
+RUS,Mercedes,14.0,0 days 00:01:41.098000,HARD,14.0,1.0,13.0,101.098,2024,United States
+RUS,Mercedes,15.0,0 days 00:01:41.155000,HARD,15.0,1.0,13.0,101.155,2024,United States
+RUS,Mercedes,16.0,0 days 00:01:41.260000,HARD,16.0,1.0,13.0,101.26,2024,United States
+RUS,Mercedes,17.0,0 days 00:01:41.132000,HARD,17.0,1.0,12.0,101.132,2024,United States
+RUS,Mercedes,18.0,0 days 00:01:40.530000,HARD,18.0,1.0,11.0,100.53,2024,United States
+RUS,Mercedes,19.0,0 days 00:01:41.203000,HARD,19.0,1.0,9.0,101.203,2024,United States
+RUS,Mercedes,20.0,0 days 00:01:40.766000,HARD,20.0,1.0,9.0,100.766,2024,United States
+RUS,Mercedes,21.0,0 days 00:01:39.965000,HARD,21.0,1.0,8.0,99.965,2024,United States
+RUS,Mercedes,22.0,0 days 00:01:40.019000,HARD,22.0,1.0,8.0,100.019,2024,United States
+RUS,Mercedes,23.0,0 days 00:01:40.174000,HARD,23.0,1.0,8.0,100.174,2024,United States
+RUS,Mercedes,24.0,0 days 00:01:40.060000,HARD,24.0,1.0,8.0,100.06,2024,United States
+RUS,Mercedes,25.0,0 days 00:01:39.692000,HARD,25.0,1.0,8.0,99.692,2024,United States
+RUS,Mercedes,26.0,0 days 00:01:40.158000,HARD,26.0,1.0,8.0,100.158,2024,United States
+RUS,Mercedes,27.0,0 days 00:01:39.889000,HARD,27.0,1.0,7.0,99.889,2024,United States
+RUS,Mercedes,28.0,0 days 00:01:39.235000,HARD,28.0,1.0,6.0,99.235,2024,United States
+RUS,Mercedes,29.0,0 days 00:01:39.624000,HARD,29.0,1.0,6.0,99.624,2024,United States
+RUS,Mercedes,30.0,0 days 00:01:39.577000,HARD,30.0,1.0,6.0,99.577,2024,United States
+RUS,Mercedes,31.0,0 days 00:01:39.634000,HARD,31.0,1.0,6.0,99.634,2024,United States
+RUS,Mercedes,32.0,0 days 00:01:39.553000,HARD,32.0,1.0,6.0,99.553,2024,United States
+RUS,Mercedes,33.0,0 days 00:01:40.373000,HARD,33.0,1.0,6.0,100.373,2024,United States
+RUS,Mercedes,34.0,0 days 00:01:40.071000,HARD,34.0,1.0,6.0,100.071,2024,United States
+RUS,Mercedes,35.0,0 days 00:01:39.925000,HARD,35.0,1.0,6.0,99.925,2024,United States
+RUS,Mercedes,36.0,0 days 00:01:39.152000,HARD,36.0,1.0,6.0,99.152,2024,United States
+RUS,Mercedes,37.0,0 days 00:01:39.451000,HARD,37.0,1.0,6.0,99.451,2024,United States
+RUS,Mercedes,38.0,0 days 00:01:39.331000,HARD,38.0,1.0,6.0,99.331,2024,United States
+RUS,Mercedes,39.0,0 days 00:01:38.997000,HARD,39.0,1.0,6.0,98.997,2024,United States
+RUS,Mercedes,40.0,0 days 00:01:40.641000,HARD,40.0,1.0,6.0,100.641,2024,United States
+RUS,Mercedes,41.0,0 days 00:02:04.213000,MEDIUM,1.0,2.0,8.0,124.213,2024,United States
+RUS,Mercedes,42.0,0 days 00:01:37.656000,MEDIUM,2.0,2.0,8.0,97.656,2024,United States
+RUS,Mercedes,43.0,0 days 00:01:38.118000,MEDIUM,3.0,2.0,8.0,98.118,2024,United States
+RUS,Mercedes,44.0,0 days 00:01:37.826000,MEDIUM,4.0,2.0,8.0,97.826,2024,United States
+RUS,Mercedes,45.0,0 days 00:01:37.963000,MEDIUM,5.0,2.0,7.0,97.963,2024,United States
+RUS,Mercedes,46.0,0 days 00:01:37.782000,MEDIUM,6.0,2.0,7.0,97.782,2024,United States
+RUS,Mercedes,47.0,0 days 00:01:37.790000,MEDIUM,7.0,2.0,7.0,97.79,2024,United States
+RUS,Mercedes,48.0,0 days 00:01:38.041000,MEDIUM,8.0,2.0,7.0,98.041,2024,United States
+RUS,Mercedes,49.0,0 days 00:01:38.001000,MEDIUM,9.0,2.0,7.0,98.001,2024,United States
+RUS,Mercedes,50.0,0 days 00:01:37.943000,MEDIUM,10.0,2.0,7.0,97.943,2024,United States
+RUS,Mercedes,51.0,0 days 00:01:38.059000,MEDIUM,11.0,2.0,7.0,98.059,2024,United States
+RUS,Mercedes,52.0,0 days 00:01:38.608000,MEDIUM,12.0,2.0,7.0,98.608,2024,United States
+RUS,Mercedes,53.0,0 days 00:01:39.888000,MEDIUM,13.0,2.0,7.0,99.888,2024,United States
+RUS,Mercedes,54.0,0 days 00:01:38.724000,MEDIUM,14.0,2.0,7.0,98.724,2024,United States
+RUS,Mercedes,55.0,0 days 00:01:38.180000,MEDIUM,15.0,2.0,6.0,98.18,2024,United States
+RUS,Mercedes,56.0,0 days 00:01:37.955000,MEDIUM,16.0,2.0,6.0,97.955,2024,United States
+BOT,Kick Sauber,1.0,0 days 00:01:50.705000,MEDIUM,1.0,1.0,17.0,110.705,2024,United States
+BOT,Kick Sauber,2.0,0 days 00:01:43.075000,MEDIUM,2.0,1.0,16.0,103.075,2024,United States
+BOT,Kick Sauber,3.0,0 days 00:02:18.546000,MEDIUM,3.0,1.0,16.0,138.546,2024,United States
+BOT,Kick Sauber,5.0,0 days 00:02:26.661000,MEDIUM,5.0,1.0,16.0,146.661,2024,United States
+BOT,Kick Sauber,6.0,0 days 00:01:43.600000,MEDIUM,6.0,1.0,15.0,103.6,2024,United States
+BOT,Kick Sauber,7.0,0 days 00:01:42.180000,MEDIUM,7.0,1.0,15.0,102.18,2024,United States
+BOT,Kick Sauber,8.0,0 days 00:01:41.483000,MEDIUM,8.0,1.0,15.0,101.483,2024,United States
+BOT,Kick Sauber,9.0,0 days 00:01:42.031000,MEDIUM,9.0,1.0,15.0,102.031,2024,United States
+BOT,Kick Sauber,10.0,0 days 00:01:41.749000,MEDIUM,10.0,1.0,14.0,101.749,2024,United States
+BOT,Kick Sauber,11.0,0 days 00:01:42.300000,MEDIUM,11.0,1.0,14.0,102.3,2024,United States
+BOT,Kick Sauber,12.0,0 days 00:01:41.945000,MEDIUM,12.0,1.0,14.0,101.945,2024,United States
+BOT,Kick Sauber,13.0,0 days 00:01:42.677000,MEDIUM,13.0,1.0,15.0,102.677,2024,United States
+BOT,Kick Sauber,14.0,0 days 00:01:42.125000,MEDIUM,14.0,1.0,15.0,102.125,2024,United States
+BOT,Kick Sauber,15.0,0 days 00:01:42.714000,MEDIUM,15.0,1.0,15.0,102.714,2024,United States
+BOT,Kick Sauber,16.0,0 days 00:02:01.652000,HARD,1.0,2.0,18.0,121.652,2024,United States
+BOT,Kick Sauber,17.0,0 days 00:01:40.801000,HARD,2.0,2.0,18.0,100.801,2024,United States
+BOT,Kick Sauber,18.0,0 days 00:01:40.762000,HARD,3.0,2.0,18.0,100.762,2024,United States
+BOT,Kick Sauber,19.0,0 days 00:01:40.869000,HARD,4.0,2.0,18.0,100.869,2024,United States
+BOT,Kick Sauber,20.0,0 days 00:01:40.837000,HARD,5.0,2.0,18.0,100.837,2024,United States
+BOT,Kick Sauber,21.0,0 days 00:01:40.920000,HARD,6.0,2.0,18.0,100.92,2024,United States
+BOT,Kick Sauber,22.0,0 days 00:01:40.998000,HARD,7.0,2.0,18.0,100.998,2024,United States
+BOT,Kick Sauber,23.0,0 days 00:01:41.138000,HARD,8.0,2.0,18.0,101.138,2024,United States
+BOT,Kick Sauber,24.0,0 days 00:01:41.147000,HARD,9.0,2.0,18.0,101.147,2024,United States
+BOT,Kick Sauber,25.0,0 days 00:01:40.909000,HARD,10.0,2.0,18.0,100.909,2024,United States
+BOT,Kick Sauber,26.0,0 days 00:01:40.839000,HARD,11.0,2.0,18.0,100.839,2024,United States
+BOT,Kick Sauber,27.0,0 days 00:01:40.869000,HARD,12.0,2.0,17.0,100.869,2024,United States
+BOT,Kick Sauber,28.0,0 days 00:01:41.024000,HARD,13.0,2.0,16.0,101.024,2024,United States
+BOT,Kick Sauber,29.0,0 days 00:01:41.298000,HARD,14.0,2.0,16.0,101.298,2024,United States
+BOT,Kick Sauber,30.0,0 days 00:01:41.185000,HARD,15.0,2.0,16.0,101.185,2024,United States
+BOT,Kick Sauber,31.0,0 days 00:01:41.374000,HARD,16.0,2.0,16.0,101.374,2024,United States
+BOT,Kick Sauber,32.0,0 days 00:01:40.932000,HARD,17.0,2.0,15.0,100.932,2024,United States
+BOT,Kick Sauber,33.0,0 days 00:01:40.784000,HARD,18.0,2.0,15.0,100.784,2024,United States
+BOT,Kick Sauber,34.0,0 days 00:01:41.938000,HARD,19.0,2.0,15.0,101.938,2024,United States
+BOT,Kick Sauber,35.0,0 days 00:01:41.436000,HARD,20.0,2.0,15.0,101.436,2024,United States
+BOT,Kick Sauber,36.0,0 days 00:01:41.155000,HARD,21.0,2.0,15.0,101.155,2024,United States
+BOT,Kick Sauber,37.0,0 days 00:01:40.815000,HARD,22.0,2.0,15.0,100.815,2024,United States
+BOT,Kick Sauber,38.0,0 days 00:01:40.944000,HARD,23.0,2.0,15.0,100.944,2024,United States
+BOT,Kick Sauber,39.0,0 days 00:01:40.780000,HARD,24.0,2.0,15.0,100.78,2024,United States
+BOT,Kick Sauber,40.0,0 days 00:01:40.701000,HARD,25.0,2.0,15.0,100.701,2024,United States
+BOT,Kick Sauber,41.0,0 days 00:01:41.258000,HARD,26.0,2.0,15.0,101.258,2024,United States
+BOT,Kick Sauber,42.0,0 days 00:01:41.243000,HARD,27.0,2.0,15.0,101.243,2024,United States
+BOT,Kick Sauber,43.0,0 days 00:01:40.696000,HARD,28.0,2.0,15.0,100.696,2024,United States
+BOT,Kick Sauber,44.0,0 days 00:01:41.717000,HARD,29.0,2.0,15.0,101.717,2024,United States
+BOT,Kick Sauber,45.0,0 days 00:01:45.416000,HARD,30.0,2.0,17.0,105.416,2024,United States
+BOT,Kick Sauber,46.0,0 days 00:01:43.225000,HARD,31.0,2.0,18.0,103.225,2024,United States
+BOT,Kick Sauber,47.0,0 days 00:01:41.064000,HARD,32.0,2.0,18.0,101.064,2024,United States
+BOT,Kick Sauber,48.0,0 days 00:01:41.070000,HARD,33.0,2.0,18.0,101.07,2024,United States
+BOT,Kick Sauber,49.0,0 days 00:01:43.447000,HARD,34.0,2.0,18.0,103.447,2024,United States
+BOT,Kick Sauber,50.0,0 days 00:01:41.045000,HARD,35.0,2.0,18.0,101.045,2024,United States
+BOT,Kick Sauber,51.0,0 days 00:01:42.931000,HARD,36.0,2.0,18.0,102.931,2024,United States
+BOT,Kick Sauber,52.0,0 days 00:01:40.658000,HARD,37.0,2.0,17.0,100.658,2024,United States
+BOT,Kick Sauber,53.0,0 days 00:01:40.575000,HARD,38.0,2.0,17.0,100.575,2024,United States
+BOT,Kick Sauber,54.0,0 days 00:01:40.679000,HARD,39.0,2.0,17.0,100.679,2024,United States
+BOT,Kick Sauber,55.0,0 days 00:01:40.708000,HARD,40.0,2.0,17.0,100.708,2024,United States
+PIA,McLaren,1.0,0 days 00:01:43.937000,MEDIUM,1.0,1.0,5.0,103.937,2024,United States
+PIA,McLaren,2.0,0 days 00:01:41.768000,MEDIUM,2.0,1.0,5.0,101.768,2024,United States
+PIA,McLaren,3.0,0 days 00:02:06.009000,MEDIUM,3.0,1.0,5.0,126.009,2024,United States
+PIA,McLaren,4.0,0 days 00:02:29.123000,MEDIUM,4.0,1.0,5.0,149.123,2024,United States
+PIA,McLaren,6.0,0 days 00:01:41.753000,MEDIUM,6.0,1.0,5.0,101.753,2024,United States
+PIA,McLaren,7.0,0 days 00:01:41.086000,MEDIUM,7.0,1.0,5.0,101.086,2024,United States
+PIA,McLaren,8.0,0 days 00:01:40.678000,MEDIUM,8.0,1.0,5.0,100.678,2024,United States
+PIA,McLaren,9.0,0 days 00:01:40.285000,MEDIUM,9.0,1.0,5.0,100.285,2024,United States
+PIA,McLaren,10.0,0 days 00:01:40.339000,MEDIUM,10.0,1.0,5.0,100.339,2024,United States
+PIA,McLaren,11.0,0 days 00:01:40.607000,MEDIUM,11.0,1.0,5.0,100.607,2024,United States
+PIA,McLaren,12.0,0 days 00:01:40.696000,MEDIUM,12.0,1.0,5.0,100.696,2024,United States
+PIA,McLaren,13.0,0 days 00:01:40.579000,MEDIUM,13.0,1.0,5.0,100.579,2024,United States
+PIA,McLaren,14.0,0 days 00:01:40.807000,MEDIUM,14.0,1.0,5.0,100.807,2024,United States
+PIA,McLaren,15.0,0 days 00:01:41.013000,MEDIUM,15.0,1.0,5.0,101.013,2024,United States
+PIA,McLaren,16.0,0 days 00:01:40.229000,MEDIUM,16.0,1.0,5.0,100.229,2024,United States
+PIA,McLaren,17.0,0 days 00:01:39.925000,MEDIUM,17.0,1.0,5.0,99.925,2024,United States
+PIA,McLaren,18.0,0 days 00:01:40.006000,MEDIUM,18.0,1.0,5.0,100.006,2024,United States
+PIA,McLaren,19.0,0 days 00:01:39.685000,MEDIUM,19.0,1.0,5.0,99.685,2024,United States
+PIA,McLaren,20.0,0 days 00:01:39.791000,MEDIUM,20.0,1.0,5.0,99.791,2024,United States
+PIA,McLaren,21.0,0 days 00:01:39.711000,MEDIUM,21.0,1.0,5.0,99.711,2024,United States
+PIA,McLaren,22.0,0 days 00:01:39.864000,MEDIUM,22.0,1.0,4.0,99.864,2024,United States
+PIA,McLaren,23.0,0 days 00:01:39.910000,MEDIUM,23.0,1.0,4.0,99.91,2024,United States
+PIA,McLaren,24.0,0 days 00:01:40.269000,MEDIUM,24.0,1.0,4.0,100.269,2024,United States
+PIA,McLaren,25.0,0 days 00:01:39.409000,MEDIUM,25.0,1.0,4.0,99.409,2024,United States
+PIA,McLaren,26.0,0 days 00:01:39.299000,MEDIUM,26.0,1.0,3.0,99.299,2024,United States
+PIA,McLaren,27.0,0 days 00:01:39.016000,MEDIUM,27.0,1.0,2.0,99.016,2024,United States
+PIA,McLaren,28.0,0 days 00:01:39.650000,MEDIUM,28.0,1.0,2.0,99.65,2024,United States
+PIA,McLaren,29.0,0 days 00:01:39.550000,MEDIUM,29.0,1.0,2.0,99.55,2024,United States
+PIA,McLaren,30.0,0 days 00:01:39.661000,MEDIUM,30.0,1.0,2.0,99.661,2024,United States
+PIA,McLaren,31.0,0 days 00:01:40.829000,MEDIUM,31.0,1.0,3.0,100.829,2024,United States
+PIA,McLaren,32.0,0 days 00:01:41.107000,MEDIUM,32.0,1.0,2.0,101.107,2024,United States
+PIA,McLaren,33.0,0 days 00:01:59.344000,HARD,1.0,2.0,5.0,119.344,2024,United States
+PIA,McLaren,34.0,0 days 00:01:38.495000,HARD,2.0,2.0,5.0,98.495,2024,United States
+PIA,McLaren,35.0,0 days 00:01:38.022000,HARD,3.0,2.0,5.0,98.022,2024,United States
+PIA,McLaren,36.0,0 days 00:01:38.310000,HARD,4.0,2.0,5.0,98.31,2024,United States
+PIA,McLaren,37.0,0 days 00:01:38.490000,HARD,5.0,2.0,5.0,98.49,2024,United States
+PIA,McLaren,38.0,0 days 00:01:38.212000,HARD,6.0,2.0,5.0,98.212,2024,United States
+PIA,McLaren,39.0,0 days 00:01:38.183000,HARD,7.0,2.0,5.0,98.183,2024,United States
+PIA,McLaren,40.0,0 days 00:01:39.348000,HARD,8.0,2.0,5.0,99.348,2024,United States
+PIA,McLaren,41.0,0 days 00:01:38.206000,HARD,9.0,2.0,5.0,98.206,2024,United States
+PIA,McLaren,42.0,0 days 00:01:37.883000,HARD,10.0,2.0,5.0,97.883,2024,United States
+PIA,McLaren,43.0,0 days 00:01:37.984000,HARD,11.0,2.0,5.0,97.984,2024,United States
+PIA,McLaren,44.0,0 days 00:01:38.455000,HARD,12.0,2.0,5.0,98.455,2024,United States
+PIA,McLaren,45.0,0 days 00:01:37.979000,HARD,13.0,2.0,5.0,97.979,2024,United States
+PIA,McLaren,46.0,0 days 00:01:38.320000,HARD,14.0,2.0,5.0,98.32,2024,United States
+PIA,McLaren,47.0,0 days 00:01:38.655000,HARD,15.0,2.0,5.0,98.655,2024,United States
+PIA,McLaren,48.0,0 days 00:01:38.021000,HARD,16.0,2.0,5.0,98.021,2024,United States
+PIA,McLaren,49.0,0 days 00:01:38.023000,HARD,17.0,2.0,5.0,98.023,2024,United States
+PIA,McLaren,50.0,0 days 00:01:37.979000,HARD,18.0,2.0,5.0,97.979,2024,United States
+PIA,McLaren,51.0,0 days 00:01:38.532000,HARD,19.0,2.0,5.0,98.532,2024,United States
+PIA,McLaren,52.0,0 days 00:01:38.180000,HARD,20.0,2.0,5.0,98.18,2024,United States
+PIA,McLaren,53.0,0 days 00:01:39.104000,HARD,21.0,2.0,5.0,99.104,2024,United States
+PIA,McLaren,54.0,0 days 00:01:37.954000,HARD,22.0,2.0,5.0,97.954,2024,United States
+PIA,McLaren,55.0,0 days 00:01:37.924000,HARD,23.0,2.0,5.0,97.924,2024,United States
+PIA,McLaren,56.0,0 days 00:01:39.112000,HARD,24.0,2.0,5.0,99.112,2024,United States

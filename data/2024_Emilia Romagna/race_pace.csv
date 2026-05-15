@@ -1,0 +1,1238 @@
+Driver,Team,LapNumber,LapTime,Compound,TyreLife,Stint,Position,LapTimeSeconds,Season,GrandPrix
+VER,Red Bull Racing,1.0,0 days 00:01:22.881000,MEDIUM,1.0,1.0,1.0,82.881,2024,Emilia Romagna
+VER,Red Bull Racing,2.0,0 days 00:01:20.596000,MEDIUM,2.0,1.0,1.0,80.596,2024,Emilia Romagna
+VER,Red Bull Racing,3.0,0 days 00:01:20.872000,MEDIUM,3.0,1.0,1.0,80.872,2024,Emilia Romagna
+VER,Red Bull Racing,4.0,0 days 00:01:20.671000,MEDIUM,4.0,1.0,1.0,80.671,2024,Emilia Romagna
+VER,Red Bull Racing,5.0,0 days 00:01:20.734000,MEDIUM,5.0,1.0,1.0,80.734,2024,Emilia Romagna
+VER,Red Bull Racing,6.0,0 days 00:01:20.868000,MEDIUM,6.0,1.0,1.0,80.868,2024,Emilia Romagna
+VER,Red Bull Racing,7.0,0 days 00:01:20.868000,MEDIUM,7.0,1.0,1.0,80.868,2024,Emilia Romagna
+VER,Red Bull Racing,8.0,0 days 00:01:20.762000,MEDIUM,8.0,1.0,1.0,80.762,2024,Emilia Romagna
+VER,Red Bull Racing,9.0,0 days 00:01:20.543000,MEDIUM,9.0,1.0,1.0,80.543,2024,Emilia Romagna
+VER,Red Bull Racing,10.0,0 days 00:01:21.093000,MEDIUM,10.0,1.0,1.0,81.093,2024,Emilia Romagna
+VER,Red Bull Racing,11.0,0 days 00:01:20.885000,MEDIUM,11.0,1.0,1.0,80.885,2024,Emilia Romagna
+VER,Red Bull Racing,12.0,0 days 00:01:21.287000,MEDIUM,12.0,1.0,1.0,81.287,2024,Emilia Romagna
+VER,Red Bull Racing,13.0,0 days 00:01:21.073000,MEDIUM,13.0,1.0,1.0,81.073,2024,Emilia Romagna
+VER,Red Bull Racing,14.0,0 days 00:01:20.982000,MEDIUM,14.0,1.0,1.0,80.982,2024,Emilia Romagna
+VER,Red Bull Racing,15.0,0 days 00:01:21.323000,MEDIUM,15.0,1.0,1.0,81.323,2024,Emilia Romagna
+VER,Red Bull Racing,16.0,0 days 00:01:21.362000,MEDIUM,16.0,1.0,1.0,81.362,2024,Emilia Romagna
+VER,Red Bull Racing,17.0,0 days 00:01:21.328000,MEDIUM,17.0,1.0,1.0,81.328,2024,Emilia Romagna
+VER,Red Bull Racing,18.0,0 days 00:01:21.411000,MEDIUM,18.0,1.0,1.0,81.411,2024,Emilia Romagna
+VER,Red Bull Racing,19.0,0 days 00:01:21.517000,MEDIUM,19.0,1.0,1.0,81.517,2024,Emilia Romagna
+VER,Red Bull Racing,20.0,0 days 00:01:21.550000,MEDIUM,20.0,1.0,1.0,81.55,2024,Emilia Romagna
+VER,Red Bull Racing,21.0,0 days 00:01:21.608000,MEDIUM,21.0,1.0,1.0,81.608,2024,Emilia Romagna
+VER,Red Bull Racing,22.0,0 days 00:01:21.763000,MEDIUM,22.0,1.0,1.0,81.763,2024,Emilia Romagna
+VER,Red Bull Racing,23.0,0 days 00:01:21.988000,MEDIUM,23.0,1.0,1.0,81.988,2024,Emilia Romagna
+VER,Red Bull Racing,24.0,0 days 00:01:26.212000,MEDIUM,24.0,1.0,1.0,86.212,2024,Emilia Romagna
+VER,Red Bull Racing,25.0,0 days 00:01:43.602000,HARD,1.0,2.0,4.0,103.602,2024,Emilia Romagna
+VER,Red Bull Racing,26.0,0 days 00:01:20.482000,HARD,2.0,2.0,3.0,80.482,2024,Emilia Romagna
+VER,Red Bull Racing,27.0,0 days 00:01:20.943000,HARD,3.0,2.0,2.0,80.943,2024,Emilia Romagna
+VER,Red Bull Racing,28.0,0 days 00:01:20.709000,HARD,4.0,2.0,1.0,80.709,2024,Emilia Romagna
+VER,Red Bull Racing,29.0,0 days 00:01:20.615000,HARD,5.0,2.0,1.0,80.615,2024,Emilia Romagna
+VER,Red Bull Racing,30.0,0 days 00:01:20.571000,HARD,6.0,2.0,1.0,80.571,2024,Emilia Romagna
+VER,Red Bull Racing,31.0,0 days 00:01:20.545000,HARD,7.0,2.0,1.0,80.545,2024,Emilia Romagna
+VER,Red Bull Racing,32.0,0 days 00:01:20.713000,HARD,8.0,2.0,1.0,80.713,2024,Emilia Romagna
+VER,Red Bull Racing,33.0,0 days 00:01:21.141000,HARD,9.0,2.0,1.0,81.141,2024,Emilia Romagna
+VER,Red Bull Racing,34.0,0 days 00:01:20.760000,HARD,10.0,2.0,1.0,80.76,2024,Emilia Romagna
+VER,Red Bull Racing,35.0,0 days 00:01:20.800000,HARD,11.0,2.0,1.0,80.8,2024,Emilia Romagna
+VER,Red Bull Racing,36.0,0 days 00:01:20.704000,HARD,12.0,2.0,1.0,80.704,2024,Emilia Romagna
+VER,Red Bull Racing,37.0,0 days 00:01:20.484000,HARD,13.0,2.0,1.0,80.484,2024,Emilia Romagna
+VER,Red Bull Racing,38.0,0 days 00:01:20.366000,HARD,14.0,2.0,1.0,80.366,2024,Emilia Romagna
+VER,Red Bull Racing,39.0,0 days 00:01:20.547000,HARD,15.0,2.0,1.0,80.547,2024,Emilia Romagna
+VER,Red Bull Racing,40.0,0 days 00:01:20.645000,HARD,16.0,2.0,1.0,80.645,2024,Emilia Romagna
+VER,Red Bull Racing,41.0,0 days 00:01:20.675000,HARD,17.0,2.0,1.0,80.675,2024,Emilia Romagna
+VER,Red Bull Racing,42.0,0 days 00:01:20.832000,HARD,18.0,2.0,1.0,80.832,2024,Emilia Romagna
+VER,Red Bull Racing,43.0,0 days 00:01:20.757000,HARD,19.0,2.0,1.0,80.757,2024,Emilia Romagna
+VER,Red Bull Racing,44.0,0 days 00:01:20.834000,HARD,20.0,2.0,1.0,80.834,2024,Emilia Romagna
+VER,Red Bull Racing,45.0,0 days 00:01:21.364000,HARD,21.0,2.0,1.0,81.364,2024,Emilia Romagna
+VER,Red Bull Racing,46.0,0 days 00:01:20.700000,HARD,22.0,2.0,1.0,80.7,2024,Emilia Romagna
+VER,Red Bull Racing,47.0,0 days 00:01:20.909000,HARD,23.0,2.0,1.0,80.909,2024,Emilia Romagna
+VER,Red Bull Racing,48.0,0 days 00:01:20.923000,HARD,24.0,2.0,1.0,80.923,2024,Emilia Romagna
+VER,Red Bull Racing,49.0,0 days 00:01:20.823000,HARD,25.0,2.0,1.0,80.823,2024,Emilia Romagna
+VER,Red Bull Racing,50.0,0 days 00:01:20.817000,HARD,26.0,2.0,1.0,80.817,2024,Emilia Romagna
+VER,Red Bull Racing,51.0,0 days 00:01:20.736000,HARD,27.0,2.0,1.0,80.736,2024,Emilia Romagna
+VER,Red Bull Racing,52.0,0 days 00:01:20.556000,HARD,28.0,2.0,1.0,80.556,2024,Emilia Romagna
+VER,Red Bull Racing,53.0,0 days 00:01:20.638000,HARD,29.0,2.0,1.0,80.638,2024,Emilia Romagna
+VER,Red Bull Racing,54.0,0 days 00:01:20.918000,HARD,30.0,2.0,1.0,80.918,2024,Emilia Romagna
+VER,Red Bull Racing,55.0,0 days 00:01:20.962000,HARD,31.0,2.0,1.0,80.962,2024,Emilia Romagna
+VER,Red Bull Racing,56.0,0 days 00:01:20.490000,HARD,32.0,2.0,1.0,80.49,2024,Emilia Romagna
+VER,Red Bull Racing,57.0,0 days 00:01:20.511000,HARD,33.0,2.0,1.0,80.511,2024,Emilia Romagna
+VER,Red Bull Racing,58.0,0 days 00:01:20.513000,HARD,34.0,2.0,1.0,80.513,2024,Emilia Romagna
+VER,Red Bull Racing,59.0,0 days 00:01:20.367000,HARD,35.0,2.0,1.0,80.367,2024,Emilia Romagna
+VER,Red Bull Racing,60.0,0 days 00:01:20.637000,HARD,36.0,2.0,1.0,80.637,2024,Emilia Romagna
+VER,Red Bull Racing,61.0,0 days 00:01:20.698000,HARD,37.0,2.0,1.0,80.698,2024,Emilia Romagna
+VER,Red Bull Racing,62.0,0 days 00:01:20.753000,HARD,38.0,2.0,1.0,80.753,2024,Emilia Romagna
+VER,Red Bull Racing,63.0,0 days 00:01:21.035000,HARD,39.0,2.0,1.0,81.035,2024,Emilia Romagna
+NOR,McLaren,1.0,0 days 00:01:23.764000,MEDIUM,1.0,1.0,2.0,83.764,2024,Emilia Romagna
+NOR,McLaren,2.0,0 days 00:01:20.673000,MEDIUM,2.0,1.0,2.0,80.673,2024,Emilia Romagna
+NOR,McLaren,3.0,0 days 00:01:20.884000,MEDIUM,3.0,1.0,2.0,80.884,2024,Emilia Romagna
+NOR,McLaren,4.0,0 days 00:01:21.205000,MEDIUM,4.0,1.0,2.0,81.205,2024,Emilia Romagna
+NOR,McLaren,5.0,0 days 00:01:21.046000,MEDIUM,5.0,1.0,2.0,81.046,2024,Emilia Romagna
+NOR,McLaren,6.0,0 days 00:01:20.909000,MEDIUM,6.0,1.0,2.0,80.909,2024,Emilia Romagna
+NOR,McLaren,7.0,0 days 00:01:20.923000,MEDIUM,7.0,1.0,2.0,80.923,2024,Emilia Romagna
+NOR,McLaren,8.0,0 days 00:01:20.997000,MEDIUM,8.0,1.0,2.0,80.997,2024,Emilia Romagna
+NOR,McLaren,9.0,0 days 00:01:21.052000,MEDIUM,9.0,1.0,2.0,81.052,2024,Emilia Romagna
+NOR,McLaren,10.0,0 days 00:01:21.272000,MEDIUM,10.0,1.0,2.0,81.272,2024,Emilia Romagna
+NOR,McLaren,11.0,0 days 00:01:21.201000,MEDIUM,11.0,1.0,2.0,81.201,2024,Emilia Romagna
+NOR,McLaren,12.0,0 days 00:01:21.438000,MEDIUM,12.0,1.0,2.0,81.438,2024,Emilia Romagna
+NOR,McLaren,13.0,0 days 00:01:21.735000,MEDIUM,13.0,1.0,2.0,81.735,2024,Emilia Romagna
+NOR,McLaren,14.0,0 days 00:01:21.716000,MEDIUM,14.0,1.0,2.0,81.716,2024,Emilia Romagna
+NOR,McLaren,15.0,0 days 00:01:21.666000,MEDIUM,15.0,1.0,2.0,81.666,2024,Emilia Romagna
+NOR,McLaren,16.0,0 days 00:01:21.523000,MEDIUM,16.0,1.0,2.0,81.523,2024,Emilia Romagna
+NOR,McLaren,17.0,0 days 00:01:21.565000,MEDIUM,17.0,1.0,2.0,81.565,2024,Emilia Romagna
+NOR,McLaren,18.0,0 days 00:01:21.617000,MEDIUM,18.0,1.0,2.0,81.617,2024,Emilia Romagna
+NOR,McLaren,19.0,0 days 00:01:21.793000,MEDIUM,19.0,1.0,2.0,81.793,2024,Emilia Romagna
+NOR,McLaren,20.0,0 days 00:01:21.883000,MEDIUM,20.0,1.0,2.0,81.883,2024,Emilia Romagna
+NOR,McLaren,21.0,0 days 00:01:21.855000,MEDIUM,21.0,1.0,2.0,81.855,2024,Emilia Romagna
+NOR,McLaren,22.0,0 days 00:01:26.107000,MEDIUM,22.0,1.0,3.0,86.107,2024,Emilia Romagna
+NOR,McLaren,23.0,0 days 00:01:44.693000,HARD,2.0,2.0,7.0,104.693,2024,Emilia Romagna
+NOR,McLaren,24.0,0 days 00:01:20.468000,HARD,3.0,2.0,5.0,80.468,2024,Emilia Romagna
+NOR,McLaren,25.0,0 days 00:01:20.977000,HARD,4.0,2.0,5.0,80.977,2024,Emilia Romagna
+NOR,McLaren,26.0,0 days 00:01:20.899000,HARD,5.0,2.0,4.0,80.899,2024,Emilia Romagna
+NOR,McLaren,27.0,0 days 00:01:21.029000,HARD,6.0,2.0,4.0,81.029,2024,Emilia Romagna
+NOR,McLaren,28.0,0 days 00:01:21.077000,HARD,7.0,2.0,2.0,81.077,2024,Emilia Romagna
+NOR,McLaren,29.0,0 days 00:01:20.933000,HARD,8.0,2.0,2.0,80.933,2024,Emilia Romagna
+NOR,McLaren,30.0,0 days 00:01:20.720000,HARD,9.0,2.0,2.0,80.72,2024,Emilia Romagna
+NOR,McLaren,31.0,0 days 00:01:20.628000,HARD,10.0,2.0,2.0,80.628,2024,Emilia Romagna
+NOR,McLaren,32.0,0 days 00:01:20.923000,HARD,11.0,2.0,2.0,80.923,2024,Emilia Romagna
+NOR,McLaren,33.0,0 days 00:01:20.764000,HARD,12.0,2.0,2.0,80.764,2024,Emilia Romagna
+NOR,McLaren,34.0,0 days 00:01:20.776000,HARD,13.0,2.0,2.0,80.776,2024,Emilia Romagna
+NOR,McLaren,35.0,0 days 00:01:20.687000,HARD,14.0,2.0,2.0,80.687,2024,Emilia Romagna
+NOR,McLaren,36.0,0 days 00:01:20.656000,HARD,15.0,2.0,2.0,80.656,2024,Emilia Romagna
+NOR,McLaren,37.0,0 days 00:01:20.714000,HARD,16.0,2.0,2.0,80.714,2024,Emilia Romagna
+NOR,McLaren,38.0,0 days 00:01:20.458000,HARD,17.0,2.0,2.0,80.458,2024,Emilia Romagna
+NOR,McLaren,39.0,0 days 00:01:20.591000,HARD,18.0,2.0,2.0,80.591,2024,Emilia Romagna
+NOR,McLaren,40.0,0 days 00:01:21.025000,HARD,19.0,2.0,2.0,81.025,2024,Emilia Romagna
+NOR,McLaren,41.0,0 days 00:01:21.102000,HARD,20.0,2.0,2.0,81.102,2024,Emilia Romagna
+NOR,McLaren,42.0,0 days 00:01:20.828000,HARD,21.0,2.0,2.0,80.828,2024,Emilia Romagna
+NOR,McLaren,43.0,0 days 00:01:20.838000,HARD,22.0,2.0,2.0,80.838,2024,Emilia Romagna
+NOR,McLaren,44.0,0 days 00:01:20.708000,HARD,23.0,2.0,2.0,80.708,2024,Emilia Romagna
+NOR,McLaren,45.0,0 days 00:01:20.339000,HARD,24.0,2.0,2.0,80.339,2024,Emilia Romagna
+NOR,McLaren,46.0,0 days 00:01:20.546000,HARD,25.0,2.0,2.0,80.546,2024,Emilia Romagna
+NOR,McLaren,47.0,0 days 00:01:20.816000,HARD,26.0,2.0,2.0,80.816,2024,Emilia Romagna
+NOR,McLaren,48.0,0 days 00:01:20.803000,HARD,27.0,2.0,2.0,80.803,2024,Emilia Romagna
+NOR,McLaren,49.0,0 days 00:01:20.485000,HARD,28.0,2.0,2.0,80.485,2024,Emilia Romagna
+NOR,McLaren,50.0,0 days 00:01:20.039000,HARD,29.0,2.0,2.0,80.039,2024,Emilia Romagna
+NOR,McLaren,51.0,0 days 00:01:20.367000,HARD,30.0,2.0,2.0,80.367,2024,Emilia Romagna
+NOR,McLaren,52.0,0 days 00:01:20.582000,HARD,31.0,2.0,2.0,80.582,2024,Emilia Romagna
+NOR,McLaren,53.0,0 days 00:01:20.141000,HARD,32.0,2.0,2.0,80.141,2024,Emilia Romagna
+NOR,McLaren,54.0,0 days 00:01:19.994000,HARD,33.0,2.0,2.0,79.994,2024,Emilia Romagna
+NOR,McLaren,55.0,0 days 00:01:20.182000,HARD,34.0,2.0,2.0,80.182,2024,Emilia Romagna
+NOR,McLaren,56.0,0 days 00:01:20.168000,HARD,35.0,2.0,2.0,80.168,2024,Emilia Romagna
+NOR,McLaren,57.0,0 days 00:01:20.105000,HARD,36.0,2.0,2.0,80.105,2024,Emilia Romagna
+NOR,McLaren,58.0,0 days 00:01:20.555000,HARD,37.0,2.0,2.0,80.555,2024,Emilia Romagna
+NOR,McLaren,59.0,0 days 00:01:20.489000,HARD,38.0,2.0,2.0,80.489,2024,Emilia Romagna
+NOR,McLaren,60.0,0 days 00:01:20.239000,HARD,39.0,2.0,2.0,80.239,2024,Emilia Romagna
+NOR,McLaren,61.0,0 days 00:01:20.502000,HARD,40.0,2.0,2.0,80.502,2024,Emilia Romagna
+NOR,McLaren,62.0,0 days 00:01:20.564000,HARD,41.0,2.0,2.0,80.564,2024,Emilia Romagna
+NOR,McLaren,63.0,0 days 00:01:20.743000,HARD,42.0,2.0,2.0,80.743,2024,Emilia Romagna
+LEC,Ferrari,1.0,0 days 00:01:24.580000,MEDIUM,1.0,1.0,3.0,84.58,2024,Emilia Romagna
+LEC,Ferrari,2.0,0 days 00:01:20.926000,MEDIUM,2.0,1.0,3.0,80.926,2024,Emilia Romagna
+LEC,Ferrari,3.0,0 days 00:01:20.931000,MEDIUM,3.0,1.0,3.0,80.931,2024,Emilia Romagna
+LEC,Ferrari,4.0,0 days 00:01:21.279000,MEDIUM,4.0,1.0,3.0,81.279,2024,Emilia Romagna
+LEC,Ferrari,5.0,0 days 00:01:21.122000,MEDIUM,5.0,1.0,3.0,81.122,2024,Emilia Romagna
+LEC,Ferrari,6.0,0 days 00:01:21.043000,MEDIUM,6.0,1.0,3.0,81.043,2024,Emilia Romagna
+LEC,Ferrari,7.0,0 days 00:01:21.025000,MEDIUM,7.0,1.0,3.0,81.025,2024,Emilia Romagna
+LEC,Ferrari,8.0,0 days 00:01:21.116000,MEDIUM,8.0,1.0,3.0,81.116,2024,Emilia Romagna
+LEC,Ferrari,9.0,0 days 00:01:21.215000,MEDIUM,9.0,1.0,3.0,81.215,2024,Emilia Romagna
+LEC,Ferrari,10.0,0 days 00:01:21.387000,MEDIUM,10.0,1.0,3.0,81.387,2024,Emilia Romagna
+LEC,Ferrari,11.0,0 days 00:01:21.147000,MEDIUM,11.0,1.0,3.0,81.147,2024,Emilia Romagna
+LEC,Ferrari,12.0,0 days 00:01:21.349000,MEDIUM,12.0,1.0,3.0,81.349,2024,Emilia Romagna
+LEC,Ferrari,13.0,0 days 00:01:21.442000,MEDIUM,13.0,1.0,3.0,81.442,2024,Emilia Romagna
+LEC,Ferrari,14.0,0 days 00:01:21.661000,MEDIUM,14.0,1.0,3.0,81.661,2024,Emilia Romagna
+LEC,Ferrari,15.0,0 days 00:01:21.464000,MEDIUM,15.0,1.0,3.0,81.464,2024,Emilia Romagna
+LEC,Ferrari,16.0,0 days 00:01:21.964000,MEDIUM,16.0,1.0,3.0,81.964,2024,Emilia Romagna
+LEC,Ferrari,17.0,0 days 00:01:21.714000,MEDIUM,17.0,1.0,3.0,81.714,2024,Emilia Romagna
+LEC,Ferrari,18.0,0 days 00:01:21.719000,MEDIUM,18.0,1.0,3.0,81.719,2024,Emilia Romagna
+LEC,Ferrari,19.0,0 days 00:01:21.672000,MEDIUM,19.0,1.0,3.0,81.672,2024,Emilia Romagna
+LEC,Ferrari,20.0,0 days 00:01:21.757000,MEDIUM,20.0,1.0,3.0,81.757,2024,Emilia Romagna
+LEC,Ferrari,21.0,0 days 00:01:21.669000,MEDIUM,21.0,1.0,3.0,81.669,2024,Emilia Romagna
+LEC,Ferrari,22.0,0 days 00:01:22.018000,MEDIUM,22.0,1.0,2.0,82.018,2024,Emilia Romagna
+LEC,Ferrari,23.0,0 days 00:01:21.943000,MEDIUM,23.0,1.0,2.0,81.943,2024,Emilia Romagna
+LEC,Ferrari,24.0,0 days 00:01:21.600000,MEDIUM,24.0,1.0,2.0,81.6,2024,Emilia Romagna
+LEC,Ferrari,25.0,0 days 00:01:26.023000,MEDIUM,25.0,1.0,2.0,86.023,2024,Emilia Romagna
+LEC,Ferrari,26.0,0 days 00:01:45.006000,HARD,1.0,2.0,6.0,105.006,2024,Emilia Romagna
+LEC,Ferrari,27.0,0 days 00:01:19.935000,HARD,2.0,2.0,5.0,79.935,2024,Emilia Romagna
+LEC,Ferrari,28.0,0 days 00:01:20.928000,HARD,3.0,2.0,3.0,80.928,2024,Emilia Romagna
+LEC,Ferrari,29.0,0 days 00:01:20.502000,HARD,4.0,2.0,3.0,80.502,2024,Emilia Romagna
+LEC,Ferrari,30.0,0 days 00:01:20.426000,HARD,5.0,2.0,3.0,80.426,2024,Emilia Romagna
+LEC,Ferrari,31.0,0 days 00:01:20.944000,HARD,6.0,2.0,3.0,80.944,2024,Emilia Romagna
+LEC,Ferrari,32.0,0 days 00:01:20.645000,HARD,7.0,2.0,3.0,80.645,2024,Emilia Romagna
+LEC,Ferrari,33.0,0 days 00:01:20.589000,HARD,8.0,2.0,3.0,80.589,2024,Emilia Romagna
+LEC,Ferrari,34.0,0 days 00:01:20.726000,HARD,9.0,2.0,3.0,80.726,2024,Emilia Romagna
+LEC,Ferrari,35.0,0 days 00:01:20.812000,HARD,10.0,2.0,3.0,80.812,2024,Emilia Romagna
+LEC,Ferrari,36.0,0 days 00:01:20.562000,HARD,11.0,2.0,3.0,80.562,2024,Emilia Romagna
+LEC,Ferrari,37.0,0 days 00:01:20.360000,HARD,12.0,2.0,3.0,80.36,2024,Emilia Romagna
+LEC,Ferrari,38.0,0 days 00:01:20.194000,HARD,13.0,2.0,3.0,80.194,2024,Emilia Romagna
+LEC,Ferrari,39.0,0 days 00:01:20.507000,HARD,14.0,2.0,3.0,80.507,2024,Emilia Romagna
+LEC,Ferrari,40.0,0 days 00:01:20.582000,HARD,15.0,2.0,3.0,80.582,2024,Emilia Romagna
+LEC,Ferrari,41.0,0 days 00:01:20.928000,HARD,16.0,2.0,3.0,80.928,2024,Emilia Romagna
+LEC,Ferrari,42.0,0 days 00:01:20.240000,HARD,17.0,2.0,3.0,80.24,2024,Emilia Romagna
+LEC,Ferrari,43.0,0 days 00:01:20.942000,HARD,18.0,2.0,3.0,80.942,2024,Emilia Romagna
+LEC,Ferrari,44.0,0 days 00:01:20.702000,HARD,19.0,2.0,3.0,80.702,2024,Emilia Romagna
+LEC,Ferrari,45.0,0 days 00:01:20.431000,HARD,20.0,2.0,3.0,80.431,2024,Emilia Romagna
+LEC,Ferrari,46.0,0 days 00:01:20.596000,HARD,21.0,2.0,3.0,80.596,2024,Emilia Romagna
+LEC,Ferrari,47.0,0 days 00:01:21.313000,HARD,22.0,2.0,3.0,81.313,2024,Emilia Romagna
+LEC,Ferrari,48.0,0 days 00:01:21.513000,HARD,23.0,2.0,3.0,81.513,2024,Emilia Romagna
+LEC,Ferrari,49.0,0 days 00:01:20.798000,HARD,24.0,2.0,3.0,80.798,2024,Emilia Romagna
+LEC,Ferrari,50.0,0 days 00:01:20.414000,HARD,25.0,2.0,3.0,80.414,2024,Emilia Romagna
+LEC,Ferrari,51.0,0 days 00:01:20.364000,HARD,26.0,2.0,3.0,80.364,2024,Emilia Romagna
+LEC,Ferrari,52.0,0 days 00:01:20.358000,HARD,27.0,2.0,3.0,80.358,2024,Emilia Romagna
+LEC,Ferrari,53.0,0 days 00:01:20.889000,HARD,28.0,2.0,3.0,80.889,2024,Emilia Romagna
+LEC,Ferrari,54.0,0 days 00:01:20.398000,HARD,29.0,2.0,3.0,80.398,2024,Emilia Romagna
+LEC,Ferrari,55.0,0 days 00:01:20.636000,HARD,30.0,2.0,3.0,80.636,2024,Emilia Romagna
+LEC,Ferrari,56.0,0 days 00:01:20.415000,HARD,31.0,2.0,3.0,80.415,2024,Emilia Romagna
+LEC,Ferrari,57.0,0 days 00:01:20.752000,HARD,32.0,2.0,3.0,80.752,2024,Emilia Romagna
+LEC,Ferrari,58.0,0 days 00:01:20.553000,HARD,33.0,2.0,3.0,80.553,2024,Emilia Romagna
+LEC,Ferrari,59.0,0 days 00:01:20.506000,HARD,34.0,2.0,3.0,80.506,2024,Emilia Romagna
+LEC,Ferrari,60.0,0 days 00:01:20.693000,HARD,35.0,2.0,3.0,80.693,2024,Emilia Romagna
+LEC,Ferrari,61.0,0 days 00:01:20.783000,HARD,36.0,2.0,3.0,80.783,2024,Emilia Romagna
+LEC,Ferrari,62.0,0 days 00:01:21.307000,HARD,37.0,2.0,3.0,81.307,2024,Emilia Romagna
+LEC,Ferrari,63.0,0 days 00:01:21.153000,HARD,38.0,2.0,3.0,81.153,2024,Emilia Romagna
+PIA,McLaren,1.0,0 days 00:01:25.726000,MEDIUM,1.0,1.0,5.0,85.726,2024,Emilia Romagna
+PIA,McLaren,2.0,0 days 00:01:21.311000,MEDIUM,2.0,1.0,5.0,81.311,2024,Emilia Romagna
+PIA,McLaren,3.0,0 days 00:01:20.808000,MEDIUM,3.0,1.0,5.0,80.808,2024,Emilia Romagna
+PIA,McLaren,4.0,0 days 00:01:21.377000,MEDIUM,4.0,1.0,5.0,81.377,2024,Emilia Romagna
+PIA,McLaren,5.0,0 days 00:01:21.269000,MEDIUM,5.0,1.0,5.0,81.269,2024,Emilia Romagna
+PIA,McLaren,6.0,0 days 00:01:21.307000,MEDIUM,6.0,1.0,5.0,81.307,2024,Emilia Romagna
+PIA,McLaren,7.0,0 days 00:01:21.080000,MEDIUM,7.0,1.0,5.0,81.08,2024,Emilia Romagna
+PIA,McLaren,8.0,0 days 00:01:21.523000,MEDIUM,8.0,1.0,5.0,81.523,2024,Emilia Romagna
+PIA,McLaren,9.0,0 days 00:01:21.508000,MEDIUM,9.0,1.0,5.0,81.508,2024,Emilia Romagna
+PIA,McLaren,10.0,0 days 00:01:21.586000,MEDIUM,10.0,1.0,5.0,81.586,2024,Emilia Romagna
+PIA,McLaren,11.0,0 days 00:01:21.191000,MEDIUM,11.0,1.0,5.0,81.191,2024,Emilia Romagna
+PIA,McLaren,12.0,0 days 00:01:22.110000,MEDIUM,12.0,1.0,5.0,82.11,2024,Emilia Romagna
+PIA,McLaren,13.0,0 days 00:01:21.888000,MEDIUM,13.0,1.0,5.0,81.888,2024,Emilia Romagna
+PIA,McLaren,14.0,0 days 00:01:21.653000,MEDIUM,14.0,1.0,5.0,81.653,2024,Emilia Romagna
+PIA,McLaren,15.0,0 days 00:01:21.679000,MEDIUM,15.0,1.0,5.0,81.679,2024,Emilia Romagna
+PIA,McLaren,16.0,0 days 00:01:21.734000,MEDIUM,16.0,1.0,5.0,81.734,2024,Emilia Romagna
+PIA,McLaren,17.0,0 days 00:01:21.912000,MEDIUM,17.0,1.0,5.0,81.912,2024,Emilia Romagna
+PIA,McLaren,18.0,0 days 00:01:21.867000,MEDIUM,18.0,1.0,5.0,81.867,2024,Emilia Romagna
+PIA,McLaren,19.0,0 days 00:01:22.042000,MEDIUM,19.0,1.0,5.0,82.042,2024,Emilia Romagna
+PIA,McLaren,20.0,0 days 00:01:21.853000,MEDIUM,20.0,1.0,5.0,81.853,2024,Emilia Romagna
+PIA,McLaren,21.0,0 days 00:01:22.212000,MEDIUM,21.0,1.0,5.0,82.212,2024,Emilia Romagna
+PIA,McLaren,22.0,0 days 00:01:21.869000,MEDIUM,22.0,1.0,5.0,81.869,2024,Emilia Romagna
+PIA,McLaren,23.0,0 days 00:01:26.220000,MEDIUM,23.0,1.0,4.0,86.22,2024,Emilia Romagna
+PIA,McLaren,24.0,0 days 00:01:43.264000,HARD,2.0,2.0,8.0,103.264,2024,Emilia Romagna
+PIA,McLaren,25.0,0 days 00:01:19.907000,HARD,3.0,2.0,7.0,79.907,2024,Emilia Romagna
+PIA,McLaren,26.0,0 days 00:01:20.577000,HARD,4.0,2.0,7.0,80.577,2024,Emilia Romagna
+PIA,McLaren,27.0,0 days 00:01:20.785000,HARD,5.0,2.0,6.0,80.785,2024,Emilia Romagna
+PIA,McLaren,28.0,0 days 00:01:20.599000,HARD,6.0,2.0,4.0,80.599,2024,Emilia Romagna
+PIA,McLaren,29.0,0 days 00:01:20.313000,HARD,7.0,2.0,4.0,80.313,2024,Emilia Romagna
+PIA,McLaren,30.0,0 days 00:01:20.578000,HARD,8.0,2.0,4.0,80.578,2024,Emilia Romagna
+PIA,McLaren,31.0,0 days 00:01:20.728000,HARD,9.0,2.0,4.0,80.728,2024,Emilia Romagna
+PIA,McLaren,32.0,0 days 00:01:20.839000,HARD,10.0,2.0,4.0,80.839,2024,Emilia Romagna
+PIA,McLaren,33.0,0 days 00:01:20.701000,HARD,11.0,2.0,4.0,80.701,2024,Emilia Romagna
+PIA,McLaren,34.0,0 days 00:01:20.960000,HARD,12.0,2.0,4.0,80.96,2024,Emilia Romagna
+PIA,McLaren,35.0,0 days 00:01:20.913000,HARD,13.0,2.0,4.0,80.913,2024,Emilia Romagna
+PIA,McLaren,36.0,0 days 00:01:20.684000,HARD,14.0,2.0,4.0,80.684,2024,Emilia Romagna
+PIA,McLaren,37.0,0 days 00:01:20.587000,HARD,15.0,2.0,4.0,80.587,2024,Emilia Romagna
+PIA,McLaren,38.0,0 days 00:01:20.499000,HARD,16.0,2.0,4.0,80.499,2024,Emilia Romagna
+PIA,McLaren,39.0,0 days 00:01:20.801000,HARD,17.0,2.0,4.0,80.801,2024,Emilia Romagna
+PIA,McLaren,40.0,0 days 00:01:21.001000,HARD,18.0,2.0,4.0,81.001,2024,Emilia Romagna
+PIA,McLaren,41.0,0 days 00:01:20.966000,HARD,19.0,2.0,4.0,80.966,2024,Emilia Romagna
+PIA,McLaren,42.0,0 days 00:01:21.122000,HARD,20.0,2.0,4.0,81.122,2024,Emilia Romagna
+PIA,McLaren,43.0,0 days 00:01:21.333000,HARD,21.0,2.0,4.0,81.333,2024,Emilia Romagna
+PIA,McLaren,44.0,0 days 00:01:20.843000,HARD,22.0,2.0,4.0,80.843,2024,Emilia Romagna
+PIA,McLaren,45.0,0 days 00:01:20.888000,HARD,23.0,2.0,4.0,80.888,2024,Emilia Romagna
+PIA,McLaren,46.0,0 days 00:01:21.038000,HARD,24.0,2.0,4.0,81.038,2024,Emilia Romagna
+PIA,McLaren,47.0,0 days 00:01:21.485000,HARD,25.0,2.0,4.0,81.485,2024,Emilia Romagna
+PIA,McLaren,48.0,0 days 00:01:21.416000,HARD,26.0,2.0,4.0,81.416,2024,Emilia Romagna
+PIA,McLaren,49.0,0 days 00:01:21.309000,HARD,27.0,2.0,4.0,81.309,2024,Emilia Romagna
+PIA,McLaren,50.0,0 days 00:01:20.979000,HARD,28.0,2.0,4.0,80.979,2024,Emilia Romagna
+PIA,McLaren,51.0,0 days 00:01:21.203000,HARD,29.0,2.0,4.0,81.203,2024,Emilia Romagna
+PIA,McLaren,52.0,0 days 00:01:20.777000,HARD,30.0,2.0,4.0,80.777,2024,Emilia Romagna
+PIA,McLaren,53.0,0 days 00:01:20.699000,HARD,31.0,2.0,4.0,80.699,2024,Emilia Romagna
+PIA,McLaren,54.0,0 days 00:01:20.413000,HARD,32.0,2.0,4.0,80.413,2024,Emilia Romagna
+PIA,McLaren,55.0,0 days 00:01:20.394000,HARD,33.0,2.0,4.0,80.394,2024,Emilia Romagna
+PIA,McLaren,56.0,0 days 00:01:20.440000,HARD,34.0,2.0,4.0,80.44,2024,Emilia Romagna
+PIA,McLaren,57.0,0 days 00:01:20.602000,HARD,35.0,2.0,4.0,80.602,2024,Emilia Romagna
+PIA,McLaren,58.0,0 days 00:01:20.698000,HARD,36.0,2.0,4.0,80.698,2024,Emilia Romagna
+PIA,McLaren,59.0,0 days 00:01:20.288000,HARD,37.0,2.0,4.0,80.288,2024,Emilia Romagna
+PIA,McLaren,60.0,0 days 00:01:20.649000,HARD,38.0,2.0,4.0,80.649,2024,Emilia Romagna
+PIA,McLaren,61.0,0 days 00:01:20.982000,HARD,39.0,2.0,4.0,80.982,2024,Emilia Romagna
+PIA,McLaren,62.0,0 days 00:01:20.599000,HARD,40.0,2.0,4.0,80.599,2024,Emilia Romagna
+PIA,McLaren,63.0,0 days 00:01:20.800000,HARD,41.0,2.0,4.0,80.8,2024,Emilia Romagna
+SAI,Ferrari,1.0,0 days 00:01:25.149000,MEDIUM,1.0,1.0,4.0,85.149,2024,Emilia Romagna
+SAI,Ferrari,2.0,0 days 00:01:21.102000,MEDIUM,2.0,1.0,4.0,81.102,2024,Emilia Romagna
+SAI,Ferrari,3.0,0 days 00:01:20.966000,MEDIUM,3.0,1.0,4.0,80.966,2024,Emilia Romagna
+SAI,Ferrari,4.0,0 days 00:01:21.341000,MEDIUM,4.0,1.0,4.0,81.341,2024,Emilia Romagna
+SAI,Ferrari,5.0,0 days 00:01:21.276000,MEDIUM,5.0,1.0,4.0,81.276,2024,Emilia Romagna
+SAI,Ferrari,6.0,0 days 00:01:21.160000,MEDIUM,6.0,1.0,4.0,81.16,2024,Emilia Romagna
+SAI,Ferrari,7.0,0 days 00:01:21.236000,MEDIUM,7.0,1.0,4.0,81.236,2024,Emilia Romagna
+SAI,Ferrari,8.0,0 days 00:01:21.431000,MEDIUM,8.0,1.0,4.0,81.431,2024,Emilia Romagna
+SAI,Ferrari,9.0,0 days 00:01:21.493000,MEDIUM,9.0,1.0,4.0,81.493,2024,Emilia Romagna
+SAI,Ferrari,10.0,0 days 00:01:21.586000,MEDIUM,10.0,1.0,4.0,81.586,2024,Emilia Romagna
+SAI,Ferrari,11.0,0 days 00:01:21.316000,MEDIUM,11.0,1.0,4.0,81.316,2024,Emilia Romagna
+SAI,Ferrari,12.0,0 days 00:01:21.900000,MEDIUM,12.0,1.0,4.0,81.9,2024,Emilia Romagna
+SAI,Ferrari,13.0,0 days 00:01:21.747000,MEDIUM,13.0,1.0,4.0,81.747,2024,Emilia Romagna
+SAI,Ferrari,14.0,0 days 00:01:21.638000,MEDIUM,14.0,1.0,4.0,81.638,2024,Emilia Romagna
+SAI,Ferrari,15.0,0 days 00:01:21.610000,MEDIUM,15.0,1.0,4.0,81.61,2024,Emilia Romagna
+SAI,Ferrari,16.0,0 days 00:01:21.671000,MEDIUM,16.0,1.0,4.0,81.671,2024,Emilia Romagna
+SAI,Ferrari,17.0,0 days 00:01:22.173000,MEDIUM,17.0,1.0,4.0,82.173,2024,Emilia Romagna
+SAI,Ferrari,18.0,0 days 00:01:21.738000,MEDIUM,18.0,1.0,4.0,81.738,2024,Emilia Romagna
+SAI,Ferrari,19.0,0 days 00:01:22.113000,MEDIUM,19.0,1.0,4.0,82.113,2024,Emilia Romagna
+SAI,Ferrari,20.0,0 days 00:01:22.025000,MEDIUM,20.0,1.0,4.0,82.025,2024,Emilia Romagna
+SAI,Ferrari,21.0,0 days 00:01:22.006000,MEDIUM,21.0,1.0,4.0,82.006,2024,Emilia Romagna
+SAI,Ferrari,22.0,0 days 00:01:21.926000,MEDIUM,22.0,1.0,4.0,81.926,2024,Emilia Romagna
+SAI,Ferrari,23.0,0 days 00:01:21.812000,MEDIUM,23.0,1.0,3.0,81.812,2024,Emilia Romagna
+SAI,Ferrari,24.0,0 days 00:01:21.773000,MEDIUM,24.0,1.0,3.0,81.773,2024,Emilia Romagna
+SAI,Ferrari,25.0,0 days 00:01:21.468000,MEDIUM,25.0,1.0,1.0,81.468,2024,Emilia Romagna
+SAI,Ferrari,26.0,0 days 00:01:21.588000,MEDIUM,26.0,1.0,1.0,81.588,2024,Emilia Romagna
+SAI,Ferrari,27.0,0 days 00:01:26.350000,MEDIUM,27.0,1.0,1.0,86.35,2024,Emilia Romagna
+SAI,Ferrari,28.0,0 days 00:01:44.128000,HARD,1.0,2.0,6.0,104.128,2024,Emilia Romagna
+SAI,Ferrari,29.0,0 days 00:01:21.597000,HARD,2.0,2.0,6.0,81.597,2024,Emilia Romagna
+SAI,Ferrari,30.0,0 days 00:01:20.648000,HARD,3.0,2.0,5.0,80.648,2024,Emilia Romagna
+SAI,Ferrari,31.0,0 days 00:01:20.652000,HARD,4.0,2.0,5.0,80.652,2024,Emilia Romagna
+SAI,Ferrari,32.0,0 days 00:01:20.636000,HARD,5.0,2.0,5.0,80.636,2024,Emilia Romagna
+SAI,Ferrari,33.0,0 days 00:01:20.724000,HARD,6.0,2.0,5.0,80.724,2024,Emilia Romagna
+SAI,Ferrari,34.0,0 days 00:01:20.848000,HARD,7.0,2.0,5.0,80.848,2024,Emilia Romagna
+SAI,Ferrari,35.0,0 days 00:01:20.705000,HARD,8.0,2.0,5.0,80.705,2024,Emilia Romagna
+SAI,Ferrari,36.0,0 days 00:01:20.849000,HARD,9.0,2.0,5.0,80.849,2024,Emilia Romagna
+SAI,Ferrari,37.0,0 days 00:01:20.466000,HARD,10.0,2.0,5.0,80.466,2024,Emilia Romagna
+SAI,Ferrari,38.0,0 days 00:01:20.496000,HARD,11.0,2.0,5.0,80.496,2024,Emilia Romagna
+SAI,Ferrari,39.0,0 days 00:01:20.531000,HARD,12.0,2.0,5.0,80.531,2024,Emilia Romagna
+SAI,Ferrari,40.0,0 days 00:01:20.519000,HARD,13.0,2.0,5.0,80.519,2024,Emilia Romagna
+SAI,Ferrari,41.0,0 days 00:01:20.615000,HARD,14.0,2.0,5.0,80.615,2024,Emilia Romagna
+SAI,Ferrari,42.0,0 days 00:01:20.667000,HARD,15.0,2.0,5.0,80.667,2024,Emilia Romagna
+SAI,Ferrari,43.0,0 days 00:01:20.701000,HARD,16.0,2.0,5.0,80.701,2024,Emilia Romagna
+SAI,Ferrari,44.0,0 days 00:01:21.066000,HARD,17.0,2.0,5.0,81.066,2024,Emilia Romagna
+SAI,Ferrari,45.0,0 days 00:01:21.256000,HARD,18.0,2.0,5.0,81.256,2024,Emilia Romagna
+SAI,Ferrari,46.0,0 days 00:01:21.064000,HARD,19.0,2.0,5.0,81.064,2024,Emilia Romagna
+SAI,Ferrari,47.0,0 days 00:01:22.064000,HARD,20.0,2.0,5.0,82.064,2024,Emilia Romagna
+SAI,Ferrari,48.0,0 days 00:01:20.999000,HARD,21.0,2.0,5.0,80.999,2024,Emilia Romagna
+SAI,Ferrari,49.0,0 days 00:01:20.737000,HARD,22.0,2.0,5.0,80.737,2024,Emilia Romagna
+SAI,Ferrari,50.0,0 days 00:01:20.988000,HARD,23.0,2.0,5.0,80.988,2024,Emilia Romagna
+SAI,Ferrari,51.0,0 days 00:01:21.748000,HARD,24.0,2.0,5.0,81.748,2024,Emilia Romagna
+SAI,Ferrari,52.0,0 days 00:01:21.601000,HARD,25.0,2.0,5.0,81.601,2024,Emilia Romagna
+SAI,Ferrari,53.0,0 days 00:01:21.238000,HARD,26.0,2.0,5.0,81.238,2024,Emilia Romagna
+SAI,Ferrari,54.0,0 days 00:01:20.827000,HARD,27.0,2.0,5.0,80.827,2024,Emilia Romagna
+SAI,Ferrari,55.0,0 days 00:01:20.803000,HARD,28.0,2.0,5.0,80.803,2024,Emilia Romagna
+SAI,Ferrari,56.0,0 days 00:01:20.959000,HARD,29.0,2.0,5.0,80.959,2024,Emilia Romagna
+SAI,Ferrari,57.0,0 days 00:01:20.759000,HARD,30.0,2.0,5.0,80.759,2024,Emilia Romagna
+SAI,Ferrari,58.0,0 days 00:01:20.792000,HARD,31.0,2.0,5.0,80.792,2024,Emilia Romagna
+SAI,Ferrari,59.0,0 days 00:01:20.740000,HARD,32.0,2.0,5.0,80.74,2024,Emilia Romagna
+SAI,Ferrari,60.0,0 days 00:01:20.992000,HARD,33.0,2.0,5.0,80.992,2024,Emilia Romagna
+SAI,Ferrari,61.0,0 days 00:01:21.378000,HARD,34.0,2.0,5.0,81.378,2024,Emilia Romagna
+SAI,Ferrari,62.0,0 days 00:01:20.970000,HARD,35.0,2.0,5.0,80.97,2024,Emilia Romagna
+SAI,Ferrari,63.0,0 days 00:01:20.220000,HARD,36.0,2.0,5.0,80.22,2024,Emilia Romagna
+HAM,Mercedes,1.0,0 days 00:01:27.111000,MEDIUM,1.0,1.0,7.0,87.111,2024,Emilia Romagna
+HAM,Mercedes,2.0,0 days 00:01:21.841000,MEDIUM,2.0,1.0,7.0,81.841,2024,Emilia Romagna
+HAM,Mercedes,3.0,0 days 00:01:21.222000,MEDIUM,3.0,1.0,7.0,81.222,2024,Emilia Romagna
+HAM,Mercedes,4.0,0 days 00:01:21.715000,MEDIUM,4.0,1.0,7.0,81.715,2024,Emilia Romagna
+HAM,Mercedes,5.0,0 days 00:01:21.544000,MEDIUM,5.0,1.0,7.0,81.544,2024,Emilia Romagna
+HAM,Mercedes,6.0,0 days 00:01:21.569000,MEDIUM,6.0,1.0,7.0,81.569,2024,Emilia Romagna
+HAM,Mercedes,7.0,0 days 00:01:21.446000,MEDIUM,7.0,1.0,7.0,81.446,2024,Emilia Romagna
+HAM,Mercedes,8.0,0 days 00:01:21.593000,MEDIUM,8.0,1.0,7.0,81.593,2024,Emilia Romagna
+HAM,Mercedes,9.0,0 days 00:01:21.510000,MEDIUM,9.0,1.0,7.0,81.51,2024,Emilia Romagna
+HAM,Mercedes,10.0,0 days 00:01:21.544000,MEDIUM,10.0,1.0,7.0,81.544,2024,Emilia Romagna
+HAM,Mercedes,11.0,0 days 00:01:21.472000,MEDIUM,11.0,1.0,7.0,81.472,2024,Emilia Romagna
+HAM,Mercedes,12.0,0 days 00:01:21.756000,MEDIUM,12.0,1.0,7.0,81.756,2024,Emilia Romagna
+HAM,Mercedes,13.0,0 days 00:01:21.767000,MEDIUM,13.0,1.0,7.0,81.767,2024,Emilia Romagna
+HAM,Mercedes,14.0,0 days 00:01:22.080000,MEDIUM,14.0,1.0,7.0,82.08,2024,Emilia Romagna
+HAM,Mercedes,15.0,0 days 00:01:21.729000,MEDIUM,15.0,1.0,7.0,81.729,2024,Emilia Romagna
+HAM,Mercedes,16.0,0 days 00:01:22.199000,MEDIUM,16.0,1.0,7.0,82.199,2024,Emilia Romagna
+HAM,Mercedes,17.0,0 days 00:01:21.846000,MEDIUM,17.0,1.0,7.0,81.846,2024,Emilia Romagna
+HAM,Mercedes,18.0,0 days 00:01:22.020000,MEDIUM,18.0,1.0,7.0,82.02,2024,Emilia Romagna
+HAM,Mercedes,19.0,0 days 00:01:21.974000,MEDIUM,19.0,1.0,7.0,81.974,2024,Emilia Romagna
+HAM,Mercedes,20.0,0 days 00:01:22.222000,MEDIUM,20.0,1.0,7.0,82.222,2024,Emilia Romagna
+HAM,Mercedes,21.0,0 days 00:01:22.275000,MEDIUM,21.0,1.0,6.0,82.275,2024,Emilia Romagna
+HAM,Mercedes,22.0,0 days 00:01:21.846000,MEDIUM,22.0,1.0,6.0,81.846,2024,Emilia Romagna
+HAM,Mercedes,23.0,0 days 00:01:21.561000,MEDIUM,23.0,1.0,5.0,81.561,2024,Emilia Romagna
+HAM,Mercedes,24.0,0 days 00:01:22.345000,MEDIUM,24.0,1.0,4.0,82.345,2024,Emilia Romagna
+HAM,Mercedes,25.0,0 days 00:01:21.492000,MEDIUM,25.0,1.0,3.0,81.492,2024,Emilia Romagna
+HAM,Mercedes,26.0,0 days 00:01:26.346000,MEDIUM,26.0,1.0,2.0,86.346,2024,Emilia Romagna
+HAM,Mercedes,27.0,0 days 00:01:26.215000,MEDIUM,27.0,1.0,3.0,86.215,2024,Emilia Romagna
+HAM,Mercedes,28.0,0 days 00:01:43.406000,HARD,1.0,2.0,9.0,103.406,2024,Emilia Romagna
+HAM,Mercedes,29.0,0 days 00:01:20.593000,HARD,2.0,2.0,9.0,80.593,2024,Emilia Romagna
+HAM,Mercedes,30.0,0 days 00:01:20.586000,HARD,3.0,2.0,9.0,80.586,2024,Emilia Romagna
+HAM,Mercedes,31.0,0 days 00:01:21.737000,HARD,4.0,2.0,8.0,81.737,2024,Emilia Romagna
+HAM,Mercedes,32.0,0 days 00:01:21.160000,HARD,5.0,2.0,8.0,81.16,2024,Emilia Romagna
+HAM,Mercedes,33.0,0 days 00:01:20.942000,HARD,6.0,2.0,8.0,80.942,2024,Emilia Romagna
+HAM,Mercedes,34.0,0 days 00:01:20.964000,HARD,7.0,2.0,8.0,80.964,2024,Emilia Romagna
+HAM,Mercedes,35.0,0 days 00:01:22.165000,HARD,8.0,2.0,8.0,82.165,2024,Emilia Romagna
+HAM,Mercedes,36.0,0 days 00:01:23.058000,HARD,9.0,2.0,8.0,83.058,2024,Emilia Romagna
+HAM,Mercedes,37.0,0 days 00:01:20.748000,HARD,10.0,2.0,7.0,80.748,2024,Emilia Romagna
+HAM,Mercedes,38.0,0 days 00:01:20.546000,HARD,11.0,2.0,7.0,80.546,2024,Emilia Romagna
+HAM,Mercedes,39.0,0 days 00:01:20.677000,HARD,12.0,2.0,7.0,80.677,2024,Emilia Romagna
+HAM,Mercedes,40.0,0 days 00:01:20.837000,HARD,13.0,2.0,7.0,80.837,2024,Emilia Romagna
+HAM,Mercedes,41.0,0 days 00:01:20.639000,HARD,14.0,2.0,7.0,80.639,2024,Emilia Romagna
+HAM,Mercedes,42.0,0 days 00:01:20.434000,HARD,15.0,2.0,7.0,80.434,2024,Emilia Romagna
+HAM,Mercedes,43.0,0 days 00:01:20.331000,HARD,16.0,2.0,7.0,80.331,2024,Emilia Romagna
+HAM,Mercedes,44.0,0 days 00:01:20.843000,HARD,17.0,2.0,7.0,80.843,2024,Emilia Romagna
+HAM,Mercedes,45.0,0 days 00:01:20.581000,HARD,18.0,2.0,7.0,80.581,2024,Emilia Romagna
+HAM,Mercedes,46.0,0 days 00:01:20.944000,HARD,19.0,2.0,7.0,80.944,2024,Emilia Romagna
+HAM,Mercedes,47.0,0 days 00:01:21.069000,HARD,20.0,2.0,7.0,81.069,2024,Emilia Romagna
+HAM,Mercedes,48.0,0 days 00:01:20.921000,HARD,21.0,2.0,7.0,80.921,2024,Emilia Romagna
+HAM,Mercedes,49.0,0 days 00:01:21.182000,HARD,22.0,2.0,7.0,81.182,2024,Emilia Romagna
+HAM,Mercedes,50.0,0 days 00:01:20.698000,HARD,23.0,2.0,7.0,80.698,2024,Emilia Romagna
+HAM,Mercedes,51.0,0 days 00:01:20.776000,HARD,24.0,2.0,7.0,80.776,2024,Emilia Romagna
+HAM,Mercedes,52.0,0 days 00:01:21.176000,HARD,25.0,2.0,6.0,81.176,2024,Emilia Romagna
+HAM,Mercedes,53.0,0 days 00:01:21.415000,HARD,26.0,2.0,6.0,81.415,2024,Emilia Romagna
+HAM,Mercedes,54.0,0 days 00:01:20.841000,HARD,27.0,2.0,6.0,80.841,2024,Emilia Romagna
+HAM,Mercedes,55.0,0 days 00:01:21.027000,HARD,28.0,2.0,6.0,81.027,2024,Emilia Romagna
+HAM,Mercedes,56.0,0 days 00:01:21.297000,HARD,29.0,2.0,6.0,81.297,2024,Emilia Romagna
+HAM,Mercedes,57.0,0 days 00:01:21.664000,HARD,30.0,2.0,6.0,81.664,2024,Emilia Romagna
+HAM,Mercedes,58.0,0 days 00:01:21.561000,HARD,31.0,2.0,6.0,81.561,2024,Emilia Romagna
+HAM,Mercedes,59.0,0 days 00:01:20.649000,HARD,32.0,2.0,6.0,80.649,2024,Emilia Romagna
+HAM,Mercedes,60.0,0 days 00:01:20.629000,HARD,33.0,2.0,6.0,80.629,2024,Emilia Romagna
+HAM,Mercedes,61.0,0 days 00:01:20.726000,HARD,34.0,2.0,6.0,80.726,2024,Emilia Romagna
+HAM,Mercedes,62.0,0 days 00:01:20.645000,HARD,35.0,2.0,6.0,80.645,2024,Emilia Romagna
+HAM,Mercedes,63.0,0 days 00:01:20.649000,HARD,36.0,2.0,6.0,80.649,2024,Emilia Romagna
+RUS,Mercedes,1.0,0 days 00:01:26.498000,MEDIUM,1.0,1.0,6.0,86.498,2024,Emilia Romagna
+RUS,Mercedes,2.0,0 days 00:01:21.562000,MEDIUM,2.0,1.0,6.0,81.562,2024,Emilia Romagna
+RUS,Mercedes,3.0,0 days 00:01:21.135000,MEDIUM,3.0,1.0,6.0,81.135,2024,Emilia Romagna
+RUS,Mercedes,4.0,0 days 00:01:21.628000,MEDIUM,4.0,1.0,6.0,81.628,2024,Emilia Romagna
+RUS,Mercedes,5.0,0 days 00:01:21.475000,MEDIUM,5.0,1.0,6.0,81.475,2024,Emilia Romagna
+RUS,Mercedes,6.0,0 days 00:01:21.492000,MEDIUM,6.0,1.0,6.0,81.492,2024,Emilia Romagna
+RUS,Mercedes,7.0,0 days 00:01:21.267000,MEDIUM,7.0,1.0,6.0,81.267,2024,Emilia Romagna
+RUS,Mercedes,8.0,0 days 00:01:21.375000,MEDIUM,8.0,1.0,6.0,81.375,2024,Emilia Romagna
+RUS,Mercedes,9.0,0 days 00:01:21.591000,MEDIUM,9.0,1.0,6.0,81.591,2024,Emilia Romagna
+RUS,Mercedes,10.0,0 days 00:01:21.596000,MEDIUM,10.0,1.0,6.0,81.596,2024,Emilia Romagna
+RUS,Mercedes,11.0,0 days 00:01:21.466000,MEDIUM,11.0,1.0,6.0,81.466,2024,Emilia Romagna
+RUS,Mercedes,12.0,0 days 00:01:21.820000,MEDIUM,12.0,1.0,6.0,81.82,2024,Emilia Romagna
+RUS,Mercedes,13.0,0 days 00:01:21.867000,MEDIUM,13.0,1.0,6.0,81.867,2024,Emilia Romagna
+RUS,Mercedes,14.0,0 days 00:01:21.818000,MEDIUM,14.0,1.0,6.0,81.818,2024,Emilia Romagna
+RUS,Mercedes,15.0,0 days 00:01:21.844000,MEDIUM,15.0,1.0,6.0,81.844,2024,Emilia Romagna
+RUS,Mercedes,16.0,0 days 00:01:21.767000,MEDIUM,16.0,1.0,6.0,81.767,2024,Emilia Romagna
+RUS,Mercedes,17.0,0 days 00:01:21.991000,MEDIUM,17.0,1.0,6.0,81.991,2024,Emilia Romagna
+RUS,Mercedes,18.0,0 days 00:01:22.208000,MEDIUM,18.0,1.0,6.0,82.208,2024,Emilia Romagna
+RUS,Mercedes,19.0,0 days 00:01:22.030000,MEDIUM,19.0,1.0,6.0,82.03,2024,Emilia Romagna
+RUS,Mercedes,20.0,0 days 00:01:22.215000,MEDIUM,20.0,1.0,6.0,82.215,2024,Emilia Romagna
+RUS,Mercedes,21.0,0 days 00:01:26.880000,MEDIUM,21.0,1.0,7.0,86.88,2024,Emilia Romagna
+RUS,Mercedes,22.0,0 days 00:01:44.938000,HARD,1.0,2.0,10.0,104.938,2024,Emilia Romagna
+RUS,Mercedes,23.0,0 days 00:01:20.669000,HARD,2.0,2.0,9.0,80.669,2024,Emilia Romagna
+RUS,Mercedes,24.0,0 days 00:01:20.975000,HARD,3.0,2.0,9.0,80.975,2024,Emilia Romagna
+RUS,Mercedes,25.0,0 days 00:01:20.951000,HARD,4.0,2.0,9.0,80.951,2024,Emilia Romagna
+RUS,Mercedes,26.0,0 days 00:01:21.655000,HARD,5.0,2.0,9.0,81.655,2024,Emilia Romagna
+RUS,Mercedes,27.0,0 days 00:01:20.736000,HARD,6.0,2.0,8.0,80.736,2024,Emilia Romagna
+RUS,Mercedes,28.0,0 days 00:01:21.628000,HARD,7.0,2.0,7.0,81.628,2024,Emilia Romagna
+RUS,Mercedes,29.0,0 days 00:01:21.444000,HARD,8.0,2.0,7.0,81.444,2024,Emilia Romagna
+RUS,Mercedes,30.0,0 days 00:01:22.098000,HARD,9.0,2.0,7.0,82.098,2024,Emilia Romagna
+RUS,Mercedes,31.0,0 days 00:01:21.517000,HARD,10.0,2.0,6.0,81.517,2024,Emilia Romagna
+RUS,Mercedes,32.0,0 days 00:01:21.116000,HARD,11.0,2.0,6.0,81.116,2024,Emilia Romagna
+RUS,Mercedes,33.0,0 days 00:01:20.934000,HARD,12.0,2.0,6.0,80.934,2024,Emilia Romagna
+RUS,Mercedes,34.0,0 days 00:01:21.139000,HARD,13.0,2.0,6.0,81.139,2024,Emilia Romagna
+RUS,Mercedes,35.0,0 days 00:01:21.209000,HARD,14.0,2.0,6.0,81.209,2024,Emilia Romagna
+RUS,Mercedes,36.0,0 days 00:01:20.902000,HARD,15.0,2.0,6.0,80.902,2024,Emilia Romagna
+RUS,Mercedes,37.0,0 days 00:01:20.856000,HARD,16.0,2.0,6.0,80.856,2024,Emilia Romagna
+RUS,Mercedes,38.0,0 days 00:01:20.690000,HARD,17.0,2.0,6.0,80.69,2024,Emilia Romagna
+RUS,Mercedes,39.0,0 days 00:01:20.924000,HARD,18.0,2.0,6.0,80.924,2024,Emilia Romagna
+RUS,Mercedes,40.0,0 days 00:01:21.156000,HARD,19.0,2.0,6.0,81.156,2024,Emilia Romagna
+RUS,Mercedes,41.0,0 days 00:01:21.109000,HARD,20.0,2.0,6.0,81.109,2024,Emilia Romagna
+RUS,Mercedes,42.0,0 days 00:01:21.077000,HARD,21.0,2.0,6.0,81.077,2024,Emilia Romagna
+RUS,Mercedes,43.0,0 days 00:01:20.801000,HARD,22.0,2.0,6.0,80.801,2024,Emilia Romagna
+RUS,Mercedes,44.0,0 days 00:01:21.164000,HARD,23.0,2.0,6.0,81.164,2024,Emilia Romagna
+RUS,Mercedes,45.0,0 days 00:01:20.928000,HARD,24.0,2.0,6.0,80.928,2024,Emilia Romagna
+RUS,Mercedes,46.0,0 days 00:01:21.227000,HARD,25.0,2.0,6.0,81.227,2024,Emilia Romagna
+RUS,Mercedes,47.0,0 days 00:01:21.423000,HARD,26.0,2.0,6.0,81.423,2024,Emilia Romagna
+RUS,Mercedes,48.0,0 days 00:01:21.391000,HARD,27.0,2.0,6.0,81.391,2024,Emilia Romagna
+RUS,Mercedes,49.0,0 days 00:01:21.158000,HARD,28.0,2.0,6.0,81.158,2024,Emilia Romagna
+RUS,Mercedes,50.0,0 days 00:01:21.491000,HARD,29.0,2.0,6.0,81.491,2024,Emilia Romagna
+RUS,Mercedes,51.0,0 days 00:01:21.145000,HARD,30.0,2.0,6.0,81.145,2024,Emilia Romagna
+RUS,Mercedes,52.0,0 days 00:01:26.242000,HARD,31.0,2.0,7.0,86.242,2024,Emilia Romagna
+RUS,Mercedes,53.0,0 days 00:01:42.845000,MEDIUM,3.0,3.0,7.0,102.845,2024,Emilia Romagna
+RUS,Mercedes,54.0,0 days 00:01:18.589000,MEDIUM,4.0,3.0,7.0,78.589,2024,Emilia Romagna
+RUS,Mercedes,55.0,0 days 00:01:19.778000,MEDIUM,5.0,3.0,7.0,79.778,2024,Emilia Romagna
+RUS,Mercedes,56.0,0 days 00:01:19.571000,MEDIUM,6.0,3.0,7.0,79.571,2024,Emilia Romagna
+RUS,Mercedes,57.0,0 days 00:01:19.457000,MEDIUM,7.0,3.0,7.0,79.457,2024,Emilia Romagna
+RUS,Mercedes,58.0,0 days 00:01:19.616000,MEDIUM,8.0,3.0,7.0,79.616,2024,Emilia Romagna
+RUS,Mercedes,59.0,0 days 00:01:19.881000,MEDIUM,9.0,3.0,7.0,79.881,2024,Emilia Romagna
+RUS,Mercedes,60.0,0 days 00:01:20.093000,MEDIUM,10.0,3.0,7.0,80.093,2024,Emilia Romagna
+RUS,Mercedes,61.0,0 days 00:01:20.703000,MEDIUM,11.0,3.0,7.0,80.703,2024,Emilia Romagna
+RUS,Mercedes,62.0,0 days 00:01:21.563000,MEDIUM,12.0,3.0,7.0,81.563,2024,Emilia Romagna
+RUS,Mercedes,63.0,0 days 00:01:20.092000,MEDIUM,13.0,3.0,7.0,80.092,2024,Emilia Romagna
+PER,Red Bull Racing,1.0,0 days 00:01:28.775000,HARD,1.0,1.0,10.0,88.775,2024,Emilia Romagna
+PER,Red Bull Racing,2.0,0 days 00:01:22.599000,HARD,2.0,1.0,10.0,82.599,2024,Emilia Romagna
+PER,Red Bull Racing,3.0,0 days 00:01:21.913000,HARD,3.0,1.0,10.0,81.913,2024,Emilia Romagna
+PER,Red Bull Racing,4.0,0 days 00:01:22.182000,HARD,4.0,1.0,10.0,82.182,2024,Emilia Romagna
+PER,Red Bull Racing,5.0,0 days 00:01:22.153000,HARD,5.0,1.0,10.0,82.153,2024,Emilia Romagna
+PER,Red Bull Racing,6.0,0 days 00:01:22.200000,HARD,6.0,1.0,10.0,82.2,2024,Emilia Romagna
+PER,Red Bull Racing,7.0,0 days 00:01:22.641000,HARD,7.0,1.0,10.0,82.641,2024,Emilia Romagna
+PER,Red Bull Racing,8.0,0 days 00:01:22.338000,HARD,8.0,1.0,10.0,82.338,2024,Emilia Romagna
+PER,Red Bull Racing,9.0,0 days 00:01:22.591000,HARD,9.0,1.0,10.0,82.591,2024,Emilia Romagna
+PER,Red Bull Racing,10.0,0 days 00:01:22.545000,HARD,10.0,1.0,10.0,82.545,2024,Emilia Romagna
+PER,Red Bull Racing,11.0,0 days 00:01:22.128000,HARD,11.0,1.0,10.0,82.128,2024,Emilia Romagna
+PER,Red Bull Racing,12.0,0 days 00:01:22.447000,HARD,12.0,1.0,9.0,82.447,2024,Emilia Romagna
+PER,Red Bull Racing,13.0,0 days 00:01:22.359000,HARD,13.0,1.0,8.0,82.359,2024,Emilia Romagna
+PER,Red Bull Racing,14.0,0 days 00:01:21.828000,HARD,14.0,1.0,8.0,81.828,2024,Emilia Romagna
+PER,Red Bull Racing,15.0,0 days 00:01:21.682000,HARD,15.0,1.0,8.0,81.682,2024,Emilia Romagna
+PER,Red Bull Racing,16.0,0 days 00:01:21.837000,HARD,16.0,1.0,8.0,81.837,2024,Emilia Romagna
+PER,Red Bull Racing,17.0,0 days 00:01:26.800000,HARD,17.0,1.0,8.0,86.8,2024,Emilia Romagna
+PER,Red Bull Racing,18.0,0 days 00:01:22.435000,HARD,18.0,1.0,8.0,82.435,2024,Emilia Romagna
+PER,Red Bull Racing,19.0,0 days 00:01:21.854000,HARD,19.0,1.0,8.0,81.854,2024,Emilia Romagna
+PER,Red Bull Racing,20.0,0 days 00:01:22.268000,HARD,20.0,1.0,8.0,82.268,2024,Emilia Romagna
+PER,Red Bull Racing,21.0,0 days 00:01:21.940000,HARD,21.0,1.0,8.0,81.94,2024,Emilia Romagna
+PER,Red Bull Racing,22.0,0 days 00:01:21.871000,HARD,22.0,1.0,7.0,81.871,2024,Emilia Romagna
+PER,Red Bull Racing,23.0,0 days 00:01:21.970000,HARD,23.0,1.0,6.0,81.97,2024,Emilia Romagna
+PER,Red Bull Racing,24.0,0 days 00:01:22.684000,HARD,24.0,1.0,6.0,82.684,2024,Emilia Romagna
+PER,Red Bull Racing,25.0,0 days 00:01:22.228000,HARD,25.0,1.0,6.0,82.228,2024,Emilia Romagna
+PER,Red Bull Racing,26.0,0 days 00:01:22.376000,HARD,26.0,1.0,5.0,82.376,2024,Emilia Romagna
+PER,Red Bull Racing,27.0,0 days 00:01:23.773000,HARD,27.0,1.0,7.0,83.773,2024,Emilia Romagna
+PER,Red Bull Racing,28.0,0 days 00:01:22.231000,HARD,28.0,1.0,5.0,82.231,2024,Emilia Romagna
+PER,Red Bull Racing,29.0,0 days 00:01:22.347000,HARD,29.0,1.0,5.0,82.347,2024,Emilia Romagna
+PER,Red Bull Racing,30.0,0 days 00:01:23.263000,HARD,30.0,1.0,6.0,83.263,2024,Emilia Romagna
+PER,Red Bull Racing,31.0,0 days 00:01:23.694000,HARD,31.0,1.0,7.0,83.694,2024,Emilia Romagna
+PER,Red Bull Racing,32.0,0 days 00:01:22.259000,HARD,32.0,1.0,7.0,82.259,2024,Emilia Romagna
+PER,Red Bull Racing,33.0,0 days 00:01:22.212000,HARD,33.0,1.0,7.0,82.212,2024,Emilia Romagna
+PER,Red Bull Racing,34.0,0 days 00:01:22.465000,HARD,34.0,1.0,7.0,82.465,2024,Emilia Romagna
+PER,Red Bull Racing,35.0,0 days 00:01:22.415000,HARD,35.0,1.0,7.0,82.415,2024,Emilia Romagna
+PER,Red Bull Racing,36.0,0 days 00:01:23.111000,HARD,36.0,1.0,7.0,83.111,2024,Emilia Romagna
+PER,Red Bull Racing,37.0,0 days 00:01:28.056000,HARD,37.0,1.0,8.0,88.056,2024,Emilia Romagna
+PER,Red Bull Racing,38.0,0 days 00:01:43.314000,MEDIUM,1.0,2.0,11.0,103.314,2024,Emilia Romagna
+PER,Red Bull Racing,39.0,0 days 00:01:20.731000,MEDIUM,2.0,2.0,10.0,80.731,2024,Emilia Romagna
+PER,Red Bull Racing,40.0,0 days 00:01:20.314000,MEDIUM,3.0,2.0,9.0,80.314,2024,Emilia Romagna
+PER,Red Bull Racing,41.0,0 days 00:01:21.975000,MEDIUM,4.0,2.0,9.0,81.975,2024,Emilia Romagna
+PER,Red Bull Racing,42.0,0 days 00:01:19.919000,MEDIUM,5.0,2.0,8.0,79.919,2024,Emilia Romagna
+PER,Red Bull Racing,43.0,0 days 00:01:20.220000,MEDIUM,6.0,2.0,8.0,80.22,2024,Emilia Romagna
+PER,Red Bull Racing,44.0,0 days 00:01:20.504000,MEDIUM,7.0,2.0,8.0,80.504,2024,Emilia Romagna
+PER,Red Bull Racing,45.0,0 days 00:01:20.495000,MEDIUM,8.0,2.0,8.0,80.495,2024,Emilia Romagna
+PER,Red Bull Racing,46.0,0 days 00:01:20.872000,MEDIUM,9.0,2.0,8.0,80.872,2024,Emilia Romagna
+PER,Red Bull Racing,47.0,0 days 00:01:20.514000,MEDIUM,10.0,2.0,8.0,80.514,2024,Emilia Romagna
+PER,Red Bull Racing,48.0,0 days 00:01:20.205000,MEDIUM,11.0,2.0,8.0,80.205,2024,Emilia Romagna
+PER,Red Bull Racing,49.0,0 days 00:01:19.946000,MEDIUM,12.0,2.0,8.0,79.946,2024,Emilia Romagna
+PER,Red Bull Racing,50.0,0 days 00:01:19.985000,MEDIUM,13.0,2.0,8.0,79.985,2024,Emilia Romagna
+PER,Red Bull Racing,51.0,0 days 00:01:21.032000,MEDIUM,14.0,2.0,8.0,81.032,2024,Emilia Romagna
+PER,Red Bull Racing,52.0,0 days 00:01:19.686000,MEDIUM,15.0,2.0,8.0,79.686,2024,Emilia Romagna
+PER,Red Bull Racing,53.0,0 days 00:01:21.144000,MEDIUM,16.0,2.0,8.0,81.144,2024,Emilia Romagna
+PER,Red Bull Racing,54.0,0 days 00:01:20.334000,MEDIUM,17.0,2.0,8.0,80.334,2024,Emilia Romagna
+PER,Red Bull Racing,55.0,0 days 00:01:20.520000,MEDIUM,18.0,2.0,8.0,80.52,2024,Emilia Romagna
+PER,Red Bull Racing,56.0,0 days 00:01:20.290000,MEDIUM,19.0,2.0,8.0,80.29,2024,Emilia Romagna
+PER,Red Bull Racing,57.0,0 days 00:01:20.228000,MEDIUM,20.0,2.0,8.0,80.228,2024,Emilia Romagna
+PER,Red Bull Racing,58.0,0 days 00:01:20.285000,MEDIUM,21.0,2.0,8.0,80.285,2024,Emilia Romagna
+PER,Red Bull Racing,59.0,0 days 00:01:20.093000,MEDIUM,22.0,2.0,8.0,80.093,2024,Emilia Romagna
+PER,Red Bull Racing,60.0,0 days 00:01:20.408000,MEDIUM,23.0,2.0,8.0,80.408,2024,Emilia Romagna
+PER,Red Bull Racing,61.0,0 days 00:01:20.833000,MEDIUM,24.0,2.0,8.0,80.833,2024,Emilia Romagna
+PER,Red Bull Racing,62.0,0 days 00:01:20.767000,MEDIUM,25.0,2.0,8.0,80.767,2024,Emilia Romagna
+PER,Red Bull Racing,63.0,0 days 00:01:20.944000,MEDIUM,26.0,2.0,8.0,80.944,2024,Emilia Romagna
+STR,Aston Martin,1.0,0 days 00:01:30.475000,MEDIUM,2.0,1.0,13.0,90.475,2024,Emilia Romagna
+STR,Aston Martin,2.0,0 days 00:01:23.115000,MEDIUM,3.0,1.0,13.0,83.115,2024,Emilia Romagna
+STR,Aston Martin,3.0,0 days 00:01:22.356000,MEDIUM,4.0,1.0,13.0,82.356,2024,Emilia Romagna
+STR,Aston Martin,4.0,0 days 00:01:22.349000,MEDIUM,5.0,1.0,13.0,82.349,2024,Emilia Romagna
+STR,Aston Martin,5.0,0 days 00:01:22.252000,MEDIUM,6.0,1.0,13.0,82.252,2024,Emilia Romagna
+STR,Aston Martin,6.0,0 days 00:01:22.339000,MEDIUM,7.0,1.0,13.0,82.339,2024,Emilia Romagna
+STR,Aston Martin,7.0,0 days 00:01:22.535000,MEDIUM,8.0,1.0,13.0,82.535,2024,Emilia Romagna
+STR,Aston Martin,8.0,0 days 00:01:22.392000,MEDIUM,9.0,1.0,13.0,82.392,2024,Emilia Romagna
+STR,Aston Martin,9.0,0 days 00:01:22.569000,MEDIUM,10.0,1.0,13.0,82.569,2024,Emilia Romagna
+STR,Aston Martin,10.0,0 days 00:01:22.233000,MEDIUM,11.0,1.0,12.0,82.233,2024,Emilia Romagna
+STR,Aston Martin,11.0,0 days 00:01:22.367000,MEDIUM,12.0,1.0,11.0,82.367,2024,Emilia Romagna
+STR,Aston Martin,12.0,0 days 00:01:22.415000,MEDIUM,13.0,1.0,10.0,82.415,2024,Emilia Romagna
+STR,Aston Martin,13.0,0 days 00:01:22.577000,MEDIUM,14.0,1.0,10.0,82.577,2024,Emilia Romagna
+STR,Aston Martin,14.0,0 days 00:01:22.459000,MEDIUM,15.0,1.0,9.0,82.459,2024,Emilia Romagna
+STR,Aston Martin,15.0,0 days 00:01:22.342000,MEDIUM,16.0,1.0,9.0,82.342,2024,Emilia Romagna
+STR,Aston Martin,16.0,0 days 00:01:22.371000,MEDIUM,17.0,1.0,9.0,82.371,2024,Emilia Romagna
+STR,Aston Martin,17.0,0 days 00:01:22.794000,MEDIUM,18.0,1.0,9.0,82.794,2024,Emilia Romagna
+STR,Aston Martin,18.0,0 days 00:01:23.047000,MEDIUM,19.0,1.0,9.0,83.047,2024,Emilia Romagna
+STR,Aston Martin,19.0,0 days 00:01:22.771000,MEDIUM,20.0,1.0,9.0,82.771,2024,Emilia Romagna
+STR,Aston Martin,20.0,0 days 00:01:22.616000,MEDIUM,21.0,1.0,9.0,82.616,2024,Emilia Romagna
+STR,Aston Martin,21.0,0 days 00:01:22.582000,MEDIUM,22.0,1.0,9.0,82.582,2024,Emilia Romagna
+STR,Aston Martin,22.0,0 days 00:01:22.697000,MEDIUM,23.0,1.0,8.0,82.697,2024,Emilia Romagna
+STR,Aston Martin,23.0,0 days 00:01:22.544000,MEDIUM,24.0,1.0,8.0,82.544,2024,Emilia Romagna
+STR,Aston Martin,24.0,0 days 00:01:22.592000,MEDIUM,25.0,1.0,7.0,82.592,2024,Emilia Romagna
+STR,Aston Martin,25.0,0 days 00:01:23.011000,MEDIUM,26.0,1.0,8.0,83.011,2024,Emilia Romagna
+STR,Aston Martin,26.0,0 days 00:01:22.532000,MEDIUM,27.0,1.0,8.0,82.532,2024,Emilia Romagna
+STR,Aston Martin,27.0,0 days 00:01:23.433000,MEDIUM,28.0,1.0,9.0,83.433,2024,Emilia Romagna
+STR,Aston Martin,28.0,0 days 00:01:22.811000,MEDIUM,29.0,1.0,8.0,82.811,2024,Emilia Romagna
+STR,Aston Martin,29.0,0 days 00:01:22.631000,MEDIUM,30.0,1.0,8.0,82.631,2024,Emilia Romagna
+STR,Aston Martin,30.0,0 days 00:01:22.649000,MEDIUM,31.0,1.0,8.0,82.649,2024,Emilia Romagna
+STR,Aston Martin,31.0,0 days 00:01:23.921000,MEDIUM,32.0,1.0,9.0,83.921,2024,Emilia Romagna
+STR,Aston Martin,32.0,0 days 00:01:22.954000,MEDIUM,33.0,1.0,9.0,82.954,2024,Emilia Romagna
+STR,Aston Martin,33.0,0 days 00:01:22.648000,MEDIUM,34.0,1.0,9.0,82.648,2024,Emilia Romagna
+STR,Aston Martin,34.0,0 days 00:01:22.802000,MEDIUM,35.0,1.0,9.0,82.802,2024,Emilia Romagna
+STR,Aston Martin,35.0,0 days 00:01:22.536000,MEDIUM,36.0,1.0,9.0,82.536,2024,Emilia Romagna
+STR,Aston Martin,36.0,0 days 00:01:22.550000,MEDIUM,37.0,1.0,9.0,82.55,2024,Emilia Romagna
+STR,Aston Martin,37.0,0 days 00:01:26.977000,MEDIUM,38.0,1.0,9.0,86.977,2024,Emilia Romagna
+STR,Aston Martin,38.0,0 days 00:01:43.750000,HARD,2.0,2.0,13.0,103.75,2024,Emilia Romagna
+STR,Aston Martin,39.0,0 days 00:01:21.973000,HARD,3.0,2.0,13.0,81.973,2024,Emilia Romagna
+STR,Aston Martin,40.0,0 days 00:01:20.588000,HARD,4.0,2.0,12.0,80.588,2024,Emilia Romagna
+STR,Aston Martin,41.0,0 days 00:01:21.122000,HARD,5.0,2.0,12.0,81.122,2024,Emilia Romagna
+STR,Aston Martin,42.0,0 days 00:01:20.807000,HARD,6.0,2.0,12.0,80.807,2024,Emilia Romagna
+STR,Aston Martin,43.0,0 days 00:01:20.598000,HARD,7.0,2.0,11.0,80.598,2024,Emilia Romagna
+STR,Aston Martin,44.0,0 days 00:01:22.103000,HARD,8.0,2.0,11.0,82.103,2024,Emilia Romagna
+STR,Aston Martin,45.0,0 days 00:01:22.433000,HARD,9.0,2.0,11.0,82.433,2024,Emilia Romagna
+STR,Aston Martin,46.0,0 days 00:01:20.978000,HARD,10.0,2.0,10.0,80.978,2024,Emilia Romagna
+STR,Aston Martin,47.0,0 days 00:01:21.290000,HARD,11.0,2.0,10.0,81.29,2024,Emilia Romagna
+STR,Aston Martin,48.0,0 days 00:01:20.964000,HARD,12.0,2.0,10.0,80.964,2024,Emilia Romagna
+STR,Aston Martin,49.0,0 days 00:01:21.355000,HARD,13.0,2.0,10.0,81.355,2024,Emilia Romagna
+STR,Aston Martin,50.0,0 days 00:01:20.731000,HARD,14.0,2.0,9.0,80.731,2024,Emilia Romagna
+STR,Aston Martin,51.0,0 days 00:01:21.074000,HARD,15.0,2.0,9.0,81.074,2024,Emilia Romagna
+STR,Aston Martin,52.0,0 days 00:01:20.682000,HARD,16.0,2.0,9.0,80.682,2024,Emilia Romagna
+STR,Aston Martin,53.0,0 days 00:01:20.783000,HARD,17.0,2.0,9.0,80.783,2024,Emilia Romagna
+STR,Aston Martin,54.0,0 days 00:01:20.896000,HARD,18.0,2.0,9.0,80.896,2024,Emilia Romagna
+STR,Aston Martin,55.0,0 days 00:01:20.718000,HARD,19.0,2.0,9.0,80.718,2024,Emilia Romagna
+STR,Aston Martin,56.0,0 days 00:01:20.617000,HARD,20.0,2.0,9.0,80.617,2024,Emilia Romagna
+STR,Aston Martin,57.0,0 days 00:01:20.731000,HARD,21.0,2.0,9.0,80.731,2024,Emilia Romagna
+STR,Aston Martin,58.0,0 days 00:01:20.570000,HARD,22.0,2.0,9.0,80.57,2024,Emilia Romagna
+STR,Aston Martin,59.0,0 days 00:01:20.612000,HARD,23.0,2.0,9.0,80.612,2024,Emilia Romagna
+STR,Aston Martin,60.0,0 days 00:01:20.959000,HARD,24.0,2.0,9.0,80.959,2024,Emilia Romagna
+STR,Aston Martin,61.0,0 days 00:01:21.647000,HARD,25.0,2.0,9.0,81.647,2024,Emilia Romagna
+STR,Aston Martin,62.0,0 days 00:01:22.751000,HARD,26.0,2.0,9.0,82.751,2024,Emilia Romagna
+STR,Aston Martin,63.0,0 days 00:01:23.832000,HARD,27.0,2.0,9.0,83.832,2024,Emilia Romagna
+TSU,RB,1.0,0 days 00:01:28.256000,MEDIUM,1.0,1.0,9.0,88.256,2024,Emilia Romagna
+TSU,RB,2.0,0 days 00:01:22.366000,MEDIUM,2.0,1.0,9.0,82.366,2024,Emilia Romagna
+TSU,RB,3.0,0 days 00:01:21.758000,MEDIUM,3.0,1.0,9.0,81.758,2024,Emilia Romagna
+TSU,RB,4.0,0 days 00:01:22.070000,MEDIUM,4.0,1.0,9.0,82.07,2024,Emilia Romagna
+TSU,RB,5.0,0 days 00:01:22.167000,MEDIUM,5.0,1.0,9.0,82.167,2024,Emilia Romagna
+TSU,RB,6.0,0 days 00:01:22.240000,MEDIUM,6.0,1.0,9.0,82.24,2024,Emilia Romagna
+TSU,RB,7.0,0 days 00:01:22.672000,MEDIUM,7.0,1.0,9.0,82.672,2024,Emilia Romagna
+TSU,RB,8.0,0 days 00:01:22.138000,MEDIUM,8.0,1.0,9.0,82.138,2024,Emilia Romagna
+TSU,RB,9.0,0 days 00:01:22.216000,MEDIUM,9.0,1.0,9.0,82.216,2024,Emilia Romagna
+TSU,RB,10.0,0 days 00:01:22.513000,MEDIUM,10.0,1.0,9.0,82.513,2024,Emilia Romagna
+TSU,RB,11.0,0 days 00:01:22.447000,MEDIUM,11.0,1.0,9.0,82.447,2024,Emilia Romagna
+TSU,RB,12.0,0 days 00:01:26.755000,MEDIUM,12.0,1.0,11.0,86.755,2024,Emilia Romagna
+TSU,RB,13.0,0 days 00:01:43.607000,HARD,1.0,2.0,15.0,103.607,2024,Emilia Romagna
+TSU,RB,14.0,0 days 00:01:20.936000,HARD,2.0,2.0,14.0,80.936,2024,Emilia Romagna
+TSU,RB,15.0,0 days 00:01:21.761000,HARD,3.0,2.0,14.0,81.761,2024,Emilia Romagna
+TSU,RB,16.0,0 days 00:01:21.635000,HARD,4.0,2.0,14.0,81.635,2024,Emilia Romagna
+TSU,RB,17.0,0 days 00:01:21.855000,HARD,5.0,2.0,14.0,81.855,2024,Emilia Romagna
+TSU,RB,18.0,0 days 00:01:21.949000,HARD,6.0,2.0,14.0,81.949,2024,Emilia Romagna
+TSU,RB,19.0,0 days 00:01:22.162000,HARD,7.0,2.0,14.0,82.162,2024,Emilia Romagna
+TSU,RB,20.0,0 days 00:01:22.453000,HARD,8.0,2.0,14.0,82.453,2024,Emilia Romagna
+TSU,RB,21.0,0 days 00:01:22.941000,HARD,9.0,2.0,14.0,82.941,2024,Emilia Romagna
+TSU,RB,22.0,0 days 00:01:23.322000,HARD,10.0,2.0,14.0,83.322,2024,Emilia Romagna
+TSU,RB,23.0,0 days 00:01:23.393000,HARD,11.0,2.0,14.0,83.393,2024,Emilia Romagna
+TSU,RB,24.0,0 days 00:01:22.573000,HARD,12.0,2.0,14.0,82.573,2024,Emilia Romagna
+TSU,RB,25.0,0 days 00:01:23.073000,HARD,13.0,2.0,14.0,83.073,2024,Emilia Romagna
+TSU,RB,26.0,0 days 00:01:22.175000,HARD,14.0,2.0,12.0,82.175,2024,Emilia Romagna
+TSU,RB,27.0,0 days 00:01:22.391000,HARD,15.0,2.0,12.0,82.391,2024,Emilia Romagna
+TSU,RB,28.0,0 days 00:01:22.523000,HARD,16.0,2.0,12.0,82.523,2024,Emilia Romagna
+TSU,RB,29.0,0 days 00:01:22.593000,HARD,17.0,2.0,12.0,82.593,2024,Emilia Romagna
+TSU,RB,30.0,0 days 00:01:22.892000,HARD,18.0,2.0,12.0,82.892,2024,Emilia Romagna
+TSU,RB,31.0,0 days 00:01:23.137000,HARD,19.0,2.0,12.0,83.137,2024,Emilia Romagna
+TSU,RB,32.0,0 days 00:01:23.537000,HARD,20.0,2.0,12.0,83.537,2024,Emilia Romagna
+TSU,RB,33.0,0 days 00:01:22.477000,HARD,21.0,2.0,11.0,82.477,2024,Emilia Romagna
+TSU,RB,34.0,0 days 00:01:22.571000,HARD,22.0,2.0,11.0,82.571,2024,Emilia Romagna
+TSU,RB,35.0,0 days 00:01:22.333000,HARD,23.0,2.0,11.0,82.333,2024,Emilia Romagna
+TSU,RB,36.0,0 days 00:01:22.669000,HARD,24.0,2.0,11.0,82.669,2024,Emilia Romagna
+TSU,RB,37.0,0 days 00:01:22.692000,HARD,25.0,2.0,10.0,82.692,2024,Emilia Romagna
+TSU,RB,38.0,0 days 00:01:22.075000,HARD,26.0,2.0,8.0,82.075,2024,Emilia Romagna
+TSU,RB,39.0,0 days 00:01:22.427000,HARD,27.0,2.0,8.0,82.427,2024,Emilia Romagna
+TSU,RB,40.0,0 days 00:01:22.339000,HARD,28.0,2.0,8.0,82.339,2024,Emilia Romagna
+TSU,RB,41.0,0 days 00:01:22.288000,HARD,29.0,2.0,8.0,82.288,2024,Emilia Romagna
+TSU,RB,42.0,0 days 00:01:22.879000,HARD,30.0,2.0,9.0,82.879,2024,Emilia Romagna
+TSU,RB,43.0,0 days 00:01:21.998000,HARD,31.0,2.0,9.0,81.998,2024,Emilia Romagna
+TSU,RB,44.0,0 days 00:01:22.079000,HARD,32.0,2.0,9.0,82.079,2024,Emilia Romagna
+TSU,RB,45.0,0 days 00:01:22.241000,HARD,33.0,2.0,9.0,82.241,2024,Emilia Romagna
+TSU,RB,46.0,0 days 00:01:22.223000,HARD,34.0,2.0,9.0,82.223,2024,Emilia Romagna
+TSU,RB,47.0,0 days 00:01:22.133000,HARD,35.0,2.0,9.0,82.133,2024,Emilia Romagna
+TSU,RB,48.0,0 days 00:01:21.933000,HARD,36.0,2.0,9.0,81.933,2024,Emilia Romagna
+TSU,RB,49.0,0 days 00:01:21.880000,HARD,37.0,2.0,9.0,81.88,2024,Emilia Romagna
+TSU,RB,50.0,0 days 00:01:23.356000,HARD,38.0,2.0,10.0,83.356,2024,Emilia Romagna
+TSU,RB,51.0,0 days 00:01:22.183000,HARD,39.0,2.0,10.0,82.183,2024,Emilia Romagna
+TSU,RB,52.0,0 days 00:01:22.114000,HARD,40.0,2.0,10.0,82.114,2024,Emilia Romagna
+TSU,RB,53.0,0 days 00:01:22.356000,HARD,41.0,2.0,10.0,82.356,2024,Emilia Romagna
+TSU,RB,54.0,0 days 00:01:25.932000,HARD,42.0,2.0,10.0,85.932,2024,Emilia Romagna
+TSU,RB,55.0,0 days 00:01:22.051000,HARD,43.0,2.0,10.0,82.051,2024,Emilia Romagna
+TSU,RB,56.0,0 days 00:01:23.870000,HARD,44.0,2.0,10.0,83.87,2024,Emilia Romagna
+TSU,RB,57.0,0 days 00:01:21.955000,HARD,45.0,2.0,10.0,81.955,2024,Emilia Romagna
+TSU,RB,58.0,0 days 00:01:22.005000,HARD,46.0,2.0,10.0,82.005,2024,Emilia Romagna
+TSU,RB,59.0,0 days 00:01:21.828000,HARD,47.0,2.0,10.0,81.828,2024,Emilia Romagna
+TSU,RB,60.0,0 days 00:01:23.836000,HARD,48.0,2.0,10.0,83.836,2024,Emilia Romagna
+TSU,RB,61.0,0 days 00:01:21.891000,HARD,49.0,2.0,10.0,81.891,2024,Emilia Romagna
+TSU,RB,62.0,0 days 00:01:21.988000,HARD,50.0,2.0,10.0,81.988,2024,Emilia Romagna
+HUL,Haas F1 Team,1.0,0 days 00:01:27.748000,MEDIUM,1.0,1.0,8.0,87.748,2024,Emilia Romagna
+HUL,Haas F1 Team,2.0,0 days 00:01:22.111000,MEDIUM,2.0,1.0,8.0,82.111,2024,Emilia Romagna
+HUL,Haas F1 Team,3.0,0 days 00:01:21.700000,MEDIUM,3.0,1.0,8.0,81.7,2024,Emilia Romagna
+HUL,Haas F1 Team,4.0,0 days 00:01:22.157000,MEDIUM,4.0,1.0,8.0,82.157,2024,Emilia Romagna
+HUL,Haas F1 Team,5.0,0 days 00:01:22.184000,MEDIUM,5.0,1.0,8.0,82.184,2024,Emilia Romagna
+HUL,Haas F1 Team,6.0,0 days 00:01:22.361000,MEDIUM,6.0,1.0,8.0,82.361,2024,Emilia Romagna
+HUL,Haas F1 Team,7.0,0 days 00:01:22.360000,MEDIUM,7.0,1.0,8.0,82.36,2024,Emilia Romagna
+HUL,Haas F1 Team,8.0,0 days 00:01:22.148000,MEDIUM,8.0,1.0,8.0,82.148,2024,Emilia Romagna
+HUL,Haas F1 Team,9.0,0 days 00:01:22.175000,MEDIUM,9.0,1.0,8.0,82.175,2024,Emilia Romagna
+HUL,Haas F1 Team,10.0,0 days 00:01:22.538000,MEDIUM,10.0,1.0,8.0,82.538,2024,Emilia Romagna
+HUL,Haas F1 Team,11.0,0 days 00:01:22.516000,MEDIUM,11.0,1.0,8.0,82.516,2024,Emilia Romagna
+HUL,Haas F1 Team,12.0,0 days 00:01:22.571000,MEDIUM,12.0,1.0,8.0,82.571,2024,Emilia Romagna
+HUL,Haas F1 Team,13.0,0 days 00:01:26.982000,MEDIUM,13.0,1.0,9.0,86.982,2024,Emilia Romagna
+HUL,Haas F1 Team,14.0,0 days 00:01:44.353000,HARD,1.0,2.0,15.0,104.353,2024,Emilia Romagna
+HUL,Haas F1 Team,15.0,0 days 00:01:21.918000,HARD,2.0,2.0,15.0,81.918,2024,Emilia Romagna
+HUL,Haas F1 Team,16.0,0 days 00:01:21.756000,HARD,3.0,2.0,15.0,81.756,2024,Emilia Romagna
+HUL,Haas F1 Team,17.0,0 days 00:01:22.074000,HARD,4.0,2.0,15.0,82.074,2024,Emilia Romagna
+HUL,Haas F1 Team,18.0,0 days 00:01:22.086000,HARD,5.0,2.0,15.0,82.086,2024,Emilia Romagna
+HUL,Haas F1 Team,19.0,0 days 00:01:22.624000,HARD,6.0,2.0,15.0,82.624,2024,Emilia Romagna
+HUL,Haas F1 Team,20.0,0 days 00:01:22.309000,HARD,7.0,2.0,15.0,82.309,2024,Emilia Romagna
+HUL,Haas F1 Team,21.0,0 days 00:01:22.218000,HARD,8.0,2.0,15.0,82.218,2024,Emilia Romagna
+HUL,Haas F1 Team,22.0,0 days 00:01:22.412000,HARD,9.0,2.0,15.0,82.412,2024,Emilia Romagna
+HUL,Haas F1 Team,23.0,0 days 00:01:22.883000,HARD,10.0,2.0,15.0,82.883,2024,Emilia Romagna
+HUL,Haas F1 Team,24.0,0 days 00:01:23.102000,HARD,11.0,2.0,15.0,83.102,2024,Emilia Romagna
+HUL,Haas F1 Team,25.0,0 days 00:01:22.763000,HARD,12.0,2.0,15.0,82.763,2024,Emilia Romagna
+HUL,Haas F1 Team,26.0,0 days 00:01:22.669000,HARD,13.0,2.0,13.0,82.669,2024,Emilia Romagna
+HUL,Haas F1 Team,27.0,0 days 00:01:22.322000,HARD,14.0,2.0,13.0,82.322,2024,Emilia Romagna
+HUL,Haas F1 Team,28.0,0 days 00:01:22.744000,HARD,15.0,2.0,13.0,82.744,2024,Emilia Romagna
+HUL,Haas F1 Team,29.0,0 days 00:01:22.829000,HARD,16.0,2.0,13.0,82.829,2024,Emilia Romagna
+HUL,Haas F1 Team,30.0,0 days 00:01:22.732000,HARD,17.0,2.0,13.0,82.732,2024,Emilia Romagna
+HUL,Haas F1 Team,31.0,0 days 00:01:23.010000,HARD,18.0,2.0,13.0,83.01,2024,Emilia Romagna
+HUL,Haas F1 Team,32.0,0 days 00:01:23.256000,HARD,19.0,2.0,13.0,83.256,2024,Emilia Romagna
+HUL,Haas F1 Team,33.0,0 days 00:01:23.561000,HARD,20.0,2.0,12.0,83.561,2024,Emilia Romagna
+HUL,Haas F1 Team,34.0,0 days 00:01:22.798000,HARD,21.0,2.0,12.0,82.798,2024,Emilia Romagna
+HUL,Haas F1 Team,35.0,0 days 00:01:22.110000,HARD,22.0,2.0,12.0,82.11,2024,Emilia Romagna
+HUL,Haas F1 Team,36.0,0 days 00:01:22.575000,HARD,23.0,2.0,12.0,82.575,2024,Emilia Romagna
+HUL,Haas F1 Team,37.0,0 days 00:01:22.433000,HARD,24.0,2.0,11.0,82.433,2024,Emilia Romagna
+HUL,Haas F1 Team,38.0,0 days 00:01:22.480000,HARD,25.0,2.0,9.0,82.48,2024,Emilia Romagna
+HUL,Haas F1 Team,39.0,0 days 00:01:22.620000,HARD,26.0,2.0,9.0,82.62,2024,Emilia Romagna
+HUL,Haas F1 Team,40.0,0 days 00:01:23.111000,HARD,27.0,2.0,10.0,83.111,2024,Emilia Romagna
+HUL,Haas F1 Team,41.0,0 days 00:01:22.504000,HARD,28.0,2.0,10.0,82.504,2024,Emilia Romagna
+HUL,Haas F1 Team,42.0,0 days 00:01:22.265000,HARD,29.0,2.0,10.0,82.265,2024,Emilia Romagna
+HUL,Haas F1 Team,43.0,0 days 00:01:22.435000,HARD,30.0,2.0,10.0,82.435,2024,Emilia Romagna
+HUL,Haas F1 Team,44.0,0 days 00:01:22.192000,HARD,31.0,2.0,10.0,82.192,2024,Emilia Romagna
+HUL,Haas F1 Team,45.0,0 days 00:01:22.481000,HARD,32.0,2.0,10.0,82.481,2024,Emilia Romagna
+HUL,Haas F1 Team,46.0,0 days 00:01:23.483000,HARD,33.0,2.0,11.0,83.483,2024,Emilia Romagna
+HUL,Haas F1 Team,47.0,0 days 00:01:22.763000,HARD,34.0,2.0,11.0,82.763,2024,Emilia Romagna
+HUL,Haas F1 Team,48.0,0 days 00:01:22.264000,HARD,35.0,2.0,11.0,82.264,2024,Emilia Romagna
+HUL,Haas F1 Team,49.0,0 days 00:01:22.003000,HARD,36.0,2.0,11.0,82.003,2024,Emilia Romagna
+HUL,Haas F1 Team,50.0,0 days 00:01:21.921000,HARD,37.0,2.0,11.0,81.921,2024,Emilia Romagna
+HUL,Haas F1 Team,51.0,0 days 00:01:24.008000,HARD,38.0,2.0,11.0,84.008,2024,Emilia Romagna
+HUL,Haas F1 Team,52.0,0 days 00:01:24.017000,HARD,39.0,2.0,11.0,84.017,2024,Emilia Romagna
+HUL,Haas F1 Team,53.0,0 days 00:01:23.667000,HARD,40.0,2.0,11.0,83.667,2024,Emilia Romagna
+HUL,Haas F1 Team,54.0,0 days 00:01:22.255000,HARD,41.0,2.0,11.0,82.255,2024,Emilia Romagna
+HUL,Haas F1 Team,55.0,0 days 00:01:22.094000,HARD,42.0,2.0,11.0,82.094,2024,Emilia Romagna
+HUL,Haas F1 Team,56.0,0 days 00:01:22.217000,HARD,43.0,2.0,11.0,82.217,2024,Emilia Romagna
+HUL,Haas F1 Team,57.0,0 days 00:01:23.902000,HARD,44.0,2.0,11.0,83.902,2024,Emilia Romagna
+HUL,Haas F1 Team,58.0,0 days 00:01:22.126000,HARD,45.0,2.0,11.0,82.126,2024,Emilia Romagna
+HUL,Haas F1 Team,59.0,0 days 00:01:22.225000,HARD,46.0,2.0,11.0,82.225,2024,Emilia Romagna
+HUL,Haas F1 Team,60.0,0 days 00:01:22.409000,HARD,47.0,2.0,11.0,82.409,2024,Emilia Romagna
+HUL,Haas F1 Team,61.0,0 days 00:01:23.789000,HARD,48.0,2.0,11.0,83.789,2024,Emilia Romagna
+HUL,Haas F1 Team,62.0,0 days 00:01:22.210000,HARD,49.0,2.0,11.0,82.21,2024,Emilia Romagna
+MAG,Haas F1 Team,1.0,0 days 00:01:31.891000,MEDIUM,1.0,1.0,16.0,91.891,2024,Emilia Romagna
+MAG,Haas F1 Team,2.0,0 days 00:01:23.313000,MEDIUM,2.0,1.0,16.0,83.313,2024,Emilia Romagna
+MAG,Haas F1 Team,3.0,0 days 00:01:22.737000,MEDIUM,3.0,1.0,16.0,82.737,2024,Emilia Romagna
+MAG,Haas F1 Team,4.0,0 days 00:01:22.517000,MEDIUM,4.0,1.0,16.0,82.517,2024,Emilia Romagna
+MAG,Haas F1 Team,5.0,0 days 00:01:22.682000,MEDIUM,5.0,1.0,16.0,82.682,2024,Emilia Romagna
+MAG,Haas F1 Team,6.0,0 days 00:01:22.237000,MEDIUM,6.0,1.0,16.0,82.237,2024,Emilia Romagna
+MAG,Haas F1 Team,7.0,0 days 00:01:22.520000,MEDIUM,7.0,1.0,16.0,82.52,2024,Emilia Romagna
+MAG,Haas F1 Team,8.0,0 days 00:01:22.411000,MEDIUM,8.0,1.0,14.0,82.411,2024,Emilia Romagna
+MAG,Haas F1 Team,9.0,0 days 00:01:22.320000,MEDIUM,9.0,1.0,14.0,82.32,2024,Emilia Romagna
+MAG,Haas F1 Team,10.0,0 days 00:01:23.013000,MEDIUM,10.0,1.0,14.0,83.013,2024,Emilia Romagna
+MAG,Haas F1 Team,11.0,0 days 00:01:22.858000,MEDIUM,11.0,1.0,14.0,82.858,2024,Emilia Romagna
+MAG,Haas F1 Team,12.0,0 days 00:01:22.927000,MEDIUM,12.0,1.0,13.0,82.927,2024,Emilia Romagna
+MAG,Haas F1 Team,13.0,0 days 00:01:22.955000,MEDIUM,13.0,1.0,12.0,82.955,2024,Emilia Romagna
+MAG,Haas F1 Team,14.0,0 days 00:01:23.090000,MEDIUM,14.0,1.0,11.0,83.09,2024,Emilia Romagna
+MAG,Haas F1 Team,15.0,0 days 00:01:23.215000,MEDIUM,15.0,1.0,11.0,83.215,2024,Emilia Romagna
+MAG,Haas F1 Team,16.0,0 days 00:01:23.135000,MEDIUM,16.0,1.0,11.0,83.135,2024,Emilia Romagna
+MAG,Haas F1 Team,17.0,0 days 00:01:23.577000,MEDIUM,17.0,1.0,11.0,83.577,2024,Emilia Romagna
+MAG,Haas F1 Team,18.0,0 days 00:01:23.338000,MEDIUM,18.0,1.0,11.0,83.338,2024,Emilia Romagna
+MAG,Haas F1 Team,19.0,0 days 00:01:23.271000,MEDIUM,19.0,1.0,11.0,83.271,2024,Emilia Romagna
+MAG,Haas F1 Team,20.0,0 days 00:01:22.850000,MEDIUM,20.0,1.0,11.0,82.85,2024,Emilia Romagna
+MAG,Haas F1 Team,21.0,0 days 00:01:22.686000,MEDIUM,21.0,1.0,11.0,82.686,2024,Emilia Romagna
+MAG,Haas F1 Team,22.0,0 days 00:01:23.013000,MEDIUM,22.0,1.0,11.0,83.013,2024,Emilia Romagna
+MAG,Haas F1 Team,23.0,0 days 00:01:22.761000,MEDIUM,23.0,1.0,11.0,82.761,2024,Emilia Romagna
+MAG,Haas F1 Team,24.0,0 days 00:01:22.939000,MEDIUM,24.0,1.0,11.0,82.939,2024,Emilia Romagna
+MAG,Haas F1 Team,25.0,0 days 00:01:23.296000,MEDIUM,25.0,1.0,10.0,83.296,2024,Emilia Romagna
+MAG,Haas F1 Team,26.0,0 days 00:01:22.862000,MEDIUM,26.0,1.0,10.0,82.862,2024,Emilia Romagna
+MAG,Haas F1 Team,27.0,0 days 00:01:22.938000,MEDIUM,27.0,1.0,10.0,82.938,2024,Emilia Romagna
+MAG,Haas F1 Team,28.0,0 days 00:01:23.133000,MEDIUM,28.0,1.0,10.0,83.133,2024,Emilia Romagna
+MAG,Haas F1 Team,29.0,0 days 00:01:23.157000,MEDIUM,29.0,1.0,10.0,83.157,2024,Emilia Romagna
+MAG,Haas F1 Team,30.0,0 days 00:01:23.061000,MEDIUM,30.0,1.0,10.0,83.061,2024,Emilia Romagna
+MAG,Haas F1 Team,31.0,0 days 00:01:23.284000,MEDIUM,31.0,1.0,10.0,83.284,2024,Emilia Romagna
+MAG,Haas F1 Team,32.0,0 days 00:01:24.028000,MEDIUM,32.0,1.0,10.0,84.028,2024,Emilia Romagna
+MAG,Haas F1 Team,33.0,0 days 00:01:23.207000,MEDIUM,33.0,1.0,10.0,83.207,2024,Emilia Romagna
+MAG,Haas F1 Team,34.0,0 days 00:01:23.222000,MEDIUM,34.0,1.0,10.0,83.222,2024,Emilia Romagna
+MAG,Haas F1 Team,35.0,0 days 00:01:22.945000,MEDIUM,35.0,1.0,10.0,82.945,2024,Emilia Romagna
+MAG,Haas F1 Team,36.0,0 days 00:01:23.175000,MEDIUM,36.0,1.0,10.0,83.175,2024,Emilia Romagna
+MAG,Haas F1 Team,37.0,0 days 00:01:27.682000,MEDIUM,37.0,1.0,12.0,87.682,2024,Emilia Romagna
+MAG,Haas F1 Team,38.0,0 days 00:01:45.988000,HARD,1.0,2.0,17.0,105.988,2024,Emilia Romagna
+MAG,Haas F1 Team,39.0,0 days 00:01:21.485000,HARD,2.0,2.0,17.0,81.485,2024,Emilia Romagna
+MAG,Haas F1 Team,40.0,0 days 00:01:22.407000,HARD,3.0,2.0,17.0,82.407,2024,Emilia Romagna
+MAG,Haas F1 Team,41.0,0 days 00:01:21.162000,HARD,4.0,2.0,16.0,81.162,2024,Emilia Romagna
+MAG,Haas F1 Team,42.0,0 days 00:01:24.273000,HARD,5.0,2.0,16.0,84.273,2024,Emilia Romagna
+MAG,Haas F1 Team,43.0,0 days 00:01:21.446000,HARD,6.0,2.0,16.0,81.446,2024,Emilia Romagna
+MAG,Haas F1 Team,44.0,0 days 00:01:21.238000,HARD,7.0,2.0,16.0,81.238,2024,Emilia Romagna
+MAG,Haas F1 Team,45.0,0 days 00:01:21.695000,HARD,8.0,2.0,16.0,81.695,2024,Emilia Romagna
+MAG,Haas F1 Team,46.0,0 days 00:01:21.672000,HARD,9.0,2.0,16.0,81.672,2024,Emilia Romagna
+MAG,Haas F1 Team,47.0,0 days 00:01:21.580000,HARD,10.0,2.0,16.0,81.58,2024,Emilia Romagna
+MAG,Haas F1 Team,48.0,0 days 00:01:21.068000,HARD,11.0,2.0,15.0,81.068,2024,Emilia Romagna
+MAG,Haas F1 Team,49.0,0 days 00:01:23.710000,HARD,12.0,2.0,15.0,83.71,2024,Emilia Romagna
+MAG,Haas F1 Team,50.0,0 days 00:01:21.496000,HARD,13.0,2.0,14.0,81.496,2024,Emilia Romagna
+MAG,Haas F1 Team,51.0,0 days 00:01:21.374000,HARD,14.0,2.0,13.0,81.374,2024,Emilia Romagna
+MAG,Haas F1 Team,52.0,0 days 00:01:21.610000,HARD,15.0,2.0,13.0,81.61,2024,Emilia Romagna
+MAG,Haas F1 Team,53.0,0 days 00:01:21.102000,HARD,16.0,2.0,13.0,81.102,2024,Emilia Romagna
+MAG,Haas F1 Team,54.0,0 days 00:01:21.132000,HARD,17.0,2.0,13.0,81.132,2024,Emilia Romagna
+MAG,Haas F1 Team,55.0,0 days 00:01:21.250000,HARD,18.0,2.0,13.0,81.25,2024,Emilia Romagna
+MAG,Haas F1 Team,56.0,0 days 00:01:21.181000,HARD,19.0,2.0,13.0,81.181,2024,Emilia Romagna
+MAG,Haas F1 Team,57.0,0 days 00:01:23.299000,HARD,20.0,2.0,13.0,83.299,2024,Emilia Romagna
+MAG,Haas F1 Team,58.0,0 days 00:01:21.009000,HARD,21.0,2.0,13.0,81.009,2024,Emilia Romagna
+MAG,Haas F1 Team,59.0,0 days 00:01:21.292000,HARD,22.0,2.0,13.0,81.292,2024,Emilia Romagna
+MAG,Haas F1 Team,60.0,0 days 00:01:21.412000,HARD,23.0,2.0,13.0,81.412,2024,Emilia Romagna
+MAG,Haas F1 Team,61.0,0 days 00:01:21.750000,HARD,24.0,2.0,13.0,81.75,2024,Emilia Romagna
+MAG,Haas F1 Team,62.0,0 days 00:01:21.809000,HARD,25.0,2.0,12.0,81.809,2024,Emilia Romagna
+RIC,RB,1.0,0 days 00:01:29.351000,MEDIUM,1.0,1.0,11.0,89.351,2024,Emilia Romagna
+RIC,RB,2.0,0 days 00:01:22.795000,MEDIUM,2.0,1.0,11.0,82.795,2024,Emilia Romagna
+RIC,RB,3.0,0 days 00:01:22.083000,MEDIUM,3.0,1.0,11.0,82.083,2024,Emilia Romagna
+RIC,RB,4.0,0 days 00:01:22.227000,MEDIUM,4.0,1.0,11.0,82.227,2024,Emilia Romagna
+RIC,RB,5.0,0 days 00:01:22.211000,MEDIUM,5.0,1.0,11.0,82.211,2024,Emilia Romagna
+RIC,RB,6.0,0 days 00:01:22.412000,MEDIUM,6.0,1.0,11.0,82.412,2024,Emilia Romagna
+RIC,RB,7.0,0 days 00:01:22.428000,MEDIUM,7.0,1.0,11.0,82.428,2024,Emilia Romagna
+RIC,RB,8.0,0 days 00:01:22.374000,MEDIUM,8.0,1.0,11.0,82.374,2024,Emilia Romagna
+RIC,RB,9.0,0 days 00:01:22.453000,MEDIUM,9.0,1.0,11.0,82.453,2024,Emilia Romagna
+RIC,RB,10.0,0 days 00:01:22.494000,MEDIUM,10.0,1.0,11.0,82.494,2024,Emilia Romagna
+RIC,RB,11.0,0 days 00:01:27.088000,MEDIUM,11.0,1.0,13.0,87.088,2024,Emilia Romagna
+RIC,RB,12.0,0 days 00:01:44.778000,HARD,1.0,2.0,16.0,104.778,2024,Emilia Romagna
+RIC,RB,13.0,0 days 00:01:21.569000,HARD,2.0,2.0,16.0,81.569,2024,Emilia Romagna
+RIC,RB,14.0,0 days 00:01:22.254000,HARD,3.0,2.0,16.0,82.254,2024,Emilia Romagna
+RIC,RB,15.0,0 days 00:01:22.005000,HARD,4.0,2.0,16.0,82.005,2024,Emilia Romagna
+RIC,RB,16.0,0 days 00:01:22.012000,HARD,5.0,2.0,16.0,82.012,2024,Emilia Romagna
+RIC,RB,17.0,0 days 00:01:22.258000,HARD,6.0,2.0,16.0,82.258,2024,Emilia Romagna
+RIC,RB,18.0,0 days 00:01:22.031000,HARD,7.0,2.0,16.0,82.031,2024,Emilia Romagna
+RIC,RB,19.0,0 days 00:01:22.224000,HARD,8.0,2.0,16.0,82.224,2024,Emilia Romagna
+RIC,RB,20.0,0 days 00:01:22.013000,HARD,9.0,2.0,16.0,82.013,2024,Emilia Romagna
+RIC,RB,21.0,0 days 00:01:22.221000,HARD,10.0,2.0,16.0,82.221,2024,Emilia Romagna
+RIC,RB,22.0,0 days 00:01:22.400000,HARD,11.0,2.0,16.0,82.4,2024,Emilia Romagna
+RIC,RB,23.0,0 days 00:01:22.645000,HARD,12.0,2.0,16.0,82.645,2024,Emilia Romagna
+RIC,RB,24.0,0 days 00:01:22.458000,HARD,13.0,2.0,16.0,82.458,2024,Emilia Romagna
+RIC,RB,25.0,0 days 00:01:22.681000,HARD,14.0,2.0,16.0,82.681,2024,Emilia Romagna
+RIC,RB,26.0,0 days 00:01:23.245000,HARD,15.0,2.0,15.0,83.245,2024,Emilia Romagna
+RIC,RB,27.0,0 days 00:01:23.506000,HARD,16.0,2.0,15.0,83.506,2024,Emilia Romagna
+RIC,RB,28.0,0 days 00:01:23.291000,HARD,17.0,2.0,15.0,83.291,2024,Emilia Romagna
+RIC,RB,29.0,0 days 00:01:23.321000,HARD,18.0,2.0,15.0,83.321,2024,Emilia Romagna
+RIC,RB,30.0,0 days 00:01:24.070000,HARD,19.0,2.0,15.0,84.07,2024,Emilia Romagna
+RIC,RB,31.0,0 days 00:01:23.689000,HARD,20.0,2.0,14.0,83.689,2024,Emilia Romagna
+RIC,RB,32.0,0 days 00:01:21.853000,HARD,21.0,2.0,14.0,81.853,2024,Emilia Romagna
+RIC,RB,33.0,0 days 00:01:22.261000,HARD,22.0,2.0,13.0,82.261,2024,Emilia Romagna
+RIC,RB,34.0,0 days 00:01:21.800000,HARD,23.0,2.0,13.0,81.8,2024,Emilia Romagna
+RIC,RB,35.0,0 days 00:01:22.243000,HARD,24.0,2.0,13.0,82.243,2024,Emilia Romagna
+RIC,RB,36.0,0 days 00:01:22.248000,HARD,25.0,2.0,13.0,82.248,2024,Emilia Romagna
+RIC,RB,37.0,0 days 00:01:22.261000,HARD,26.0,2.0,13.0,82.261,2024,Emilia Romagna
+RIC,RB,38.0,0 days 00:01:22.219000,HARD,27.0,2.0,10.0,82.219,2024,Emilia Romagna
+RIC,RB,39.0,0 days 00:01:23.668000,HARD,28.0,2.0,11.0,83.668,2024,Emilia Romagna
+RIC,RB,40.0,0 days 00:01:22.282000,HARD,29.0,2.0,11.0,82.282,2024,Emilia Romagna
+RIC,RB,41.0,0 days 00:01:22.377000,HARD,30.0,2.0,11.0,82.377,2024,Emilia Romagna
+RIC,RB,42.0,0 days 00:01:22.166000,HARD,31.0,2.0,11.0,82.166,2024,Emilia Romagna
+RIC,RB,43.0,0 days 00:01:23.653000,HARD,32.0,2.0,12.0,83.653,2024,Emilia Romagna
+RIC,RB,44.0,0 days 00:01:22.530000,HARD,33.0,2.0,12.0,82.53,2024,Emilia Romagna
+RIC,RB,45.0,0 days 00:01:22.076000,HARD,34.0,2.0,12.0,82.076,2024,Emilia Romagna
+RIC,RB,46.0,0 days 00:01:22.298000,HARD,35.0,2.0,12.0,82.298,2024,Emilia Romagna
+RIC,RB,47.0,0 days 00:01:22.310000,HARD,36.0,2.0,12.0,82.31,2024,Emilia Romagna
+RIC,RB,48.0,0 days 00:01:22.164000,HARD,37.0,2.0,12.0,82.164,2024,Emilia Romagna
+RIC,RB,49.0,0 days 00:01:22.229000,HARD,38.0,2.0,12.0,82.229,2024,Emilia Romagna
+RIC,RB,50.0,0 days 00:01:24.081000,HARD,39.0,2.0,12.0,84.081,2024,Emilia Romagna
+RIC,RB,51.0,0 days 00:01:22.170000,HARD,40.0,2.0,12.0,82.17,2024,Emilia Romagna
+RIC,RB,52.0,0 days 00:01:25.609000,HARD,41.0,2.0,12.0,85.609,2024,Emilia Romagna
+RIC,RB,53.0,0 days 00:01:22.300000,HARD,42.0,2.0,12.0,82.3,2024,Emilia Romagna
+RIC,RB,54.0,0 days 00:01:21.985000,HARD,43.0,2.0,12.0,81.985,2024,Emilia Romagna
+RIC,RB,55.0,0 days 00:01:21.900000,HARD,44.0,2.0,12.0,81.9,2024,Emilia Romagna
+RIC,RB,56.0,0 days 00:01:23.896000,HARD,45.0,2.0,12.0,83.896,2024,Emilia Romagna
+RIC,RB,57.0,0 days 00:01:22.310000,HARD,46.0,2.0,12.0,82.31,2024,Emilia Romagna
+RIC,RB,58.0,0 days 00:01:22.060000,HARD,47.0,2.0,12.0,82.06,2024,Emilia Romagna
+RIC,RB,59.0,0 days 00:01:21.974000,HARD,48.0,2.0,12.0,81.974,2024,Emilia Romagna
+RIC,RB,60.0,0 days 00:01:24.027000,HARD,49.0,2.0,12.0,84.027,2024,Emilia Romagna
+RIC,RB,61.0,0 days 00:01:21.941000,HARD,50.0,2.0,12.0,81.941,2024,Emilia Romagna
+RIC,RB,62.0,0 days 00:01:23.435000,HARD,51.0,2.0,13.0,83.435,2024,Emilia Romagna
+OCO,Alpine,1.0,0 days 00:01:29.949000,MEDIUM,1.0,1.0,12.0,89.949,2024,Emilia Romagna
+OCO,Alpine,2.0,0 days 00:01:22.923000,MEDIUM,2.0,1.0,12.0,82.923,2024,Emilia Romagna
+OCO,Alpine,3.0,0 days 00:01:22.290000,MEDIUM,3.0,1.0,12.0,82.29,2024,Emilia Romagna
+OCO,Alpine,4.0,0 days 00:01:22.229000,MEDIUM,4.0,1.0,12.0,82.229,2024,Emilia Romagna
+OCO,Alpine,5.0,0 days 00:01:22.267000,MEDIUM,5.0,1.0,12.0,82.267,2024,Emilia Romagna
+OCO,Alpine,6.0,0 days 00:01:22.436000,MEDIUM,6.0,1.0,12.0,82.436,2024,Emilia Romagna
+OCO,Alpine,7.0,0 days 00:01:22.562000,MEDIUM,7.0,1.0,12.0,82.562,2024,Emilia Romagna
+OCO,Alpine,8.0,0 days 00:01:22.424000,MEDIUM,8.0,1.0,12.0,82.424,2024,Emilia Romagna
+OCO,Alpine,9.0,0 days 00:01:22.715000,MEDIUM,9.0,1.0,12.0,82.715,2024,Emilia Romagna
+OCO,Alpine,10.0,0 days 00:01:23.802000,MEDIUM,10.0,1.0,13.0,83.802,2024,Emilia Romagna
+OCO,Alpine,11.0,0 days 00:01:22.745000,MEDIUM,11.0,1.0,12.0,82.745,2024,Emilia Romagna
+OCO,Alpine,12.0,0 days 00:01:23.042000,MEDIUM,12.0,1.0,12.0,83.042,2024,Emilia Romagna
+OCO,Alpine,13.0,0 days 00:01:22.907000,MEDIUM,13.0,1.0,11.0,82.907,2024,Emilia Romagna
+OCO,Alpine,14.0,0 days 00:01:22.861000,MEDIUM,14.0,1.0,10.0,82.861,2024,Emilia Romagna
+OCO,Alpine,15.0,0 days 00:01:23.006000,MEDIUM,15.0,1.0,10.0,83.006,2024,Emilia Romagna
+OCO,Alpine,16.0,0 days 00:01:23.049000,MEDIUM,16.0,1.0,10.0,83.049,2024,Emilia Romagna
+OCO,Alpine,17.0,0 days 00:01:23.060000,MEDIUM,17.0,1.0,10.0,83.06,2024,Emilia Romagna
+OCO,Alpine,18.0,0 days 00:01:23.082000,MEDIUM,18.0,1.0,10.0,83.082,2024,Emilia Romagna
+OCO,Alpine,19.0,0 days 00:01:23.179000,MEDIUM,19.0,1.0,10.0,83.179,2024,Emilia Romagna
+OCO,Alpine,20.0,0 days 00:01:23.156000,MEDIUM,20.0,1.0,10.0,83.156,2024,Emilia Romagna
+OCO,Alpine,21.0,0 days 00:01:23.219000,MEDIUM,21.0,1.0,10.0,83.219,2024,Emilia Romagna
+OCO,Alpine,22.0,0 days 00:01:23.376000,MEDIUM,22.0,1.0,9.0,83.376,2024,Emilia Romagna
+OCO,Alpine,23.0,0 days 00:01:23.609000,MEDIUM,23.0,1.0,10.0,83.609,2024,Emilia Romagna
+OCO,Alpine,24.0,0 days 00:01:23.042000,MEDIUM,24.0,1.0,10.0,83.042,2024,Emilia Romagna
+OCO,Alpine,25.0,0 days 00:01:27.881000,MEDIUM,25.0,1.0,11.0,87.881,2024,Emilia Romagna
+OCO,Alpine,26.0,0 days 00:01:45.525000,HARD,1.0,2.0,19.0,105.525,2024,Emilia Romagna
+OCO,Alpine,27.0,0 days 00:01:21.834000,HARD,2.0,2.0,19.0,81.834,2024,Emilia Romagna
+OCO,Alpine,28.0,0 days 00:01:22.056000,HARD,3.0,2.0,19.0,82.056,2024,Emilia Romagna
+OCO,Alpine,29.0,0 days 00:01:22.261000,HARD,4.0,2.0,19.0,82.261,2024,Emilia Romagna
+OCO,Alpine,30.0,0 days 00:01:22.557000,HARD,5.0,2.0,19.0,82.557,2024,Emilia Romagna
+OCO,Alpine,31.0,0 days 00:01:22.589000,HARD,6.0,2.0,18.0,82.589,2024,Emilia Romagna
+OCO,Alpine,32.0,0 days 00:01:22.454000,HARD,7.0,2.0,17.0,82.454,2024,Emilia Romagna
+OCO,Alpine,33.0,0 days 00:01:22.350000,HARD,8.0,2.0,17.0,82.35,2024,Emilia Romagna
+OCO,Alpine,34.0,0 days 00:01:23.217000,HARD,9.0,2.0,16.0,83.217,2024,Emilia Romagna
+OCO,Alpine,35.0,0 days 00:01:22.909000,HARD,10.0,2.0,16.0,82.909,2024,Emilia Romagna
+OCO,Alpine,36.0,0 days 00:01:22.364000,HARD,11.0,2.0,16.0,82.364,2024,Emilia Romagna
+OCO,Alpine,37.0,0 days 00:01:21.304000,HARD,12.0,2.0,15.0,81.304,2024,Emilia Romagna
+OCO,Alpine,38.0,0 days 00:01:22.062000,HARD,13.0,2.0,14.0,82.062,2024,Emilia Romagna
+OCO,Alpine,39.0,0 days 00:01:22.139000,HARD,14.0,2.0,14.0,82.139,2024,Emilia Romagna
+OCO,Alpine,40.0,0 days 00:01:22.040000,HARD,15.0,2.0,14.0,82.04,2024,Emilia Romagna
+OCO,Alpine,41.0,0 days 00:01:22.145000,HARD,16.0,2.0,14.0,82.145,2024,Emilia Romagna
+OCO,Alpine,42.0,0 days 00:01:22.224000,HARD,17.0,2.0,14.0,82.224,2024,Emilia Romagna
+OCO,Alpine,43.0,0 days 00:01:22.081000,HARD,18.0,2.0,14.0,82.081,2024,Emilia Romagna
+OCO,Alpine,44.0,0 days 00:01:23.818000,HARD,19.0,2.0,14.0,83.818,2024,Emilia Romagna
+OCO,Alpine,45.0,0 days 00:01:22.572000,HARD,20.0,2.0,14.0,82.572,2024,Emilia Romagna
+OCO,Alpine,46.0,0 days 00:01:23.905000,HARD,21.0,2.0,14.0,83.905,2024,Emilia Romagna
+OCO,Alpine,47.0,0 days 00:01:25.675000,HARD,22.0,2.0,14.0,85.675,2024,Emilia Romagna
+OCO,Alpine,48.0,0 days 00:01:22.550000,HARD,23.0,2.0,14.0,82.55,2024,Emilia Romagna
+OCO,Alpine,49.0,0 days 00:01:24.384000,HARD,24.0,2.0,14.0,84.384,2024,Emilia Romagna
+OCO,Alpine,50.0,0 days 00:01:23.073000,HARD,25.0,2.0,15.0,83.073,2024,Emilia Romagna
+OCO,Alpine,51.0,0 days 00:01:24.114000,HARD,26.0,2.0,15.0,84.114,2024,Emilia Romagna
+OCO,Alpine,52.0,0 days 00:01:22.762000,HARD,27.0,2.0,15.0,82.762,2024,Emilia Romagna
+OCO,Alpine,53.0,0 days 00:01:22.756000,HARD,28.0,2.0,15.0,82.756,2024,Emilia Romagna
+OCO,Alpine,54.0,0 days 00:01:23.855000,HARD,29.0,2.0,15.0,83.855,2024,Emilia Romagna
+OCO,Alpine,55.0,0 days 00:01:22.991000,HARD,30.0,2.0,15.0,82.991,2024,Emilia Romagna
+OCO,Alpine,56.0,0 days 00:01:23.017000,HARD,31.0,2.0,15.0,83.017,2024,Emilia Romagna
+OCO,Alpine,57.0,0 days 00:01:23.961000,HARD,32.0,2.0,15.0,83.961,2024,Emilia Romagna
+OCO,Alpine,58.0,0 days 00:01:22.824000,HARD,33.0,2.0,15.0,82.824,2024,Emilia Romagna
+OCO,Alpine,59.0,0 days 00:01:22.068000,HARD,34.0,2.0,14.0,82.068,2024,Emilia Romagna
+OCO,Alpine,60.0,0 days 00:01:22.154000,HARD,35.0,2.0,14.0,82.154,2024,Emilia Romagna
+OCO,Alpine,61.0,0 days 00:01:21.745000,HARD,36.0,2.0,14.0,81.745,2024,Emilia Romagna
+OCO,Alpine,62.0,0 days 00:01:22.013000,HARD,37.0,2.0,14.0,82.013,2024,Emilia Romagna
+ZHO,Kick Sauber,1.0,0 days 00:01:32.781000,HARD,1.0,1.0,18.0,92.781,2024,Emilia Romagna
+ZHO,Kick Sauber,2.0,0 days 00:01:23.939000,HARD,2.0,1.0,18.0,83.939,2024,Emilia Romagna
+ZHO,Kick Sauber,3.0,0 days 00:01:22.718000,HARD,3.0,1.0,18.0,82.718,2024,Emilia Romagna
+ZHO,Kick Sauber,4.0,0 days 00:01:23.046000,HARD,4.0,1.0,18.0,83.046,2024,Emilia Romagna
+ZHO,Kick Sauber,5.0,0 days 00:01:22.565000,HARD,5.0,1.0,18.0,82.565,2024,Emilia Romagna
+ZHO,Kick Sauber,6.0,0 days 00:01:22.647000,HARD,6.0,1.0,18.0,82.647,2024,Emilia Romagna
+ZHO,Kick Sauber,7.0,0 days 00:01:22.971000,HARD,7.0,1.0,18.0,82.971,2024,Emilia Romagna
+ZHO,Kick Sauber,8.0,0 days 00:01:22.798000,HARD,8.0,1.0,16.0,82.798,2024,Emilia Romagna
+ZHO,Kick Sauber,9.0,0 days 00:01:23.153000,HARD,9.0,1.0,15.0,83.153,2024,Emilia Romagna
+ZHO,Kick Sauber,10.0,0 days 00:01:23.131000,HARD,10.0,1.0,15.0,83.131,2024,Emilia Romagna
+ZHO,Kick Sauber,11.0,0 days 00:01:22.874000,HARD,11.0,1.0,15.0,82.874,2024,Emilia Romagna
+ZHO,Kick Sauber,12.0,0 days 00:01:23.192000,HARD,12.0,1.0,14.0,83.192,2024,Emilia Romagna
+ZHO,Kick Sauber,13.0,0 days 00:01:23.067000,HARD,13.0,1.0,13.0,83.067,2024,Emilia Romagna
+ZHO,Kick Sauber,14.0,0 days 00:01:22.802000,HARD,14.0,1.0,12.0,82.802,2024,Emilia Romagna
+ZHO,Kick Sauber,15.0,0 days 00:01:22.832000,HARD,15.0,1.0,12.0,82.832,2024,Emilia Romagna
+ZHO,Kick Sauber,16.0,0 days 00:01:22.789000,HARD,16.0,1.0,12.0,82.789,2024,Emilia Romagna
+ZHO,Kick Sauber,17.0,0 days 00:01:23.033000,HARD,17.0,1.0,12.0,83.033,2024,Emilia Romagna
+ZHO,Kick Sauber,18.0,0 days 00:01:23.106000,HARD,18.0,1.0,12.0,83.106,2024,Emilia Romagna
+ZHO,Kick Sauber,19.0,0 days 00:01:23.179000,HARD,19.0,1.0,12.0,83.179,2024,Emilia Romagna
+ZHO,Kick Sauber,20.0,0 days 00:01:23.207000,HARD,20.0,1.0,12.0,83.207,2024,Emilia Romagna
+ZHO,Kick Sauber,21.0,0 days 00:01:23.217000,HARD,21.0,1.0,12.0,83.217,2024,Emilia Romagna
+ZHO,Kick Sauber,22.0,0 days 00:01:23.261000,HARD,22.0,1.0,12.0,83.261,2024,Emilia Romagna
+ZHO,Kick Sauber,23.0,0 days 00:01:23.020000,HARD,23.0,1.0,12.0,83.02,2024,Emilia Romagna
+ZHO,Kick Sauber,24.0,0 days 00:01:23.021000,HARD,24.0,1.0,12.0,83.021,2024,Emilia Romagna
+ZHO,Kick Sauber,25.0,0 days 00:01:23.360000,HARD,25.0,1.0,12.0,83.36,2024,Emilia Romagna
+ZHO,Kick Sauber,26.0,0 days 00:01:23.041000,HARD,26.0,1.0,11.0,83.041,2024,Emilia Romagna
+ZHO,Kick Sauber,27.0,0 days 00:01:22.929000,HARD,27.0,1.0,11.0,82.929,2024,Emilia Romagna
+ZHO,Kick Sauber,28.0,0 days 00:01:22.921000,HARD,28.0,1.0,11.0,82.921,2024,Emilia Romagna
+ZHO,Kick Sauber,29.0,0 days 00:01:23.118000,HARD,29.0,1.0,11.0,83.118,2024,Emilia Romagna
+ZHO,Kick Sauber,30.0,0 days 00:01:23.117000,HARD,30.0,1.0,11.0,83.117,2024,Emilia Romagna
+ZHO,Kick Sauber,31.0,0 days 00:01:23.326000,HARD,31.0,1.0,11.0,83.326,2024,Emilia Romagna
+ZHO,Kick Sauber,32.0,0 days 00:01:23.806000,HARD,32.0,1.0,11.0,83.806,2024,Emilia Romagna
+ZHO,Kick Sauber,33.0,0 days 00:01:29.428000,HARD,33.0,1.0,14.0,89.428,2024,Emilia Romagna
+ZHO,Kick Sauber,34.0,0 days 00:01:45.170000,MEDIUM,1.0,2.0,17.0,105.17,2024,Emilia Romagna
+ZHO,Kick Sauber,35.0,0 days 00:01:21.317000,MEDIUM,2.0,2.0,17.0,81.317,2024,Emilia Romagna
+ZHO,Kick Sauber,36.0,0 days 00:01:23.077000,MEDIUM,3.0,2.0,17.0,83.077,2024,Emilia Romagna
+ZHO,Kick Sauber,37.0,0 days 00:01:21.016000,MEDIUM,4.0,2.0,17.0,81.016,2024,Emilia Romagna
+ZHO,Kick Sauber,38.0,0 days 00:01:21.549000,MEDIUM,5.0,2.0,16.0,81.549,2024,Emilia Romagna
+ZHO,Kick Sauber,39.0,0 days 00:01:21.580000,MEDIUM,6.0,2.0,16.0,81.58,2024,Emilia Romagna
+ZHO,Kick Sauber,40.0,0 days 00:01:21.914000,MEDIUM,7.0,2.0,16.0,81.914,2024,Emilia Romagna
+ZHO,Kick Sauber,41.0,0 days 00:01:21.383000,MEDIUM,8.0,2.0,15.0,81.383,2024,Emilia Romagna
+ZHO,Kick Sauber,42.0,0 days 00:01:22.007000,MEDIUM,9.0,2.0,15.0,82.007,2024,Emilia Romagna
+ZHO,Kick Sauber,43.0,0 days 00:01:23.860000,MEDIUM,10.0,2.0,15.0,83.86,2024,Emilia Romagna
+ZHO,Kick Sauber,44.0,0 days 00:01:21.230000,MEDIUM,11.0,2.0,15.0,81.23,2024,Emilia Romagna
+ZHO,Kick Sauber,45.0,0 days 00:01:21.651000,MEDIUM,12.0,2.0,15.0,81.651,2024,Emilia Romagna
+ZHO,Kick Sauber,46.0,0 days 00:01:21.675000,MEDIUM,13.0,2.0,15.0,81.675,2024,Emilia Romagna
+ZHO,Kick Sauber,47.0,0 days 00:01:21.817000,MEDIUM,14.0,2.0,15.0,81.817,2024,Emilia Romagna
+ZHO,Kick Sauber,48.0,0 days 00:01:24.342000,MEDIUM,15.0,2.0,16.0,84.342,2024,Emilia Romagna
+ZHO,Kick Sauber,49.0,0 days 00:01:21.934000,MEDIUM,16.0,2.0,16.0,81.934,2024,Emilia Romagna
+ZHO,Kick Sauber,50.0,0 days 00:01:22.488000,MEDIUM,17.0,2.0,16.0,82.488,2024,Emilia Romagna
+ZHO,Kick Sauber,51.0,0 days 00:01:24.214000,MEDIUM,18.0,2.0,16.0,84.214,2024,Emilia Romagna
+ZHO,Kick Sauber,52.0,0 days 00:01:22.640000,MEDIUM,19.0,2.0,16.0,82.64,2024,Emilia Romagna
+ZHO,Kick Sauber,53.0,0 days 00:01:22.802000,MEDIUM,20.0,2.0,16.0,82.802,2024,Emilia Romagna
+ZHO,Kick Sauber,54.0,0 days 00:01:24.084000,MEDIUM,21.0,2.0,16.0,84.084,2024,Emilia Romagna
+ZHO,Kick Sauber,55.0,0 days 00:01:22.694000,MEDIUM,22.0,2.0,16.0,82.694,2024,Emilia Romagna
+ZHO,Kick Sauber,56.0,0 days 00:01:22.942000,MEDIUM,23.0,2.0,16.0,82.942,2024,Emilia Romagna
+ZHO,Kick Sauber,57.0,0 days 00:01:23.906000,MEDIUM,24.0,2.0,16.0,83.906,2024,Emilia Romagna
+ZHO,Kick Sauber,58.0,0 days 00:01:22.975000,MEDIUM,25.0,2.0,16.0,82.975,2024,Emilia Romagna
+ZHO,Kick Sauber,59.0,0 days 00:01:23.701000,MEDIUM,26.0,2.0,16.0,83.701,2024,Emilia Romagna
+ZHO,Kick Sauber,60.0,0 days 00:01:21.770000,MEDIUM,27.0,2.0,15.0,81.77,2024,Emilia Romagna
+ZHO,Kick Sauber,61.0,0 days 00:01:21.563000,MEDIUM,28.0,2.0,15.0,81.563,2024,Emilia Romagna
+ZHO,Kick Sauber,62.0,0 days 00:01:21.489000,MEDIUM,29.0,2.0,15.0,81.489,2024,Emilia Romagna
+GAS,Alpine,1.0,0 days 00:01:31.369000,SOFT,1.0,1.0,15.0,91.369,2024,Emilia Romagna
+GAS,Alpine,2.0,0 days 00:01:23.214000,SOFT,2.0,1.0,15.0,83.214,2024,Emilia Romagna
+GAS,Alpine,3.0,0 days 00:01:22.752000,SOFT,3.0,1.0,15.0,82.752,2024,Emilia Romagna
+GAS,Alpine,4.0,0 days 00:01:22.706000,SOFT,4.0,1.0,15.0,82.706,2024,Emilia Romagna
+GAS,Alpine,5.0,0 days 00:01:22.483000,SOFT,5.0,1.0,15.0,82.483,2024,Emilia Romagna
+GAS,Alpine,6.0,0 days 00:01:22.399000,SOFT,6.0,1.0,15.0,82.399,2024,Emilia Romagna
+GAS,Alpine,7.0,0 days 00:01:22.439000,SOFT,7.0,1.0,15.0,82.439,2024,Emilia Romagna
+GAS,Alpine,8.0,0 days 00:01:26.945000,SOFT,8.0,1.0,18.0,86.945,2024,Emilia Romagna
+GAS,Alpine,9.0,0 days 00:01:45.303000,HARD,1.0,2.0,17.0,105.303,2024,Emilia Romagna
+GAS,Alpine,10.0,0 days 00:01:21.371000,HARD,2.0,2.0,17.0,81.371,2024,Emilia Romagna
+GAS,Alpine,11.0,0 days 00:01:21.502000,HARD,3.0,2.0,17.0,81.502,2024,Emilia Romagna
+GAS,Alpine,12.0,0 days 00:01:21.906000,HARD,4.0,2.0,17.0,81.906,2024,Emilia Romagna
+GAS,Alpine,13.0,0 days 00:01:22.007000,HARD,5.0,2.0,17.0,82.007,2024,Emilia Romagna
+GAS,Alpine,14.0,0 days 00:01:21.839000,HARD,6.0,2.0,17.0,81.839,2024,Emilia Romagna
+GAS,Alpine,15.0,0 days 00:01:21.955000,HARD,7.0,2.0,17.0,81.955,2024,Emilia Romagna
+GAS,Alpine,16.0,0 days 00:01:22.152000,HARD,8.0,2.0,17.0,82.152,2024,Emilia Romagna
+GAS,Alpine,17.0,0 days 00:01:22.391000,HARD,9.0,2.0,17.0,82.391,2024,Emilia Romagna
+GAS,Alpine,18.0,0 days 00:01:22.419000,HARD,10.0,2.0,17.0,82.419,2024,Emilia Romagna
+GAS,Alpine,19.0,0 days 00:01:22.231000,HARD,11.0,2.0,17.0,82.231,2024,Emilia Romagna
+GAS,Alpine,20.0,0 days 00:01:22.233000,HARD,12.0,2.0,17.0,82.233,2024,Emilia Romagna
+GAS,Alpine,21.0,0 days 00:01:22.440000,HARD,13.0,2.0,17.0,82.44,2024,Emilia Romagna
+GAS,Alpine,22.0,0 days 00:01:22.296000,HARD,14.0,2.0,17.0,82.296,2024,Emilia Romagna
+GAS,Alpine,23.0,0 days 00:01:22.614000,HARD,15.0,2.0,17.0,82.614,2024,Emilia Romagna
+GAS,Alpine,24.0,0 days 00:01:22.518000,HARD,16.0,2.0,17.0,82.518,2024,Emilia Romagna
+GAS,Alpine,25.0,0 days 00:01:22.607000,HARD,17.0,2.0,17.0,82.607,2024,Emilia Romagna
+GAS,Alpine,26.0,0 days 00:01:22.757000,HARD,18.0,2.0,16.0,82.757,2024,Emilia Romagna
+GAS,Alpine,27.0,0 days 00:01:22.721000,HARD,19.0,2.0,16.0,82.721,2024,Emilia Romagna
+GAS,Alpine,28.0,0 days 00:01:23.109000,HARD,20.0,2.0,16.0,83.109,2024,Emilia Romagna
+GAS,Alpine,29.0,0 days 00:01:23.551000,HARD,21.0,2.0,16.0,83.551,2024,Emilia Romagna
+GAS,Alpine,30.0,0 days 00:01:27.963000,HARD,22.0,2.0,17.0,87.963,2024,Emilia Romagna
+GAS,Alpine,31.0,0 days 00:01:44.669000,MEDIUM,1.0,3.0,19.0,104.669,2024,Emilia Romagna
+GAS,Alpine,32.0,0 days 00:01:21.407000,MEDIUM,2.0,3.0,18.0,81.407,2024,Emilia Romagna
+GAS,Alpine,33.0,0 days 00:01:21.633000,MEDIUM,3.0,3.0,18.0,81.633,2024,Emilia Romagna
+GAS,Alpine,34.0,0 days 00:01:21.706000,MEDIUM,4.0,3.0,18.0,81.706,2024,Emilia Romagna
+GAS,Alpine,35.0,0 days 00:01:23.386000,MEDIUM,5.0,3.0,18.0,83.386,2024,Emilia Romagna
+GAS,Alpine,36.0,0 days 00:01:21.485000,MEDIUM,6.0,3.0,18.0,81.485,2024,Emilia Romagna
+GAS,Alpine,37.0,0 days 00:01:21.658000,MEDIUM,7.0,3.0,18.0,81.658,2024,Emilia Romagna
+GAS,Alpine,38.0,0 days 00:01:21.667000,MEDIUM,8.0,3.0,18.0,81.667,2024,Emilia Romagna
+GAS,Alpine,39.0,0 days 00:01:21.622000,MEDIUM,9.0,3.0,18.0,81.622,2024,Emilia Romagna
+GAS,Alpine,40.0,0 days 00:01:23.459000,MEDIUM,10.0,3.0,18.0,83.459,2024,Emilia Romagna
+GAS,Alpine,41.0,0 days 00:01:23.030000,MEDIUM,11.0,3.0,17.0,83.03,2024,Emilia Romagna
+GAS,Alpine,42.0,0 days 00:01:23.721000,MEDIUM,12.0,3.0,17.0,83.721,2024,Emilia Romagna
+GAS,Alpine,43.0,0 days 00:01:21.633000,MEDIUM,13.0,3.0,17.0,81.633,2024,Emilia Romagna
+GAS,Alpine,44.0,0 days 00:01:21.908000,MEDIUM,14.0,3.0,17.0,81.908,2024,Emilia Romagna
+GAS,Alpine,45.0,0 days 00:01:23.463000,MEDIUM,15.0,3.0,17.0,83.463,2024,Emilia Romagna
+GAS,Alpine,46.0,0 days 00:01:22.874000,MEDIUM,16.0,3.0,17.0,82.874,2024,Emilia Romagna
+GAS,Alpine,47.0,0 days 00:01:22.242000,MEDIUM,17.0,3.0,17.0,82.242,2024,Emilia Romagna
+GAS,Alpine,48.0,0 days 00:01:21.850000,MEDIUM,18.0,3.0,17.0,81.85,2024,Emilia Romagna
+GAS,Alpine,49.0,0 days 00:01:21.981000,MEDIUM,19.0,3.0,17.0,81.981,2024,Emilia Romagna
+GAS,Alpine,50.0,0 days 00:01:21.905000,MEDIUM,20.0,3.0,17.0,81.905,2024,Emilia Romagna
+GAS,Alpine,51.0,0 days 00:01:22.176000,MEDIUM,21.0,3.0,17.0,82.176,2024,Emilia Romagna
+GAS,Alpine,52.0,0 days 00:01:22.187000,MEDIUM,22.0,3.0,17.0,82.187,2024,Emilia Romagna
+GAS,Alpine,53.0,0 days 00:01:21.945000,MEDIUM,23.0,3.0,17.0,81.945,2024,Emilia Romagna
+GAS,Alpine,54.0,0 days 00:01:22.249000,MEDIUM,24.0,3.0,17.0,82.249,2024,Emilia Romagna
+GAS,Alpine,55.0,0 days 00:01:22.530000,MEDIUM,25.0,3.0,17.0,82.53,2024,Emilia Romagna
+GAS,Alpine,56.0,0 days 00:01:23.800000,MEDIUM,26.0,3.0,17.0,83.8,2024,Emilia Romagna
+GAS,Alpine,57.0,0 days 00:01:22.959000,MEDIUM,27.0,3.0,17.0,82.959,2024,Emilia Romagna
+GAS,Alpine,58.0,0 days 00:01:23.004000,MEDIUM,28.0,3.0,17.0,83.004,2024,Emilia Romagna
+GAS,Alpine,59.0,0 days 00:01:23.449000,MEDIUM,29.0,3.0,17.0,83.449,2024,Emilia Romagna
+GAS,Alpine,60.0,0 days 00:01:24.010000,MEDIUM,30.0,3.0,17.0,84.01,2024,Emilia Romagna
+GAS,Alpine,61.0,0 days 00:01:23.355000,MEDIUM,31.0,3.0,16.0,83.355,2024,Emilia Romagna
+GAS,Alpine,62.0,0 days 00:01:21.812000,MEDIUM,32.0,3.0,16.0,81.812,2024,Emilia Romagna
+SAR,Williams,1.0,0 days 00:01:33.076000,HARD,1.0,1.0,19.0,93.076,2024,Emilia Romagna
+SAR,Williams,2.0,0 days 00:01:24.242000,HARD,2.0,1.0,19.0,84.242,2024,Emilia Romagna
+SAR,Williams,3.0,0 days 00:01:22.784000,HARD,3.0,1.0,19.0,82.784,2024,Emilia Romagna
+SAR,Williams,4.0,0 days 00:01:22.990000,HARD,4.0,1.0,19.0,82.99,2024,Emilia Romagna
+SAR,Williams,5.0,0 days 00:01:22.702000,HARD,5.0,1.0,19.0,82.702,2024,Emilia Romagna
+SAR,Williams,6.0,0 days 00:01:22.755000,HARD,6.0,1.0,19.0,82.755,2024,Emilia Romagna
+SAR,Williams,7.0,0 days 00:01:22.978000,HARD,7.0,1.0,19.0,82.978,2024,Emilia Romagna
+SAR,Williams,8.0,0 days 00:01:22.776000,HARD,8.0,1.0,17.0,82.776,2024,Emilia Romagna
+SAR,Williams,9.0,0 days 00:01:23.268000,HARD,9.0,1.0,16.0,83.268,2024,Emilia Romagna
+SAR,Williams,10.0,0 days 00:01:23.239000,HARD,10.0,1.0,16.0,83.239,2024,Emilia Romagna
+SAR,Williams,11.0,0 days 00:01:23.211000,HARD,11.0,1.0,16.0,83.211,2024,Emilia Romagna
+SAR,Williams,12.0,0 days 00:01:23.349000,HARD,12.0,1.0,15.0,83.349,2024,Emilia Romagna
+SAR,Williams,13.0,0 days 00:01:23.581000,HARD,13.0,1.0,14.0,83.581,2024,Emilia Romagna
+SAR,Williams,14.0,0 days 00:01:23.012000,HARD,14.0,1.0,13.0,83.012,2024,Emilia Romagna
+SAR,Williams,15.0,0 days 00:01:23.038000,HARD,15.0,1.0,13.0,83.038,2024,Emilia Romagna
+SAR,Williams,16.0,0 days 00:01:22.939000,HARD,16.0,1.0,13.0,82.939,2024,Emilia Romagna
+SAR,Williams,17.0,0 days 00:01:23.151000,HARD,17.0,1.0,13.0,83.151,2024,Emilia Romagna
+SAR,Williams,18.0,0 days 00:01:23.363000,HARD,18.0,1.0,13.0,83.363,2024,Emilia Romagna
+SAR,Williams,19.0,0 days 00:01:23.471000,HARD,19.0,1.0,13.0,83.471,2024,Emilia Romagna
+SAR,Williams,20.0,0 days 00:01:23.171000,HARD,20.0,1.0,13.0,83.171,2024,Emilia Romagna
+SAR,Williams,21.0,0 days 00:01:23.255000,HARD,21.0,1.0,13.0,83.255,2024,Emilia Romagna
+SAR,Williams,22.0,0 days 00:01:23.287000,HARD,22.0,1.0,13.0,83.287,2024,Emilia Romagna
+SAR,Williams,23.0,0 days 00:01:22.953000,HARD,23.0,1.0,13.0,82.953,2024,Emilia Romagna
+SAR,Williams,24.0,0 days 00:01:22.987000,HARD,24.0,1.0,13.0,82.987,2024,Emilia Romagna
+SAR,Williams,25.0,0 days 00:01:23.248000,HARD,25.0,1.0,13.0,83.248,2024,Emilia Romagna
+SAR,Williams,26.0,0 days 00:01:25.354000,HARD,26.0,1.0,14.0,85.354,2024,Emilia Romagna
+SAR,Williams,27.0,0 days 00:01:23.498000,HARD,27.0,1.0,14.0,83.498,2024,Emilia Romagna
+SAR,Williams,28.0,0 days 00:01:23.234000,HARD,28.0,1.0,14.0,83.234,2024,Emilia Romagna
+SAR,Williams,29.0,0 days 00:01:23.436000,HARD,29.0,1.0,14.0,83.436,2024,Emilia Romagna
+SAR,Williams,30.0,0 days 00:01:24.026000,HARD,30.0,1.0,14.0,84.026,2024,Emilia Romagna
+SAR,Williams,31.0,0 days 00:01:28.215000,HARD,31.0,1.0,16.0,88.215,2024,Emilia Romagna
+SAR,Williams,32.0,0 days 00:01:48.212000,MEDIUM,1.0,2.0,19.0,108.212,2024,Emilia Romagna
+SAR,Williams,33.0,0 days 00:01:21.460000,MEDIUM,2.0,2.0,19.0,81.46,2024,Emilia Romagna
+SAR,Williams,34.0,0 days 00:01:21.607000,MEDIUM,3.0,2.0,19.0,81.607,2024,Emilia Romagna
+SAR,Williams,35.0,0 days 00:01:21.561000,MEDIUM,4.0,2.0,19.0,81.561,2024,Emilia Romagna
+SAR,Williams,36.0,0 days 00:01:21.629000,MEDIUM,5.0,2.0,19.0,81.629,2024,Emilia Romagna
+SAR,Williams,37.0,0 days 00:01:22.964000,MEDIUM,6.0,2.0,19.0,82.964,2024,Emilia Romagna
+SAR,Williams,38.0,0 days 00:01:23.089000,MEDIUM,7.0,2.0,19.0,83.089,2024,Emilia Romagna
+SAR,Williams,39.0,0 days 00:01:23.085000,MEDIUM,8.0,2.0,19.0,83.085,2024,Emilia Romagna
+SAR,Williams,40.0,0 days 00:01:21.335000,MEDIUM,9.0,2.0,19.0,81.335,2024,Emilia Romagna
+SAR,Williams,41.0,0 days 00:01:21.504000,MEDIUM,10.0,2.0,18.0,81.504,2024,Emilia Romagna
+SAR,Williams,42.0,0 days 00:01:21.496000,MEDIUM,11.0,2.0,18.0,81.496,2024,Emilia Romagna
+SAR,Williams,43.0,0 days 00:01:21.857000,MEDIUM,12.0,2.0,18.0,81.857,2024,Emilia Romagna
+SAR,Williams,44.0,0 days 00:01:23.923000,MEDIUM,13.0,2.0,18.0,83.923,2024,Emilia Romagna
+SAR,Williams,45.0,0 days 00:01:22.435000,MEDIUM,14.0,2.0,18.0,82.435,2024,Emilia Romagna
+SAR,Williams,46.0,0 days 00:01:22.333000,MEDIUM,15.0,2.0,18.0,82.333,2024,Emilia Romagna
+SAR,Williams,47.0,0 days 00:01:22.308000,MEDIUM,16.0,2.0,18.0,82.308,2024,Emilia Romagna
+SAR,Williams,48.0,0 days 00:01:22.186000,MEDIUM,17.0,2.0,18.0,82.186,2024,Emilia Romagna
+SAR,Williams,49.0,0 days 00:01:23.806000,MEDIUM,18.0,2.0,18.0,83.806,2024,Emilia Romagna
+SAR,Williams,50.0,0 days 00:01:22.079000,MEDIUM,19.0,2.0,18.0,82.079,2024,Emilia Romagna
+SAR,Williams,51.0,0 days 00:01:22.157000,MEDIUM,20.0,2.0,18.0,82.157,2024,Emilia Romagna
+SAR,Williams,52.0,0 days 00:01:24.123000,MEDIUM,21.0,2.0,19.0,84.123,2024,Emilia Romagna
+SAR,Williams,53.0,0 days 00:01:21.502000,MEDIUM,22.0,2.0,19.0,81.502,2024,Emilia Romagna
+SAR,Williams,54.0,0 days 00:01:21.410000,MEDIUM,23.0,2.0,19.0,81.41,2024,Emilia Romagna
+SAR,Williams,55.0,0 days 00:01:21.229000,MEDIUM,24.0,2.0,19.0,81.229,2024,Emilia Romagna
+SAR,Williams,56.0,0 days 00:01:21.883000,MEDIUM,25.0,2.0,19.0,81.883,2024,Emilia Romagna
+SAR,Williams,57.0,0 days 00:01:22.671000,MEDIUM,26.0,2.0,19.0,82.671,2024,Emilia Romagna
+SAR,Williams,58.0,0 days 00:01:22.915000,MEDIUM,27.0,2.0,19.0,82.915,2024,Emilia Romagna
+SAR,Williams,59.0,0 days 00:01:23.522000,MEDIUM,28.0,2.0,18.0,83.522,2024,Emilia Romagna
+SAR,Williams,60.0,0 days 00:01:23.767000,MEDIUM,29.0,2.0,18.0,83.767,2024,Emilia Romagna
+SAR,Williams,61.0,0 days 00:01:24.394000,MEDIUM,30.0,2.0,17.0,84.394,2024,Emilia Romagna
+SAR,Williams,62.0,0 days 00:01:21.272000,MEDIUM,31.0,2.0,17.0,81.272,2024,Emilia Romagna
+BOT,Kick Sauber,1.0,0 days 00:01:32.273000,MEDIUM,1.0,1.0,17.0,92.273,2024,Emilia Romagna
+BOT,Kick Sauber,2.0,0 days 00:01:23.624000,MEDIUM,2.0,1.0,17.0,83.624,2024,Emilia Romagna
+BOT,Kick Sauber,3.0,0 days 00:01:22.762000,MEDIUM,3.0,1.0,17.0,82.762,2024,Emilia Romagna
+BOT,Kick Sauber,4.0,0 days 00:01:22.786000,MEDIUM,4.0,1.0,17.0,82.786,2024,Emilia Romagna
+BOT,Kick Sauber,5.0,0 days 00:01:22.794000,MEDIUM,5.0,1.0,17.0,82.794,2024,Emilia Romagna
+BOT,Kick Sauber,6.0,0 days 00:01:22.415000,MEDIUM,6.0,1.0,17.0,82.415,2024,Emilia Romagna
+BOT,Kick Sauber,7.0,0 days 00:01:22.568000,MEDIUM,7.0,1.0,17.0,82.568,2024,Emilia Romagna
+BOT,Kick Sauber,8.0,0 days 00:01:27.265000,MEDIUM,8.0,1.0,19.0,87.265,2024,Emilia Romagna
+BOT,Kick Sauber,9.0,0 days 00:01:45.836000,HARD,1.0,2.0,18.0,105.836,2024,Emilia Romagna
+BOT,Kick Sauber,10.0,0 days 00:01:21.529000,HARD,2.0,2.0,18.0,81.529,2024,Emilia Romagna
+BOT,Kick Sauber,11.0,0 days 00:01:21.455000,HARD,3.0,2.0,18.0,81.455,2024,Emilia Romagna
+BOT,Kick Sauber,12.0,0 days 00:01:21.971000,HARD,4.0,2.0,18.0,81.971,2024,Emilia Romagna
+BOT,Kick Sauber,13.0,0 days 00:01:21.605000,HARD,5.0,2.0,18.0,81.605,2024,Emilia Romagna
+BOT,Kick Sauber,14.0,0 days 00:01:21.732000,HARD,6.0,2.0,18.0,81.732,2024,Emilia Romagna
+BOT,Kick Sauber,15.0,0 days 00:01:21.982000,HARD,7.0,2.0,18.0,81.982,2024,Emilia Romagna
+BOT,Kick Sauber,16.0,0 days 00:01:21.896000,HARD,8.0,2.0,18.0,81.896,2024,Emilia Romagna
+BOT,Kick Sauber,17.0,0 days 00:01:22.468000,HARD,9.0,2.0,18.0,82.468,2024,Emilia Romagna
+BOT,Kick Sauber,18.0,0 days 00:01:22.360000,HARD,10.0,2.0,18.0,82.36,2024,Emilia Romagna
+BOT,Kick Sauber,19.0,0 days 00:01:22.283000,HARD,11.0,2.0,18.0,82.283,2024,Emilia Romagna
+BOT,Kick Sauber,20.0,0 days 00:01:22.239000,HARD,12.0,2.0,18.0,82.239,2024,Emilia Romagna
+BOT,Kick Sauber,21.0,0 days 00:01:22.231000,HARD,13.0,2.0,18.0,82.231,2024,Emilia Romagna
+BOT,Kick Sauber,22.0,0 days 00:01:22.436000,HARD,14.0,2.0,18.0,82.436,2024,Emilia Romagna
+BOT,Kick Sauber,23.0,0 days 00:01:22.334000,HARD,15.0,2.0,18.0,82.334,2024,Emilia Romagna
+BOT,Kick Sauber,24.0,0 days 00:01:22.589000,HARD,16.0,2.0,18.0,82.589,2024,Emilia Romagna
+BOT,Kick Sauber,25.0,0 days 00:01:22.605000,HARD,17.0,2.0,18.0,82.605,2024,Emilia Romagna
+BOT,Kick Sauber,26.0,0 days 00:01:22.655000,HARD,18.0,2.0,17.0,82.655,2024,Emilia Romagna
+BOT,Kick Sauber,27.0,0 days 00:01:22.583000,HARD,19.0,2.0,17.0,82.583,2024,Emilia Romagna
+BOT,Kick Sauber,28.0,0 days 00:01:22.969000,HARD,20.0,2.0,17.0,82.969,2024,Emilia Romagna
+BOT,Kick Sauber,29.0,0 days 00:01:23.139000,HARD,21.0,2.0,17.0,83.139,2024,Emilia Romagna
+BOT,Kick Sauber,30.0,0 days 00:01:23.276000,HARD,22.0,2.0,16.0,83.276,2024,Emilia Romagna
+BOT,Kick Sauber,31.0,0 days 00:01:22.862000,HARD,23.0,2.0,15.0,82.862,2024,Emilia Romagna
+BOT,Kick Sauber,32.0,0 days 00:01:22.673000,HARD,24.0,2.0,15.0,82.673,2024,Emilia Romagna
+BOT,Kick Sauber,33.0,0 days 00:01:23.028000,HARD,25.0,2.0,15.0,83.028,2024,Emilia Romagna
+BOT,Kick Sauber,34.0,0 days 00:01:22.761000,HARD,26.0,2.0,14.0,82.761,2024,Emilia Romagna
+BOT,Kick Sauber,35.0,0 days 00:01:22.683000,HARD,27.0,2.0,14.0,82.683,2024,Emilia Romagna
+BOT,Kick Sauber,36.0,0 days 00:01:22.756000,HARD,28.0,2.0,14.0,82.756,2024,Emilia Romagna
+BOT,Kick Sauber,37.0,0 days 00:01:22.718000,HARD,29.0,2.0,14.0,82.718,2024,Emilia Romagna
+BOT,Kick Sauber,38.0,0 days 00:01:22.620000,HARD,30.0,2.0,12.0,82.62,2024,Emilia Romagna
+BOT,Kick Sauber,39.0,0 days 00:01:22.823000,HARD,31.0,2.0,12.0,82.823,2024,Emilia Romagna
+BOT,Kick Sauber,40.0,0 days 00:01:23.805000,HARD,32.0,2.0,13.0,83.805,2024,Emilia Romagna
+BOT,Kick Sauber,41.0,0 days 00:01:22.798000,HARD,33.0,2.0,13.0,82.798,2024,Emilia Romagna
+BOT,Kick Sauber,42.0,0 days 00:01:22.709000,HARD,34.0,2.0,13.0,82.709,2024,Emilia Romagna
+BOT,Kick Sauber,43.0,0 days 00:01:22.686000,HARD,35.0,2.0,13.0,82.686,2024,Emilia Romagna
+BOT,Kick Sauber,44.0,0 days 00:01:22.681000,HARD,36.0,2.0,13.0,82.681,2024,Emilia Romagna
+BOT,Kick Sauber,45.0,0 days 00:01:24.419000,HARD,37.0,2.0,13.0,84.419,2024,Emilia Romagna
+BOT,Kick Sauber,46.0,0 days 00:01:23.857000,HARD,38.0,2.0,13.0,83.857,2024,Emilia Romagna
+BOT,Kick Sauber,47.0,0 days 00:01:25.739000,HARD,39.0,2.0,13.0,85.739,2024,Emilia Romagna
+BOT,Kick Sauber,48.0,0 days 00:01:22.396000,HARD,40.0,2.0,13.0,82.396,2024,Emilia Romagna
+BOT,Kick Sauber,49.0,0 days 00:01:22.636000,HARD,41.0,2.0,13.0,82.636,2024,Emilia Romagna
+BOT,Kick Sauber,50.0,0 days 00:01:23.889000,HARD,42.0,2.0,13.0,83.889,2024,Emilia Romagna
+BOT,Kick Sauber,51.0,0 days 00:01:23.709000,HARD,43.0,2.0,14.0,83.709,2024,Emilia Romagna
+BOT,Kick Sauber,52.0,0 days 00:01:24.074000,HARD,44.0,2.0,14.0,84.074,2024,Emilia Romagna
+BOT,Kick Sauber,53.0,0 days 00:01:22.947000,HARD,45.0,2.0,14.0,82.947,2024,Emilia Romagna
+BOT,Kick Sauber,54.0,0 days 00:01:23.616000,HARD,46.0,2.0,14.0,83.616,2024,Emilia Romagna
+BOT,Kick Sauber,55.0,0 days 00:01:23.010000,HARD,47.0,2.0,14.0,83.01,2024,Emilia Romagna
+BOT,Kick Sauber,56.0,0 days 00:01:22.917000,HARD,48.0,2.0,14.0,82.917,2024,Emilia Romagna
+BOT,Kick Sauber,57.0,0 days 00:01:24.466000,HARD,49.0,2.0,14.0,84.466,2024,Emilia Romagna
+BOT,Kick Sauber,58.0,0 days 00:01:22.528000,HARD,50.0,2.0,14.0,82.528,2024,Emilia Romagna
+BOT,Kick Sauber,59.0,0 days 00:01:24.530000,HARD,51.0,2.0,15.0,84.53,2024,Emilia Romagna
+BOT,Kick Sauber,60.0,0 days 00:01:24.449000,HARD,52.0,2.0,16.0,84.449,2024,Emilia Romagna
+BOT,Kick Sauber,61.0,0 days 00:01:26.165000,HARD,53.0,2.0,18.0,86.165,2024,Emilia Romagna
+BOT,Kick Sauber,62.0,0 days 00:01:25.985000,HARD,54.0,2.0,18.0,85.985,2024,Emilia Romagna
+ALO,Aston Martin,1.0,0 days 00:01:33.648000,SOFT,1.0,1.0,20.0,93.648,2024,Emilia Romagna
+ALO,Aston Martin,2.0,0 days 00:01:24.186000,SOFT,2.0,1.0,20.0,84.186,2024,Emilia Romagna
+ALO,Aston Martin,3.0,0 days 00:01:23.009000,SOFT,3.0,1.0,20.0,83.009,2024,Emilia Romagna
+ALO,Aston Martin,4.0,0 days 00:01:23.071000,SOFT,4.0,1.0,20.0,83.071,2024,Emilia Romagna
+ALO,Aston Martin,5.0,0 days 00:01:22.698000,SOFT,5.0,1.0,20.0,82.698,2024,Emilia Romagna
+ALO,Aston Martin,6.0,0 days 00:01:22.762000,SOFT,6.0,1.0,20.0,82.762,2024,Emilia Romagna
+ALO,Aston Martin,7.0,0 days 00:01:27.448000,SOFT,7.0,1.0,20.0,87.448,2024,Emilia Romagna
+ALO,Aston Martin,8.0,0 days 00:01:45.880000,HARD,2.0,2.0,20.0,105.88,2024,Emilia Romagna
+ALO,Aston Martin,9.0,0 days 00:01:21.716000,HARD,3.0,2.0,19.0,81.716,2024,Emilia Romagna
+ALO,Aston Martin,10.0,0 days 00:01:21.492000,HARD,4.0,2.0,19.0,81.492,2024,Emilia Romagna
+ALO,Aston Martin,11.0,0 days 00:01:21.680000,HARD,5.0,2.0,19.0,81.68,2024,Emilia Romagna
+ALO,Aston Martin,12.0,0 days 00:01:21.728000,HARD,6.0,2.0,19.0,81.728,2024,Emilia Romagna
+ALO,Aston Martin,13.0,0 days 00:01:21.644000,HARD,7.0,2.0,19.0,81.644,2024,Emilia Romagna
+ALO,Aston Martin,14.0,0 days 00:01:21.690000,HARD,8.0,2.0,19.0,81.69,2024,Emilia Romagna
+ALO,Aston Martin,15.0,0 days 00:01:21.930000,HARD,9.0,2.0,19.0,81.93,2024,Emilia Romagna
+ALO,Aston Martin,16.0,0 days 00:01:21.851000,HARD,10.0,2.0,19.0,81.851,2024,Emilia Romagna
+ALO,Aston Martin,17.0,0 days 00:01:22.650000,HARD,11.0,2.0,19.0,82.65,2024,Emilia Romagna
+ALO,Aston Martin,18.0,0 days 00:01:22.390000,HARD,12.0,2.0,19.0,82.39,2024,Emilia Romagna
+ALO,Aston Martin,19.0,0 days 00:01:22.686000,HARD,13.0,2.0,19.0,82.686,2024,Emilia Romagna
+ALO,Aston Martin,20.0,0 days 00:01:22.909000,HARD,14.0,2.0,19.0,82.909,2024,Emilia Romagna
+ALO,Aston Martin,21.0,0 days 00:01:24.339000,HARD,15.0,2.0,19.0,84.339,2024,Emilia Romagna
+ALO,Aston Martin,22.0,0 days 00:01:23.368000,HARD,16.0,2.0,19.0,83.368,2024,Emilia Romagna
+ALO,Aston Martin,23.0,0 days 00:01:22.938000,HARD,17.0,2.0,19.0,82.938,2024,Emilia Romagna
+ALO,Aston Martin,24.0,0 days 00:01:22.961000,HARD,18.0,2.0,19.0,82.961,2024,Emilia Romagna
+ALO,Aston Martin,25.0,0 days 00:01:22.953000,HARD,19.0,2.0,19.0,82.953,2024,Emilia Romagna
+ALO,Aston Martin,26.0,0 days 00:01:22.911000,HARD,20.0,2.0,18.0,82.911,2024,Emilia Romagna
+ALO,Aston Martin,27.0,0 days 00:01:22.757000,HARD,21.0,2.0,18.0,82.757,2024,Emilia Romagna
+ALO,Aston Martin,28.0,0 days 00:01:22.927000,HARD,22.0,2.0,18.0,82.927,2024,Emilia Romagna
+ALO,Aston Martin,29.0,0 days 00:01:22.913000,HARD,23.0,2.0,18.0,82.913,2024,Emilia Romagna
+ALO,Aston Martin,30.0,0 days 00:01:22.896000,HARD,24.0,2.0,18.0,82.896,2024,Emilia Romagna
+ALO,Aston Martin,31.0,0 days 00:01:22.557000,HARD,25.0,2.0,17.0,82.557,2024,Emilia Romagna
+ALO,Aston Martin,32.0,0 days 00:01:22.688000,HARD,26.0,2.0,16.0,82.688,2024,Emilia Romagna
+ALO,Aston Martin,33.0,0 days 00:01:22.576000,HARD,27.0,2.0,16.0,82.576,2024,Emilia Romagna
+ALO,Aston Martin,34.0,0 days 00:01:23.130000,HARD,28.0,2.0,15.0,83.13,2024,Emilia Romagna
+ALO,Aston Martin,35.0,0 days 00:01:22.783000,HARD,29.0,2.0,15.0,82.783,2024,Emilia Romagna
+ALO,Aston Martin,36.0,0 days 00:01:22.708000,HARD,30.0,2.0,15.0,82.708,2024,Emilia Romagna
+ALO,Aston Martin,37.0,0 days 00:01:23.838000,HARD,31.0,2.0,16.0,83.838,2024,Emilia Romagna
+ALO,Aston Martin,38.0,0 days 00:01:22.905000,HARD,32.0,2.0,15.0,82.905,2024,Emilia Romagna
+ALO,Aston Martin,39.0,0 days 00:01:22.903000,HARD,33.0,2.0,15.0,82.903,2024,Emilia Romagna
+ALO,Aston Martin,40.0,0 days 00:01:27.500000,HARD,34.0,2.0,15.0,87.5,2024,Emilia Romagna
+ALO,Aston Martin,41.0,0 days 00:01:45.860000,MEDIUM,2.0,3.0,19.0,105.86,2024,Emilia Romagna
+ALO,Aston Martin,42.0,0 days 00:01:19.851000,MEDIUM,3.0,3.0,19.0,79.851,2024,Emilia Romagna
+ALO,Aston Martin,43.0,0 days 00:01:21.029000,MEDIUM,4.0,3.0,19.0,81.029,2024,Emilia Romagna
+ALO,Aston Martin,44.0,0 days 00:01:20.979000,MEDIUM,5.0,3.0,19.0,80.979,2024,Emilia Romagna
+ALO,Aston Martin,45.0,0 days 00:01:21.053000,MEDIUM,6.0,3.0,19.0,81.053,2024,Emilia Romagna
+ALO,Aston Martin,46.0,0 days 00:01:21.032000,MEDIUM,7.0,3.0,19.0,81.032,2024,Emilia Romagna
+ALO,Aston Martin,47.0,0 days 00:01:21.045000,MEDIUM,8.0,3.0,19.0,81.045,2024,Emilia Romagna
+ALO,Aston Martin,48.0,0 days 00:01:20.925000,MEDIUM,9.0,3.0,19.0,80.925,2024,Emilia Romagna
+ALO,Aston Martin,49.0,0 days 00:01:21.045000,MEDIUM,10.0,3.0,19.0,81.045,2024,Emilia Romagna
+ALO,Aston Martin,50.0,0 days 00:01:21.536000,MEDIUM,11.0,3.0,19.0,81.536,2024,Emilia Romagna
+ALO,Aston Martin,51.0,0 days 00:01:22.027000,MEDIUM,12.0,3.0,19.0,82.027,2024,Emilia Romagna
+ALO,Aston Martin,52.0,0 days 00:01:21.176000,MEDIUM,13.0,3.0,18.0,81.176,2024,Emilia Romagna
+ALO,Aston Martin,53.0,0 days 00:01:20.474000,MEDIUM,14.0,3.0,18.0,80.474,2024,Emilia Romagna
+ALO,Aston Martin,54.0,0 days 00:01:20.988000,MEDIUM,15.0,3.0,18.0,80.988,2024,Emilia Romagna
+ALO,Aston Martin,55.0,0 days 00:01:22.508000,MEDIUM,16.0,3.0,18.0,82.508,2024,Emilia Romagna
+ALO,Aston Martin,56.0,0 days 00:01:23.677000,MEDIUM,17.0,3.0,18.0,83.677,2024,Emilia Romagna
+ALO,Aston Martin,57.0,0 days 00:01:22.852000,MEDIUM,18.0,3.0,18.0,82.852,2024,Emilia Romagna
+ALO,Aston Martin,58.0,0 days 00:01:23.173000,MEDIUM,19.0,3.0,18.0,83.173,2024,Emilia Romagna
+ALO,Aston Martin,59.0,0 days 00:01:28.385000,MEDIUM,20.0,3.0,19.0,88.385,2024,Emilia Romagna
+ALO,Aston Martin,60.0,0 days 00:01:45.749000,SOFT,1.0,4.0,19.0,105.749,2024,Emilia Romagna
+ALO,Aston Martin,61.0,0 days 00:01:24.389000,SOFT,2.0,4.0,19.0,84.389,2024,Emilia Romagna
+ALO,Aston Martin,62.0,0 days 00:01:19.004000,SOFT,3.0,4.0,19.0,79.004,2024,Emilia Romagna
+ALB,Williams,1.0,0 days 00:01:31.012000,MEDIUM,1.0,1.0,14.0,91.012,2024,Emilia Romagna
+ALB,Williams,2.0,0 days 00:01:23.115000,MEDIUM,2.0,1.0,14.0,83.115,2024,Emilia Romagna
+ALB,Williams,3.0,0 days 00:01:22.652000,MEDIUM,3.0,1.0,14.0,82.652,2024,Emilia Romagna
+ALB,Williams,4.0,0 days 00:01:22.578000,MEDIUM,4.0,1.0,14.0,82.578,2024,Emilia Romagna
+ALB,Williams,5.0,0 days 00:01:22.357000,MEDIUM,5.0,1.0,14.0,82.357,2024,Emilia Romagna
+ALB,Williams,6.0,0 days 00:01:22.472000,MEDIUM,6.0,1.0,14.0,82.472,2024,Emilia Romagna
+ALB,Williams,7.0,0 days 00:01:22.495000,MEDIUM,7.0,1.0,14.0,82.495,2024,Emilia Romagna
+ALB,Williams,8.0,0 days 00:01:26.643000,MEDIUM,8.0,1.0,15.0,86.643,2024,Emilia Romagna
+ALB,Williams,10.0,0 days 00:01:53.376000,MEDIUM,1.0,3.0,20.0,113.376,2024,Emilia Romagna
+ALB,Williams,11.0,0 days 00:01:21.718000,MEDIUM,2.0,3.0,20.0,81.718,2024,Emilia Romagna
+ALB,Williams,12.0,0 days 00:01:21.558000,MEDIUM,3.0,3.0,20.0,81.558,2024,Emilia Romagna
+ALB,Williams,13.0,0 days 00:01:21.491000,MEDIUM,4.0,3.0,20.0,81.491,2024,Emilia Romagna
+ALB,Williams,14.0,0 days 00:01:21.839000,MEDIUM,5.0,3.0,20.0,81.839,2024,Emilia Romagna
+ALB,Williams,15.0,0 days 00:01:21.773000,MEDIUM,6.0,3.0,20.0,81.773,2024,Emilia Romagna
+ALB,Williams,16.0,0 days 00:01:22.144000,MEDIUM,7.0,3.0,20.0,82.144,2024,Emilia Romagna
+ALB,Williams,17.0,0 days 00:01:22.410000,MEDIUM,8.0,3.0,20.0,82.41,2024,Emilia Romagna
+ALB,Williams,18.0,0 days 00:01:22.247000,MEDIUM,9.0,3.0,20.0,82.247,2024,Emilia Romagna
+ALB,Williams,19.0,0 days 00:01:22.579000,MEDIUM,10.0,3.0,20.0,82.579,2024,Emilia Romagna
+ALB,Williams,20.0,0 days 00:01:21.725000,MEDIUM,11.0,3.0,20.0,81.725,2024,Emilia Romagna
+ALB,Williams,21.0,0 days 00:01:22.335000,MEDIUM,12.0,3.0,20.0,82.335,2024,Emilia Romagna
+ALB,Williams,22.0,0 days 00:01:22.270000,MEDIUM,13.0,3.0,20.0,82.27,2024,Emilia Romagna
+ALB,Williams,23.0,0 days 00:01:26.978000,MEDIUM,14.0,3.0,20.0,86.978,2024,Emilia Romagna
+ALB,Williams,24.0,0 days 00:01:54.335000,MEDIUM,15.0,4.0,20.0,114.335,2024,Emilia Romagna
+ALB,Williams,25.0,0 days 00:01:25.644000,MEDIUM,16.0,4.0,20.0,85.644,2024,Emilia Romagna
+ALB,Williams,26.0,0 days 00:01:22.204000,MEDIUM,17.0,4.0,20.0,82.204,2024,Emilia Romagna
+ALB,Williams,27.0,0 days 00:01:22.127000,MEDIUM,18.0,4.0,20.0,82.127,2024,Emilia Romagna
+ALB,Williams,28.0,0 days 00:01:28.256000,MEDIUM,19.0,4.0,20.0,88.256,2024,Emilia Romagna
+ALB,Williams,29.0,0 days 00:01:47.016000,MEDIUM,9.0,5.0,20.0,107.016,2024,Emilia Romagna
+ALB,Williams,30.0,0 days 00:01:21.354000,MEDIUM,10.0,5.0,20.0,81.354,2024,Emilia Romagna
+ALB,Williams,31.0,0 days 00:01:21.949000,MEDIUM,11.0,5.0,20.0,81.949,2024,Emilia Romagna
+ALB,Williams,32.0,0 days 00:01:21.817000,MEDIUM,12.0,5.0,20.0,81.817,2024,Emilia Romagna
+ALB,Williams,33.0,0 days 00:01:21.849000,MEDIUM,13.0,5.0,20.0,81.849,2024,Emilia Romagna
+ALB,Williams,34.0,0 days 00:01:21.773000,MEDIUM,14.0,5.0,20.0,81.773,2024,Emilia Romagna
+ALB,Williams,35.0,0 days 00:01:21.607000,MEDIUM,15.0,5.0,20.0,81.607,2024,Emilia Romagna
+ALB,Williams,36.0,0 days 00:01:21.759000,MEDIUM,16.0,5.0,20.0,81.759,2024,Emilia Romagna
+ALB,Williams,37.0,0 days 00:01:21.670000,MEDIUM,17.0,5.0,20.0,81.67,2024,Emilia Romagna
+ALB,Williams,38.0,0 days 00:01:21.712000,MEDIUM,18.0,5.0,20.0,81.712,2024,Emilia Romagna
+ALB,Williams,39.0,0 days 00:01:21.694000,MEDIUM,19.0,5.0,20.0,81.694,2024,Emilia Romagna
+ALB,Williams,40.0,0 days 00:01:21.854000,MEDIUM,20.0,5.0,20.0,81.854,2024,Emilia Romagna
+ALB,Williams,41.0,0 days 00:01:21.722000,MEDIUM,21.0,5.0,20.0,81.722,2024,Emilia Romagna
+ALB,Williams,42.0,0 days 00:01:21.808000,MEDIUM,22.0,5.0,20.0,81.808,2024,Emilia Romagna
+ALB,Williams,43.0,0 days 00:01:21.679000,MEDIUM,23.0,5.0,20.0,81.679,2024,Emilia Romagna
+ALB,Williams,44.0,0 days 00:01:21.521000,MEDIUM,24.0,5.0,20.0,81.521,2024,Emilia Romagna
+ALB,Williams,45.0,0 days 00:01:21.597000,MEDIUM,25.0,5.0,20.0,81.597,2024,Emilia Romagna
+ALB,Williams,46.0,0 days 00:01:21.331000,MEDIUM,26.0,5.0,20.0,81.331,2024,Emilia Romagna
+ALB,Williams,47.0,0 days 00:01:21.347000,MEDIUM,27.0,5.0,20.0,81.347,2024,Emilia Romagna
+ALB,Williams,48.0,0 days 00:01:21.274000,MEDIUM,28.0,5.0,20.0,81.274,2024,Emilia Romagna
+ALB,Williams,49.0,0 days 00:01:23.819000,MEDIUM,29.0,5.0,20.0,83.819,2024,Emilia Romagna
+ALB,Williams,50.0,0 days 00:01:22.412000,MEDIUM,30.0,5.0,20.0,82.412,2024,Emilia Romagna
+ALB,Williams,51.0,0 days 00:01:29.784000,MEDIUM,31.0,5.0,20.0,89.784,2024,Emilia Romagna
